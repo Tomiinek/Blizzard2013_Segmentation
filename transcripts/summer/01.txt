@@ -1,0 +1,131 @@
+000001|A girl came out of lawyer Royall's house, at the end of the one street of North Dormer, and stood on the doorstep.
+000002|It was the beginning of a June afternoon.
+000003|The springlike transparent sky shed a rain of silver sunshine on the roofs of the village, and on the pastures and larchwoods surrounding it.
+000004|A little wind moved among the round white clouds on the shoulders of the hills, driving their shadows across the fields and down the grassy road that takes the name of street when it passes through North Dormer.
+000005|The place lies high and in the open, and lacks the lavish shade of the more protected New England villages.
+000006|The clump of weeping-willows about the duck pond, and the Norway spruces in front of the Hatchard gate, cast almost the only roadside shadow between lawyer Royall's house and the point where, at the other end of the village, the road rises above the church and skirts the black hemlock wall enclosing the cemetery.
+000007|The little June wind, frisking down the street, shook the doleful fringes of the Hatchard spruces, caught the straw hat of a young man just passing under them, and spun it clean across the road into the duck-pond.
+000008|As he ran to fish it out the girl on lawyer Royall's doorstep noticed that he was a stranger, that he wore city clothes, and that he was laughing with all his teeth, as the young and careless laugh at such mishaps.
+000009|Her heart contracted a little, and the shrinking that sometimes came over her when she saw people with holiday faces made her draw back into the house and pretend to look for the key that she knew she had already put into her pocket.
+000010|A narrow greenish mirror with a gilt eagle over it hung on the passage wall, and she looked critically at her reflection, wished for the thousandth time that she had blue eyes like Annabel Balch, the girl who sometimes came from Springfield to spend a week with old Miss Hatchard, straightened the sunburnt hat over her small swarthy face, and turned out again into the sunshine.
+000011|"How I hate everything!" she murmured.
+000012|The young man had passed through the Hatchard gate, and she had the street to herself.
+000013|North Dormer is at all times an empty place, and at three o'clock on a June afternoon its few able-bodied men are off in the fields or woods, and the women indoors, engaged in languid household drudgery.
+000014|The girl walked along, swinging her key on a finger, and looking about her with the heightened attention produced by the presence of a stranger in a familiar place.
+000015|What, she wondered, did North Dormer look like to people from other parts of the world?
+000016|She herself had lived there since the age of five, and had long supposed it to be a place of some importance.
+000017|But about a year before, mister Miles, the new Episcopal clergyman at Hepburn, who drove over every other Sunday -- when the roads were not ploughed up by hauling -- to hold a service in the North Dormer church, had proposed, in a fit of missionary zeal, to take the young people down to Nettleton to hear an illustrated lecture on the Holy Land;
+000018|and the dozen girls and boys who represented the future of North Dormer had been piled into a farm-waggon, driven over the hills to Hepburn, put into a way-train and carried to Nettleton.
+000019|In the course of that incredible day Charity Royall had, for the first and only time, experienced railway-travel, looked into shops with plate-glass fronts, tasted cocoanut pie, sat in a theatre, and listened to a gentleman saying unintelligible things before pictures that she would have enjoyed looking at if his explanations had not prevented her from understanding them.
+000020|This initiation had shown her that North Dormer was a small place, and developed in her a thirst for information that her position as custodian of the village library had previously failed to excite.
+000021|For a month or two she dipped feverishly and disconnectedly into the dusty volumes of the Hatchard Memorial Library;
+000022|then the impression of Nettleton began to fade, and she found it easier to take North Dormer as the norm of the universe than to go on reading.
+000023|The sight of the stranger once more revived memories of Nettleton, and North Dormer shrank to its real size.
+000024|As she looked up and down it, from lawyer Royall's faded red house at one end to the white church at the other, she pitilessly took its measure.
+000025|There it lay, a weather-beaten sunburnt village of the hills, abandoned of men, left apart by railway, trolley, telegraph, and all the forces that link life to life in modern communities.
+000026|It had no shops, no theatres, no lectures, no "business block";
+000027|only a church that was opened every other Sunday if the state of the roads permitted, and a library for which no new books had been bought for twenty years, and where the old ones mouldered undisturbed on the damp shelves.
+000028|Yet Charity Royall had always been told that she ought to consider it a privilege that her lot had been cast in North Dormer.
+000029|She knew that, compared to the place she had come from, North Dormer represented all the blessings of the most refined civilization.
+000030|Everyone in the village had told her so ever since she had been brought there as a child.
+000031|Even old Miss Hatchard had said to her, on a terrible occasion in her life: "My child, you must never cease to remember that it was mister Royall who brought you down from the Mountain."
+000032|She had been "brought down from the Mountain";
+000033|from the scarred cliff that lifted its sullen wall above the lesser slopes of Eagle Range, making a perpetual background of gloom to the lonely valley.
+000034|The Mountain was a good fifteen miles away, but it rose so abruptly from the lower hills that it seemed almost to cast its shadow over North Dormer.
+000035|And it was like a great magnet drawing the clouds and scattering them in storm across the valley.
+000036|If ever, in the purest summer sky, there trailed a thread of vapour over North Dormer, it drifted to the Mountain as a ship drifts to a whirlpool, and was caught among the rocks, torn up and multiplied, to sweep back over the village in rain and darkness.
+000037|Charity was not very clear about the Mountain;
+000038|but she knew it was a bad place, and a shame to have come from, and that, whatever befell her in North Dormer, she ought, as Miss Hatchard had once reminded her, to remember that she had been brought down from there, and hold her tongue and be thankful.
+000039|She looked up at the Mountain, thinking of these things, and tried as usual to be thankful.
+000040|But the sight of the young man turning in at Miss Hatchard's gate had brought back the vision of the glittering streets of Nettleton, and she felt ashamed of her old sun-hat, and sick of North Dormer, and jealously aware of Annabel Balch of Springfield, opening her blue eyes somewhere far off on glories greater than the glories of Nettleton.
+000041|"How I hate everything!" she said again.
+000042|Half way down the street she stopped at a weak-hinged gate.
+000043|Passing through it, she walked down a brick path to a queer little brick temple with white wooden columns supporting a pediment on which was inscribed in tarnished gold letters: "The Honorius Hatchard Memorial Library, eighteen fourty-two."
+000044|Honorius Hatchard had been old Miss Hatchard's great-uncle;
+000045|though she would undoubtedly have reversed the phrase, and put forward, as her only claim to distinction, the fact that she was his great-niece.
+000046|For Honorius Hatchard, in the early years of the nineteenth century, had enjoyed a modest celebrity.
+000047|As the marble tablet in the interior of the library informed its infrequent visitors, he had possessed marked literary gifts, written a series of papers called "The Recluse of Eagle Range," enjoyed the acquaintance of Washington Irving and Fitz-Greene Halleck, and been cut off in his flower by a fever contracted in Italy.
+000048|Such had been the sole link between North Dormer and literature, a link piously commemorated by the erection of the monument where Charity Royall, every Tuesday and Thursday afternoon, sat at her desk under a freckled steel engraving of the deceased author, and wondered if he felt any deader in his grave than she did in his library.
+000049|Entering her prison-house with a listless step she took off her hat, hung it on a plaster bust of Minerva, opened the shutters, leaned out to see if there were any eggs in the swallow's nest above one of the windows, and finally, seating herself behind the desk, drew out a roll of cotton lace and a steel crochet hook.
+000050|She was not an expert workwoman, and it had taken her many weeks to make the half-yard of narrow lace which she kept wound about the buckram back of a disintegrated copy of "The Lamplighter."
+000051|But there was no other way of getting any lace to trim her summer blouse, and since Ally Hawes, the poorest girl in the village, had shown herself in church with enviable transparencies about the shoulders, Charity's hook had travelled faster.
+000052|She unrolled the lace, dug the hook into a loop, and bent to the task with furrowed brows.
+000053|Suddenly the door opened, and before she had raised her eyes she knew that the young man she had seen going in at the Hatchard gate had entered the library.
+000054|Without taking any notice of her he began to move slowly about the long vault-like room, his hands behind his back, his short-sighted eyes peering up and down the rows of rusty bindings.
+000055|At length he reached the desk and stood before her.
+000056|"Have you a card-catalogue?" he asked in a pleasant abrupt voice;
+000057|and the oddness of the question caused her to drop her work.
+000058|A what?
+000059|Why, you know
+000060|He broke off, and she became conscious that he was looking at her for the first time, having apparently, on his entrance, included her in his general short-sighted survey as part of the furniture of the library.
+000061|The fact that, in discovering her, he lost the thread of his remark, did not escape her attention, and she looked down and smiled.
+000062|He smiled also.
+000063|"No, I don't suppose you do know," he corrected himself.
+000064|In fact, it would be almost a pity
+000065|She thought she detected a slight condescension in his tone, and asked sharply: "Why?"
+000066|Because it's so much pleasanter, in a small library like this, to poke about by one's self -- with the help of the librarian.
+000067|He added the last phrase so respectfully that she was mollified, and rejoined with a sigh: "I'm afraid I can't help you much."
+000068|"Why?" he questioned in his turn;
+000069|and she replied that there weren't many books anyhow, and that she'd hardly read any of them.
+000070|"The worms are getting at them," she added gloomily.
+000071|Are they?
+000072|That's a pity, for I see there are some good ones.
+000073|He seemed to have lost interest in their conversation, and strolled away again, apparently forgetting her.
+000074|His indifference nettled her, and she picked up her work, resolved not to offer him the least assistance.
+000075|Apparently he did not need it, for he spent a long time with his back to her, lifting down, one after another, the tall cob-webby volumes from a distant shelf.
+000076|"Oh, I say!" he exclaimed;
+000077|and looking up she saw that he had drawn out his handkerchief and was carefully wiping the edges of the book in his hand.
+000078|The action struck her as an unwarranted criticism on her care of the books, and she said irritably: "It's not my fault if they're dirty."
+000079|He turned around and looked at her with reviving interest.
+000080|Ah -- then you're not the librarian?
+000081|Of course I am;
+000082|but I can't dust all these books.
+000083|Besides, nobody ever looks at them, now Miss Hatchard's too lame to come round.
+000084|No, I suppose not.
+000085|He laid down the book he had been wiping, and stood considering her in silence.
+000086|She wondered if Miss Hatchard had sent him round to pry into the way the library was looked after, and the suspicion increased her resentment.
+000087|"I saw you going into her house just now, didn't I?" she asked, with the New England avoidance of the proper name.
+000088|She was determined to find out why he was poking about among her books.
+000089|Miss Hatchard's house?
+000090|"Yes -- she's my cousin and I'm staying there," the young man answered;
+000091|adding, as if to disarm a visible distrust: "My name is Harney -- Lucius Harney."
+000092|She may have spoken of me.
+000093|"No, she hasn't," said Charity, wishing she could have said: "Yes, she has."
+000094|"Oh, well -- " said Miss Hatchard's cousin with a laugh;
+000095|and after another pause, during which it occurred to Charity that her answer had not been encouraging, he remarked: "You don't seem strong on architecture."
+000096|Her bewilderment was complete: the more she wished to appear to understand him the more unintelligible his remarks became.
+000097|He reminded her of the gentleman who had "explained" the pictures at Nettleton, and the weight of her ignorance settled down on her again like a pall.
+000098|I mean, I can't see that you have any books on the old houses about here.
+000099|I suppose, for that matter, this part of the country hasn't been much explored.
+000100|They all go on doing Plymouth and Salem.
+000101|So stupid.
+000102|My cousin's house, now, is remarkable.
+000103|This place must have had a past -- it must have been more of a place once.
+000104|He stopped short, with the blush of a shy man who overhears himself, and fears he has been voluble.
+000105|I'm an architect, you see, and I'm hunting up old houses in these parts.
+000106|She stared.
+000107|Old houses?
+000108|Everything's old in North Dormer, isn't it?
+000109|The folks are, anyhow.
+000110|He laughed, and wandered away again.
+000111|Haven't you any kind of a history of the place?
+000112|"I think there was one written about eighteen fourty: a book or pamphlet about its first settlement," he presently said from the farther end of the room.
+000113|She pressed her crochet hook against her lip and pondered.
+000114|There was such a work, she knew: "North Dormer and the Early Townships of Eagle County."
+000115|She had a special grudge against it because it was a limp weakly book that was always either falling off the shelf or slipping back and disappearing if one squeezed it in between sustaining volumes.
+000116|She remembered, the last time she had picked it up, wondering how anyone could have taken the trouble to write a book about North Dormer and its neighbours: Dormer, Hamblin, Creston and Creston River.
+000117|She knew them all, mere lost clusters of houses in the folds of the desolate ridges: Dormer, where North Dormer went for its apples;
+000118|Creston River, where there used to be a paper-mill, and its grey walls stood decaying by the stream;
+000119|and Hamblin, where the first snow always fell.
+000120|Such were their titles to fame.
+000121|She got up and began to move about vaguely before the shelves.
+000122|But she had no idea where she had last put the book, and something told her that it was going to play her its usual trick and remain invisible.
+000123|It was not one of her lucky days.
+000124|"I guess it's somewhere," she said, to prove her zeal;
+000125|but she spoke without conviction, and felt that her words conveyed none.
+000126|"Oh, well -- " he said again.
+000127|She knew he was going, and wished more than ever to find the book.
+000128|"It will be for next time," he added;
+000129|and picking up the volume he had laid on the desk he handed it to her.
+000130|By the way, a little air and sun would do this good;
+000131|it's rather valuable.

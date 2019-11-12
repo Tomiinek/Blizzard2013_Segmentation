@@ -1,0 +1,140 @@
+000001|Elizabeth awoke the next morning to the same thoughts and meditations which had at length closed her eyes.
+000002|She could not yet recover from the surprise of what had happened;
+000003|it was impossible to think of anything else;
+000004|and, totally indisposed for employment, she resolved, soon after breakfast, to indulge herself in air and exercise.
+000005|She was proceeding directly to her favourite walk, when the recollection of mister Darcy's sometimes coming there stopped her, and instead of entering the park, she turned up the lane, which led farther from the turnpike-road.
+000006|The park paling was still the boundary on one side, and she soon passed one of the gates into the ground.
+000007|After walking two or three times along that part of the lane, she was tempted, by the pleasantness of the morning, to stop at the gates and look into the park.
+000008|The five weeks which she had now passed in Kent had made a great difference in the country, and every day was adding to the verdure of the early trees.
+000009|She was on the point of continuing her walk, when she caught a glimpse of a gentleman within the sort of grove which edged the park;
+000010|he was moving that way;
+000011|and, fearful of its being mister Darcy, she was directly retreating.
+000012|But the person who advanced was now near enough to see her, and stepping forward with eagerness, pronounced her name.
+000013|She had turned away;
+000014|but on hearing herself called, though in a voice which proved it to be mister Darcy, she moved again towards the gate.
+000015|He had by that time reached it also, and, holding out a letter, which she instinctively took, said, with a look of haughty composure, "I have been walking in the grove some time in the hope of meeting you."
+000016|Will you do me the honour of reading that letter?
+000017|And then, with a slight bow, turned again into the plantation, and was soon out of sight.
+000018|With no expectation of pleasure, but with the strongest curiosity, Elizabeth opened the letter, and, to her still increasing wonder, perceived an envelope containing two sheets of letter-paper, written quite through, in a very close hand.
+000019|The envelope itself was likewise full.
+000020|Pursuing her way along the lane, she then began it.
+000021|It was dated from Rosings, at eight o'clock in the morning, and was as follows:
+000022|Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offers which were last night so disgusting to you.
+000023|I write without any intention of paining you, or humbling myself, by dwelling on wishes which, for the happiness of both, cannot be too soon forgotten;
+000024|and the effort which the formation and the perusal of this letter must occasion, should have been spared, had not my character required it to be written and read.
+000025|You must, therefore, pardon the freedom with which I demand your attention;
+000026|your feelings, I know, will bestow it unwillingly, but I demand it of your justice.
+000027|Two offenses of a very different nature, and by no means of equal magnitude, you last night laid to my charge.
+000028|The first mentioned was, that, regardless of the sentiments of either, I had detached mister Bingley from your sister, and the other, that I had, in defiance of various claims, in defiance of honour and humanity, ruined the immediate prosperity and blasted the prospects of mister Wickham.
+000029|Wilfully and wantonly to have thrown off the companion of my youth, the acknowledged favourite of my father, a young man who had scarcely any other dependence than on our patronage, and who had been brought up to expect its exertion, would be a depravity, to which the separation of two young persons, whose affection could be the growth of only a few weeks, could bear no comparison.
+000030|But from the severity of that blame which was last night so liberally bestowed, respecting each circumstance, I shall hope to be in the future secured, when the following account of my actions and their motives has been read.
+000031|If, in the explanation of them, which is due to myself, I am under the necessity of relating feelings which may be offensive to yours, I can only say that I am sorry.
+000032|The necessity must be obeyed, and further apology would be absurd.
+000033|I had not been long in Hertfordshire, before I saw, in common with others, that Bingley preferred your elder sister to any other young woman in the country.
+000034|But it was not till the evening of the dance at Netherfield that I had any apprehension of his feeling a serious attachment.
+000035|I had often seen him in love before.
+000036|At that ball, while I had the honour of dancing with you, I was first made acquainted, by Sir William Lucas's accidental information, that Bingley's attentions to your sister had given rise to a general expectation of their marriage.
+000037|He spoke of it as a certain event, of which the time alone could be undecided.
+000038|From that moment I observed my friend's behaviour attentively;
+000039|and I could then perceive that his partiality for Miss Bennet was beyond what I had ever witnessed in him.
+000040|Your sister I also watched.
+000041|Her look and manners were open, cheerful, and engaging as ever, but without any symptom of peculiar regard, and I remained convinced from the evening's scrutiny, that though she received his attentions with pleasure, she did not invite them by any participation of sentiment.
+000042|If you have not been mistaken here, I must have been in error.
+000043|Your superior knowledge of your sister must make the latter probable.
+000044|If it be so, if I have been misled by such error to inflict pain on her, your resentment has not been unreasonable.
+000045|But I shall not scruple to assert, that the serenity of your sister's countenance and air was such as might have given the most acute observer a conviction that, however amiable her temper, her heart was not likely to be easily touched.
+000046|That I was desirous of believing her indifferent is certain -- but I will venture to say that my investigation and decisions are not usually influenced by my hopes or fears.
+000047|I did not believe her to be indifferent because I wished it;
+000048|I believed it on impartial conviction, as truly as I wished it in reason.
+000049|My objections to the marriage were not merely those which I last night acknowledged to have the utmost force of passion to put aside, in my own case;
+000050|the want of connection could not be so great an evil to my friend as to me.
+000051|But there were other causes of repugnance;
+000052|causes which, though still existing, and existing to an equal degree in both instances, I had myself endeavoured to forget, because they were not immediately before me.
+000053|These causes must be stated, though briefly.
+000054|The situation of your mother's family, though objectionable, was nothing in comparison to that total want of propriety so frequently, so almost uniformly betrayed by herself, by your three younger sisters, and occasionally even by your father.
+000055|Pardon me.
+000056|It pains me to offend you.
+000057|But amidst your concern for the defects of your nearest relations, and your displeasure at this representation of them, let it give you consolation to consider that, to have conducted yourselves so as to avoid any share of the like censure, is praise no less generally bestowed on you and your elder sister, than it is honourable to the sense and disposition of both.
+000058|I will only say farther that from what passed that evening, my opinion of all parties was confirmed, and every inducement heightened which could have led me before, to preserve my friend from what I esteemed a most unhappy connection.
+000059|He left Netherfield for London, on the day following, as you, I am certain, remember, with the design of soon returning.
+000060|The part which I acted is now to be explained.
+000061|His sisters' uneasiness had been equally excited with my own;
+000062|our coincidence of feeling was soon discovered, and, alike sensible that no time was to be lost in detaching their brother, we shortly resolved on joining him directly in London.
+000063|We accordingly went -- and there I readily engaged in the office of pointing out to my friend the certain evils of such a choice.
+000064|I described, and enforced them earnestly.
+000065|But, however this remonstrance might have staggered or delayed his determination, I do not suppose that it would ultimately have prevented the marriage, had it not been seconded by the assurance that I hesitated not in giving, of your sister's indifference.
+000066|He had before believed her to return his affection with sincere, if not with equal regard.
+000067|But Bingley has great natural modesty, with a stronger dependence on my judgement than on his own.
+000068|To convince him, therefore, that he had deceived himself, was no very difficult point.
+000069|To persuade him against returning into Hertfordshire, when that conviction had been given, was scarcely the work of a moment.
+000070|I cannot blame myself for having done thus much.
+000071|There is but one part of my conduct in the whole affair on which I do not reflect with satisfaction;
+000072|it is that I condescended to adopt the measures of art so far as to conceal from him your sister's being in town.
+000073|I knew it myself, as it was known to Miss Bingley;
+000074|but her brother is even yet ignorant of it.
+000075|That they might have met without ill consequence is perhaps probable;
+000076|but his regard did not appear to me enough extinguished for him to see her without some danger.
+000077|Perhaps this concealment, this disguise was beneath me;
+000078|it is done, however, and it was done for the best.
+000079|On this subject I have nothing more to say, no other apology to offer.
+000080|If I have wounded your sister's feelings, it was unknowingly done and though the motives which governed me may to you very naturally appear insufficient, I have not yet learnt to condemn them.
+000081|With respect to that other, more weighty accusation, of having injured mister Wickham, I can only refute it by laying before you the whole of his connection with my family.
+000082|Of what he has particularly accused me I am ignorant;
+000083|but of the truth of what I shall relate, I can summon more than one witness of undoubted veracity.
+000084|mister Wickham is the son of a very respectable man, who had for many years the management of all the Pemberley estates, and whose good conduct in the discharge of his trust naturally inclined my father to be of service to him;
+000085|and on George Wickham, who was his godson, his kindness was therefore liberally bestowed.
+000086|My father supported him at school, and afterwards at Cambridge -- most important assistance, as his own father, always poor from the extravagance of his wife, would have been unable to give him a gentleman's education.
+000087|My father was not only fond of this young man's society, whose manners were always engaging;
+000088|he had also the highest opinion of him, and hoping the church would be his profession, intended to provide for him in it.
+000089|As for myself, it is many, many years since I first began to think of him in a very different manner.
+000090|The vicious propensities -- the want of principle, which he was careful to guard from the knowledge of his best friend, could not escape the observation of a young man of nearly the same age with himself, and who had opportunities of seeing him in unguarded moments, which mister Darcy could not have.
+000091|Here again I shall give you pain -- to what degree you only can tell.
+000092|But whatever may be the sentiments which mister Wickham has created, a suspicion of their nature shall not prevent me from unfolding his real character -- it adds even another motive.
+000093|My excellent father died about five years ago;
+000094|and his attachment to mister Wickham was to the last so steady, that in his will he particularly recommended it to me, to promote his advancement in the best manner that his profession might allow -- and if he took orders, desired that a valuable family living might be his as soon as it became vacant.
+000095|There was also a legacy of one thousand pounds.
+000096|His own father did not long survive mine, and within half a year from these events, mister Wickham wrote to inform me that, having finally resolved against taking orders, he hoped I should not think it unreasonable for him to expect some more immediate pecuniary advantage, in lieu of the preferment, by which he could not be benefited.
+000097|He had some intention, he added, of studying law, and I must be aware that the interest of one thousand pounds would be a very insufficient support therein.
+000098|I rather wished, than believed him to be sincere;
+000099|but, at any rate, was perfectly ready to accede to his proposal.
+000100|I knew that mister Wickham ought not to be a clergyman;
+000101|the business was therefore soon settled -- he resigned all claim to assistance in the church, were it possible that he could ever be in a situation to receive it, and accepted in return three thousand pounds.
+000102|All connection between us seemed now dissolved.
+000103|I thought too ill of him to invite him to Pemberley, or admit his society in town.
+000104|In town I believe he chiefly lived, but his studying the law was a mere pretence, and being now free from all restraint, his life was a life of idleness and dissipation.
+000105|For about three years I heard little of him;
+000106|but on the decease of the incumbent of the living which had been designed for him, he applied to me again by letter for the presentation.
+000107|His circumstances, he assured me, and I had no difficulty in believing it, were exceedingly bad.
+000108|He had found the law a most unprofitable study, and was now absolutely resolved on being ordained, if I would present him to the living in question -- of which he trusted there could be little doubt, as he was well assured that I had no other person to provide for, and I could not have forgotten my revered father's intentions.
+000109|You will hardly blame me for refusing to comply with this entreaty, or for resisting every repetition to it.
+000110|His resentment was in proportion to the distress of his circumstances -- and he was doubtless as violent in his abuse of me to others as in his reproaches to myself.
+000111|After this period every appearance of acquaintance was dropped.
+000112|How he lived I know not.
+000113|But last summer he was again most painfully obtruded on my notice.
+000114|I must now mention a circumstance which I would wish to forget myself, and which no obligation less than the present should induce me to unfold to any human being.
+000115|Having said thus much, I feel no doubt of your secrecy.
+000116|My sister, who is more than ten years my junior, was left to the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself.
+000117|About a year ago, she was taken from school, and an establishment formed for her in London;
+000118|and last summer she went with the lady who presided over it, to Ramsgate;
+000119|and thither also went mister Wickham, undoubtedly by design;
+000120|for there proved to have been a prior acquaintance between him and misess Younge, in whose character we were most unhappily deceived;
+000121|and by her connivance and aid, he so far recommended himself to Georgiana, whose affectionate heart retained a strong impression of his kindness to her as a child, that she was persuaded to believe herself in love, and to consent to an elopement.
+000122|She was then but fifteen, which must be her excuse;
+000123|and after stating her imprudence, I am happy to add, that I owed the knowledge of it to herself.
+000124|I joined them unexpectedly a day or two before the intended elopement, and then Georgiana, unable to support the idea of grieving and offending a brother whom she almost looked up to as a father, acknowledged the whole to me.
+000125|You may imagine what I felt and how I acted.
+000126|Regard for my sister's credit and feelings prevented any public exposure;
+000127|but I wrote to mister Wickham, who left the place immediately, and misess Younge was of course removed from her charge.
+000128|mister Wickham's chief object was unquestionably my sister's fortune, which is thirty thousand pounds;
+000129|but I cannot help supposing that the hope of revenging himself on me was a strong inducement.
+000130|His revenge would have been complete indeed.
+000131|This, madam, is a faithful narrative of every event in which we have been concerned together;
+000132|and if you do not absolutely reject it as false, you will, I hope, acquit me henceforth of cruelty towards mister Wickham.
+000133|I know not in what manner, under what form of falsehood he had imposed on you;
+000134|but his success is not perhaps to be wondered at.
+000135|Ignorant as you previously were of everything concerning either, detection could not be in your power, and suspicion certainly not in your inclination.
+000136|You may possibly wonder why all this was not told you last night;
+000137|but I was not then master enough of myself to know what could or ought to be revealed.
+000138|For the truth of everything here related, I can appeal more particularly to the testimony of Colonel Fitzwilliam, who, from our near relationship and constant intimacy, and, still more, as one of the executors of my father's will, has been unavoidably acquainted with every particular of these transactions.
+000139|If your abhorrence of me should make my assertions valueless, you cannot be prevented by the same cause from confiding in my cousin;
+000140|and that there may be the possibility of consulting him, I shall endeavour to find some opportunity of putting this letter in your hands in the course of the morning.

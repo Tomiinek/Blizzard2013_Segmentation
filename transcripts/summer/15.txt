@@ -1,0 +1,326 @@
+000001|That night, as usual, they said good-bye at the wood's edge.
+000002|Harney was to leave the next morning early.
+000003|He asked Charity to say nothing of their plans till his return, and, strangely even to herself, she was glad of the postponement.
+000004|A leaden weight of shame hung on her, benumbing every other sensation, and she bade him good-bye with hardly a sign of emotion.
+000005|His reiterated promises to return seemed almost wounding.
+000006|She had no doubt that he intended to come back;
+000007|her doubts were far deeper and less definable.
+000008|Since the fanciful vision of the future that had flitted through her imagination at their first meeting she had hardly ever thought of his marrying her.
+000009|She had not had to put the thought from her mind;
+000010|it had not been there.
+000011|If ever she looked ahead she felt instinctively that the gulf between them was too deep, and that the bridge their passion had flung across it was as insubstantial as a rainbow.
+000012|But she seldom looked ahead;
+000013|each day was so rich that it absorbed her....
+000014|Now her first feeling was that everything would be different, and that she herself would be a different being to Harney.
+000015|Instead of remaining separate and absolute, she would be compared with other people, and unknown things would be expected of her.
+000016|She was too proud to be afraid, but the freedom of her spirit drooped....
+000017|Harney had not fixed any date for his return;
+000018|he had said he would have to look about first, and settle things.
+000019|He had promised to write as soon as there was anything definite to say, and had left her his address, and asked her to write also.
+000020|But the address frightened her.
+000021|It was in New York, at a club with a long name in Fifth Avenue: it seemed to raise an insurmountable barrier between them.
+000022|Once or twice, in the first days, she got out a sheet of paper, and sat looking at it, and trying to think what to say;
+000023|but she had the feeling that her letter would never reach its destination.
+000024|She had never written to anyone farther away than Hepburn.
+000025|Harney's first letter came after he had been gone about ten days.
+000026|It was tender but grave, and bore no resemblance to the gay little notes he had sent her by the freckled boy from Creston River.
+000027|He spoke positively of his intention of coming back, but named no date, and reminded Charity of their agreement that their plans should not be divulged till he had had time to "settle things."
+000028|When that would be he could not yet foresee;
+000029|but she could count on his returning as soon as the way was clear.
+000030|She read the letter with a strange sense of its coming from immeasurable distances and having lost most of its meaning on the way;
+000031|and in reply she sent him a coloured postcard of Creston Falls, on which she wrote: "With love from Charity."
+000032|She felt the pitiful inadequacy of this, and understood, with a sense of despair, that in her inability to express herself she must give him an impression of coldness and reluctance;
+000033|but she could not help it.
+000034|She could not forget that he had never spoken to her of marriage till mister Royall had forced the word from his lips;
+000035|though she had not had the strength to shake off the spell that bound her to him she had lost all spontaneity of feeling, and seemed to herself to be passively awaiting a fate she could not avert.
+000036|She had not seen mister Royall on her return to the red house.
+000037|The morning after her parting from Harney, when she came down from her room, Verena told her that her guardian had gone off to Worcester and Portland.
+000038|It was the time of year when he usually reported to the insurance agencies he represented, and there was nothing unusual in his departure except its suddenness.
+000039|She thought little about him, except to be glad he was not there....
+000040|She kept to herself for the first days, while North Dormer was recovering from its brief plunge into publicity, and the subsiding agitation left her unnoticed.
+000041|But the faithful Ally could not be long avoided.
+000042|For the first few days after the close of the Old Home Week festivities Charity escaped her by roaming the hills all day when she was not at her post in the library;
+000043|but after that a period of rain set in, and one pouring afternoon, Ally, sure that she would find her friend indoors, came around to the red house with her sewing.
+000044|The two girls sat upstairs in Charity's room.
+000045|Charity, her idle hands in her lap, was sunk in a kind of leaden dream, through which she was only half-conscious of Ally, who sat opposite her in a low rush-bottomed chair, her work pinned to her knee, and her thin lips pursed up as she bent above it.
+000046|"It was my idea running a ribbon through the gauging," she said proudly, drawing back to contemplate the blouse she was trimming.
+000047|It's for Miss Balch: she was awfully pleased.
+000048|She paused and then added, with a queer tremor in her piping voice: "I darsn't have told her I got the idea from one I saw on Julia."
+000049|Charity raised her eyes listlessly.
+000050|Do you still see Julia sometimes?
+000051|Ally reddened, as if the allusion had escaped her unintentionally.
+000052|Oh, it was a long time ago I seen her with those gaugings....
+000053|Silence fell again, and Ally presently continued: "Miss Balch left me a whole lot of things to do over this time."
+000054|Why -- has she gone?
+000055|Charity inquired with an inner start of apprehension.
+000056|Didn't you know?
+000057|She went off the morning after they had the celebration at Hamblin.
+000058|I seen her drive by early with mister Harney.
+000059|There was another silence, measured by the steady tick of the rain against the window, and, at intervals, by the snipping sound of Ally's scissors.
+000060|Ally gave a meditative laugh.
+000061|Do you know what she told me before she went away?
+000062|She told me she was going to send for me to come over to Springfield and make some things for her wedding.
+000063|Charity again lifted her heavy lids and stared at Ally's pale pointed face, which moved to and fro above her moving fingers.
+000064|Is she going to get married?
+000065|Ally let the blouse sink to her knee, and sat gazing at it.
+000066|Her lips seemed suddenly dry, and she moistened them a little with her tongue.
+000067|Why, I presume so... from what she said.
+000068|Didn't you know?
+000069|Why should I know?
+000070|Ally did not answer.
+000071|She bent above the blouse, and began picking out a basting thread with the point of the scissors.
+000072|Why should I know?
+000073|Charity repeated harshly.
+000074|I didn't know but what... folks here say she's engaged to mister Harney.
+000075|Charity stood up with a laugh, and stretched her arms lazily above her head.
+000076|"If all the people got married that folks say are going to you'd have your time full making wedding-dresses," she said ironically.
+000077|"Why -- don't you believe it?" Ally ventured.
+000078|It would not make it true if I did -- nor prevent it if I didn't.
+000079|That's so.... I only know I seen her crying the night of the party because her dress didn't set right.
+000080|That was why she wouldn't dance any....
+000081|Charity stood absently gazing down at the lacy garment on Ally's knee.
+000082|Abruptly she stooped and snatched it up.
+000083|"Well, I guess she won't dance in this either," she said with sudden violence;
+000084|and grasping the blouse in her strong young hands she tore it in two and flung the tattered bits to the floor.
+000085|"Oh, Charity -- " Ally cried, springing up.
+000086|For a long interval the two girls faced each other across the ruined garment.
+000087|Ally burst into tears.
+000088|Oh, what'll I say to her?
+000089|What'll I do?
+000090|"It was real lace!" she wailed between her piping sobs.
+000091|Charity glared at her unrelentingly.
+000092|"You'd oughtn't to have brought it here," she said, breathing quickly.
+000093|I hate other people's clothes -- it's just as if they was there themselves.
+000094|The two stared at each other again over this avowal, till Charity brought out, in a gasp of anguish: "Oh, go -- go -- go -- or I'll hate you too...."
+000095|When Ally left her, she fell sobbing across her bed.
+000096|The long storm was followed by a north-west gale, and when it was over, the hills took on their first umber tints, the sky grew more densely blue, and the big white clouds lay against the hills like snow-banks.
+000097|The first crisp maple-leaves began to spin across Miss Hatchard's lawn, and the Virginia creeper on the Memorial splashed the white porch with scarlet.
+000098|It was a golden triumphant September.
+000099|Day by day the flame of the Virginia creeper spread to the hillsides in wider waves of carmine and crimson, the larches glowed like the thin yellow halo about a fire, the maples blazed and smouldered, and the black hemlocks turned to indigo against the incandescence of the forest.
+000100|The nights were cold, with a dry glitter of stars so high up that they seemed smaller and more vivid.
+000101|Sometimes, as Charity lay sleepless on her bed through the long hours, she felt as though she were bound to those wheeling fires and swinging with them around the great black vaultimate.
+000102|At night she planned many things... it was then she wrote to Harney.
+000103|But the letters were never put on paper, for she did not know how to express what she wanted to tell him.
+000104|So she waited.
+000105|Since her talk with Ally she had felt sure that Harney was engaged to Annabel Balch, and that the process of "settling things" would involve the breaking of this tie.
+000106|Her first rage of jealousy over, she felt no fear on this score.
+000107|She was still sure that Harney would come back, and she was equally sure that, for the moment at least, it was she whom he loved and not Miss Balch.
+000108|Yet the girl, no less, remained a rival, since she represented all the things that Charity felt herself most incapable of understanding or achieving.
+000109|Annabel Balch was, if not the girl Harney ought to marry, at least the kind of girl it would be natural for him to marry.
+000110|Charity had never been able to picture herself as his wife;
+000111|had never been able to arrest the vision and follow it out in its daily consequences;
+000112|but she could perfectly imagine Annabel Balch in that relation to him.
+000113|The more she thought of these things the more the sense of fatality weighed on her: she felt the uselessness of struggling against the circumstances.
+000114|She had never known how to adapt herself;
+000115|she could only break and tear and destroy.
+000116|The scene with Ally had left her stricken with shame at her own childish savagery.
+000117|What would Harney have thought if he had witnessed it?
+000118|But when she turned the incident over in her puzzled mind she could not imagine what a civilized person would have done in her place.
+000119|She felt herself too unequally pitted against unknown forces....
+000120|At length this feeling moved her to sudden action.
+000121|She took a sheet of letter paper from mister Royall's office, and sitting by the kitchen lamp, one night after Verena had gone to bed, began her first letter to Harney.
+000122|It was very short:
+000123|I want you should marry Annabel Balch if you promised to.
+000124|I think maybe you were afraid I'd feel too bad about it.
+000125|I feel I'd rather you acted right.
+000126|Your loving charity.
+000127|She posted the letter early the next morning, and for a few days her heart felt strangely light.
+000128|Then she began to wonder why she received no answer.
+000129|One day as she sat alone in the library pondering these things the walls of books began to spin around her, and the rosewood desk to rock under her elbows.
+000130|The dizziness was followed by a wave of nausea like that she had felt on the day of the exercises in the Town Hall.
+000131|But the Town Hall had been crowded and stiflingly hot, and the library was empty, and so chilly that she had kept on her jacket.
+000132|Five minutes before she had felt perfectly well;
+000133|and now it seemed as if she were going to die.
+000134|The bit of lace at which she still languidly worked dropped from her fingers, and the steel crochet hook clattered to the floor.
+000135|She pressed her temples hard between her damp hands, steadying herself against the desk while the wave of sickness swept over her.
+000136|Little by little it subsided, and after a few minutes she stood up, shaken and terrified, groped for her hat, and stumbled out into the air.
+000137|But the whole sunlit autumn whirled, reeled and roared around her as she dragged herself along the interminable length of the road home.
+000138|As she approached the red house she saw a buggy standing at the door, and her heart gave a leap.
+000139|But it was only mister Royall who got out, his travelling-bag in hand.
+000140|He saw her coming, and waited in the porch.
+000141|She was conscious that he was looking at her intently, as if there was something strange in her appearance, and she threw back her head with a desperate effort at ease.
+000142|Their eyes met, and she said: "You back?" as if nothing had happened, and he answered: "Yes, I'm back," and walked in ahead of her, pushing open the door of his office.
+000143|She climbed to her room, every step of the stairs holding her fast as if her feet were lined with glue.
+000144|Two days later, she descended from the train at Nettleton, and walked out of the station into the dusty square.
+000145|The brief interval of cold weather was over, and the day was as soft, and almost as hot, as when she and Harney had emerged on the same scene on the Fourth of July.
+000146|In the square the same broken-down hacks and carry-alls stood drawn up in a despondent line, and the lank horses with fly-nets over their withers swayed their heads drearily to and fro.
+000147|She recognized the staring signs over the eating-houses and billiard saloons, and the long lines of wires on lofty poles tapering down the main street to the park at its other end.
+000148|Taking the way the wires pointed, she went on hastily, with bent head, till she reached a wide transverse street with a brick building at the corner.
+000149|She crossed this street and glanced furtively up at the front of the brick building;
+000150|then she returned, and entered a door opening on a flight of steep brass-rimmed stairs.
+000151|On the second landing she rang a bell, and a mulatto girl with a bushy head and a frilled apron let her into a hall where a stuffed fox on his hind legs proffered a brass card-tray to visitors.
+000152|At the back of the hall was a glazed door marked: "Office."
+000153|After waiting a few minutes in a handsomely furnished room, with plush sofas surmounted by large gold-framed photographs of showy young women, Charity was shown into the office....
+000154|When she came out of the glazed door doctor Merkle followed, and led her into another room, smaller, and still more crowded with plush and gold frames.
+000155|doctor Merkle was a plump woman with small bright eyes, an immense mass of black hair coming down low on her forehead, and unnaturally white and even teeth.
+000156|She wore a rich black dress, with gold chains and charms hanging from her bosom.
+000157|Her hands were large and smooth, and quick in all their movements;
+000158|and she smelt of musk and carbolic acid.
+000159|She smiled on Charity with all her faultless teeth.
+000160|Sit down, my dear.
+000161|Wouldn't you like a little drop of something to pick you up?...
+000162|No....
+000163|Well, just lay back a minute then....
+000164|There's nothing to be done just yet;
+000165|but in about a month, if you'll step round again...
+000166|I could take you right into my own house for two or three days, and there wouldn't be a mite of trouble.
+000167|Mercy me!
+000168|The next time you'll know better'n to fret like this....
+000169|Charity gazed at her with widening eyes.
+000170|This woman with the false hair, the false teeth, the false murderous smile -- what was she offering her but immunity from some unthinkable crime?
+000171|Charity, till then, had been conscious only of a vague self-disgust and a frightening physical distress;
+000172|now, of a sudden, there came to her the grave surprise of motherhood.
+000173|She had come to this dreadful place because she knew of no other way of making sure that she was not mistaken about her state;
+000174|and the woman had taken her for a miserable creature like Julia....
+000175|The thought was so horrible that she sprang up, white and shaking, one of her great rushes of anger sweeping over her.
+000176|doctor Merkle, still smiling, also rose.
+000177|Why do you run off in such a hurry?
+000178|You can stretch out right here on my sofa....
+000179|She paused, and her smile grew more motherly.
+000180|Afterwards -- if there's been any talk at home, and you want to get away for a while...
+000181|I have a lady friend in Boston who's looking for a companion...
+000182|you're the very one to suit her, my dear....
+000183|Charity had reached the door.
+000184|I don't want to stay.
+000185|"I don't want to come back here," she stammered, her hand on the knob;
+000186|but with a swift movement, doctor Merkle edged her from the threshold.
+000187|Oh, very well.
+000188|Five dollars, please.
+000189|Charity looked helplessly at the doctor's tight lips and rigid face.
+000190|Her last savings had gone in repaying Ally for the cost of Miss Balch's ruined blouse, and she had had to borrow four dollars from her friend to pay for her railway ticket and cover the doctor's fee.
+000191|It had never occurred to her that medical advice could cost more than two dollars.
+000192|I didn't know...
+000193|"I haven't got that much..." she faltered, bursting into tears.
+000194|doctor Merkle gave a short laugh which did not show her teeth, and inquired with concision if Charity supposed she ran the establishment for her own amusement?
+000195|She leaned her firm shoulders against the door as she spoke, like a grim gaoler making terms with her captive.
+000196|You say you'll come round and settle later?
+000197|I've heard that pretty often too.
+000198|Give me your address, and if you can't pay me I'll send the bill to your folks....
+000199|What?
+000200|I can't understand what you say....
+000201|That don't suit you either?
+000202|My, you're pretty particular for a girl that ain't got enough to settle her own bills....
+000203|She paused, and fixed her eyes on the brooch with a blue stone that Charity had pinned to her blouse.
+000204|Ain't you ashamed to talk that way to a lady that's got to earn her living, when you go about with jewellery like that on you?...
+000205|It ain't in my line, and I do it only as a favour...
+000206|but if you're a mind to leave that brooch as a pledge, I don't say no....
+000207|Yes, of course, you can get it back when you bring me my money....
+000208|On the way home, she felt an immense and unexpected quietude.
+000209|It had been horrible to have to leave Harney's gift in the woman's hands, but even at that price the news she brought away had not been too dearly bought.
+000210|She sat with half-closed eyes as the train rushed through the familiar landscape;
+000211|and now the memories of her former journey, instead of flying before her like dead leaves, seemed to be ripening in her blood like sleeping grain.
+000212|She would never again know what it was to feel herself alone.
+000213|Everything seemed to have grown suddenly clear and simple.
+000214|She no longer had any difficulty in picturing herself as Harney's wife now that she was the mother of his child;
+000215|and compared to her sovereign right Annabel Balch's claim seemed no more than a girl's sentimental fancy.
+000216|That evening, at the gate of the red house, she found Ally waiting in the dusk.
+000217|I was down at the post-office just as they were closing up, and Will Targatt said there was a letter for you, so I brought it.
+000218|Ally held out the letter, looking at Charity with piercing sympathy.
+000219|Since the scene of the torn blouse there had been a new and fearful admiration in the eyes she bent on her friend.
+000220|Charity snatched the letter with a laugh.
+000221|"Oh, thank you -- good-night," she called out over her shoulder as she ran up the path.
+000222|If she had lingered a moment she knew she would have had Ally at her heels.
+000223|She hurried upstairs and felt her way into her dark room.
+000224|Her hands trembled as she groped for the matches and lit her candle, and the flap of the envelope was so closely stuck that she had to find her scissors and slit it open.
+000225|At length she read:
+000226|Dear charity:
+000227|I have your letter, and it touches me more than I can say.
+000228|Won't you trust me, in return, to do my best?
+000229|There are things it is hard to explain, much less to justify;
+000230|but your generosity makes everything easier.
+000231|All I can do now is to thank you from my soul for understanding.
+000232|Your telling me that you wanted me to do right has helped me beyond expression.
+000233|If ever there is a hope of realizing what we dreamed of you will see me back on the instant;
+000234|and I haven't yet lost that hope.
+000235|She read the letter with a rush;
+000236|then she went over and over it, each time more slowly and painstakingly.
+000237|It was so beautifully expressed that she found it almost as difficult to understand as the gentleman's explanation of the Bible pictures at Nettleton;
+000238|but gradually she became aware that the gist of its meaning lay in the last few words.
+000239|If ever there is a hope of realizing what we dreamed of...
+000240|But then he wasn't even sure of that?
+000241|She understood now that every word and every reticence was an avowal of Annabel Balch's prior claim.
+000242|It was true that he was engaged to her, and that he had not yet found a way of breaking his engagement.
+000243|As she read the letter over Charity understood what it must have cost him to write it.
+000244|He was not trying to evade an importunate claim;
+000245|he was honestly and contritely struggling between opposing duties.
+000246|She did not even reproach him in her thoughts for having concealed from her that he was not free: she could not see anything more reprehensible in his conduct than in her own.
+000247|From the first she had needed him more than he had wanted her, and the power that had swept them together had been as far beyond resistance as a great gale loosening the leaves of the forest....
+000248|Only, there stood between them, fixed and upright in the general upheaval, the indestructible figure of Annabel Balch....
+000249|Face to face with his admission of the fact, she sat staring at the letter.
+000250|A cold tremor ran over her, and the hard sobs struggled up into her throat and shook her from head to foot.
+000251|For a while she was caught and tossed on great waves of anguish that left her hardly conscious of anything but the blind struggle against their assaults.
+000252|Then, little by little, she began to relive, with a dreadful poignancy, each separate stage of her poor romance.
+000253|Foolish things she had said came back to her, gay answers Harney had made, his first kiss in the darkness between the fireworks, their choosing the blue brooch together, the way he had teased her about the letters she had dropped in her flight from the evangelist.
+000254|All these memories, and a thousand others, hummed through her brain till his nearness grew so vivid that she felt his fingers in her hair, and his warm breath on her cheek as he bent her head back like a flower.
+000255|These things were hers;
+000256|they had passed into her blood, and become a part of her, they were building the child in her womb;
+000257|it was impossible to tear asunder strands of life so interwoven.
+000258|The conviction gradually strengthened her, and she began to form in her mind the first words of the letter she meant to write to Harney.
+000259|She wanted to write it at once, and with feverish hands she began to rummage in her drawer for a sheet of letter paper.
+000260|But there was none left;
+000261|she must go downstairs to get it.
+000262|She had a superstitious feeling that the letter must be written on the instant, that setting down her secret in words would bring her reassurance and safety;
+000263|and taking up her candle she went down to mister Royall's office.
+000264|At that hour she was not likely to find him there: he had probably had his supper and walked over to Carrick Fry's.
+000265|She pushed open the door of the unlit room, and the light of her lifted candle fell on his figure, seated in the darkness in his high-backed chair.
+000266|His arms lay along the arms of the chair, and his head was bent a little;
+000267|but he lifted it quickly as Charity entered.
+000268|She started back as their eyes met, remembering that her own were red with weeping, and that her face was livid with the fatigue and emotion of her journey.
+000269|But it was too late to escape, and she stood and looked at him in silence.
+000270|He had risen from his chair, and came toward her with outstretched hands.
+000271|The gesture was so unexpected that she let him take her hands in his and they stood thus, without speaking, till mister Royall said gravely: "Charity -- was you looking for me?"
+000272|She freed herself abruptly and fell back.
+000273|"Me? No -- "
+000274|She set down the candle on his desk.
+000275|I wanted some letter-paper, that's all.
+000276|His face contracted, and the bushy brows jutted forward over his eyes.
+000277|Without answering he opened the drawer of the desk, took out a sheet of paper and an envelope, and pushed them toward her.
+000278|"Do you want a stamp too?" he asked.
+000279|She nodded, and he gave her the stamp.
+000280|As he did so she felt that he was looking at her intently, and she knew that the candle light flickering up on her white face must be distorting her swollen features and exaggerating the dark rings about her eyes.
+000281|She snatched up the paper, her reassurance dissolving under his pitiless gaze, in which she seemed to read the grim perception of her state, and the ironic recollection of the day when, in that very room, he had offered to compel Harney to marry her.
+000282|His look seemed to say that he knew she had taken the paper to write to her lover, who had left her as he had warned her she would be left.
+000283|She remembered the scorn with which she had turned from him that day, and knew, if he guessed the truth, what a list of old scores it must settle.
+000284|She turned and fled upstairs;
+000285|but when she got back to her room all the words that had been waiting had vanished....
+000286|If she could have gone to Harney it would have been different;
+000287|she would only have had to show herself to let his memories speak for her.
+000288|But she had no money left, and there was no one from whom she could have borrowed enough for such a journey.
+000289|There was nothing to do but to write, and await his reply.
+000290|For a long time she sat bent above the blank page;
+000291|but she found nothing to say that really expressed what she was feeling....
+000292|Harney had written that she had made it easier for him, and she was glad it was so;
+000293|she did not want to make things hard.
+000294|She knew she had it in her power to do that;
+000295|she held his fate in her hands.
+000296|All she had to do was to tell him the truth;
+000297|but that was the very fact that held her back....
+000298|Her five minutes face to face with mister Royall had stripped her of her last illusion, and brought her back to North Dormer's point of view.
+000299|Distinctly and pitilessly there rose before her the fate of the girl who was married "to make things right."
+000300|She had seen too many village love-stories end in that way.
+000301|Poor Rose Coles's miserable marriage was of the number;
+000302|and what good had come of it for her or for Halston Skeff?
+000303|They had hated each other from the day the minister married them;
+000304|and whenever old misess Skeff had a fancy to humiliate her daughter-in-law she had only to say: "Who'd ever think the baby's only two?"
+000305|And for a seven months' child -- ain't it a wonder what a size he is?
+000306|North Dormer had treasures of indulgence for brands in the burning, but only derision for those who succeeded in getting snatched from it;
+000307|and Charity had always understood Julia Hawes's refusal to be snatched....
+000308|Only -- was there no alternative but Julia's?
+000309|Her soul recoiled from the vision of the white-faced woman among the plush sofas and gilt frames.
+000310|In the established order of things as she knew them she saw no place for her individual adventure....
+000311|She sat in her chair without undressing till faint grey streaks began to divide the black slats of the shutters.
+000312|Then she stood up and pushed them open, letting in the light.
+000313|The coming of a new day brought a sharper consciousness of ineluctable reality, and with it a sense of the need of action.
+000314|She looked at herself in the glass, and saw her face, white in the autumn dawn, with pinched cheeks and dark-ringed eyes, and all the marks of her state that she herself would never have noticed, but that doctor Merkle's diagnosis had made plain to her.
+000315|She could not hope that those signs would escape the watchful village;
+000316|even before her figure lost its shape she knew her face would betray her.
+000317|Leaning from her window she looked out on the dark and empty scene;
+000318|the ashen houses with shuttered windows, the grey road climbing the slope to the hemlock belt above the cemetery, and the heavy mass of the Mountain black against a rainy sky.
+000319|To the east a space of light was broadening above the forest;
+000320|but over that also the clouds hung.
+000321|Slowly her gaze travelled across the fields to the rugged curve of the hills.
+000322|She had looked out so often on that lifeless circle, and wondered if anything could ever happen to anyone who was enclosed in it....
+000323|Almost without conscious thought her decision had been reached;
+000324|as her eyes had followed the circle of the hills her mind had also travelled the old round.
+000325|She supposed it was something in her blood that made the Mountain the only answer to her questioning, the inevitable escape from all that hemmed her in and beset her.
+000326|At any rate it began to loom against the rainy dawn;

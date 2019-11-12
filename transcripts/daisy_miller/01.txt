@@ -1,0 +1,358 @@
+000001|At the little town of Vevey, in Switzerland, there is a particularly comfortable hotel.
+000002|There are, indeed, many hotels, for the entertainment of tourists is the business of the place, which, as many travelers will remember, is seated upon the edge of a remarkably blue lake -- a lake that it behooves every tourist to visit.
+000003|The shore of the lake presents an unbroken array of establishments of this order, of every category, from the "grand hotel" of the newest fashion, with a chalk-white front, a hundred balconies, and a dozen flags flying from its roof, to the little Swiss pension of an elder day, with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden.
+000004|One of the hotels at Vevey, however, is famous, even classical, being distinguished from many of its upstart neighbors by an air both of luxury and of maturity.
+000005|In this region, in the month of June, American travelers are extremely numerous;
+000006|it may be said, indeed, that Vevey assumes at this period some of the characteristics of an American watering place.
+000007|There are sights and sounds which evoke a vision, an echo, of Newport and Saratoga.
+000008|There is a flitting hither and thither of "stylish" young girls, a rustling of muslin flounces, a rattle of dance music in the morning hours, a sound of high-pitched voices at all times.
+000009|You receive an impression of these things at the excellent inn of the "Trois Couronnes" and are transported in fancy to the Ocean House or to Congress Hall.
+000010|But at the "Trois Couronnes," it must be added, there are other features that are much at variance with these suggestions: neat German waiters, who look like secretaries of legation;
+000011|Russian princesses sitting in the garden;
+000012|little Polish boys walking about held by the hand, with their governors;
+000013|a view of the sunny crest of the Dent du Midi and the picturesque towers of the Castle of Chillon.
+000014|I hardly know whether it was the analogies or the differences that were uppermost in the mind of a young American, who, two or three years ago, sat in the garden of the "Trois Couronnes," looking about him, rather idly, at some of the graceful objects I have mentioned.
+000015|It was a beautiful summer morning, and in whatever fashion the young American looked at things, they must have seemed to him charming.
+000016|He had come from Geneva the day before by the little steamer, to see his aunt, who was staying at the hotel -- Geneva having been for a long time his place of residence.
+000017|But his aunt had a headache -- his aunt had almost always a headache -- and now she was shut up in her room, smelling camphor, so that he was at liberty to wander about.
+000018|He was some seven-and-twenty years of age;
+000019|when his friends spoke of him, they usually said that he was at Geneva "studying."
+000020|When his enemies spoke of him, they said -- but, after all, he had no enemies;
+000021|he was an extremely amiable fellow, and universally liked.
+000022|What I should say is, simply, that when certain persons spoke of him they affirmed that the reason of his spending so much time at Geneva was that he was extremely devoted to a lady who lived there -- a foreign lady -- a person older than himself.
+000023|Very few Americans -- indeed, I think none -- had ever seen this lady, about whom there were some singular stories.
+000024|But Winterbourne had an old attachment for the little metropolis of Calvinism;
+000025|he had been put to school there as a boy, and he had afterward gone to college there -- circumstances which had led to his forming a great many youthful friendships.
+000026|Many of these he had kept, and they were a source of great satisfaction to him.
+000027|After knocking at his aunt's door and learning that she was indisposed, he had taken a walk about the town, and then he had come in to his breakfast.
+000028|He had now finished his breakfast;
+000029|but he was drinking a small cup of coffee, which had been served to him on a little table in the garden by one of the waiters who looked like an attache.
+000030|At last he finished his coffee and lit a cigarette.
+000031|Presently a small boy came walking along the path -- an urchin of nine or ten.
+000032|The child, who was diminutive for his years, had an aged expression of countenance, a pale complexion, and sharp little features.
+000033|He was dressed in knickerbockers, with red stockings, which displayed his poor little spindle-shanks;
+000034|he also wore a brilliant red cravat.
+000035|He carried in his hand a long alpenstock, the sharp point of which he thrust into everything that he approached -- the flowerbeds, the garden benches, the trains of the ladies' dresses.
+000036|In front of Winterbourne he paused, looking at him with a pair of bright, penetrating little eyes.
+000037|"Will you give me a lump of sugar?" he asked in a sharp, hard little voice -- a voice immature and yet, somehow, not young.
+000038|Winterbourne glanced at the small table near him, on which his coffee service rested, and saw that several morsels of sugar remained.
+000039|"Yes, you may take one," he answered;
+000040|but I don't think sugar is good for little boys.
+000041|This little boy stepped forward and carefully selected three of the coveted fragments, two of which he buried in the pocket of his knickerbockers, depositing the other as promptly in another place.
+000042|He poked his alpenstock, lance-fashion, into Winterbourne's bench and tried to crack the lump of sugar with his teeth.
+000043|Oh, blazes;
+000044|"it's har-r-d!" he exclaimed, pronouncing the adjective in a peculiar manner.
+000045|Winterbourne had immediately perceived that he might have the honor of claiming him as a fellow countryman.
+000046|"Take care you don't hurt your teeth," he said, paternally.
+000047|I haven't got any teeth to hurt.
+000048|They have all come out.
+000049|I have only got seven teeth.
+000050|My mother counted them last night, and one came out right afterward.
+000051|She said she'd slap me if any more came out.
+000052|I can't help it.
+000053|It's this old Europe.
+000054|It's the climate that makes them come out.
+000055|In America they didn't come out.
+000056|It's these hotels.
+000057|Winterbourne was much amused.
+000058|"If you eat three lumps of sugar, your mother will certainly slap you," he said.
+000059|"She's got to give me some candy, then," rejoined his young interlocutor.
+000060|I can't get any candy here -- any American candy.
+000061|American candy's the best candy.
+000062|"And are American little boys the best little boys?" asked Winterbourne.
+000063|I don't know.
+000064|"I'm an American boy," said the child.
+000065|"I see you are one of the best!" laughed Winterbourne.
+000066|"Are you an American man?" pursued this vivacious infant.
+000067|And then, on Winterbourne's affirmative reply -- "American men are the best," he declared.
+000068|His companion thanked him for the compliment, and the child, who had now got astride of his alpenstock, stood looking about him, while he attacked a second lump of sugar.
+000069|Winterbourne wondered if he himself had been like this in his infancy, for he had been brought to Europe at about this age.
+000070|"Here comes my sister!" cried the child in a moment.
+000071|She's an American girl.
+000072|Winterbourne looked along the path and saw a beautiful young lady advancing.
+000073|"American girls are the best girls," he said cheerfully to his young companion.
+000074|"My sister ain't the best!" the child declared.
+000075|She's always blowing at me.
+000076|"I imagine that is your fault, not hers," said Winterbourne.
+000077|The young lady meanwhile had drawn near.
+000078|She was dressed in white muslin, with a hundred frills and flounces, and knots of pale-colored ribbon.
+000079|She was bareheaded, but she balanced in her hand a large parasol, with a deep border of embroidery;
+000080|and she was strikingly, admirably pretty.
+000081|"How pretty they are!" thought Winterbourne, straightening himself in his seat, as if he were prepared to rise.
+000082|The young lady paused in front of his bench, near the parapet of the garden, which overlooked the lake.
+000083|The little boy had now converted his alpenstock into a vaulting pole, by the aid of which he was springing about in the gravel and kicking it up not a little.
+000084|"Randolph," said the young lady, "what are you doing?"
+000085|"I'm going up the Alps," replied Randolph.
+000086|This is the way!
+000087|And he gave another little jump, scattering the pebbles about Winterbourne's ears.
+000088|"That's the way they come down," said Winterbourne.
+000089|"He's an American man!" cried Randolph, in his little hard voice.
+000090|The young lady gave no heed to this announcement, but looked straight at her brother.
+000091|"Well, I guess you had better be quiet," she simply observed.
+000092|It seemed to Winterbourne that he had been in a manner presented.
+000093|He got up and stepped slowly toward the young girl, throwing away his cigarette.
+000094|"This little boy and I have made acquaintance," he said, with great civility.
+000095|In Geneva, as he had been perfectly aware, a young man was not at liberty to speak to a young unmarried lady except under certain rarely occurring conditions;
+000096|but here at Vevey, what conditions could be better than these? -- a pretty American girl coming and standing in front of you in a garden.
+000097|This pretty American girl, however, on hearing Winterbourne's observation, simply glanced at him;
+000098|she then turned her head and looked over the parapet, at the lake and the opposite mountains.
+000099|He wondered whether he had gone too far, but he decided that he must advance farther, rather than retreat.
+000100|While he was thinking of something else to say, the young lady turned to the little boy again.
+000101|"I should like to know where you got that pole," she said.
+000102|"I bought it," responded Randolph.
+000103|You don't mean to say you're going to take it to Italy?
+000104|"Yes, I am going to take it to Italy," the child declared.
+000105|The young girl glanced over the front of her dress and smoothed out a knot or two of ribbon.
+000106|Then she rested her eyes upon the prospect again.
+000107|"Well, I guess you had better leave it somewhere," she said after a moment.
+000108|Are you going to Italy?
+000109|Winterbourne inquired in a tone of great respect.
+000110|The young lady glanced at him again.
+000111|"Yes, sir," she replied.
+000112|And she said nothing more.
+000113|Are you -- a -- going over the Simplon?
+000114|Winterbourne pursued, a little embarrassed.
+000115|"I don't know," she said.
+000116|I suppose it's some mountain.
+000117|Randolph, what mountain are we going over?
+000118|"Going where?" the child demanded.
+000119|"To Italy," Winterbourne explained.
+000120|"I don't know," said Randolph.
+000121|I don't want to go to Italy.
+000122|I want to go to America.
+000123|"Oh, Italy is a beautiful place!" rejoined the young man.
+000124|Can you get candy there?
+000125|Randolph loudly inquired.
+000126|"I hope not," said his sister.
+000127|I guess you have had enough candy, and mother thinks so too.
+000128|"I haven't had any for ever so long -- for a hundred weeks!" cried the boy, still jumping about.
+000129|The young lady inspected her flounces and smoothed her ribbons again;
+000130|and Winterbourne presently risked an observation upon the beauty of the view.
+000131|He was ceasing to be embarrassed, for he had begun to perceive that she was not in the least embarrassed herself.
+000132|There had not been the slightest alteration in her charming complexion;
+000133|she was evidently neither offended nor flattered.
+000134|If she looked another way when he spoke to her, and seemed not particularly to hear him, this was simply her habit, her manner.
+000135|Yet, as he talked a little more and pointed out some of the objects of interest in the view, with which she appeared quite unacquainted, she gradually gave him more of the benefit of her glance;
+000136|and then he saw that this glance was perfectly direct and unshrinking.
+000137|It was not, however, what would have been called an immodest glance, for the young girl's eyes were singularly honest and fresh.
+000138|They were wonderfully pretty eyes;
+000139|and, indeed, Winterbourne had not seen for a long time anything prettier than his fair countrywoman's various features -- her complexion, her nose, her ears, her teeth.
+000140|He had a great relish for feminine beauty;
+000141|he was addicted to observing and analyzing it;
+000142|and as regards this young lady's face he made several observations.
+000143|It was not at all insipid, but it was not exactly expressive;
+000144|and though it was eminently delicate, Winterbourne mentally accused it -- very forgivingly -- of a want of finish.
+000145|He thought it very possible that Master Randolph's sister was a coquette;
+000146|he was sure she had a spirit of her own;
+000147|but in her bright, sweet, superficial little visage there was no mockery, no irony.
+000148|Before long it became obvious that she was much disposed toward conversation.
+000149|She told him that they were going to Rome for the winter -- she and her mother and Randolph.
+000150|She asked him if he was a "real American";
+000151|she shouldn't have taken him for one;
+000152|he seemed more like a German -- this was said after a little hesitation -- especially when he spoke.
+000153|Winterbourne, laughing, answered that he had met Germans who spoke like Americans, but that he had not, so far as he remembered, met an American who spoke like a German.
+000154|Then he asked her if she should not be more comfortable in sitting upon the bench which he had just quitted.
+000155|She answered that she liked standing up and walking about;
+000156|but she presently sat down.
+000157|She told him she was from New York State -- "if you know where that is."
+000158|Winterbourne learned more about her by catching hold of her small, slippery brother and making him stand a few minutes by his side.
+000159|"Tell me your name, my boy," he said.
+000160|"Randolph C. Miller," said the boy sharply.
+000161|"And I'll tell you her name;" and he leveled his alpenstock at his sister.
+000162|"You had better wait till you are asked!" said this young lady calmly.
+000163|"I should like very much to know your name," said Winterbourne.
+000164|"Her name is Daisy Miller!" cried the child.
+000165|But that isn't her real name;
+000166|that isn't her name on her cards.
+000167|"It's a pity you haven't got one of my cards!" said Miss Miller.
+000168|Her real name is Annie P.
+000169|"Miller," the boy went on.
+000170|"Ask him his name," said his sister, indicating Winterbourne.
+000171|But on this point Randolph seemed perfectly indifferent;
+000172|he continued to supply information with regard to his own family.
+000173|"My father's name is Ezra B. Miller," he announced.
+000174|My father ain't in Europe;
+000175|my father's in a better place than Europe.
+000176|Winterbourne imagined for a moment that this was the manner in which the child had been taught to intimate that mister Miller had been removed to the sphere of celestial reward.
+000177|But Randolph immediately added, "My father's in Schenectady."
+000178|He's got a big business.
+000179|My father's rich, you bet!
+000180|"Well!" ejaculated Miss Miller, lowering her parasol and looking at the embroidered border.
+000181|Winterbourne presently released the child, who departed, dragging his alpenstock along the path.
+000182|"He doesn't like Europe," said the young girl.
+000183|He wants to go back.
+000184|To Schenectady, you mean?
+000185|Yes; he wants to go right home.
+000186|He hasn't got any boys here.
+000187|There is one boy here, but he always goes round with a teacher;
+000188|they won't let him play.
+000189|"And your brother hasn't any teacher?" Winterbourne inquired.
+000190|Mother thought of getting him one, to travel round with us.
+000191|There was a lady told her of a very good teacher;
+000192|an American lady -- perhaps you know her -- misess Sanders.
+000193|I think she came from Boston.
+000194|She told her of this teacher, and we thought of getting him to travel round with us.
+000195|But Randolph said he didn't want a teacher traveling round with us.
+000196|He said he wouldn't have lessons when he was in the cars.
+000197|And we are in the cars about half the time.
+000198|There was an English lady we met in the cars -- I think her name was Miss Featherstone;
+000199|perhaps you know her.
+000200|She wanted to know why I didn't give Randolph lessons -- give him 'instruction,' she called it.
+000201|I guess he could give me more instruction than I could give him.
+000202|He's very smart.
+000203|"Yes," said Winterbourne;
+000204|he seems very smart.
+000205|Mother's going to get a teacher for him as soon as we get to Italy.
+000206|Can you get good teachers in Italy?
+000207|"Very good, I should think," said Winterbourne.
+000208|Or else she's going to find some school.
+000209|He ought to learn some more.
+000210|He's only nine.
+000211|He's going to college.
+000212|And in this way Miss Miller continued to converse upon the affairs of her family and upon other topics.
+000213|She sat there with her extremely pretty hands, ornamented with very brilliant rings, folded in her lap, and with her pretty eyes now resting upon those of Winterbourne, now wandering over the garden, the people who passed by, and the beautiful view.
+000214|She talked to Winterbourne as if she had known him a long time.
+000215|He found it very pleasant.
+000216|It was many years since he had heard a young girl talk so much.
+000217|It might have been said of this unknown young lady, who had come and sat down beside him upon a bench, that she chattered.
+000218|She was very quiet;
+000219|she sat in a charming, tranquil attitude;
+000220|but her lips and her eyes were constantly moving.
+000221|She had a soft, slender, agreeable voice, and her tone was decidedly sociable.
+000222|She gave Winterbourne a history of her movements and intentions and those of her mother and brother, in Europe, and enumerated, in particular, the various hotels at which they had stopped.
+000223|"That English lady in the cars," she said -- "Miss Featherstone -- asked me if we didn't all live in hotels in America."
+000224|I told her I had never been in so many hotels in my life as since I came to Europe.
+000225|I have never seen so many -- it's nothing but hotels.
+000226|But Miss Miller did not make this remark with a querulous accent;
+000227|she appeared to be in the best humor with everything.
+000228|She declared that the hotels were very good, when once you got used to their ways, and that Europe was perfectly sweet.
+000229|She was not disappointed -- not a bit.
+000230|Perhaps it was because she had heard so much about it before.
+000231|She had ever so many intimate friends that had been there ever so many times.
+000232|And then she had had ever so many dresses and things from Paris.
+000233|Whenever she put on a Paris dress she felt as if she were in Europe.
+000234|"It was a kind of a wishing cap," said Winterbourne.
+000235|"Yes," said Miss Miller without examining this analogy;
+000236|it always made me wish I was here.
+000237|But I needn't have done that for dresses.
+000238|I am sure they send all the pretty ones to America;
+000239|you see the most frightful things here.
+000240|"The only thing I don't like," she proceeded, "is the society."
+000241|There isn't any society;
+000242|or, if there is, I don't know where it keeps itself.
+000243|Do you?
+000244|I suppose there is some society somewhere, but I haven't seen anything of it.
+000245|I'm very fond of society, and I have always had a great deal of it.
+000246|I don't mean only in Schenectady, but in New York.
+000247|I used to go to New York every winter.
+000248|In New York I had lots of society.
+000249|Last winter I had seventeen dinners given me;
+000250|"and three of them were by gentlemen," added Daisy Miller.
+000251|I have more friends in New York than in Schenectady -- more gentleman friends;
+000252|"and more young lady friends too," she resumed in a moment.
+000253|She paused again for an instant;
+000254|she was looking at Winterbourne with all her prettiness in her lively eyes and in her light, slightly monotonous smile.
+000255|"I have always had," she said, "a great deal of gentlemen's society."
+000256|Poor Winterbourne was amused, perplexed, and decidedly charmed.
+000257|He had never yet heard a young girl express herself in just this fashion;
+000258|never, at least, save in cases where to say such things seemed a kind of demonstrative evidence of a certain laxity of deportment.
+000259|And yet was he to accuse Miss Daisy Miller of actual or potential inconduite, as they said at Geneva?
+000260|He felt that he had lived at Geneva so long that he had lost a good deal;
+000261|he had become dishabituated to the American tone.
+000262|Never, indeed, since he had grown old enough to appreciate things, had he encountered a young American girl of so pronounced a type as this.
+000263|Certainly she was very charming, but how deucedly sociable!
+000264|Was she simply a pretty girl from New York State?
+000265|Were they all like that, the pretty girls who had a good deal of gentlemen's society?
+000266|Or was she also a designing, an audacious, an unscrupulous young person?
+000267|Winterbourne had lost his instinct in this matter, and his reason could not help him.
+000268|Miss Daisy Miller looked extremely innocent.
+000269|Some people had told him that, after all, American girls were exceedingly innocent;
+000270|and others had told him that, after all, they were not.
+000271|He was inclined to think Miss Daisy Miller was a flirt -- a pretty American flirt.
+000272|He had never, as yet, had any relations with young ladies of this category.
+000273|He had known, here in Europe, two or three women -- persons older than Miss Daisy Miller, and provided, for respectability's sake, with husbands -- who were great coquettes -- dangerous, terrible women, with whom one's relations were liable to take a serious turn.
+000274|But this young girl was not a coquette in that sense;
+000275|she was very unsophisticated;
+000276|she was only a pretty American flirt.
+000277|Winterbourne was almost grateful for having found the formula that applied to Miss Daisy Miller.
+000278|He leaned back in his seat;
+000279|he remarked to himself that she had the most charming nose he had ever seen;
+000280|he wondered what were the regular conditions and limitations of one's intercourse with a pretty American flirt.
+000281|It presently became apparent that he was on the way to learn.
+000282|"Have you been to that old castle?" asked the young girl, pointing with her parasol to the far-gleaming walls of the Chateau de Chillon.
+000283|"Yes, formerly, more than once," said Winterbourne.
+000284|You too, I suppose, have seen it?
+000285|No; we haven't been there.
+000286|I want to go there dreadfully.
+000287|Of course I mean to go there.
+000288|I wouldn't go away from here without having seen that old castle.
+000289|"It's a very pretty excursion," said Winterbourne, "and very easy to make."
+000290|You can drive, you know, or you can go by the little steamer.
+000291|"You can go in the cars," said Miss Miller.
+000292|"Yes; you can go in the cars," Winterbourne assented.
+000293|"Our courier says they take you right up to the castle," the young girl continued.
+000294|We were going last week, but my mother gave out.
+000295|She suffers dreadfully from dyspepsia.
+000296|She said she couldn't go.
+000297|Randolph wouldn't go either;
+000298|he says he doesn't think much of old castles.
+000299|But I guess we'll go this week, if we can get Randolph.
+000300|Your brother is not interested in ancient monuments?
+000301|Winterbourne inquired, smiling.
+000302|He says he don't care much about old castles.
+000303|He's only nine.
+000304|He wants to stay at the hotel.
+000305|Mother's afraid to leave him alone, and the courier won't stay with him;
+000306|so we haven't been to many places.
+000307|But it will be too bad if we don't go up there.
+000308|And Miss Miller pointed again at the Chateau de Chillon.
+000309|"I should think it might be arranged," said Winterbourne.
+000310|Couldn't you get some one to stay for the afternoon with Randolph?
+000311|Miss Miller looked at him a moment, and then, very placidly, "I wish you would stay with him!" she said.
+000312|Winterbourne hesitated a moment.
+000313|I should much rather go to Chillon with you.
+000314|"With me?" asked the young girl with the same placidity.
+000315|She didn't rise, blushing, as a young girl at Geneva would have done;
+000316|and yet Winterbourne, conscious that he had been very bold, thought it possible she was offended.
+000317|"With your mother," he answered very respectfully.
+000318|But it seemed that both his audacity and his respect were lost upon Miss Daisy Miller.
+000319|"I guess my mother won't go, after all," she said.
+000320|She don't like to ride round in the afternoon.
+000321|But did you really mean what you said just now -- that you would like to go up there?
+000322|"Most earnestly," Winterbourne declared.
+000323|Then we may arrange it.
+000324|If mother will stay with Randolph, I guess Eugenio will.
+000325|"Eugenio?" the young man inquired.
+000326|Eugenio's our courier.
+000327|He doesn't like to stay with Randolph;
+000328|he's the most fastidious man I ever saw.
+000329|But he's a splendid courier.
+000330|I guess he'll stay at home with Randolph if mother does, and then we can go to the castle.
+000331|Winterbourne reflected for an instant as lucidly as possible -- "we" could only mean Miss Daisy Miller and himself.
+000332|This program seemed almost too agreeable for credence;
+000333|he felt as if he ought to kiss the young lady's hand.
+000334|Possibly he would have done so and quite spoiled the project, but at this moment another person, presumably Eugenio, appeared.
+000335|A tall, handsome man, with superb whiskers, wearing a velvet morning coat and a brilliant watch chain, approached Miss Miller, looking sharply at her companion.
+000336|"Oh, Eugenio!" said Miss Miller with the friendliest accent.
+000337|Eugenio had looked at Winterbourne from head to foot;
+000338|he now bowed gravely to the young lady.
+000339|I have the honor to inform mademoiselle that luncheon is upon the table.
+000340|Miss Miller slowly rose.
+000341|"See here, Eugenio!" she said;
+000342|I'm going to that old castle, anyway.
+000343|"To the Chateau de Chillon, mademoiselle?" the courier inquired.
+000344|"Mademoiselle has made arrangements?" he added in a tone which struck Winterbourne as very impertinent.
+000345|Eugenio's tone apparently threw, even to Miss Miller's own apprehension, a slightly ironical light upon the young girl's situation.
+000346|She turned to Winterbourne, blushing a little -- a very little.
+000347|"You won't back out?" she said.
+000348|"I shall not be happy till we go!" he protested.
+000349|"And you are staying in this hotel?" she went on.
+000350|And you are really an American?
+000351|The courier stood looking at Winterbourne offensively.
+000352|The young man, at least, thought his manner of looking an offense to Miss Miller;
+000353|it conveyed an imputation that she "picked up" acquaintances.
+000354|"I shall have the honor of presenting to you a person who will tell you all about me," he said, smiling and referring to his aunt.
+000355|"Oh, well, we'll go some day," said Miss Miller.
+000356|And she gave him a smile and turned away.
+000357|She put up her parasol and walked back to the inn beside Eugenio.
+000358|Winterbourne stood looking after her;

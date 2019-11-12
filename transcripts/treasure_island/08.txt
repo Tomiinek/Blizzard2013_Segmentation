@@ -1,0 +1,132 @@
+000001|when I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign.
+000002|I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.
+000003|It was a bright enough little place of entertainment.
+000004|The sign was newly painted;
+000005|the windows had neat red curtains;
+000006|the floor was cleanly sanded.
+000007|There was a street on each side and an open door on both, which made the large, low room pretty clear to see in, in spite of clouds of tobacco smoke.
+000008|The customers were mostly seafaring men, and they talked so loudly that I hung at the door, almost afraid to enter.
+000009|As I was waiting, a man came out of a side room, and at a glance I was sure he must be Long John.
+000010|His left leg was cut off close by the hip, and under the left shoulder he carried a crutch, which he managed with wonderful dexterity, hopping about upon it like a bird.
+000011|He was very tall and strong, with a face as big as a ham -- plain and pale, but intelligent and smiling.
+000012|Indeed, he seemed in the most cheerful spirits, whistling as he moved about among the tables, with a merry word or a slap on the shoulder for the more favoured of his guests.
+000013|Now, to tell you the truth, from the very first mention of Long John in Squire Trelawney's letter I had taken a fear in my mind that he might prove to be the very one-legged sailor whom I had watched for so long at the old Benbow.
+000014|But one look at the man before me was enough.
+000015|I had seen the captain, and Black Dog, and the blind man, Pew, and I thought I knew what a buccaneer was like -- a very different creature, according to me, from this clean and pleasant-tempered landlord.
+000016|I plucked up courage at once, crossed the threshold, and walked right up to the man where he stood, propped on his crutch, talking to a customer.
+000017|mister Silver, sir?
+000018|I asked, holding out the note.
+000019|"Yes, my lad," said he;
+000020|such is my name, to be sure.
+000021|And who may you be?
+000022|And then as he saw the squire's letter, he seemed to me to give something almost like a start.
+000023|"Oh!" said he, quite loud, and offering his hand.
+000024|I see.
+000025|You are our new cabin-boy;
+000026|pleased I am to see you.
+000027|And he took my hand in his large firm grasp.
+000028|Just then one of the customers at the far side rose suddenly and made for the door.
+000029|It was close by him, and he was out in the street in a moment.
+000030|But his hurry had attracted my notice, and I recognized him at glance.
+000031|It was the tallow-faced man, wanting two fingers, who had come first to the Admiral Benbow.
+000032|"Oh," I cried, "stop him!"
+000033|It's Black Dog!
+000034|"I don't care two coppers who he is," cried Silver.
+000035|But he hasn't paid his score.
+000036|Harry, run and catch him.
+000037|One of the others who was nearest the door leaped up and started in pursuit.
+000038|"If he were Admiral Hawke he shall pay his score," cried Silver;
+000039|and then, relinquishing my hand, "Who did you say he was?" he asked.
+000040|Black what?
+000041|"Dog, sir," said I.
+000042|Has mister Trelawney not told you of the buccaneers?
+000043|He was one of them.
+000044|"So?" cried Silver.
+000045|In my house!
+000046|Ben, run and help Harry.
+000047|One of those swabs, was he?
+000048|Was that you drinking with him, Morgan?
+000049|Step up here.
+000050|The man whom he called Morgan -- an old, grey-haired, mahogany-faced sailor -- came forward pretty sheepishly, rolling his quid.
+000051|"Now, Morgan," said Long John very sternly, "you never clapped your eyes on that Black -- Black Dog before, did you, now?"
+000052|"Not I, sir," said Morgan with a salute.
+000053|You didn't know his name, did you?
+000054|No, sir.
+000055|"By the powers, Tom Morgan, it's as good for you!" exclaimed the landlord.
+000056|If you had been mixed up with the like of that, you would never have put another foot in my house, you may lay to that.
+000057|And what was he saying to you?
+000058|"I don't rightly know, sir," answered Morgan.
+000059|"Do you call that a head on your shoulders, or a blessed dead-eye?" cried Long John.
+000060|Don't rightly know, don't you!
+000061|Perhaps you don't happen to rightly know who you was speaking to, perhaps?
+000062|Come, now, what was he jawing -- v'yages, cap'ns, ships?
+000063|Pipe up!
+000064|What was it?
+000065|"We was a-talkin' of keel-hauling," answered Morgan.
+000066|Keel-hauling, was you?
+000067|And a mighty suitable thing, too, and you may lay to that.
+000068|Get back to your place for a lubber, Tom.
+000069|And then, as Morgan rolled back to his seat, Silver added to me in a confidential whisper that was very flattering, as I thought, "He's quite an honest man, Tom Morgan, on'y stupid."
+000070|"And now," he ran on again, aloud, "let's see -- Black Dog?"
+000071|No, I don't know the name, not I.
+000072|Yet I kind of think I've -- yes, I've seen the swab.
+000073|He used to come here with a blind beggar, he used.
+000074|"That he did, you may be sure," said I.
+000075|I knew that blind man too.
+000076|His name was Pew.
+000077|"It was!" cried Silver, now quite excited.
+000078|Pew!
+000079|That were his name for certain.
+000080|Ah, he looked a shark, he did!
+000081|If we run down this Black Dog, now, there'll be news for Cap'n Trelawney!
+000082|Ben's a good runner;
+000083|few seamen run better than Ben.
+000084|He should run him down, hand over hand, by the powers!
+000085|He talked o' keel-hauling, did he?
+000086|I'll keel-haul him!
+000087|All the time he was jerking out these phrases he was stumping up and down the tavern on his crutch, slapping tables with his hand, and giving such a show of excitement as would have convinced an Old Bailey judge or a Bow Street runner.
+000088|My suspicions had been thoroughly reawakened on finding Black Dog at the Spy-glass, and I watched the cook narrowly.
+000089|But he was too deep, and too ready, and too clever for me, and by the time the two men had come back out of breath and confessed that they had lost the track in a crowd, and been scolded like thieves, I would have gone bail for the innocence of Long John Silver.
+000090|"See here, now, Hawkins," said he, "here's a blessed hard thing on a man like me, now, ain't it?"
+000091|There's Cap'n Trelawney -- what's he to think?
+000092|Here I have this confounded son of a Dutchman sitting in my own house drinking of my own rum!
+000093|Here you comes and tells me of it plain;
+000094|and here I let him give us all the slip before my blessed deadlights!
+000095|Now, Hawkins, you do me justice with the cap'n.
+000096|You're a lad, you are, but you're as smart as paint.
+000097|I see that when you first come in.
+000098|Now, here it is: What could I do, with this old timber I hobble on?
+000099|When I was an A B master mariner I'd have come up alongside of him, hand over hand, and broached him to in a brace of old shakes, I would;
+000100|but now
+000101|And then, all of a sudden, he stopped, and his jaw dropped as though he had remembered something.
+000102|"The score!" he burst out.
+000103|Three goes o' rum!
+000104|Why, shiver my timbers, if I hadn't forgotten my score!
+000105|And falling on a bench, he laughed until the tears ran down his cheeks.
+000106|I could not help joining, and we laughed together, peal after peal, until the tavern rang again.
+000107|"Why, what a precious old sea-calf I am!" he said at last, wiping his cheeks.
+000108|You and me should get on well, Hawkins, for I'll take my davy I should be rated ship's boy.
+000109|But come now, stand by to go about.
+000110|This won't do.
+000111|Dooty is dooty, messmates.
+000112|I'll put on my old cockerel hat, and step along of you to Cap'n Trelawney, and report this here affair.
+000113|For mind you, it's serious, young Hawkins;
+000114|and neither you nor me's come out of it with what I should make so bold as to call credit.
+000115|Nor you neither, says you;
+000116|not smart -- none of the pair of us smart.
+000117|But dash my buttons!
+000118|That was a good un about my score.
+000119|And he began to laugh again, and that so heartily, that though I did not see the joke as he did, I was again obliged to join him in his mirth.
+000120|On our little walk along the quays, he made himself the most interesting companion, telling me about the different ships that we passed by, their rig, tonnage, and nationality, explaining the work that was going forward -- how one was discharging, another taking in cargo, and a third making ready for sea -- and every now and then telling me some little anecdote of ships or seamen or repeating a nautical phrase till I had learned it perfectly.
+000121|I began to see that here was one of the best of possible shipmates.
+000122|When we got to the inn, the squire and doctor Livesey were seated together, finishing a quart of ale with a toast in it, before they should go aboard the schooner on a visit of inspection.
+000123|Long John told the story from first to last, with a great deal of spirit and the most perfect truth.
+000124|"That was how it were, now, weren't it, Hawkins?" he would say, now and again, and I could always bear him entirely out.
+000125|The two gentlemen regretted that Black Dog had got away, but we all agreed there was nothing to be done, and after he had been complimented, Long John took up his crutch and departed.
+000126|"All hands aboard by four this afternoon," shouted the squire after him.
+000127|"Aye, aye, sir," cried the cook, in the passage.
+000128|"Well, squire," said doctor Livesey, "I don't put much faith in your discoveries, as a general thing;"
+000129|but I will say this, John Silver suits me.
+000130|"The man's a perfect trump," declared the squire.
+000131|"And now," added the doctor, "Jim may come on board with us, may he not?"
+000132|"To be sure he may," says squire.

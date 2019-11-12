@@ -1,0 +1,110 @@
+000001|More than once did Elizabeth, in her ramble within the park, unexpectedly meet mister Darcy.
+000002|She felt all the perverseness of the mischance that should bring him where no one else was brought, and, to prevent its ever happening again, took care to inform him at first that it was a favourite haunt of hers.
+000003|How it could occur a second time, therefore, was very odd!
+000004|Yet it did, and even a third.
+000005|It seemed like wilful ill-nature, or a voluntary penance, for on these occasions it was not merely a few formal inquiries and an awkward pause and then away, but he actually thought it necessary to turn back and walk with her.
+000006|He never said a great deal, nor did she give herself the trouble of talking or of listening much;
+000007|but it struck her in the course of their third rencontre that he was asking some odd unconnected questions -- about her pleasure in being at Hunsford, her love of solitary walks, and her opinion of mister and misess Collins's happiness;
+000008|and that in speaking of Rosings and her not perfectly understanding the house, he seemed to expect that whenever she came into Kent again she would be staying there too.
+000009|His words seemed to imply it.
+000010|Could he have Colonel Fitzwilliam in his thoughts?
+000011|She supposed, if he meant anything, he must mean an allusion to what might arise in that quarter.
+000012|It distressed her a little, and she was quite glad to find herself at the gate in the pales opposite the Parsonage.
+000013|She was engaged one day as she walked, in perusing Jane's last letter, and dwelling on some passages which proved that Jane had not written in spirits, when, instead of being again surprised by mister Darcy, she saw on looking up that Colonel Fitzwilliam was meeting her.
+000014|Putting away the letter immediately and forcing a smile, she said:
+000015|I did not know before that you ever walked this way.
+000016|"I have been making the tour of the park," he replied, "as I generally do every year, and intend to close it with a call at the Parsonage."
+000017|Are you going much farther?
+000018|No, I should have turned in a moment.
+000019|And accordingly she did turn, and they walked towards the Parsonage together.
+000020|"Do you certainly leave Kent on Saturday?" said she.
+000021|Yes -- if Darcy does not put it off again.
+000022|But I am at his disposal.
+000023|He arranges the business just as he pleases.
+000024|And if not able to please himself in the arrangement, he has at least pleasure in the great power of choice.
+000025|I do not know anybody who seems more to enjoy the power of doing what he likes than mister Darcy.
+000026|"He likes to have his own way very well," replied Colonel Fitzwilliam.
+000027|But so we all do.
+000028|It is only that he has better means of having it than many others, because he is rich, and many others are poor.
+000029|I speak feelingly.
+000030|A younger son, you know, must be inured to self-denial and dependence.
+000031|In my opinion, the younger son of an earl can know very little of either.
+000032|Now seriously, what have you ever known of self-denial and dependence?
+000033|When have you been prevented by want of money from going wherever you chose, or procuring anything you had a fancy for?
+000034|These are home questions -- and perhaps I cannot say that I have experienced many hardships of that nature.
+000035|But in matters of greater weight, I may suffer from want of money.
+000036|Younger sons cannot marry where they like.
+000037|Unless where they like women of fortune, which I think they very often do.
+000038|Our habits of expense make us too dependent, and there are not many in my rank of life who can afford to marry without some attention to money.
+000039|"Is this," thought Elizabeth, "meant for me?" and she coloured at the idea;
+000040|but, recovering herself, said in a lively tone, "And pray, what is the usual price of an earl's younger son?"
+000041|Unless the elder brother is very sickly, I suppose you would not ask above fifty thousand pounds.
+000042|He answered her in the same style, and the subject dropped.
+000043|To interrupt a silence which might make him fancy her affected with what had passed, she soon afterwards said:
+000044|I imagine your cousin brought you down with him chiefly for the sake of having someone at his disposal.
+000045|I wonder he does not marry, to secure a lasting convenience of that kind.
+000046|But, perhaps, his sister does as well for the present, and, as she is under his sole care, he may do what he likes with her.
+000047|"No," said Colonel Fitzwilliam, "that is an advantage which he must divide with me."
+000048|I am joined with him in the guardianship of Miss Darcy.
+000049|Are you indeed?
+000050|And pray what sort of guardians do you make?
+000051|Does your charge give you much trouble?
+000052|Young ladies of her age are sometimes a little difficult to manage, and if she has the true Darcy spirit, she may like to have her own way.
+000053|As she spoke she observed him looking at her earnestly;
+000054|and the manner in which he immediately asked her why she supposed Miss Darcy likely to give them any uneasiness, convinced her that she had somehow or other got pretty near the truth.
+000055|She directly replied:
+000056|You need not be frightened.
+000057|I never heard any harm of her;
+000058|and I dare say she is one of the most tractable creatures in the world.
+000059|She is a very great favourite with some ladies of my acquaintance, misess Hurst and Miss Bingley.
+000060|I think I have heard you say that you know them.
+000061|I know them a little.
+000062|Their brother is a pleasant gentlemanlike man -- he is a great friend of Darcy's.
+000063|"Oh! yes," said Elizabeth drily;
+000064|mister Darcy is uncommonly kind to mister Bingley, and takes a prodigious deal of care of him.
+000065|Care of him!
+000066|Yes, I really believe Darcy does take care of him in those points where he most wants care.
+000067|From something that he told me in our journey hither, I have reason to think Bingley very much indebted to him.
+000068|But I ought to beg his pardon, for I have no right to suppose that Bingley was the person meant.
+000069|It was all conjecture.
+000070|What is it you mean?
+000071|It is a circumstance which Darcy could not wish to be generally known, because if it were to get round to the lady's family, it would be an unpleasant thing.
+000072|You may depend upon my not mentioning it.
+000073|And remember that I have not much reason for supposing it to be Bingley.
+000074|What he told me was merely this: that he congratulated himself on having lately saved a friend from the inconveniences of a most imprudent marriage, but without mentioning names or any other particulars, and I only suspected it to be Bingley from believing him the kind of young man to get into a scrape of that sort, and from knowing them to have been together the whole of last summer.
+000075|Did mister Darcy give you reasons for this interference?
+000076|I understood that there were some very strong objections against the lady.
+000077|And what arts did he use to separate them?
+000078|"He did not talk to me of his own arts," said Fitzwilliam, smiling.
+000079|He only told me what I have now told you.
+000080|Elizabeth made no answer, and walked on, her heart swelling with indignation.
+000081|After watching her a little, Fitzwilliam asked her why she was so thoughtful.
+000082|"I am thinking of what you have been telling me," said she.
+000083|Your cousin's conduct does not suit my feelings.
+000084|Why was he to be the judge?
+000085|You are rather disposed to call his interference officious?
+000086|I do not see what right mister Darcy had to decide on the propriety of his friend's inclination, or why, upon his own judgement alone, he was to determine and direct in what manner his friend was to be happy.
+000087|"But," she continued, recollecting herself, "as we know none of the particulars, it is not fair to condemn him."
+000088|It is not to be supposed that there was much affection in the case.
+000089|"That is not an unnatural surmise," said Fitzwilliam, "but it is a lessening of the honour of my cousin's triumph very sadly."
+000090|This was spoken jestingly;
+000091|but it appeared to her so just a picture of mister Darcy, that she would not trust herself with an answer, and therefore, abruptly changing the conversation talked on indifferent matters until they reached the Parsonage.
+000092|There, shut into her own room, as soon as their visitor left them, she could think without interruption of all that she had heard.
+000093|It was not to be supposed that any other people could be meant than those with whom she was connected.
+000094|There could not exist in the world two men over whom mister Darcy could have such boundless influence.
+000095|That he had been concerned in the measures taken to separate Bingley and Jane she had never doubted;
+000096|but she had always attributed to Miss Bingley the principal design and arrangement of them.
+000097|If his own vanity, however, did not mislead him, he was the cause, his pride and caprice were the cause, of all that Jane had suffered, and still continued to suffer.
+000098|He had ruined for a while every hope of happiness for the most affectionate, generous heart in the world;
+000099|and no one could say how lasting an evil he might have inflicted.
+000100|"There were some very strong objections against the lady," were Colonel Fitzwilliam's words;
+000101|and those strong objections probably were, her having one uncle who was a country attorney, and another who was in business in London.
+000102|"To Jane herself," she exclaimed, "there could be no possibility of objection;"
+000103|all loveliness and goodness as she is! -- her understanding excellent, her mind improved, and her manners captivating.
+000104|Neither could anything be urged against my father, who, though with some peculiarities, has abilities mister Darcy himself need not disdain, and respectability which he will probably never reach.
+000105|When she thought of her mother, her confidence gave way a little;
+000106|but she would not allow that any objections there had material weight with mister Darcy, whose pride, she was convinced, would receive a deeper wound from the want of importance in his friend's connections, than from their want of sense;
+000107|and she was quite decided, at last, that he had been partly governed by this worst kind of pride, and partly by the wish of retaining mister Bingley for his sister.
+000108|The agitation and tears which the subject occasioned, brought on a headache;
+000109|and it grew so much worse towards the evening, that, added to her unwillingness to see mister Darcy, it determined her not to attend her cousins to Rosings, where they were engaged to drink tea.
+000110|Misess Collins, seeing that she was really unwell, did not press her to go and as much as possible prevented her husband from pressing her;

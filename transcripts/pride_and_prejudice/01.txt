@@ -1,0 +1,67 @@
+000001|It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+000002|However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
+000003|"My dear mister Bennet," said his lady to him one day, "have you heard that Netherfield Park is let at last?"
+000004|Mister Bennet replied that he had not.
+000005|"But it is," returned she;
+000006|for misess Long has just been here, and she told me all about it.
+000007|mister Bennet made no answer.
+000008|"Do you not want to know who has taken it?" cried his wife impatiently.
+000009|You want to tell me, and I have no objection to hearing it.
+000010|This was invitation enough.
+000011|Why, my dear, you must know, misess Long says that Netherfield is taken by a young man of large fortune from the north of England;
+000012|that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with mister Morris immediately;
+000013|that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.
+000014|What is his name?
+000015|Bingley.
+000016|Is he married or single?
+000017|Oh! Single, my dear, to be sure!
+000018|A single man of large fortune;
+000019|four or five thousand a year.
+000020|What a fine thing for our girls!
+000021|How so?
+000022|How can it affect them?
+000023|"My dear mister Bennet," replied his wife, "how can you be so tiresome!"
+000024|You must know that I am thinking of his marrying one of them.
+000025|Is that his design in settling here?
+000026|Design!
+000027|Nonsense, how can you talk so!
+000028|But it is very likely that he may fall in love with one of them, and therefore you must visit him as soon as he comes.
+000029|I see no occasion for that.
+000030|You and the girls may go, or you may send them by themselves, which perhaps will be still better, for as you are as handsome as any of them, mister Bingley may like you the best of the party.
+000031|My dear, you flatter me.
+000032|I certainly have had my share of beauty, but I do not pretend to be anything extraordinary now.
+000033|When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.
+000034|In such cases, a woman has not often much beauty to think of.
+000035|But, my dear, you must indeed go and see mister Bingley when he comes into the neighbourhood.
+000036|It is more than I engage for, I assure you.
+000037|But consider your daughters.
+000038|Only think what an establishment it would be for one of them.
+000039|Sir William and Lady Lucas are determined to go, merely on that account, for in general, you know, they visit no newcomers.
+000040|Indeed you must go, for it will be impossible for us to visit him if you do not.
+000041|You are over-scrupulous, surely.
+000042|I dare say mister Bingley will be very glad to see you;
+000043|and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls;
+000044|though I must throw in a good word for my little Lizzy.
+000045|I desire you will do no such thing.
+000046|Lizzy is not a bit better than the others;
+000047|and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia.
+000048|But you are always giving her the preference.
+000049|"They have none of them much to recommend them," replied he;
+000050|they are all silly and ignorant like other girls;
+000051|but Lizzy has something more of quickness than her sisters.
+000052|mister Bennet, how can you abuse your own children in such a way?
+000053|You take delight in vexing me.
+000054|You have no compassion for my poor nerves.
+000055|You mistake me, my dear.
+000056|I have a high respect for your nerves.
+000057|They are my old friends.
+000058|I have heard you mention them with consideration these last twenty years at least.
+000059|Ah, you do not know what I suffer.
+000060|But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.
+000061|It will be no use to us, if twenty such should come, since you will not visit them.
+000062|Depend upon it, my dear, that when there are twenty, I will visit them all.
+000063|mister Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character.
+000064|Her mind was less difficult to develop.
+000065|She was a woman of mean understanding, little information, and uncertain temper.
+000066|When she was discontented, she fancied herself nervous.
+000067|The business of her life was to get her daughters married;

@@ -1,0 +1,149 @@
+000001|A line of rabbit soldiers was drawn up before the palace entrance, and they wore green and gold uniforms with high shakos upon their heads and held tiny spears in their hands.
+000002|The Captain had a sword and a white plume in his shako.
+000003|"Salute!" called the Keeper of the Wicket.
+000004|Salute Princess Dorothy, who comes from Ozma of Oz!
+000005|"Salute!" yelled the Captain, and all the soldiers promptly saluted.
+000006|They now entered the great hall of the palace, where they met a gaily dressed attendant, from whom the Keeper of the Wicket inquired if the King were at leisure.
+000007|"I think so," was the reply.
+000008|I heard his Majesty blubbering and wailing as usual only a few minutes ago.
+000009|If he doesn't stop acting like a cry-baby I'm going to resign my position here and go to work.
+000010|"What's the matter with your King?" asked Dorothy, surprised to hear the rabbit attendant speak so disrespectfully of his monarch.
+000011|Oh, he doesn't want to be King, that's all;
+000012|"and he simply has to," was the reply.
+000013|"Come!" said the Keeper of the Wicket, sternly;
+000014|lead us to his Majesty;
+000015|and do not air our troubles before strangers, I beg of you.
+000016|"Why, if this girl is going to see the King, he'll air his own troubles," returned the attendant.
+000017|"That is his royal privilege," declared the Keeper.
+000018|So the attendant led them into a room all draped with cloth-of-gold and furnished with satin-covered gold furniture.
+000019|There was a throne in this room, set on a dais and having a big, cushioned seat, and on this seat reclined the Rabbit King.
+000020|He was lying on his back, with his paws in the air, and whining very like a puppy-dog.
+000021|Your Majesty! your Majesty!
+000022|Get up.
+000023|"Here's a visitor," called out the attendant.
+000024|The King rolled over and looked at Dorothy with one watery pink eye.
+000025|Then he sat up and wiped his eyes carefully with a silk handkerchief and put on his jeweled crown, which had fallen off.
+000026|"Excuse my grief, fair stranger," he said, in a sad voice.
+000027|You behold in me the most miserable monarch in all the world.
+000028|What time is it, Blinkem?
+000029|"One o'clock, your Majesty," replied the attendant to whom the question was addressed.
+000030|"Serve luncheon at once!" commanded the King.
+000031|Luncheon for two -- that's for my visitor and me -- and see that the human has some sort of food she's accustomed to.
+000032|"Yes, your Majesty," answered the attendant, and went away.
+000033|"Tie my shoe, Bristle," said the King to the Keeper of the Wicket.
+000034|Ah me! how unhappy I am!
+000035|"What seems to be worrying your Majesty?" asked Dorothy.
+000036|"Why, it's this king business, of course," he returned, while the Keeper tied his shoe.
+000037|I didn't want to be King of Bunnybury at all, and the rabbits all knew it.
+000038|So they elected me -- to save themselves from such a dreadful fate, I suppose -- and here I am, shut up in a palace, when I might be free and happy.
+000039|"Seems to me," said Dorothy, "it's a great thing to be a King."
+000040|"Were you ever a King?" inquired the monarch.
+000041|"No," she answered, laughing.
+000042|"Then you know nothing about it," he said.
+000043|I haven't inquired who you are, but it doesn't matter.
+000044|While we're at luncheon, I'll tell you all my troubles.
+000045|They're a great deal more interesting than anything you can say about yourself.
+000046|"Perhaps they are, to you," replied Dorothy.
+000047|"Luncheon is served!" cried Blinkem, throwing open the door, and in came a dozen rabbits in livery, all bearing trays which they placed upon the table, where they arranged the dishes in an orderly manner.
+000048|"Now clear out -- all of you!" exclaimed the King.
+000049|Bristle, you may wait outside, in case I want you.
+000050|When they had gone and the King was alone with Dorothy he came down from his throne, tossed his crown into a corner and kicked his ermine robe under the table.
+000051|"Sit down," he said, "and try to be happy."
+000052|It's useless for me to try, because I'm always wretched and miserable.
+000053|But I'm hungry, and I hope you are.
+000054|"I am," said Dorothy.
+000055|I've only eaten a wheelbarrow and a piano to-day -- oh, yes! and a slice of bread and butter that used to be a door-mat.
+000056|"That sounds like a square meal," remarked the King, seating himself opposite her;
+000057|but perhaps it wasn't a square piano.
+000058|Eh?
+000059|Dorothy laughed.
+000060|"You don't seem so very unhappy now," she said.
+000061|"But I am," protested the King, fresh tears gathering in his eyes.
+000062|Even my jokes are miserable.
+000063|I'm wretched, woeful, afflicted, distressed and dismal as an individual can be.
+000064|Are you not sorry for me?
+000065|"No," answered Dorothy, honestly, "I can't say I am."
+000066|Seems to me that for a rabbit you're right in clover.
+000067|This is the prettiest little city I ever saw.
+000068|"Oh, the city is good enough," he admitted.
+000069|Glinda, the Good Sorceress, made it for us because she was fond of rabbits.
+000070|I don't mind the City so much, although I wouldn't live here if I had my choice.
+000071|It is being King that has absolutely ruined my happiness.
+000072|"Why wouldn't you live here by choice?" she asked.
+000073|Because it is all unnatural, my dear.
+000074|Rabbits are out of place in such luxury.
+000075|When I was young I lived in a burrow in the forest.
+000076|I was surrounded by enemies and often had to run for my life.
+000077|It was hard getting enough to eat, at times, and when I found a bunch of clover I had to listen and look for danger while I ate it.
+000078|Wolves prowled around the hole in which I lived and sometimes I didn't dare stir out for days at a time.
+000079|Oh, how happy and contented I was then!
+000080|I was a real rabbit, as nature made me -- wild and free! -- and I even enjoyed listening to the startled throbbing of my own heart!
+000081|"I've often thought," said Dorothy, who was busily eating, "that it would be fun to be a rabbit."
+000082|"It is fun -- when you're the genuine article," agreed his Majesty.
+000083|But look at me now!
+000084|I live in a marble palace instead of a hole in the ground.
+000085|I have all I want to eat, without the joy of hunting for it.
+000086|Every day I must dress in fine clothes and wear that horrible crown till it makes my head ache.
+000087|Rabbits come to me with all sorts of troubles, when my own troubles are the only ones I care about.
+000088|When I walk out I can't hop and run;
+000089|I must strut on my rear legs and wear an ermine robe!
+000090|And the soldiers salute me and the band plays and the other rabbits laugh and clap their paws and cry out: 'Hail to the King!' Now let me ask you, as a friend and a young lady of good judgment: isn't all this pomp and foolishness enough to make a decent rabbit miserable?
+000091|"Once," said Dorothy, reflectively, "men were wild and unclothed and lived in caves and hunted for food as wild beasts do."
+000092|But they got civ'lized, in time, and now they'd hate to go back to the old days.
+000093|"That is an entirely different case," replied the King.
+000094|None of you Humans were civilized in one lifetime.
+000095|It came to you by degrees.
+000096|But I have known the forest and the free life, and that is why I resent being civilized all at once, against my will, and being made a King with a crown and an ermine robe.
+000097|Pah!
+000098|"If you don't like it, why don't you resign?" she asked.
+000099|"Impossible!" wailed the Rabbit, wiping his eyes again with his handkerchief.
+000100|There's a beastly law in this town that forbids it.
+000101|When one is elected a King, there's no getting out of it.
+000102|"Who made the laws?" inquired Dorothy.
+000103|The same Sorceress who made the town -- Glinda the Good.
+000104|She built the wall, and fixed up the City, and gave us several valuable enchantments, and made the laws.
+000105|Then she invited all the pink-eyed white rabbits of the forest to come here, after which she left us to our fate.
+000106|"What made you 'cept the invitation, and come here?" asked the child.
+000107|"I didn't know how dreadful city life was, and I'd no idea I would be elected King," said he, sobbing bitterly.
+000108|And -- and -- now I'm It -- with a capital I -- and can't escape!
+000109|"I know Glinda," remarked Dorothy, eating for dessert a dish of charlotte russe, "and when I see her again, I'll ask her to put another King in your place."
+000110|Will you?
+000111|"Will you, indeed?" asked the King, joyfully.
+000112|"I will if you want me to," she replied.
+000113|"Hurroo -- huray!" shouted the King;
+000114|and then he jumped up from the table and danced wildly about the room, waving his napkin like a flag and laughing with glee.
+000115|After a time he managed to control his delight and returned to the table.
+000116|"When are you likely to see Glinda?" he inquired.
+000117|"Oh, p'raps in a few days," said Dorothy.
+000118|And you won't forget to ask her?
+000119|Of course not.
+000120|"Princess," said the Rabbit King, earnestly, "you have relieved me of a great unhappiness, and I am very grateful."
+000121|Therefore I propose to entertain you, since you are my guest and I am the King, as a slight mark of my appreciation.
+000122|Come with me to my reception hall.
+000123|He then summoned Bristle and said to him: "Assemble all the nobility in the great reception hall, and also tell Blinkem that I want him immediately."
+000124|The Keeper of the Wicket bowed and hurried away, and his Majesty turned to Dorothy and continued: "We'll have time for a walk in the gardens before the people get here."
+000125|The gardens were back of the palace and were filled with beautiful flowers and fragrant shrubs, with many shade and fruit trees and marble-paved walks running in every direction.
+000126|As they entered this place Blinkem came running to the King, who gave him several orders in a low voice.
+000127|Then his Majesty rejoined Dorothy and led her through the gardens, which she admired very much.
+000128|"What lovely clothes your Majesty wears!" she said, glancing at the rich blue satin costume, embroidered, with pearls in which the King was dressed.
+000129|"Yes," he returned, with an air of pride, "this is one of my favorite suits;"
+000130|but I have a good many that are even more elaborate.
+000131|We have excellent tailors in Bunnybury, and Glinda supplies all the material.
+000132|By the way, you might ask the Sorceress, when you see her, to permit me to keep my wardrobe.
+000133|"But if you go back to the forest you will not need clothes," she said.
+000134|"N -- o!" he faltered;
+000135|that may be so.
+000136|But I've dressed up so long that I'm used to it, and I don't imagine I'd care to run around naked again.
+000137|So perhaps the Good Glinda will let me keep the costumes.
+000138|"I'll ask her," agreed Dorothy.
+000139|Then they left the gardens and went into a fine, big reception hall, where rich rugs were spread upon the tiled floors and the furniture was exquisitely carved and studded with jewels.
+000140|The King's chair was an especially pretty piece of furniture, being in the shape of a silver lily with one leaf bent over to form the seat.
+000141|The silver was everywhere thickly encrusted with diamonds and the seat was upholstered in white satin.
+000142|"Oh, what a splendid chair!" cried Dorothy, clasping her hands admiringly.
+000143|"Isn't it?" answered the King, proudly.
+000144|It is my favorite seat, and I think it especially becoming to my complexion.
+000145|While I think of it, I wish you'd ask Glinda to let me keep this lily chair when I go away.
+000146|"It wouldn't look very well in a hole in the ground, would it?" she suggested.
+000147|Maybe not;
+000148|"but I'm used to sitting in it and I'd like to take it with me," he answered.
+000149|But here come the ladies and gentlemen of the court;

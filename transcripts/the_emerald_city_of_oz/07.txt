@@ -1,0 +1,159 @@
+000001|"These are your rooms," said Dorothy, opening a door.
+000002|Aunt Em drew back at the sight of the splendid furniture and draperies.
+000003|"Ain't there any place to wipe my feet?" she asked.
+000004|"You will soon change your slippers for new shoes," replied Dorothy.
+000005|Don't be afraid, Aunt Em.
+000006|Here is where you are to live, so walk right in and make yourself at home.
+000007|Aunt Em advanced hesitatingly.
+000008|"It beats the Topeka Hotel!" she cried admiringly.
+000009|But this place is too grand for us, child.
+000010|Can't we have some back room in the attic, that's more in our class?
+000011|"No," said Dorothy.
+000012|You've got to live here, 'cause Ozma says so.
+000013|And all the rooms in this palace are just as fine as these, and some are better.
+000014|It won't do any good to fuss, Aunt Em.
+000015|You've got to be swell and high-toned in the Land of Oz, whether you want to or not;
+000016|so you may as well make up your mind to it.
+000017|"It's hard luck," replied her aunt, looking around with an awed expression;
+000018|but folks can get used to anything, if they try.
+000019|Eh, Henry?
+000020|"Why, as to that," said Uncle Henry, slowly, "I b'lieve in takin' what's pervided us, an' askin' no questions."
+000021|I've traveled some, Em, in my time, and you hain't;
+000022|an' that makes a difference atween us.
+000023|Then Dorothy showed them through the rooms.
+000024|The first was a handsome sitting-room, with windows opening upon the rose gardens.
+000025|Then came separate bedrooms for Aunt Em and Uncle Henry, with a fine bathroom between them.
+000026|Aunt Em had a pretty dressing room, besides, and Dorothy opened the closets and showed several exquisite costumes that had been provided for her aunt by the royal dressmakers, who had worked all night to get them ready.
+000027|Everything that Aunt Em could possibly need was in the drawers and closets, and her dressing-table was covered with engraved gold toilet articles.
+000028|Uncle Henry had nine suits of clothes, cut in the popular Munchkin fashion, with knee-breeches, silk stockings, and low shoes with jeweled buckles.
+000029|The hats to match these costumes had pointed tops and wide brims with small gold bells around the edges.
+000030|His shirts were of fine linen with frilled bosoms, and his vests were richly embroidered with colored silks.
+000031|Uncle Henry decided that he would first take a bath and then dress himself in a blue satin suit that had caught his fancy.
+000032|He accepted his good fortune with calm composure and refused to have a servant to assist him.
+000033|But Aunt Em was "all of a flutter," as she said, and it took Dorothy and Jellia Jamb, the housekeeper, and two maids a long time to dress her and do up her hair and get her "rigged like a popinjay," as she quaintly expressed it.
+000034|She wanted to stop and admire everything that caught her eye, and she sighed continually and declared that such finery was too good for an old country woman, and that she never thought she would have to "put on airs" at her time of life.
+000035|Finally she was dressed, and when she went into the sitting-room there was Uncle Henry in his blue satin, walking gravely up and down the room.
+000036|He had trimmed his beard and mustache and looked very dignified and respectable.
+000037|"Tell me, Dorothy," he said;
+000038|do all the men here wear duds like these?
+000039|"Yes," she replied;
+000040|all 'cept the Scarecrow and the Shaggy Man -- and of course the Tin Woodman and Tiktok, who are made of metal.
+000041|You'll find all the men at Ozma's court dressed just as you are -- only perhaps a little finer.
+000042|"Henry, you look like a play-actor," announced Aunt Em, looking at her husband critically.
+000043|"An' you, Em, look more highfalutin' than a peacock," he replied.
+000044|"I guess you're right," she said regretfully;
+000045|but we're helpless victims of high-toned royalty.
+000046|Dorothy was much amused.
+000047|"Come with me," she said, "and I'll show you 'round the palace."
+000048|She took them through the beautiful rooms and introduced them to all the people they chanced to meet.
+000049|Also she showed them her own pretty rooms, which were not far from their own.
+000050|"So it's all true," said Aunt Em, wide-eyed with amazement, "and what Dorothy told us of this fairy country was plain facts instead of dreams!"
+000051|But where are all the strange creatures you used to know here?
+000052|"Yes, where's the Scarecrow?" inquired Uncle Henry.
+000053|"Why, he's just now away on a visit to the Tin Woodman, who is Emp'ror of the Winkie Country," answered the little girl.
+000054|You'll see him when he comes back, and you're sure to like him.
+000055|"And where's the Wonderful Wizard?" asked Aunt Em.
+000056|"You'll see him at Ozma's luncheon, for he lives here in this palace," was the reply.
+000057|And Jack Pumpkinhead?
+000058|Oh, he lives a little way out of town, in his own pumpkin field.
+000059|We'll go there some time and see him, and we'll call on Professor Wogglebug, too.
+000060|The Shaggy Man will be at the luncheon, I guess, and Tiktok.
+000061|And now I'll take you out to see Billina, who has a house of her own.
+000062|So they went into the back yard, and after walking along winding paths some distance through the beautiful gardens they came to an attractive little house where the Yellow Hen sat on the front porch sunning herself.
+000063|"Good morning, my dear Mistress," called Billina, fluttering down to meet them.
+000064|I was expecting you to call, for I heard you had come back and brought your uncle and aunt with you.
+000065|"We're here for good and all, this time, Billina," cried Dorothy, joyfully.
+000066|Uncle Henry and Aunt Em belong to Oz now as much as I do!
+000067|"Then they are very lucky people," declared Billina;
+000068|for there couldn't be a nicer place to live.
+000069|But come, my dear;
+000070|I must show you all my Dorothys.
+000071|Nine are living and have grown up to be very respectable hens;
+000072|but one took cold at Ozma's birthday party and died of the pip, and the other two turned out to be horrid roosters, so I had to change their names from Dorothy to Daniel.
+000073|They all had the letter 'D' engraved upon their gold lockets, you remember, with your picture inside, and 'D' stands for Daniel as well as for Dorothy.
+000074|"Did you call both the roosters Daniel?" asked Uncle Henry.
+000075|Yes, indeed.
+000076|I've nine Dorothys and two Daniels;
+000077|"and the nine Dorothys have eighty-six sons and daughters and over three hundred grandchildren," said Billina, proudly.
+000078|"What names do you give 'em all, dear?" inquired the little girl.
+000079|Oh, they are all Dorothys and Daniels, some being Juniors and some Double-Juniors.
+000080|"Dorothy and Daniel are two good names, and I see no object in hunting for others," declared the Yellow Hen.
+000081|But just think, Dorothy, what a big chicken family we've grown to be, and our numbers increase nearly every day!
+000082|Ozma doesn't know what to do with all the eggs we lay, and we are never eaten or harmed in any way, as chickens are in your country.
+000083|They give us everything to make us contented and happy, and I, my dear, am the acknowledged Queen and Governor of every chicken in Oz, because I'm the eldest and started the whole colony.
+000084|"You ought to be very proud, ma'am," said Uncle Henry, who was astonished to hear a hen talk so sensibly.
+000085|"Oh, I am," she replied.
+000086|I've the loveliest pearl necklace you ever saw.
+000087|Come in the house and I'll show it to you.
+000088|And I've nine leg bracelets and a diamond pin for each wing.
+000089|But I only wear them on state occasions.
+000090|They followed the Yellow Hen into the house, which Aunt Em declared was neat as a pin.
+000091|They could not sit down, because all Billina's chairs were roosting-poles made of silver;
+000092|so they had to stand while the hen fussily showed them her treasures.
+000093|Then they had to go into the back rooms occupied by Billina's nine Dorothys and two Daniels, who were all plump yellow chickens and greeted the visitors very politely.
+000094|It was easy to see that they were well bred and that Billina had looked after their education.
+000095|In the yards were all the children and grandchildren of these eleven elders and they were of all sizes, from well-grown hens to tiny chickens just out of the shell.
+000096|About fifty fluffy yellow youngsters were at school, being taught good manners and good grammar by a young hen who wore spectacles.
+000097|They sang in chorus a patriotic song of the Land of Oz, in honor of their visitors, and Aunt Em was much impressed by these talking chickens.
+000098|Dorothy wanted to stay and play with the young chickens for awhile, but Uncle Henry and Aunt Em had not seen the palace grounds and gardens yet and were eager to get better acquainted with the marvelous and delightful land in which they were to live.
+000099|"I'll stay here, and you can go for a walk," said Dorothy.
+000100|You'll be perfec'ly safe anywhere, and may do whatever you want to.
+000101|When you get tired, go back to the palace and find your rooms, and I'll come to you before luncheon is ready.
+000102|So Uncle Henry and Aunt Em started out alone to explore the grounds, and Dorothy knew that they couldn't get lost, because all the palace grounds were enclosed by a high wall of green marble set with emeralds.
+000103|It was a rare treat to these simple folk, who had lived in the country all their lives and known little enjoyment of any sort, to wear beautiful clothes and live in a palace and be treated with respect and consideration by all around them.
+000104|They were very happy indeed as they strolled up the shady walks and looked upon the gorgeous flowers and shrubs, feeling that their new home was more beautiful than any tongue could describe.
+000105|Suddenly, as they turned a corner and walked through a gap in a high hedge, they came face to face with an enormous Lion, which crouched upon the green lawn and seemed surprised by their appearance.
+000106|They stopped short, Uncle Henry trembling with horror and Aunt Em too terrified to scream.
+000107|Next moment the poor woman clasped her husband around the neck and cried:
+000108|Save me, Henry, save me!
+000109|"Can't even save myself, Em," he returned, in a husky voice, "for the animile looks as if it could eat both of us an' lick its chops for more!"
+000110|If I only had a gun
+000111|Haven't you, Henry?
+000112|"Haven't you?" she asked anxiously.
+000113|Nary gun, Em.
+000114|So let's die as brave an' graceful as we can.
+000115|I knew our luck couldn't last!
+000116|I won't die.
+000117|"I won't be eaten by a lion!" wailed Aunt Em, glaring upon the huge beast.
+000118|Then a thought struck her, and she whispered, "Henry, I've heard as savage beastses can be conquered by the human eye."
+000119|I'll eye that lion out o' countenance an' save our lives.
+000120|"Try it, Em," he returned, also in a whisper.
+000121|Look at him as you do at me when I'm late to dinner.
+000122|Aunt Em turned upon the Lion a determined countenance and a wild dilated eye.
+000123|She glared at the immense beast steadily, and the Lion, who had been quietly blinking at them, began to appear uneasy and disturbed.
+000124|"Is anything the matter, ma'am?" he asked, in a mild voice.
+000125|At this speech from the terrible beast Aunt Em and Uncle Henry both were startled, and then Uncle Henry remembered that this must be the Lion they had seen in Ozma's Throne Room.
+000126|"Hold on, Em!" he exclaimed.
+000127|Quit the eagle eye conquest an' take courage.
+000128|I guess this is the same Cowardly Lion Dorothy has told us about.
+000129|"Oh, is it?" she cried, much relieved.
+000130|When he spoke, I got the idea;
+000131|"and when he looked so 'shamed like, I was sure of it," Uncle Henry continued.
+000132|Aunt Em regarded the animal with new interest.
+000133|"Are you the Cowardly Lion?" she inquired.
+000134|Are you Dorothy's friend?
+000135|"Yes'm," answered the Lion, meekly.
+000136|Dorothy and I are old chums and are very fond of each other.
+000137|I'm the King of Beasts, you know, and the Hungry Tiger and I serve Princess Ozma as her body guards.
+000138|"To be sure," said Aunt Em, nodding.
+000139|But the King of Beasts shouldn't be cowardly.
+000140|"I've heard that said before," remarked the Lion, yawning till he showed two great rows of sharp white teeth;
+000141|but that does not keep me from being frightened whenever I go into battle.
+000142|"What do you do, run?" asked Uncle Henry.
+000143|"No; that would be foolish, for the enemy would run after me," declared the Lion.
+000144|So I tremble with fear and pitch in as hard as I can;
+000145|and so far I have always won my fight.
+000146|"Ah, I begin to understand," said Uncle Henry.
+000147|"Were you scared when I looked at you just now?" inquired Aunt Em.
+000148|"Terribly scared, madam," answered the Lion, "for at first I thought you were going to have a fit."
+000149|Then I noticed you were trying to overcome me by the power of your eye, and your glance was so fierce and penetrating that I shook with fear.
+000150|This greatly pleased the lady, and she said quite cheerfully:
+000151|Well, I won't hurt you, so don't be scared any more.
+000152|I just wanted to see what the human eye was good for.
+000153|"The human eye is a fearful weapon," remarked the Lion, scratching his nose softly with his paw to hide a smile.
+000154|Had I not known you were Dorothy's friends I might have torn you both into shreds in order to escape your terrible gaze.
+000155|Aunt Em shuddered at hearing this, and Uncle Henry said hastily:
+000156|I'm glad you knew us.
+000157|Good morning, mister Lion;
+000158|we'll hope to see you again -- by and by -- some time in the future.
+000159|"Good morning," replied the Lion, squatting down upon the lawn again.

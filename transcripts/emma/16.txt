@@ -1,0 +1,97 @@
+000001|The hair was curled, and the maid sent away, and Emma sat down to think and be miserable.
+000002|It was a wretched business indeed!
+000003|Such an overthrow of every thing she had been wishing for!
+000004|Such a development of every thing most unwelcome!
+000005|Such a blow for Harriet! -- that was the worst of all.
+000006|Every part of it brought pain and humiliation, of some sort or other;
+000007|but, compared with the evil to Harriet, all was light;
+000008|and she would gladly have submitted to feel yet more mistaken -- more in error -- more disgraced by mis-judgment, than she actually was, could the effects of her blunders have been confined to herself.
+000009|If I had not persuaded Harriet into liking the man, I could have borne any thing.
+000010|He might have doubled his presumption to me -- but poor Harriet!
+000011|How she could have been so deceived!
+000012|He protested that he had never thought seriously of Harriet -- never!
+000013|She looked back as well as she could;
+000014|but it was all confusion.
+000015|She had taken up the idea, she supposed, and made every thing bend to it.
+000016|His manners, however, must have been unmarked, wavering, dubious, or she could not have been so misled.
+000017|The picture!
+000018|How eager he had been about the picture! -- and the charade! -- and an hundred other circumstances;
+000019|how clearly they had seemed to point at Harriet.
+000020|To be sure, the charade, with its "ready wit" -- but then the "soft eyes" -- in fact it suited neither;
+000021|it was a jumble without taste or truth.
+000022|Who could have seen through such thick-headed nonsense?
+000023|Certainly she had often, especially of late, thought his manners to herself unnecessarily gallant;
+000024|but it had passed as his way, as a mere error of judgment, of knowledge, of taste, as one proof among others that he had not always lived in the best society, that with all the gentleness of his address, true elegance was sometimes wanting;
+000025|but, till this very day, she had never, for an instant, suspected it to mean any thing but grateful respect to her as Harriet's friend.
+000026|To mister John Knightley was she indebted for her first idea on the subject, for the first start of its possibility.
+000027|There was no denying that those brothers had penetration.
+000028|She remembered what mister Knightley had once said to her about mister Elton, the caution he had given, the conviction he had professed that mister Elton would never marry indiscreetly;
+000029|and blushed to think how much truer a knowledge of his character had been there shewn than any she had reached herself.
+000030|It was dreadfully mortifying;
+000031|but mister Elton was proving himself, in many respects, the very reverse of what she had meant and believed him;
+000032|proud, assuming, conceited;
+000033|very full of his own claims, and little concerned about the feelings of others.
+000034|Contrary to the usual course of things, mister Elton's wanting to pay his addresses to her had sunk him in her opinion.
+000035|His professions and his proposals did him no service.
+000036|She thought nothing of his attachment, and was insulted by his hopes.
+000037|He wanted to marry well, and having the arrogance to raise his eyes to her, pretended to be in love;
+000038|but she was perfectly easy as to his not suffering any disappointment that need be cared for.
+000039|There had been no real affection either in his language or manners.
+000040|Sighs and fine words had been given in abundance;
+000041|but she could hardly devise any set of expressions, or fancy any tone of voice, less allied with real love.
+000042|She need not trouble herself to pity him.
+000043|He only wanted to aggrandise and enrich himself;
+000044|and if Miss Woodhouse of Hartfield, the heiress of thirty thousand pounds, were not quite so easily obtained as he had fancied, he would soon try for Miss Somebody else with twenty, or with ten.
+000045|But -- that he should talk of encouragement, should consider her as aware of his views, accepting his attentions, meaning in short, to marry him! -- should suppose himself her equal in connexion or mind! -- look down upon her friend, so well understanding the gradations of rank below him, and be so blind to what rose above, as to fancy himself shewing no presumption in addressing her!
+000046|It was most provoking.
+000047|Perhaps it was not fair to expect him to feel how very much he was her inferior in talent, and all the elegancies of mind.
+000048|The very want of such equality might prevent his perception of it;
+000049|but he must know that in fortune and consequence she was greatly his superior.
+000050|He must know that the Woodhouses had been settled for several generations at Hartfield, the younger branch of a very ancient family -- and that the Eltons were nobody.
+000051|The landed property of Hartfield certainly was inconsiderable, being but a sort of notch in the Donwell Abbey estate, to which all the rest of Highbury belonged;
+000052|but their fortune, from other sources, was such as to make them scarcely secondary to Donwell Abbey itself, in every other kind of consequence;
+000053|and the Woodhouses had long held a high place in the consideration of the neighbourhood which mister Elton had first entered not two years ago, to make his way as he could, without any alliances but in trade, or any thing to recommend him to notice but his situation and his civility.
+000054|But he had fancied her in love with him;
+000055|that evidently must have been his dependence;
+000056|and after raving a little about the seeming incongruity of gentle manners and a conceited head, Emma was obliged in common honesty to stop and admit that her own behaviour to him had been so complaisant and obliging, so full of courtesy and attention, as (supposing her real motive unperceived) might warrant a man of ordinary observation and delicacy, like mister Elton, in fancying himself a very decided favourite.
+000057|If she had so misinterpreted his feelings, she had little right to wonder that he, with self-interest to blind him, should have mistaken hers.
+000058|The first error and the worst lay at her door.
+000059|It was foolish, it was wrong, to take so active a part in bringing any two people together.
+000060|It was adventuring too far, assuming too much, making light of what ought to be serious, a trick of what ought to be simple.
+000061|She was quite concerned and ashamed, and resolved to do such things no more.
+000062|"Here have I," said she, "actually talked poor Harriet into being very much attached to this man."
+000063|She might never have thought of him but for me;
+000064|and certainly never would have thought of him with hope, if I had not assured her of his attachment, for she is as modest and humble as I used to think him.
+000065|Oh! that I had been satisfied with persuading her not to accept young Martin.
+000066|There I was quite right.
+000067|That was well done of me;
+000068|but there I should have stopped, and left the rest to time and chance.
+000069|I was introducing her into good company, and giving her the opportunity of pleasing some one worth having;
+000070|I ought not to have attempted more.
+000071|But now, poor girl, her peace is cut up for some time.
+000072|I have been but half a friend to her;
+000073|and if she were not to feel this disappointment so very much, I am sure I have not an idea of any body else who would be at all desirable for her;
+000074|William Coxe -- Oh! no, I could not endure William Coxe -- a pert young lawyer.
+000075|She stopt to blush and laugh at her own relapse, and then resumed a more serious, more dispiriting cogitation upon what had been, and might be, and must be.
+000076|The distressing explanation she had to make to Harriet, and all that poor Harriet would be suffering, with the awkwardness of future meetings, the difficulties of continuing or discontinuing the acquaintance, of subduing feelings, concealing resentment, and avoiding eclat, were enough to occupy her in most unmirthful reflections some time longer, and she went to bed at last with nothing settled but the conviction of her having blundered most dreadfully.
+000077|To youth and natural cheerfulness like Emma's, though under temporary gloom at night, the return of day will hardly fail to bring return of spirits.
+000078|The youth and cheerfulness of morning are in happy analogy, and of powerful operation;
+000079|and if the distress be not poignant enough to keep the eyes unclosed, they will be sure to open to sensations of softened pain and brighter hope.
+000080|Emma got up on the morrow more disposed for comfort than she had gone to bed, more ready to see alleviations of the evil before her, and to depend on getting tolerably out of it.
+000081|It was a great consolation that mister Elton should not be really in love with her, or so particularly amiable as to make it shocking to disappoint him -- that Harriet's nature should not be of that superior sort in which the feelings are most acute and retentive -- and that there could be no necessity for any body's knowing what had passed except the three principals, and especially for her father's being given a moment's uneasiness about it.
+000082|These were very cheering thoughts;
+000083|and the sight of a great deal of snow on the ground did her further service, for any thing was welcome that might justify their all three being quite asunder at present.
+000084|The weather was most favourable for her;
+000085|though Christmas Day, she could not go to church.
+000086|mister Woodhouse would have been miserable had his daughter attempted it, and she was therefore safe from either exciting or receiving unpleasant and most unsuitable ideas.
+000087|The ground covered with snow, and the atmosphere in that unsettled state between frost and thaw, which is of all others the most unfriendly for exercise, every morning beginning in rain or snow, and every evening setting in to freeze, she was for many days a most honourable prisoner.
+000088|No intercourse with Harriet possible but by note;
+000089|no church for her on Sunday any more than on Christmas Day;
+000090|and no need to find excuses for mister Elton's absenting himself.
+000091|It was weather which might fairly confine every body at home;
+000092|and though she hoped and believed him to be really taking comfort in some society or other, it was very pleasant to have her father so well satisfied with his being all alone in his own house, too wise to stir out;
+000093|and to hear him say to mister Knightley, whom no weather could keep entirely from them,
+000094|Ah! mister Knightley, why do not you stay at home like poor mister Elton?
+000095|These days of confinement would have been, but for her private perplexities, remarkably comfortable, as such seclusion exactly suited her brother, whose feelings must always be of great importance to his companions;
+000096|and he had, besides, so thoroughly cleared off his ill-humour at Randalls, that his amiableness never failed him during the rest of his stay at Hartfield.
+000097|He was always agreeable and obliging, and speaking pleasantly of every body.

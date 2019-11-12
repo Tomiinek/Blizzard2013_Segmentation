@@ -1,0 +1,133 @@
+000001|Miss Bingley's letter arrived, and put an end to doubt.
+000002|The very first sentence conveyed the assurance of their being all settled in London for the winter, and concluded with her brother's regret at not having had time to pay his respects to his friends in Hertfordshire before he left the country.
+000003|Hope was over, entirely over;
+000004|and when Jane could attend to the rest of the letter, she found little, except the professed affection of the writer, that could give her any comfort.
+000005|Miss Darcy's praise occupied the chief of it.
+000006|Her many attractions were again dwelt on, and Caroline boasted joyfully of their increasing intimacy, and ventured to predict the accomplishment of the wishes which had been unfolded in her former letter.
+000007|She wrote also with great pleasure of her brother's being an inmate of mister Darcy's house, and mentioned with raptures some plans of the latter with regard to new furniture.
+000008|Elizabeth, to whom Jane very soon communicated the chief of all this, heard it in silent indignation.
+000009|Her heart was divided between concern for her sister, and resentment against all others.
+000010|To Caroline's assertion of her brother's being partial to Miss Darcy she paid no credit.
+000011|That he was really fond of Jane, she doubted no more than she had ever done;
+000012|and much as she had always been disposed to like him, she could not think without anger, hardly without contempt, on that easiness of temper, that want of proper resolution, which now made him the slave of his designing friends, and led him to sacrifice of his own happiness to the caprice of their inclination.
+000013|Had his own happiness, however, been the only sacrifice, he might have been allowed to sport with it in whatever manner he thought best, but her sister's was involved in it, as she thought he must be sensible himself.
+000014|It was a subject, in short, on which reflection would be long indulged, and must be unavailing.
+000015|She could think of nothing else;
+000016|and yet whether Bingley's regard had really died away, or were suppressed by his friends' interference;
+000017|whether he had been aware of Jane's attachment, or whether it had escaped his observation;
+000018|whatever were the case, though her opinion of him must be materially affected by the difference, her sister's situation remained the same, her peace equally wounded.
+000019|A day or two passed before Jane had courage to speak of her feelings to Elizabeth;
+000020|but at last, on misess Bennet's leaving them together, after a longer irritation than usual about Netherfield and its master, she could not help saying:
+000021|Oh, that my dear mother had more command over herself!
+000022|She can have no idea of the pain she gives me by her continual reflections on him.
+000023|But I will not repine.
+000024|It cannot last long.
+000025|He will be forgot, and we shall all be as we were before.
+000026|Elizabeth looked at her sister with incredulous solicitude, but said nothing.
+000027|"You doubt me," cried Jane, slightly colouring;
+000028|indeed, you have no reason.
+000029|He may live in my memory as the most amiable man of my acquaintance, but that is all.
+000030|I have nothing either to hope or fear, and nothing to reproach him with.
+000031|Thank God!
+000032|I have not that pain.
+000033|A little time, therefore -- I shall certainly try to get the better.
+000034|With a stronger voice she soon added, "I have this comfort immediately, that it has not been more than an error of fancy on my side, and that it has done no harm to anyone but myself."
+000035|"My dear Jane!" exclaimed Elizabeth, "you are too good."
+000036|Your sweetness and disinterestedness are really angelic;
+000037|I do not know what to say to you.
+000038|I feel as if I had never done you justice, or loved you as you deserve.
+000039|Miss Bennet eagerly disclaimed all extraordinary merit, and threw back the praise on her sister's warm affection.
+000040|"Nay," said Elizabeth, "this is not fair."
+000041|You wish to think all the world respectable, and are hurt if I speak ill of anybody.
+000042|I only want to think you perfect, and you set yourself against it.
+000043|Do not be afraid of my running into any excess, of my encroaching on your privilege of universal good-will.
+000044|You need not.
+000045|There are few people whom I really love, and still fewer of whom I think well.
+000046|The more I see of the world, the more am I dissatisfied with it;
+000047|and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.
+000048|I have met with two instances lately, one I will not mention;
+000049|the other is Charlotte's marriage.
+000050|It is unaccountable!
+000051|In every view it is unaccountable!
+000052|My dear Lizzy, do not give way to such feelings as these.
+000053|They will ruin your happiness.
+000054|You do not make allowance enough for difference of situation and temper.
+000055|Consider mister Collins's respectability, and Charlotte's steady, prudent character.
+000056|Remember that she is one of a large family;
+000057|that as to fortune, it is a most eligible match;
+000058|and be ready to believe, for everybody's sake, that she may feel something like regard and esteem for our cousin.
+000059|To oblige you, I would try to believe almost anything, but no one else could be benefited by such a belief as this;
+000060|for were I persuaded that Charlotte had any regard for him, I should only think worse of her understanding than I now do of her heart.
+000061|My dear Jane, mister Collins is a conceited, pompous, narrow-minded, silly man;
+000062|you know he is, as well as I do;
+000063|and you must feel, as well as I do, that the woman who married him cannot have a proper way of thinking.
+000064|You shall not defend her, though it is Charlotte Lucas.
+000065|You shall not, for the sake of one individual, change the meaning of principle and integrity, nor endeavour to persuade yourself or me, that selfishness is prudence, and insensibility of danger security for happiness.
+000066|"I must think your language too strong in speaking of both," replied Jane;
+000067|and I hope you will be convinced of it by seeing them happy together.
+000068|But enough of this.
+000069|You alluded to something else.
+000070|You mentioned two instances.
+000071|I cannot misunderstand you, but I entreat you, dear Lizzy, not to pain me by thinking that person to blame, and saying your opinion of him is sunk.
+000072|We must not be so ready to fancy ourselves intentionally injured.
+000073|We must not expect a lively young man to be always so guarded and circumspect.
+000074|It is very often nothing but our own vanity that deceives us.
+000075|Women fancy admiration means more than it does.
+000076|And men take care that they should.
+000077|If it is designedly done, they cannot be justified;
+000078|but I have no idea of there being so much design in the world as some persons imagine.
+000079|"I am far from attributing any part of mister Bingley's conduct to design," said Elizabeth;
+000080|but without scheming to do wrong, or to make others unhappy, there may be error, and there may be misery.
+000081|Thoughtlessness, want of attention to other people's feelings, and want of resolution, will do the business.
+000082|And do you impute it to either of those?
+000083|Yes;
+000084|to the last.
+000085|But if I go on, I shall displease you by saying what I think of persons you esteem.
+000086|Stop me whilst you can.
+000087|You persist, then, in supposing his sisters influence him?
+000088|Yes, in conjunction with his friend.
+000089|I cannot believe it.
+000090|Why should they try to influence him?
+000091|They can only wish his happiness;
+000092|and if he is attached to me, no other woman can secure it.
+000093|Your first position is false.
+000094|They may wish many things besides his happiness;
+000095|they may wish his increase of wealth and consequence;
+000096|they may wish him to marry a girl who has all the importance of money, great connections, and pride.
+000097|"Beyond a doubt, they do wish him to choose Miss Darcy," replied Jane;
+000098|but this may be from better feelings than you are supposing.
+000099|They have known her much longer than they have known me;
+000100|no wonder if they love her better.
+000101|But, whatever may be their own wishes, it is very unlikely they should have opposed their brother's.
+000102|What sister would think herself at liberty to do it, unless there were something very objectionable?
+000103|If they believed him attached to me, they would not try to part us;
+000104|if he were so, they could not succeed.
+000105|By supposing such an affection, you make everybody acting unnaturally and wrong, and me most unhappy.
+000106|Do not distress me by the idea.
+000107|I am not ashamed of having been mistaken -- or, at least, it is light, it is nothing in comparison of what I should feel in thinking ill of him or his sisters.
+000108|Let me take it in the best light, in the light in which it may be understood.
+000109|Elizabeth could not oppose such a wish;
+000110|and from this time mister Bingley's name was scarcely ever mentioned between them.
+000111|misess Bennet still continued to wonder and repine at his returning no more, and though a day seldom passed in which Elizabeth did not account for it clearly, there was little chance of her ever considering it with less perplexity.
+000112|Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and transient liking, which ceased when he saw her no more;
+000113|but though the probability of the statement was admitted at the time, she had the same story to repeat every day.
+000114|misess Bennet's best comfort was that mister Bingley must be down again in the summer.
+000115|mister Bennet treated the matter differently.
+000116|"So, Lizzy," said he one day, "your sister is crossed in love, I find."
+000117|I congratulate her.
+000118|Next to being married, a girl likes to be crossed a little in love now and then.
+000119|It is something to think of, and it gives her a sort of distinction among her companions.
+000120|When is your turn to come?
+000121|You will hardly bear to be long outdone by Jane.
+000122|Now is your time.
+000123|Here are officers enough in Meryton to disappoint all the young ladies in the country.
+000124|Let Wickham be your man.
+000125|He is a pleasant fellow, and would jilt you creditably.
+000126|Thank you, sir, but a less agreeable man would satisfy me.
+000127|We must not all expect Jane's good fortune.
+000128|"True," said mister Bennet, "but it is a comfort to think that whatever of that kind may befall you, you have an affectionate mother who will make the most of it."
+000129|mister Wickham's society was of material service in dispelling the gloom which the late perverse occurrences had thrown on many of the Longbourn family.
+000130|They saw him often, and to his other recommendations was now added that of general unreserve.
+000131|The whole of what Elizabeth had already heard, his claims on mister Darcy, and all that he had suffered from him, was now openly acknowledged and publicly canvassed;
+000132|and everybody was pleased to know how much they had always disliked mister Darcy before they had known anything of the matter.
+000133|Miss Bennet was the only creature who could suppose there might be any extenuating circumstances in the case, unknown to the society of Hertfordshire;

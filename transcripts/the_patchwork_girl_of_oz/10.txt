@@ -1,0 +1,254 @@
+000001|Soon the entire party was gathered on the road of yellow bricks, quite beyond the reach of the beautiful but treacherous plants.
+000002|The Shaggy Man, staring first at one and then at the other, seemed greatly pleased and interested.
+000003|"I've seen queer things since I came to the Land of Oz," said he, "but never anything queerer than this band of adventurers."
+000004|Let us sit down a while, and have a talk and get acquainted.
+000005|"Haven't you always lived in the Land of Oz?" asked the Munchkin boy.
+000006|No; I used to live in the big, outside world.
+000007|But I came here once with Dorothy, and Ozma let me stay.
+000008|"How do you like Oz?" asked Scraps.
+000009|Isn't the country and the climate grand?
+000010|"It's the finest country in all the world, even if it is a fairyland, and I'm happy every minute I live in it," said the Shaggy Man.
+000011|But tell me something about yourselves.
+000012|So Ojo related the story of his visit to the house of the Crooked Magician, and how he met there the Glass Cat, and how the Patchwork Girl was brought to life and of the terrible accident to Unc Nunkie and Margolotte.
+000013|Then he told how he had set out to find the five different things which the Magician needed to make a charm that would restore the marble figures to life, one requirement being three hairs from a Woozy's tail.
+000014|"We found the Woozy," explained the boy, "and he agreed to give us the three hairs;"
+000015|but we couldn't pull them out.
+000016|So we had to bring the Woozy along with us.
+000017|"I see," returned the Shaggy Man, who had listened with interest to the story.
+000018|But perhaps I, who am big and strong, can pull those three hairs from the Woozy's tail.
+000019|"Try it, if you like," said the Woozy.
+000020|So the Shaggy Man tried it, but pull as hard as he could he failed to get the hairs out of the Woozy's tail.
+000021|So he sat down again and wiped his shaggy face with a shaggy silk handkerchief and said:
+000022|It doesn't matter.
+000023|If you can keep the Woozy until you get the rest of the things you need, you can take the beast and his three hairs to the Crooked Magician and let him find a way to extract 'em.
+000024|What are the other things you are to find?
+000025|"One," said Ojo, "is a six-leaved clover."
+000026|"You ought to find that in the fields around the Emerald City," said the Shaggy Man.
+000027|There is a Law against picking six-leaved clovers, but I think I can get Ozma to let you have one.
+000028|"Thank you," replied Ojo.
+000029|The next thing is the left wing of a yellow butterfly.
+000030|"For that you must go to the Winkie Country," the Shaggy Man declared.
+000031|I've never noticed any butterflies there, but that is the yellow country of Oz and it's ruled by a good friend of mine, the Tin Woodman.
+000032|"Oh, I've heard of him!" exclaimed Ojo.
+000033|He must be a wonderful man.
+000034|So he is, and his heart is wonderfully kind.
+000035|I'm sure the Tin Woodman will do all in his power to help you to save your Unc Nunkie and poor Margolotte.
+000036|"The next thing I must find," said the Munchkin boy, "is a gill of water from a dark well."
+000037|Indeed!
+000038|"Well, that is more difficult," said the Shaggy Man, scratching his left ear in a puzzled way.
+000039|I've never heard of a dark well;
+000040|have you?
+000041|"No," said Ojo.
+000042|"Do you know where one may be found?" inquired the Shaggy Man.
+000043|"I can't imagine," said Ojo.
+000044|Then we must ask the Scarecrow.
+000045|The Scarecrow!
+000046|But surely, sir, a scarecrow can't know anything.
+000047|"Most scarecrows don't, I admit," answered the Shaggy Man.
+000048|But this Scarecrow of whom I speak is very intelligent.
+000049|He claims to possess the best brains in all Oz.
+000050|"Better than mine?" asked Scraps.
+000051|"Better than mine?" echoed the Glass Cat.
+000052|Mine are pink, and you can see 'em work.
+000053|"Well, you can't see the Scarecrow's brains work, but they do a lot of clever thinking," asserted the Shaggy Man.
+000054|If anyone knows where a dark well is, it's my friend the Scarecrow.
+000055|"Where does he live?" inquired Ojo.
+000056|He has a splendid castle in the Winkie Country, near to the palace of his friend the Tin Woodman, and he is often to be found in the Emerald City, where he visits Dorothy at the royal palace.
+000057|"Then we will ask him about the dark well," said Ojo.
+000058|"But what else does this Crooked Magician want?" asked the Shaggy Man.
+000059|A drop of oil from a live man's body.
+000060|Oh; but there isn't such a thing.
+000061|"That is what I thought," replied Ojo;
+000062|but the Crooked Magician said it wouldn't be called for by the recipe if it couldn't be found, and therefore I must search until I find it.
+000063|"I wish you good luck," said the Shaggy Man, shaking his head doubtfully;
+000064|but I imagine you'll have a hard job getting a drop of oil from a live man's body.
+000065|There's blood in a body, but no oil.
+000066|"There's cotton in mine," said Scraps, dancing a little jig.
+000067|"I don't doubt it," returned the Shaggy Man admiringly.
+000068|You're a regular comforter and as sweet as patchwork can be.
+000069|All you lack is dignity.
+000070|"I hate dignity," cried Scraps, kicking a pebble high in the air and then trying to catch it as it fell.
+000071|Half the fools and all the wise folks are dignified, and I'm neither the one nor the other.
+000072|"She's just crazy," explained the Glass Cat.
+000073|The Shaggy Man laughed.
+000074|"She's delightful, in her way," he said.
+000075|I'm sure Dorothy will be pleased with her, and the Scarecrow will dote on her.
+000076|Did you say you were traveling toward the Emerald City?
+000077|"Yes," replied Ojo.
+000078|I thought that the best place to go, at first, because the six-leaved clover may be found there.
+000079|"I'll go with you," said the Shaggy Man, "and show you the way."
+000080|"Thank you," exclaimed Ojo.
+000081|I hope it won't put you out any.
+000082|"No," said the other, "I wasn't going anywhere in particular."
+000083|I've been a rover all my life, and although Ozma has given me a suite of beautiful rooms in her palace I still get the wandering fever once in a while and start out to roam the country over.
+000084|I've been away from the Emerald City several weeks, this time, and now that I've met you and your friends I'm sure it will interest me to accompany you to the great city of Oz and introduce you to my friends.
+000085|"That will be very nice," said the boy, gratefully.
+000086|"I hope your friends are not dignified," observed Scraps.
+000087|"Some are, and some are not," he answered;
+000088|but I never criticise my friends.
+000089|If they are really true friends, they may be anything they like, for all of me.
+000090|"There's some sense in that," said Scraps, nodding her queer head in approval.
+000091|Come on, and let's get to the Emerald City as soon as possible.
+000092|With this she ran up the path, skipping and dancing, and then turned to await them.
+000093|"It is quite a distance from here to the Emerald City," remarked the Shaggy Man, "so we shall not get there to-day, nor to-morrow."
+000094|Therefore let us take the jaunt in an easy manner.
+000095|I'm an old traveler and have found that I never gain anything by being in a hurry.
+000096|'Take it easy' is my motto.
+000097|If you can't take it easy, take it as easy as you can.
+000098|After walking some distance over the road of yellow bricks Ojo said he was hungry and would stop to eat some bread and cheese.
+000099|He offered a portion of the food to the Shaggy Man, who thanked him but refused it.
+000100|"When I start out on my travels," said he, "I carry along enough square meals to last me several weeks."
+000101|Think I'll indulge in one now, as long as we're stopping anyway.
+000102|Saying this, he took a bottle from his pocket and shook from it a tablet about the size of one of Ojo's finger-nails.
+000103|"That," announced the Shaggy Man, "is a square meal, in condensed form."
+000104|Invention of the great Professor Woggle-Bug, of the Royal College of Athletics.
+000105|It contains soup, fish, roast meat, salad, apple-dumplings, ice cream and chocolate-drops, all boiled down to this small size, so it can be conveniently carried and swallowed when you are hungry and need a square meal.
+000106|"I'm square," said the Woozy.
+000107|Give me one, please.
+000108|So the Shaggy Man gave the Woozy a tablet from his bottle and the beast ate it in a twinkling.
+000109|"You have now had a six course dinner," declared the Shaggy Man.
+000110|"Pshaw!" said the Woozy, ungratefully, "I want to taste something."
+000111|There's no fun in that sort of eating.
+000112|"One should only eat to sustain life," replied the Shaggy Man, "and that tablet is equal to a peck of other food."
+000113|I don't care for it.
+000114|"I want something I can chew and taste," grumbled the Woozy.
+000115|"You are quite wrong, my poor beast," said the Shaggy Man in a tone of pity.
+000116|Think how tired your jaws would get chewing a square meal like this, if it were not condensed to the size of a small tablet -- which you can swallow in a jiffy.
+000117|Chewing isn't tiresome;
+000118|"it's fun," maintained the Woozy.
+000119|I always chew the honey-bees when I catch them.
+000120|Give me some bread and cheese, Ojo.
+000121|No, no!
+000122|"You've already eaten a big dinner!" protested the Shaggy Man.
+000123|"May be," answered the Woozy;
+000124|but I guess I'll fool myself by munching some bread and cheese.
+000125|I may not be hungry, having eaten all those things you gave me, but I consider this eating business a matter of taste, and I like to realize what's going into me.
+000126|Ojo gave the beast what he wanted, but the Shaggy Man shook his shaggy head reproachfully and said there was no animal so obstinate or hard to convince as a Woozy.
+000127|At this moment a patter of footsteps was heard, and looking up they saw the live phonograph standing before them.
+000128|It seemed to have passed through many adventures since Ojo and his comrades last saw the machine, for the varnish of its wooden case was all marred and dented and scratched in a way that gave it an aged and disreputable appearance.
+000129|"Dear me!" exclaimed Ojo, staring hard.
+000130|What has happened to you?
+000131|"Nothing much," replied the phonograph in a sad and depressed voice.
+000132|I've had enough things thrown at me, since I left you, to stock a department store and furnish half a dozen bargain-counters.
+000133|"Are you so broken up that you can't play?" asked Scraps.
+000134|No; I still am able to grind out delicious music.
+000135|"Just now I've a record on tap that is really superb," said the phonograph, growing more cheerful.
+000136|"That is too bad," remarked Ojo.
+000137|We've no objection to you as a machine, you know;
+000138|but as a music-maker we hate you.
+000139|"Then why was I ever invented?" demanded the machine, in a tone of indignant protest.
+000140|They looked at one another inquiringly, but no one could answer such a puzzling question.
+000141|Finally the Shaggy Man said:
+000142|I'd like to hear the phonograph play.
+000143|Ojo sighed.
+000144|"We've been very happy since we met you, sir," he said.
+000145|I know.
+000146|But a little misery, at times, makes one appreciate happiness more.
+000147|Tell me, Phony, what is this record like, which you say you have on tap?
+000148|It's a popular song, sir.
+000149|In all civilized lands the common people have gone wild over it.
+000150|Makes civilized folks wild folks, eh?
+000151|Then it's dangerous.
+000152|"Wild with joy, I mean," explained the phonograph.
+000153|Listen.
+000154|This song will prove a rare treat to you, I know.
+000155|It made the author rich -- for an author.
+000156|It is called 'My Lulu.'
+000157|Then the phonograph began to play.
+000158|A strain of odd, jerky sounds was followed by these words, sung by a man through his nose with great vigor of expression:
+000159|Ah wants mah Lulu, mah coal-black Lulu;
+000160|Ah wants mah loo-loo, loo-loo, loo-loo, Lu!
+000161|Ah loves mah Lulu, mah coal-black Lulu, There ain't nobody else loves loo-loo, Lu!
+000162|"Here -- shut that off!" cried the Shaggy Man, springing to his feet.
+000163|What do you mean by such impertinence?
+000164|"It's the latest popular song," declared the phonograph, speaking in a sulky tone of voice.
+000165|A popular song?
+000166|Yes.
+000167|One that the feeble-minded can remember the words of and those ignorant of music can whistle or sing.
+000168|That makes a popular song popular, and the time is coming when it will take the place of all other songs.
+000169|"That time won't come to us, just yet," said the Shaggy Man, sternly: "I'm something of a singer myself, and I don't intend to be throttled by any Lulus like your coal-black one."
+000170|I shall take you all apart, mister Phony, and scatter your pieces far and wide over the country, as a matter of kindness to the people you might meet if allowed to run around loose.
+000171|Having performed this painful duty I shall
+000172|But before he could say more the phonograph turned and dashed up the road as fast as its four table-legs could carry it, and soon it had entirely disappeared from their view.
+000173|The Shaggy Man sat down again and seemed well pleased.
+000174|"Some one else will save me the trouble of scattering that phonograph," said he;
+000175|for it is not possible that such a music-maker can last long in the Land of Oz.
+000176|When you are rested, friends, let us go on our way.
+000177|During the afternoon the travelers found themselves in a lonely and uninhabited part of the country.
+000178|Even the fields were no longer cultivated and the country began to resemble a wilderness.
+000179|The road of yellow bricks seemed to have been neglected and became uneven and more difficult to walk upon.
+000180|Scrubby under-brush grew on either side of the way, while huge rocks were scattered around in abundance.
+000181|But this did not deter Ojo and his friends from trudging on, and they beguiled the journey with jokes and cheerful conversation.
+000182|Toward evening they reached a crystal spring which gushed from a tall rock by the roadside and near this spring stood a deserted cabin.
+000183|Said the Shaggy Man, halting here:
+000184|We may as well pass the night here, where there is shelter for our heads and good water to drink.
+000185|Road beyond here is pretty bad;
+000186|worst we shall have to travel;
+000187|so let's wait until morning before we tackle it.
+000188|They agreed to this and Ojo found some brushwood in the cabin and made a fire on the hearth.
+000189|The fire delighted Scraps, who danced before it until Ojo warned her she might set fire to herself and burn up.
+000190|After that the Patchwork Girl kept at a respectful distance from the darting flames, but the Woozy lay down before the fire like a big dog and seemed to enjoy its warmth.
+000191|For supper the Shaggy Man ate one of his tablets, but Ojo stuck to his bread and cheese as the most satisfying food.
+000192|He also gave a portion to the Woozy.
+000193|When darkness came on and they sat in a circle on the cabin floor, facing the firelight -- there being no furniture of any sort in the place -- Ojo said to the Shaggy Man:
+000194|Won't you tell us a story?
+000195|"I'm not good at stories," was the reply;
+000196|but I sing like a bird.
+000197|"Raven, or crow?" asked the Glass Cat.
+000198|Like a song bird.
+000199|I'll prove it.
+000200|I'll sing a song I composed myself.
+000201|Don't tell anyone I'm a poet;
+000202|they might want me to write a book.
+000203|Don't tell 'em I can sing, or they'd want me to make records for that awful phonograph.
+000204|Haven't time to be a public benefactor, so I'll just sing you this little song for your own amusement.
+000205|They were glad enough to be entertained, and listened with interest while the Shaggy Man chanted the following verses to a tune that was not unpleasant:
+000206|I'll sing a song of Ozland, where wondrous creatures dwell And fruits and flowers and shady bowers abound in every dell, Where magic is a science and where no one shows surprise If some amazing thing takes place before his very eyes.
+000207|Our Ruler's a bewitching girl whom fairies love to please;
+000208|She's always kept her magic sceptre to enforce decrees To make her people happy, for her heart is kind and true And to aid the needy and distressed is what she longs to do.
+000209|And then there's Princess Dorothy, as sweet as any rose, A lass from Kansas, where they don't grow fairies, I suppose;
+000210|And there's the brainy Scarecrow, with a body stuffed with straw, Who utters words of wisdom rare that fill us all with awe.
+000211|I'll not forget Nick Chopper, the Woodman made of Tin, Whose tender heart thinks killing time is quite a dreadful sin, Nor old Professor Woggle-Bug, who's highly magnified And looks so big to everyone that he is filled with pride.
+000212|Jack Pumpkinhead's a dear old chum who might be called a chump, But won renown by riding round upon a magic Gump;
+000213|The Sawhorse is a splendid steed and though he's made of wood He does as many thrilling stunts as any meat horse could.
+000214|And now I'll introduce a beast that ev'ryone adores -- The Cowardly Lion shakes with fear 'most ev'ry time he roars, And yet he does the bravest things that any lion might, Because he knows that cowardice is not considered right.
+000215|There's Tik-Tok -- he's a clockwork man and quite a funny sight -- He talks and walks mechanically, when he's wound up tight;
+000216|And we've a Hungry Tiger who would babies love to eat But never does because we feed him other kinds of meat.
+000217|It's hard to name all of the freaks this noble Land's acquired;
+000218|'Twould make my song so very long that you would soon be tired;
+000219|But give attention while I mention one wise Yellow Hen And Nine fine Tiny Piglets living in a golden pen.
+000220|Just search the whole world over -- sail the seas from coast to coast -- No other nation in creation queerer folk can boast;
+000221|And now our rare museum will include a Cat of Glass, A Woozy, and -- last but not least -- a crazy Patchwork Lass.
+000222|Ojo was so pleased with this song that he applauded the singer by clapping his hands, and Scraps followed suit by clapping her padded fingers together, although they made no noise.
+000223|The cat pounded on the floor with her glass paws -- gently, so as not to break them -- and the Woozy, which had been asleep, woke up to ask what the row was about.
+000224|"I seldom sing in public, for fear they might want me to start an opera company," remarked the Shaggy Man, who was pleased to know his effort was appreciated.
+000225|Voice, just now, is a little out of training;
+000226|rusty, perhaps.
+000227|"Tell me," said the Patchwork Girl earnestly, "do all those queer people you mention really live in the Land of Oz?"
+000228|Every one of 'em.
+000229|I even forgot one thing: Dorothy's Pink Kitten.
+000230|"For goodness sake!" exclaimed Bungle, sitting up and looking interested.
+000231|A Pink Kitten?
+000232|How absurd!
+000233|Is it glass?
+000234|No; just ordinary kitten.
+000235|Then it can't amount to much.
+000236|I have pink brains, and you can see 'em work.
+000237|Dorothy's kitten is all pink -- brains and all -- except blue eyes.
+000238|Name's Eureka.
+000239|"Great favorite at the royal palace," said the Shaggy Man, yawning.
+000240|The Glass Cat seemed annoyed.
+000241|"Do you think a pink kitten -- common meat -- is as pretty as I am?" she asked.
+000242|Can't say.
+000243|"Tastes differ, you know," replied the Shaggy Man, yawning again.
+000244|But here's a pointer that may be of service to you: make friends with Eureka and you'll be solid at the palace.
+000245|I'm solid now;
+000246|solid glass.
+000247|"You don't understand," rejoined the Shaggy Man, sleepily.
+000248|Anyhow, make friends with the Pink Kitten and you'll be all right.
+000249|If the Pink Kitten despises you, look out for breakers.
+000250|Would anyone at the royal palace break a Glass Cat?
+000251|Might.
+000252|You never can tell.
+000253|Advise you to purr soft and look humble -- if you can.
+000254|And now I'm going to bed.

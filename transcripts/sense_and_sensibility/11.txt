@@ -1,0 +1,80 @@
+000001|Little had misess Dashwood or her daughters imagined when they first came into Devonshire, that so many engagements would arise to occupy their time as shortly presented themselves, or that they should have such frequent invitations and such constant visitors as to leave them little leisure for serious employment.
+000002|Yet such was the case.
+000003|When Marianne was recovered, the schemes of amusement at home and abroad, which Sir John had been previously forming, were put into execution.
+000004|The private balls at the park then began;
+000005|and parties on the water were made and accomplished as often as a showery October would allow.
+000006|In every meeting of the kind Willoughby was included;
+000007|and the ease and familiarity which naturally attended these parties were exactly calculated to give increasing intimacy to his acquaintance with the Dashwoods, to afford him opportunity of witnessing the excellencies of Marianne, of marking his animated admiration of her, and of receiving, in her behaviour to himself, the most pointed assurance of her affection.
+000008|Elinor could not be surprised at their attachment.
+000009|She only wished that it were less openly shewn;
+000010|and once or twice did venture to suggest the propriety of some self-command to Marianne.
+000011|But Marianne abhorred all concealment where no real disgrace could attend unreserve;
+000012|and to aim at the restraint of sentiments which were not in themselves illaudable, appeared to her not merely an unnecessary effort, but a disgraceful subjection of reason to common-place and mistaken notions.
+000013|Willoughby thought the same;
+000014|and their behaviour at all times, was an illustration of their opinions.
+000015|When he was present she had no eyes for any one else.
+000016|Every thing he did, was right.
+000017|Every thing he said, was clever.
+000018|If their evenings at the park were concluded with cards, he cheated himself and all the rest of the party to get her a good hand.
+000019|If dancing formed the amusement of the night, they were partners for half the time;
+000020|and when obliged to separate for a couple of dances, were careful to stand together and scarcely spoke a word to any body else.
+000021|Such conduct made them of course most exceedingly laughed at;
+000022|but ridicule could not shame, and seemed hardly to provoke them.
+000023|misess Dashwood entered into all their feelings with a warmth which left her no inclination for checking this excessive display of them.
+000024|To her it was but the natural consequence of a strong affection in a young and ardent mind.
+000025|This was the season of happiness to Marianne.
+000026|Her heart was devoted to Willoughby, and the fond attachment to Norland, which she brought with her from Sussex, was more likely to be softened than she had thought it possible before, by the charms which his society bestowed on her present home.
+000027|Elinor's happiness was not so great.
+000028|Her heart was not so much at ease, nor her satisfaction in their amusements so pure.
+000029|They afforded her no companion that could make amends for what she had left behind, nor that could teach her to think of Norland with less regret than ever.
+000030|Neither Lady Middleton nor misess Jennings could supply to her the conversation she missed;
+000031|although the latter was an everlasting talker, and from the first had regarded her with a kindness which ensured her a large share of her discourse.
+000032|She had already repeated her own history to Elinor three or four times;
+000033|and had Elinor's memory been equal to her means of improvement, she might have known very early in their acquaintance all the particulars of mister Jennings's last illness, and what he said to his wife a few minutes before he died.
+000034|Lady Middleton was more agreeable than her mother only in being more silent.
+000035|Elinor needed little observation to perceive that her reserve was a mere calmness of manner with which sense had nothing to do.
+000036|Towards her husband and mother she was the same as to them;
+000037|and intimacy was therefore neither to be looked for nor desired.
+000038|She had nothing to say one day that she had not said the day before.
+000039|Her insipidity was invariable, for even her spirits were always the same;
+000040|and though she did not oppose the parties arranged by her husband, provided every thing were conducted in style and her two eldest children attended her, she never appeared to receive more enjoyment from them than she might have experienced in sitting at home;
+000041|and so little did her presence add to the pleasure of the others, by any share in their conversation, that they were sometimes only reminded of her being amongst them by her solicitude about her troublesome boys.
+000042|In Colonel Brandon alone, of all her new acquaintance, did Elinor find a person who could in any degree claim the respect of abilities, excite the interest of friendship, or give pleasure as a companion.
+000043|Willoughby was out of the question.
+000044|Her admiration and regard, even her sisterly regard, was all his own;
+000045|but he was a lover;
+000046|his attentions were wholly Marianne's, and a far less agreeable man might have been more generally pleasing.
+000047|Colonel Brandon, unfortunately for himself, had no such encouragement to think only of Marianne, and in conversing with Elinor he found the greatest consolation for the indifference of her sister.
+000048|Elinor's compassion for him increased, as she had reason to suspect that the misery of disappointed love had already been known to him.
+000049|This suspicion was given by some words which accidentally dropped from him one evening at the park, when they were sitting down together by mutual consent, while the others were dancing.
+000050|His eyes were fixed on Marianne, and, after a silence of some minutes, he said, with a faint smile, "Your sister, I understand, does not approve of second attachments."
+000051|"No," replied Elinor, "her opinions are all romantic."
+000052|Or rather, as I believe, she considers them impossible to exist.
+000053|I believe she does.
+000054|But how she contrives it without reflecting on the character of her own father, who had himself two wives, I know not.
+000055|A few years however will settle her opinions on the reasonable basis of common sense and observation;
+000056|and then they may be more easy to define and to justify than they now are, by any body but herself.
+000057|"This will probably be the case," he replied;
+000058|and yet there is something so amiable in the prejudices of a young mind, that one is sorry to see them give way to the reception of more general opinions.
+000059|"I cannot agree with you there," said Elinor.
+000060|There are inconveniences attending such feelings as Marianne's, which all the charms of enthusiasm and ignorance of the world cannot atone for.
+000061|Her systems have all the unfortunate tendency of setting propriety at nought;
+000062|and a better acquaintance with the world is what I look forward to as her greatest possible advantage.
+000063|After a short pause he resumed the conversation by saying,
+000064|Does your sister make no distinction in her objections against a second attachment?
+000065|or is it equally criminal in every body?
+000066|Are those who have been disappointed in their first choice, whether from the inconstancy of its object, or the perverseness of circumstances, to be equally indifferent during the rest of their lives?
+000067|Upon my word, I am not acquainted with the minutiae of her principles.
+000068|I only know that I never yet heard her admit any instance of a second attachment's being pardonable.
+000069|"This," said he, "cannot hold;"
+000070|but a change, a total change of sentiments -- No, no, do not desire it;
+000071|for when the romantic refinements of a young mind are obliged to give way, how frequently are they succeeded by such opinions as are but too common, and too dangerous!
+000072|I speak from experience.
+000073|I once knew a lady who in temper and mind greatly resembled your sister, who thought and judged like her, but who from an inforced change -- from a series of unfortunate circumstances.
+000074|Here he stopt suddenly;
+000075|appeared to think that he had said too much, and by his countenance gave rise to conjectures, which might not otherwise have entered Elinor's head.
+000076|The lady would probably have passed without suspicion, had he not convinced Miss Dashwood that what concerned her ought not to escape his lips.
+000077|As it was, it required but a slight effort of fancy to connect his emotion with the tender recollection of past regard.
+000078|Elinor attempted no more.
+000079|But Marianne, in her place, would not have done so little.
+000080|The whole story would have been speedily formed under her active imagination;

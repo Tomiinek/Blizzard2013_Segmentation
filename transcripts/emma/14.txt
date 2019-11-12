@@ -1,0 +1,128 @@
+000001|Some change of countenance was necessary for each gentleman as they walked into misess Weston's drawing-room;
+000002|mister Elton must compose his joyous looks, and mister John Knightley disperse his ill-humour.
+000003|mister Elton must smile less, and mister John Knightley more, to fit them for the place.
+000004|Emma only might be as nature prompted, and shew herself just as happy as she was.
+000005|To her it was real enjoyment to be with the Westons.
+000006|mister Weston was a great favourite, and there was not a creature in the world to whom she spoke with such unreserve, as to his wife;
+000007|not any one, to whom she related with such conviction of being listened to and understood, of being always interesting and always intelligible, the little affairs, arrangements, perplexities, and pleasures of her father and herself.
+000008|She could tell nothing of Hartfield, in which misess Weston had not a lively concern;
+000009|and half an hour's uninterrupted communication of all those little matters on which the daily happiness of private life depends, was one of the first gratifications of each.
+000010|This was a pleasure which perhaps the whole day's visit might not afford, which certainly did not belong to the present half-hour;
+000011|but the very sight of misess Weston, her smile, her touch, her voice was grateful to Emma, and she determined to think as little as possible of mister Elton's oddities, or of any thing else unpleasant, and enjoy all that was enjoyable to the utmost.
+000012|The misfortune of Harriet's cold had been pretty well gone through before her arrival.
+000013|mister Woodhouse had been safely seated long enough to give the history of it, besides all the history of his own and Isabella's coming, and of Emma's being to follow, and had indeed just got to the end of his satisfaction that James should come and see his daughter, when the others appeared, and misess Weston, who had been almost wholly engrossed by her attentions to him, was able to turn away and welcome her dear Emma.
+000014|Emma's project of forgetting mister Elton for a while made her rather sorry to find, when they had all taken their places, that he was close to her.
+000015|The difficulty was great of driving his strange insensibility towards Harriet, from her mind, while he not only sat at her elbow, but was continually obtruding his happy countenance on her notice, and solicitously addressing her upon every occasion.
+000016|Instead of forgetting him, his behaviour was such that she could not avoid the internal suggestion of "Can it really be as my brother imagined?"
+000017|can it be possible for this man to be beginning to transfer his affections from Harriet to me?
+000018|Absurd and insufferable!
+000019|Yet he would be so anxious for her being perfectly warm, would be so interested about her father, and so delighted with misess Weston;
+000020|and at last would begin admiring her drawings with so much zeal and so little knowledge as seemed terribly like a would-be lover, and made it some effort with her to preserve her good manners.
+000021|For her own sake she could not be rude;
+000022|and for Harriet's, in the hope that all would yet turn out right, she was even positively civil;
+000023|but it was an effort;
+000024|especially as something was going on amongst the others, in the most overpowering period of mister Elton's nonsense, which she particularly wished to listen to.
+000025|She heard enough to know that mister Weston was giving some information about his son;
+000026|she heard the words "my son," and "Frank," and "my son," repeated several times over;
+000027|and, from a few other half-syllables very much suspected that he was announcing an early visit from his son;
+000028|but before she could quiet mister Elton, the subject was so completely past that any reviving question from her would have been awkward.
+000029|Now, it so happened that in spite of Emma's resolution of never marrying, there was something in the name, in the idea of mister Frank Churchill, which always interested her.
+000030|She had frequently thought -- especially since his father's marriage with Miss Taylor -- that if she were to marry, he was the very person to suit her in age, character and condition.
+000031|He seemed by this connexion between the families, quite to belong to her.
+000032|She could not but suppose it to be a match that every body who knew them must think of.
+000033|That mister and misess Weston did think of it, she was very strongly persuaded;
+000034|and though not meaning to be induced by him, or by any body else, to give up a situation which she believed more replete with good than any she could change it for, she had a great curiosity to see him, a decided intention of finding him pleasant, of being liked by him to a certain degree, and a sort of pleasure in the idea of their being coupled in their friends' imaginations.
+000035|With such sensations, mister Elton's civilities were dreadfully ill-timed;
+000036|but she had the comfort of appearing very polite, while feeling very cross -- and of thinking that the rest of the visit could not possibly pass without bringing forward the same information again, or the substance of it, from the open-hearted mister Weston.
+000037|So it proved;
+000038|for when happily released from mister Elton, and seated by mister Weston, at dinner, he made use of the very first interval in the cares of hospitality, the very first leisure from the saddle of mutton, to say to her,
+000039|We want only two more to be just the right number.
+000040|I should like to see two more here, -- your pretty little friend, Miss Smith, and my son -- and then I should say we were quite complete.
+000041|I believe you did not hear me telling the others in the drawing-room that we are expecting Frank.
+000042|I had a letter from him this morning, and he will be with us within a fortnight.
+000043|Emma spoke with a very proper degree of pleasure;
+000044|and fully assented to his proposition of mister Frank Churchill and Miss Smith making their party quite complete.
+000045|"He has been wanting to come to us," continued mister Weston, "ever since September: every letter has been full of it;"
+000046|but he cannot command his own time.
+000047|He has those to please who must be pleased, and who between ourselves are sometimes to be pleased only by a good many sacrifices.
+000048|But now I have no doubt of seeing him here about the second week in January.
+000049|What a very great pleasure it will be to you! and misess Weston is so anxious to be acquainted with him, that she must be almost as happy as yourself.
+000050|Yes, she would be, but that she thinks there will be another put-off.
+000051|She does not depend upon his coming so much as I do: but she does not know the parties so well as I do.
+000052|The case, you see, is -- but this is quite between ourselves: I did not mention a syllable of it in the other room.
+000053|There are secrets in all families, you know.
+000054|The case is, that a party of friends are invited to pay a visit at Enscombe in January;
+000055|and that Frank's coming depends upon their being put off.
+000056|If they are not put off, he cannot stir.
+000057|But I know they will, because it is a family that a certain lady, of some consequence, at Enscombe, has a particular dislike to: and though it is thought necessary to invite them once in two or three years, they always are put off when it comes to the point.
+000058|I have not the smallest doubt of the issue.
+000059|I am as confident of seeing Frank here before the middle of January, as I am of being here myself: but your good friend there (nodding towards the upper end of the table) has so few vagaries herself, and has been so little used to them at Hartfield, that she cannot calculate on their effects, as I have been long in the practice of doing.
+000060|"I am sorry there should be any thing like doubt in the case," replied Emma;
+000061|but am disposed to side with you, mister Weston.
+000062|If you think he will come, I shall think so too;
+000063|for you know Enscombe.
+000064|Yes -- I have some right to that knowledge;
+000065|though I have never been at the place in my life.
+000066|She is an odd woman!
+000067|But I never allow myself to speak ill of her, on Frank's account;
+000068|for I do believe her to be very fond of him.
+000069|I used to think she was not capable of being fond of any body, except herself: but she has always been kind to him in her way -- allowing for little whims and caprices, and expecting every thing to be as she likes.
+000070|And it is no small credit, in my opinion, to him, that he should excite such an affection;
+000071|for, though I would not say it to any body else, she has no more heart than a stone to people in general;
+000072|and the devil of a temper.
+000073|Emma liked the subject so well, that she began upon it, to misess Weston, very soon after their moving into the drawing-room: wishing her joy -- yet observing, that she knew the first meeting must be rather alarming.
+000074|Misess Weston agreed to it; but added, that she should be very glad to be secure of undergoing the anxiety of a first meeting at the time talked of: "for I cannot depend upon his coming."
+000075|I cannot be so sanguine as mister Weston.
+000076|I am very much afraid that it will all end in nothing.
+000077|mister Weston, I dare say, has been telling you exactly how the matter stands?
+000078|Yes -- it seems to depend upon nothing but the ill-humour of misess Churchill, which I imagine to be the most certain thing in the world.
+000079|"My Emma!" replied misess Weston, smiling, "what is the certainty of caprice?"
+000080|Then turning to Isabella, who had not been attending before
+000081|You must know, my dear misess Knightley, that we are by no means so sure of seeing mister Frank Churchill, in my opinion, as his father thinks.
+000082|It depends entirely upon his aunt's spirits and pleasure;
+000083|in short, upon her temper.
+000084|To you -- to my two daughters -- I may venture on the truth.
+000085|misess Churchill rules at Enscombe, and is a very odd-tempered woman;
+000086|and his coming now, depends upon her being willing to spare him.
+000087|Oh, misess Churchill;
+000088|"every body knows misess Churchill," replied Isabella: "and I am sure I never think of that poor young man without the greatest compassion."
+000089|To be constantly living with an ill-tempered person, must be dreadful.
+000090|It is what we happily have never known any thing of;
+000091|but it must be a life of misery.
+000092|What a blessing, that she never had any children!
+000093|Poor little creatures, how unhappy she would have made them!
+000094|Emma wished she had been alone with misess Weston.
+000095|She should then have heard more: misess Weston would speak to her, with a degree of unreserve which she would not hazard with Isabella;
+000096|and, she really believed, would scarcely try to conceal any thing relative to the Churchills from her, excepting those views on the young man, of which her own imagination had already given her such instinctive knowledge.
+000097|But at present there was nothing more to be said.
+000098|mister Woodhouse very soon followed them into the drawing-room.
+000099|To be sitting long after dinner, was a confinement that he could not endure.
+000100|Neither wine nor conversation was any thing to him;
+000101|and gladly did he move to those with whom he was always comfortable.
+000102|While he talked to Isabella, however, Emma found an opportunity of saying,
+000103|And so you do not consider this visit from your son as by any means certain.
+000104|I am sorry for it.
+000105|The introduction must be unpleasant, whenever it takes place;
+000106|and the sooner it could be over, the better.
+000107|Yes; and every delay makes one more apprehensive of other delays.
+000108|Even if this family, the Braithwaites, are put off, I am still afraid that some excuse may be found for disappointing us.
+000109|I cannot bear to imagine any reluctance on his side;
+000110|but I am sure there is a great wish on the Churchills' to keep him to themselves.
+000111|There is jealousy.
+000112|They are jealous even of his regard for his father.
+000113|In short, I can feel no dependence on his coming, and I wish mister Weston were less sanguine.
+000114|"He ought to come," said Emma.
+000115|If he could stay only a couple of days, he ought to come;
+000116|and one can hardly conceive a young man's not having it in his power to do as much as that.
+000117|A young woman, if she fall into bad hands, may be teased, and kept at a distance from those she wants to be with;
+000118|but one cannot comprehend a young man's being under such restraint, as not to be able to spend a week with his father, if he likes it.
+000119|"One ought to be at Enscombe, and know the ways of the family, before one decides upon what he can do," replied misess Weston.
+000120|One ought to use the same caution, perhaps, in judging of the conduct of any one individual of any one family;
+000121|but Enscombe, I believe, certainly must not be judged by general rules: she is so very unreasonable;
+000122|and every thing gives way to her.
+000123|But she is so fond of the nephew: he is so very great a favourite.
+000124|Now, according to my idea of misess Churchill, it would be most natural, that while she makes no sacrifice for the comfort of the husband, to whom she owes every thing, while she exercises incessant caprice towards him, she should frequently be governed by the nephew, to whom she owes nothing at all.
+000125|My dearest Emma, do not pretend, with your sweet temper, to understand a bad one, or to lay down rules for it: you must let it go its own way.
+000126|I have no doubt of his having, at times, considerable influence;
+000127|but it may be perfectly impossible for him to know beforehand when it will be.
+000128|Emma listened, and then coolly said, "I shall not be satisfied, unless he comes."

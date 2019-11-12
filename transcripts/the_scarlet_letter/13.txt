@@ -1,0 +1,200 @@
+000001|Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, mister Dimmesdale reached the spot where, now so long since, Hester Prynne had lived through her first hours of public ignominy.
+000002|The same platform or scaffold, black and weather-stained with the storm or sunshine of seven long years, and foot-worn, too, with the tread of many culprits who had since ascended it, remained standing beneath the balcony of the meeting-house.
+000003|The minister went up the steps.
+000004|It was an obscure night in early May.
+000005|An unvaried pall of cloud muffled the whole expanse of sky from zenith to horizon.
+000006|If the same multitude which had stood as eye-witnesses while Hester Prynne sustained her punishment could now have been summoned forth, they would have discerned no face above the platform nor hardly the outline of a human shape, in the dark grey of the midnight.
+000007|But the town was all asleep.
+000008|There was no peril of discovery.
+000009|The minister might stand there, if it so pleased him, until morning should redden in the east, without other risk than that the dank and chill night air would creep into his frame, and stiffen his joints with rheumatism, and clog his throat with catarrh and cough;
+000010|thereby defrauding the expectant audience of to-morrow's prayer and sermon.
+000011|No eye could see him, save that ever-wakeful one which had seen him in his closet, wielding the bloody scourge.
+000012|Why, then, had he come hither?
+000013|Was it but the mockery of penitence?
+000014|A mockery, indeed, but in which his soul trifled with itself!
+000015|A mockery at which angels blushed and wept, while fiends rejoiced with jeering laughter!
+000016|He had been driven hither by the impulse of that Remorse which dogged him everywhere, and whose own sister and closely linked companion was that Cowardice which invariably drew him back, with her tremulous gripe, just when the other impulse had hurried him to the verge of a disclosure.
+000017|Poor, miserable man!
+000018|what right had infirmity like his to burden itself with crime?
+000019|Crime is for the iron-nerved, who have their choice either to endure it, or, if it press too hard, to exert their fierce and savage strength for a good purpose, and fling it off at once!
+000020|This feeble and most sensitive of spirits could do neither, yet continually did one thing or another, which intertwined, in the same inextricable knot, the agony of heaven-defying guilt and vain repentance.
+000021|And thus, while standing on the scaffold, in this vain show of expiation, mister Dimmesdale was overcome with a great horror of mind, as if the universe were gazing at a scarlet token on his naked breast, right over his heart.
+000022|On that spot, in very truth, there was, and there had long been, the gnawing and poisonous tooth of bodily pain.
+000023|Without any effort of his will, or power to restrain himself, he shrieked aloud: an outcry that went pealing through the night, and was beaten back from one house to another, and reverberated from the hills in the background;
+000024|as if a company of devils, detecting so much misery and terror in it, had made a plaything of the sound, and were bandying it to and fro.
+000025|"It is done!" muttered the minister, covering his face with his hands.
+000026|The whole town will awake and hurry forth, and find me here!
+000027|But it was not so.
+000028|The shriek had perhaps sounded with a far greater power, to his own startled ears, than it actually possessed.
+000029|The town did not awake;
+000030|or, if it did, the drowsy slumberers mistook the cry either for something frightful in a dream, or for the noise of witches, whose voices, at that period, were often heard to pass over the settlements or lonely cottages, as they rode with Satan through the air.
+000031|The clergyman, therefore, hearing no symptoms of disturbance, uncovered his eyes and looked about him.
+000032|At one of the chamber-windows of Governor Bellingham's mansion, which stood at some distance, on the line of another street, he beheld the appearance of the old magistrate himself with a lamp in his hand a white night-cap on his head, and a long white gown enveloping his figure.
+000033|He looked like a ghost evoked unseasonably from the grave.
+000034|The cry had evidently startled him.
+000035|At another window of the same house, moreover appeared old Mistress Hibbins, the Governor's sister, also with a lamp, which even thus far off revealed the expression of her sour and discontented face.
+000036|She thrust forth her head from the lattice, and looked anxiously upward.
+000037|Beyond the shadow of a doubt, this venerable witch-lady had heard mister Dimmesdale's outcry, and interpreted it, with its multitudinous echoes and reverberations, as the clamour of the fiends and night-hags, with whom she was well known to make excursions in the forest.
+000038|Detecting the gleam of Governor Bellingham's lamp, the old lady quickly extinguished her own, and vanished.
+000039|Possibly, she went up among the clouds.
+000040|The minister saw nothing further of her motions.
+000041|The magistrate, after a wary observation of the darkness -- into which, nevertheless, he could see but little further than he might into a mill-stone -- retired from the window.
+000042|The minister grew comparatively calm.
+000043|His eyes, however, were soon greeted by a little glimmering light, which, at first a long way off was approaching up the street.
+000044|It threw a gleam of recognition, on here a post, and there a garden fence, and here a latticed window-pane, and there a pump, with its full trough of water, and here again an arched door of oak, with an iron knocker, and a rough log for the door-step.
+000045|The Reverend mister Dimmesdale noted all these minute particulars, even while firmly convinced that the doom of his existence was stealing onward, in the footsteps which he now heard;
+000046|and that the gleam of the lantern would fall upon him in a few moments more, and reveal his long-hidden secret.
+000047|As the light drew nearer, he beheld, within its illuminated circle, his brother clergyman -- or, to speak more accurately, his professional father, as well as highly valued friend -- the Reverend mister Wilson, who, as mister Dimmesdale now conjectured, had been praying at the bedside of some dying man.
+000048|And so he had.
+000049|The good old minister came freshly from the death-chamber of Governor Winthrop, who had passed from earth to heaven within that very hour.
+000050|And now surrounded, like the saint-like personage of olden times, with a radiant halo, that glorified him amid this gloomy night of sin -- as if the departed Governor had left him an inheritance of his glory, or as if he had caught upon himself the distant shine of the celestial city, while looking thitherward to see the triumphant pilgrim pass within its gates -- now, in short, good Father Wilson was moving homeward, aiding his footsteps with a lighted lantern!
+000051|The glimmer of this luminary suggested the above conceits to mister Dimmesdale, who smiled -- nay, almost laughed at them -- and then wondered if he was going mad.
+000052|As the Reverend mister Wilson passed beside the scaffold, closely muffling his Geneva cloak about him with one arm, and holding the lantern before his breast with the other, the minister could hardly restrain himself from speaking
+000053|A good evening to you, venerable Father Wilson.
+000054|Come up hither, I pray you, and pass a pleasant hour with me!
+000055|Good Heavens!
+000056|Had mister Dimmesdale actually spoken?
+000057|For one instant he believed that these words had passed his lips.
+000058|But they were uttered only within his imagination.
+000059|The venerable Father Wilson continued to step slowly onward, looking carefully at the muddy pathway before his feet, and never once turning his head towards the guilty platform.
+000060|When the light of the glimmering lantern had faded quite away, the minister discovered, by the faintness which came over him, that the last few moments had been a crisis of terrible anxiety, although his mind had made an involuntary effort to relieve itself by a kind of lurid playfulness.
+000061|Shortly afterwards, the like grisly sense of the humorous again stole in among the solemn phantoms of his thought.
+000062|He felt his limbs growing stiff with the unaccustomed chilliness of the night, and doubted whether he should be able to descend the steps of the scaffold.
+000063|Morning would break and find him there.
+000064|The neighbourhood would begin to rouse itself.
+000065|The earliest riser, coming forth in the dim twilight, would perceive a vaguely-defined figure aloft on the place of shame;
+000066|and half-crazed betwixt alarm and curiosity, would go knocking from door to door, summoning all the people to behold the ghost -- as he needs must think it -- of some defunct transgressor.
+000067|A dusky tumult would flap its wings from one house to another.
+000068|Then -- the morning light still waxing stronger -- old patriarchs would rise up in great haste, each in his flannel gown, and matronly dames, without pausing to put off their night-gear.
+000069|The whole tribe of decorous personages, who had never heretofore been seen with a single hair of their heads awry, would start into public view with the disorder of a nightmare in their aspects.
+000070|Old Governor Bellingham would come grimly forth, with his King James' ruff fastened askew, and Mistress Hibbins, with some twigs of the forest clinging to her skirts, and looking sourer than ever, as having hardly got a wink of sleep after her night ride;
+000071|and good Father Wilson too, after spending half the night at a death-bed, and liking ill to be disturbed, thus early, out of his dreams about the glorified saints.
+000072|Hither, likewise, would come the elders and deacons of mister Dimmesdale's church, and the young virgins who so idolized their minister, and had made a shrine for him in their white bosoms, which now, by-the-bye, in their hurry and confusion, they would scantly have given themselves time to cover with their kerchiefs.
+000073|All people, in a word, would come stumbling over their thresholds, and turning up their amazed and horror-stricken visages around the scaffold.
+000074|Whom would they discern there, with the red eastern light upon his brow?
+000075|Whom, but the Reverend Arthur Dimmesdale, half-frozen to death, overwhelmed with shame, and standing where Hester Prynne had stood!
+000076|Carried away by the grotesque horror of this picture, the minister, unawares, and to his own infinite alarm, burst into a great peal of laughter.
+000077|It was immediately responded to by a light, airy, childish laugh, in which, with a thrill of the heart -- but he knew not whether of exquisite pain, or pleasure as acute -- he recognised the tones of little Pearl.
+000078|Pearl!
+000079|"Little Pearl!" cried he, after a moment's pause;
+000080|then, suppressing his voice -- "Hester!"
+000081|Hester Prynne!
+000082|Are you there?
+000083|"Yes; it is Hester Prynne!" she replied, in a tone of surprise;
+000084|and the minister heard her footsteps approaching from the side-walk, along which she had been passing.
+000085|It is I, and my little Pearl.
+000086|"Whence come you, Hester?" asked the minister.
+000087|What sent you hither?
+000088|"I have been watching at a death-bed," answered Hester Prynne "at Governor Winthrop's death-bed, and have taken his measure for a robe, and am now going homeward to my dwelling."
+000089|"Come up hither, Hester, thou and little Pearl," said the Reverend mister Dimmesdale.
+000090|Ye have both been here before, but I was not with you.
+000091|Come up hither once again, and we will stand all three together.
+000092|She silently ascended the steps, and stood on the platform, holding little Pearl by the hand.
+000093|The minister felt for the child's other hand, and took it.
+000094|The moment that he did so, there came what seemed a tumultuous rush of new life, other life than his own pouring like a torrent into his heart, and hurrying through all his veins, as if the mother and the child were communicating their vital warmth to his half-torpid system.
+000095|The three formed an electric chain.
+000096|"Minister!" whispered little Pearl.
+000097|"What wouldst thou say, child?" asked mister Dimmesdale.
+000098|"Wilt thou stand here with mother and me, to-morrow noontide?" inquired Pearl.
+000099|"Nay; not so, my little Pearl," answered the minister;
+000100|for, with the new energy of the moment, all the dread of public exposure, that had so long been the anguish of his life, had returned upon him;
+000101|and he was already trembling at the conjunction in which -- with a strange joy, nevertheless -- he now found himself -- "not so, my child."
+000102|I shall, indeed, stand with thy mother and thee one other day, but not to-morrow.
+000103|Pearl laughed, and attempted to pull away her hand.
+000104|But the minister held it fast.
+000105|"A moment longer, my child!" said he.
+000106|"But wilt thou promise," asked Pearl, "to take my hand, and mother's hand, to-morrow noontide?"
+000107|"Not then, Pearl," said the minister;
+000108|but another time.
+000109|"And what other time?" persisted the child.
+000110|"At the great judgment day," whispered the minister;
+000111|and, strangely enough, the sense that he was a professional teacher of the truth impelled him to answer the child so.
+000112|Then, and there, before the judgment-seat, thy mother, and thou, and I must stand together.
+000113|But the daylight of this world shall not see our meeting!
+000114|Pearl laughed again.
+000115|But before mister Dimmesdale had done speaking, a light gleamed far and wide over all the muffled sky.
+000116|It was doubtless caused by one of those meteors, which the night-watcher may so often observe burning out to waste, in the vacant regions of the atmosphere.
+000117|So powerful was its radiance, that it thoroughly illuminated the dense medium of cloud betwixt the sky and earth.
+000118|The great vault brightened, like the dome of an immense lamp.
+000119|It showed the familiar scene of the street with the distinctness of mid-day, but also with the awfulness that is always imparted to familiar objects by an unaccustomed light.
+000120|The wooden houses, with their jutting storeys and quaint gable-peaks;
+000121|the doorsteps and thresholds with the early grass springing up about them;
+000122|the garden-plots, black with freshly-turned earth;
+000123|the wheel-track, little worn, and even in the market-place margined with green on either side -- all were visible, but with a singularity of aspect that seemed to give another moral interpretation to the things of this world than they had ever borne before.
+000124|And there stood the minister, with his hand over his heart;
+000125|and Hester Prynne, with the embroidered letter glimmering on her bosom;
+000126|and little Pearl, herself a symbol, and the connecting link between those two.
+000127|They stood in the noon of that strange and solemn splendour, as if it were the light that is to reveal all secrets, and the daybreak that shall unite all who belong to one another.
+000128|There was witchcraft in little Pearl's eyes;
+000129|and her face, as she glanced upward at the minister, wore that naughty smile which made its expression frequently so elvish.
+000130|She withdrew her hand from mister Dimmesdale's, and pointed across the street.
+000131|But he clasped both his hands over his breast, and cast his eyes towards the zenith.
+000132|Nothing was more common, in those days, than to interpret all meteoric appearances, and other natural phenomena that occurred with less regularity than the rise and set of sun and moon, as so many revelations from a supernatural source.
+000133|Thus, a blazing spear, a sword of flame, a bow, or a sheaf of arrows seen in the midnight sky, prefigured Indian warfare.
+000134|Pestilence was known to have been foreboded by a shower of crimson light.
+000135|We doubt whether any marked event, for good or evil, ever befell New England, from its settlement down to revolutionary times, of which the inhabitants had not been previously warned by some spectacle of its nature.
+000136|Not seldom, it had been seen by multitudes.
+000137|Oftener, however, its credibility rested on the faith of some lonely eye-witness, who beheld the wonder through the coloured, magnifying, and distorted medium of his imagination, and shaped it more distinctly in his after-thought.
+000138|It was, indeed, a majestic idea that the destiny of nations should be revealed, in these awful hieroglyphics, on the cope of heaven.
+000139|A scroll so wide might not be deemed too expensive for Providence to write a people's doom upon.
+000140|The belief was a favourite one with our forefathers, as betokening that their infant commonwealth was under a celestial guardianship of peculiar intimacy and strictness.
+000141|But what shall we say, when an individual discovers a revelation addressed to himself alone, on the same vast sheet of record.
+000142|In such a case, it could only be the symptom of a highly disordered mental state, when a man, rendered morbidly self-contemplative by long, intense, and secret pain, had extended his egotism over the whole expanse of nature, until the firmament itself should appear no more than a fitting page for his soul's history and fate.
+000143|We impute it, therefore, solely to the disease in his own eye and heart that the minister, looking upward to the zenith, beheld there the appearance of an immense letter -- the letter A -- marked out in lines of dull red light.
+000144|Not but the meteor may have shown itself at that point, burning duskily through a veil of cloud, but with no such shape as his guilty imagination gave it, or, at least, with so little definiteness, that another's guilt might have seen another symbol in it.
+000145|There was a singular circumstance that characterised mister Dimmesdale's psychological state at this moment.
+000146|All the time that he gazed upward to the zenith, he was, nevertheless, perfectly aware that little Pearl was pointing her finger towards old Roger Chillingworth, who stood at no great distance from the scaffold.
+000147|The minister appeared to see him, with the same glance that discerned the miraculous letter.
+000148|To his feature as to all other objects, the meteoric light imparted a new expression;
+000149|or it might well be that the physician was not careful then, as at all other times, to hide the malevolence with which he looked upon his victim.
+000150|Certainly, if the meteor kindled up the sky, and disclosed the earth, with an awfulness that admonished Hester Prynne and the clergyman of the day of judgment, then might Roger Chillingworth have passed with them for the arch-fiend, standing there with a smile and scowl, to claim his own.
+000151|So vivid was the expression, or so intense the minister's perception of it, that it seemed still to remain painted on the darkness after the meteor had vanished, with an effect as if the street and all things else were at once annihilated.
+000152|"Who is that man, Hester?" gasped mister Dimmesdale, overcome with terror.
+000153|I shiver at him!
+000154|Dost thou know the man?
+000155|I hate him, Hester!
+000156|She remembered her oath, and was silent.
+000157|"I tell thee, my soul shivers at him!" muttered the minister again.
+000158|Who is he?
+000159|Who is he?
+000160|Canst thou do nothing for me?
+000161|I have a nameless horror of the man!
+000162|"Minister," said little Pearl, "I can tell thee who he is!"
+000163|"Quickly, then, child!" said the minister, bending his ear close to her lips.
+000164|Quickly, and as low as thou canst whisper.
+000165|Pearl mumbled something into his ear that sounded, indeed, like human language, but was only such gibberish as children may be heard amusing themselves with by the hour together.
+000166|At all events, if it involved any secret information in regard to old Roger Chillingworth, it was in a tongue unknown to the erudite clergyman, and did but increase the bewilderment of his mind.
+000167|The elvish child then laughed aloud.
+000168|"Dost thou mock me now?" said the minister.
+000169|"Thou wast not bold! -- thou wast not true!" answered the child.
+000170|Thou wouldst not promise to take my hand, and mother's hand, to-morrow noon-tide!
+000171|"Worthy sir," answered the physician, who had now advanced to the foot of the platform -- "pious Master Dimmesdale!"
+000172|can this be you?
+000173|Well, well, indeed!
+000174|We men of study, whose heads are in our books, have need to be straitly looked after!
+000175|We dream in our waking moments, and walk in our sleep.
+000176|Come, good sir, and my dear friend, I pray you let me lead you home!
+000177|"How knewest thou that I was here?" asked the minister, fearfully.
+000178|"Verily, and in good faith," answered Roger Chillingworth, "I knew nothing of the matter."
+000179|I had spent the better part of the night at the bedside of the worshipful Governor Winthrop, doing what my poor skill might to give him ease.
+000180|He, going home to a better world, I, likewise, was on my way homeward, when this light shone out.
+000181|Come with me, I beseech you, Reverend sir, else you will be poorly able to do Sabbath duty to-morrow.
+000182|Aha! see now how they trouble the brain -- these books! -- these books!
+000183|You should study less, good sir, and take a little pastime, or these night whimsies will grow upon you.
+000184|"I will go home with you," said mister Dimmesdale.
+000185|With a chill despondency, like one awakening, all nerveless, from an ugly dream, he yielded himself to the physician, and was led away.
+000186|The next day, however, being the Sabbath, he preached a discourse which was held to be the richest and most powerful, and the most replete with heavenly influences, that had ever proceeded from his lips.
+000187|Souls, it is said, more souls than one, were brought to the truth by the efficacy of that sermon, and vowed within themselves to cherish a holy gratitude towards mister Dimmesdale throughout the long hereafter.
+000188|But as he came down the pulpit steps, the grey-bearded sexton met him, holding up a black glove, which the minister recognised as his own.
+000189|"It was found," said the Sexton, "this morning on the scaffold where evil-doers are set up to public shame."
+000190|Satan dropped it there, I take it, intending a scurrilous jest against your reverence.
+000191|But, indeed, he was blind and foolish, as he ever and always is.
+000192|A pure hand needs no glove to cover it!
+000193|"Thank you, my good friend," said the minister, gravely, but startled at heart;
+000194|for so confused was his remembrance, that he had almost brought himself to look at the events of the past night as visionary.
+000195|Yes, it seems to be my glove, indeed!
+000196|"And, since Satan saw fit to steal it, your reverence must needs handle him without gloves henceforward," remarked the old sexton, grimly smiling.
+000197|But did your reverence hear of the portent that was seen last night?
+000198|a great red letter in the sky -- the letter A, which we interpret to stand for Angel.
+000199|For, as our good Governor Winthrop was made an angel this past night, it was doubtless held fit that there should be some notice thereof!
+000200|"No," answered the minister;

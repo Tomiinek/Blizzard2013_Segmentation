@@ -1,0 +1,150 @@
+000001|When the boy opened his eyes next morning he looked carefully around the room.
+000002|These small Munchkin houses seldom had more than one room in them.
+000003|That in which Ojo now found himself had three beds, set all in a row on one side of it.
+000004|The Glass Cat lay asleep on one bed, Ojo was in the second, and the third was neatly made up and smoothed for the day.
+000005|On the other side of the room was a round table on which breakfast was already placed, smoking hot.
+000006|Only one chair was drawn up to the table, where a place was set for one person.
+000007|No one seemed to be in the room except the boy and Bungle.
+000008|Ojo got up and put on his shoes.
+000009|Finding a toilet stand at the head of his bed he washed his face and hands and brushed his hair.
+000010|Then he went to the table and said:
+000011|I wonder if this is my breakfast?
+000012|"Eat it!" commanded a Voice at his side, so near that Ojo jumped.
+000013|But no person could he see.
+000014|He was hungry, and the breakfast looked good;
+000015|so he sat down and ate all he wanted.
+000016|Then, rising, he took his hat and wakened the Glass Cat.
+000017|"Come on, Bungle," said he;
+000018|we must go.
+000019|He cast another glance about the room and, speaking to the air, he said: "Whoever lives here has been kind to me, and I'm much obliged."
+000020|There was no answer, so he took his basket and went out the door, the cat following him.
+000021|In the middle of the path sat the Patchwork Girl, playing with pebbles she had picked up.
+000022|"Oh, there you are!" she exclaimed cheerfully.
+000023|I thought you were never coming out.
+000024|It has been daylight a long time.
+000025|"What did you do all night?" asked the boy.
+000026|"Sat here and watched the stars and the moon," she replied.
+000027|They're interesting.
+000028|I never saw them before, you know.
+000029|"Of course not," said Ojo.
+000030|"You were crazy to act so badly and get thrown outdoors," remarked Bungle, as they renewed their journey.
+000031|"That's all right," said Scraps.
+000032|If I hadn't been thrown out I wouldn't have seen the stars, nor the big gray wolf.
+000033|"What wolf?" inquired Ojo.
+000034|The one that came to the door of the house three times during the night.
+000035|"I don't see why that should be," said the boy, thoughtfully;
+000036|there was plenty to eat in that house, for I had a fine breakfast, and I slept in a nice bed.
+000037|"Don't you feel tired?" asked the Patchwork Girl, noticing that the boy yawned.
+000038|Why, yes;
+000039|I'm as tired as I was last night;
+000040|and yet I slept very well.
+000041|And aren't you hungry?
+000042|"It's strange," replied Ojo.
+000043|I had a good breakfast, and yet I think I'll now eat some of my crackers and cheese.
+000044|Scraps danced up and down the path.
+000045|Then she sang:
+000046|Kizzle-kazzle-kore;
+000047|The wolf is at the door, There's nothing to eat but a bone without meat, And a bill from the grocery store.
+000048|"What does that mean?" asked Ojo.
+000049|"Don't ask me," replied Scraps.
+000050|I say what comes into my head, but of course I know nothing of a grocery store or bones without meat or -- very much else.
+000051|"No," said the cat;
+000052|she's stark, staring, raving crazy, and her brains can't be pink, for they don't work properly.
+000053|"Bother the brains!" cried Scraps.
+000054|Who cares for 'em, anyhow?
+000055|Have you noticed how beautiful my patches are in this sunlight?
+000056|Just then they heard a sound as of footsteps pattering along the path behind them and all three turned to see what was coming.
+000057|To their astonishment they beheld a small round table running as fast as its four spindle legs could carry it, and to the top was screwed fast a phonograph with a big gold horn.
+000058|"Hold on!" shouted the phonograph.
+000059|Wait for me!
+000060|Goodness me;
+000061|"it's that music thing which the Crooked Magician scattered the Powder of Life over," said Ojo.
+000062|"So it is," returned Bungle, in a grumpy tone of voice;
+000063|and then, as the phonograph overtook them, the Glass Cat added sternly: "What are you doing here, anyhow?"
+000064|"I've run away," said the music thing.
+000065|After you left, old doctor Pipt and I had a dreadful quarrel and he threatened to smash me to pieces if I didn't keep quiet.
+000066|Of course I wouldn't do that, because a talking-machine is supposed to talk and make a noise -- and sometimes music.
+000067|So I slipped out of the house while the Magician was stirring his four kettles and I've been running after you all night.
+000068|Now that I've found such pleasant company, I can talk and play tunes all I want to.
+000069|Ojo was greatly annoyed by this unwelcome addition to their party.
+000070|At first he did not know what to say to the newcomer, but a little thought decided him not to make friends.
+000071|"We are traveling on important business," he declared, "and you'll excuse me if I say we can't be bothered."
+000072|"How very impolite!" exclaimed the phonograph.
+000073|I'm sorry;
+000074|"but it's true," said the boy.
+000075|You'll have to go somewhere else.
+000076|"This is very unkind treatment, I must say," whined the phonograph, in an injured tone.
+000077|Everyone seems to hate me, and yet I was intended to amuse people.
+000078|"It isn't you we hate, especially," observed the Glass Cat;
+000079|it's your dreadful music.
+000080|When I lived in the same room with you I was much annoyed by your squeaky horn.
+000081|It growls and grumbles and clicks and scratches so it spoils the music, and your machinery rumbles so that the racket drowns every tune you attempt.
+000082|That isn't my fault;
+000083|it's the fault of my records.
+000084|"I must admit that I haven't a clear record," answered the machine.
+000085|"Just the same, you'll have to go away," said Ojo.
+000086|"Wait a minute," cried Scraps.
+000087|This music thing interests me.
+000088|I remember to have heard music when I first came to life, and I would like to hear it again.
+000089|What is your name, my poor abused phonograph?
+000090|"Victor Columbia Edison," it answered.
+000091|"Well, I shall call you 'Vic' for short," said the Patchwork Girl.
+000092|Go ahead and play something.
+000093|"It'll drive you crazy," warned the cat.
+000094|I'm crazy now, according to your statement.
+000095|Loosen up and reel out the music, Vic.
+000096|"The only record I have with me," explained the phonograph, "is one the Magician attached just before we had our quarrel."
+000097|It's a highly classical composition.
+000098|"A what?" inquired Scraps.
+000099|It is classical music, and is considered the best and most puzzling ever manufactured.
+000100|You're supposed to like it, whether you do or not, and if you don't, the proper thing is to look as if you did.
+000101|Understand?
+000102|"Not in the least," said Scraps.
+000103|Then, listen!
+000104|At once the machine began to play and in a few minutes Ojo put his hands to his ears to shut out the sounds and the cat snarled and Scraps began to laugh.
+000105|"Cut it out, Vic," she said.
+000106|That's enough.
+000107|But the phonograph continued playing the dreary tune, so Ojo seized the crank, jerked it free and threw it into the road.
+000108|However, the moment the crank struck the ground it bounded back to the machine again and began winding it up.
+000109|And still the music played.
+000110|"Let's run!" cried Scraps, and they all started and ran down the path as fast as they could go.
+000111|But the phonograph was right behind them and could run and play at the same time.
+000112|It called out, reproachfully:
+000113|What's the matter?
+000114|Don't you love classical music?
+000115|"No, Vic," said Scraps, halting.
+000116|We will passical the classical and preserve what joy we have left.
+000117|I haven't any nerves, thank goodness, but your music makes my cotton shrink.
+000118|Then turn over my record.
+000119|"There's a rag-time tune on the other side," said the machine.
+000120|What's rag-time?
+000121|The opposite of classical.
+000122|"All right," said Scraps, and turned over the record.
+000123|The phonograph now began to play a jerky jumble of sounds which proved so bewildering that after a moment Scraps stuffed her patchwork apron into the gold horn and cried: "Stop -- stop!"
+000124|That's the other extreme.
+000125|It's extremely bad!
+000126|Muffled as it was, the phonograph played on.
+000127|"If you don't shut off that music I'll smash your record," threatened Ojo.
+000128|The music stopped, at that, and the machine turned its horn from one to another and said with great indignation: "What's the matter now?"
+000129|Is it possible you can't appreciate rag-time?
+000130|"Scraps ought to, being rags herself," said the cat;
+000131|but I simply can't stand it;
+000132|it makes my whiskers curl.
+000133|"It is, indeed, dreadful!" exclaimed Ojo, with a shudder.
+000134|"It's enough to drive a crazy lady mad," murmured the Patchwork Girl.
+000135|"I'll tell you what, Vic," she added as she smoothed out her apron and put it on again, "for some reason or other you've missed your guess."
+000136|You're not a concert;
+000137|you're a nuisance.
+000138|"Music hath charms to soothe the savage breast," asserted the phonograph sadly.
+000139|Then we're not savages.
+000140|I advise you to go home and beg the Magician's pardon.
+000141|Never!
+000142|He'd smash me.
+000143|"That's what we shall do, if you stay here," Ojo declared.
+000144|"Run along, Vic, and bother some one else," advised Scraps.
+000145|Find some one who is real wicked, and stay with him till he repents.
+000146|In that way you can do some good in the world.
+000147|The music thing turned silently away and trotted down a side path, toward a distant Munchkin village.
+000148|"Is that the way we go?" asked Bungle anxiously.
+000149|"No," said Ojo;
+000150|I think we shall keep straight ahead, for this path is the widest and best.

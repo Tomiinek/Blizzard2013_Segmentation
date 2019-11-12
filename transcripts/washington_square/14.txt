@@ -1,0 +1,226 @@
+000001|he wrote his frank letter to misess Montgomery, who punctually answered it, mentioning an hour at which he might present himself in the Second Avenue.
+000002|She lived in a neat little house of red brick, which had been freshly painted, with the edges of the bricks very sharply marked out in white.
+000003|It has now disappeared, with its companions, to make room for a row of structures more majestic.
+000004|There were green shutters upon the windows, without slats, but pierced with little holes, arranged in groups;
+000005|and before the house was a diminutive yard, ornamented with a bush of mysterious character, and surrounded by a low wooden paling, painted in the same green as the shutters.
+000006|The place looked like a magnified baby-house, and might have been taken down from a shelf in a toy-shop.
+000007|doctor Sloper, when he went to call, said to himself, as he glanced at the objects I have enumerated, that misess Montgomery was evidently a thrifty and self-respecting little person -- the modest proportions of her dwelling seemed to indicate that she was of small stature -- who took a virtuous satisfaction in keeping herself tidy, and had resolved that, since she might not be splendid, she would at least be immaculate.
+000008|She received him in a little parlour, which was precisely the parlour he had expected: a small unspeckled bower, ornamented with a desultory foliage of tissue-paper, and with clusters of glass drops, amid which -- to carry out the analogy -- the temperature of the leafy season was maintained by means of a cast-iron stove, emitting a dry blue flame, and smelling strongly of varnish.
+000009|The walls were embellished with engravings swathed in pink gauze, and the tables ornamented with volumes of extracts from the poets, usually bound in black cloth stamped with florid designs in jaundiced gilt.
+000010|The Doctor had time to take cognisance of these details, for misess Montgomery, whose conduct he pronounced under the circumstances inexcusable, kept him waiting some ten minutes before she appeared.
+000011|At last, however, she rustled in, smoothing down a stiff poplin dress, with a little frightened flush in a gracefully-rounded cheek.
+000012|She was a small, plump, fair woman, with a bright, clear eye, and an extraordinary air of neatness and briskness.
+000013|But these qualities were evidently combined with an unaffected humility, and the Doctor gave her his esteem as soon as he had looked at her.
+000014|A brave little person, with lively perceptions, and yet a disbelief in her own talent for social, as distinguished from practical, affairs -- this was his rapid mental resume of misess Montgomery, who, as he saw, was flattered by what she regarded as the honour of his visit.
+000015|misess Montgomery, in her little red house in the Second Avenue, was a person for whom doctor Sloper was one of the great men, one of the fine gentlemen of New York;
+000016|and while she fixed her agitated eyes upon him, while she clasped her mittened hands together in her glossy poplin lap, she had the appearance of saying to herself that he quite answered her idea of what a distinguished guest would naturally be.
+000017|She apologised for being late;
+000018|but he interrupted her.
+000019|"It doesn't matter," he said;
+000020|for while I sat here I had time to think over what I wish to say to you, and to make up my mind how to begin.
+000021|"Oh, do begin!" murmured misess Montgomery.
+000022|"It is not so easy," said the Doctor, smiling.
+000023|You will have gathered from my letter that I wish to ask you a few questions, and you may not find it very comfortable to answer them.
+000024|Yes;
+000025|I have thought what I should say.
+000026|It is not very easy.
+000027|But you must understand my situation -- my state of mind.
+000028|Your brother wishes to marry my daughter, and I wish to find out what sort of a young man he is.
+000029|A good way to do so seemed to be to come and ask you;
+000030|which I have proceeded to do.
+000031|misess Montgomery evidently took the situation very seriously;
+000032|she was in a state of extreme moral concentration.
+000033|She kept her pretty eyes, which were illumined by a sort of brilliant modesty, attached to his own countenance, and evidently paid the most earnest attention to each of his words.
+000034|Her expression indicated that she thought his idea of coming to see her a very superior conception, but that she was really afraid to have opinions on strange subjects.
+000035|"I am extremely glad to see you," she said, in a tone which seemed to admit, at the same time, that this had nothing to do with the question.
+000036|The Doctor took advantage of this admission.
+000037|I didn't come to see you for your pleasure;
+000038|I came to make you say disagreeable things -- and you can't like that.
+000039|What sort of a gentleman is your brother?
+000040|misess Montgomery's illuminated gaze grew vague, and began to wander.
+000041|She smiled a little, and for some time made no answer, so that the Doctor at last became impatient.
+000042|And her answer, when it came, was not satisfactory.
+000043|It is difficult to talk about one's brother.
+000044|Not when one is fond of him, and when one has plenty of good to say.
+000045|"Yes, even then, when a good deal depends on it," said misess Montgomery.
+000046|Nothing depends on it, for you.
+000047|"I mean for -- for -- " and she hesitated.
+000048|For your brother himself.
+000049|I see!
+000050|"I mean for Miss Sloper," said misess Montgomery.
+000051|The Doctor liked this;
+000052|it had the accent of sincerity.
+000053|Exactly;
+000054|that's the point.
+000055|If my poor girl should marry your brother, everything -- as regards her happiness -- would depend on his being a good fellow.
+000056|She is the best creature in the world, and she could never do him a grain of injury.
+000057|He, on the other hand, if he should not be all that we desire, might make her very miserable.
+000058|That is why I want you to throw some light upon his character, you know.
+000059|Of course you are not bound to do it.
+000060|My daughter, whom you have never seen, is nothing to you;
+000061|and I, possibly, am only an indiscreet and impertinent old man.
+000062|It is perfectly open to you to tell me that my visit is in very bad taste and that I had better go about my business.
+000063|But I don't think you will do this;
+000064|because I think we shall interest you, my poor girl and I.
+000065|I am sure that if you were to see Catherine, she would interest you very much.
+000066|I don't mean because she is interesting in the usual sense of the word, but because you would feel sorry for her.
+000067|She is so soft, so simple-minded, she would be such an easy victim!
+000068|A bad husband would have remarkable facilities for making her miserable;
+000069|for she would have neither the intelligence nor the resolution to get the better of him, and yet she would have an exaggerated power of suffering.
+000070|"I see," added the Doctor, with his most insinuating, his most professional laugh, "you are already interested!"
+000071|"I have been interested from the moment he told me he was engaged," said misess Montgomery.
+000072|Ah!
+000073|he says that -- he calls it an engagement?
+000074|Oh, he has told me you didn't like it.
+000075|Did he tell you that I don't like him?
+000076|Yes, he told me that too.
+000077|"I said I couldn't help it!" added misess Montgomery.
+000078|Of course you can't.
+000079|But what you can do is to tell me I am right -- to give me an attestation, as it were.
+000080|And the Doctor accompanied this remark with another professional smile.
+000081|misess Montgomery, however, smiled not at all;
+000082|it was obvious that she could not take the humorous view of his appeal.
+000083|"That is a good deal to ask," she said at last.
+000084|There can be no doubt of that;
+000085|and I must, in conscience, remind you of the advantages a young man marrying my daughter would enjoy.
+000086|She has an income of ten thousand dollars in her own right, left her by her mother;
+000087|if she marries a husband I approve, she will come into almost twice as much more at my death.
+000088|misess Montgomery listened in great earnestness to this splendid financial statement;
+000089|she had never heard thousands of dollars so familiarly talked about.
+000090|She flushed a little with excitement.
+000091|"Your daughter will be immensely rich," she said softly.
+000092|Precisely -- that's the bother of it.
+000093|"And if Morris should marry her, he -- he -- " And she hesitated timidly.
+000094|He would be master of all that money?
+000095|By no means.
+000096|He would be master of the ten thousand a year that she has from her mother;
+000097|but I should leave every penny of my own fortune, earned in the laborious exercise of my profession, to public institutions.
+000098|misess Montgomery dropped her eyes at this, and sat for some time gazing at the straw matting which covered her floor.
+000099|"I suppose it seems to you," said the Doctor, laughing, "that in so doing I should play your brother a very shabby trick."
+000100|Not at all.
+000101|That is too much money to get possession of so easily, by marrying.
+000102|I don't think it would be right.
+000103|It's right to get all one can.
+000104|But in this case your brother wouldn't be able.
+000105|If Catherine marries without my consent, she doesn't get a penny from my own pocket.
+000106|"Is that certain?" asked misess Montgomery, looking up.
+000107|As certain as that I sit here!
+000108|Even if she should pine away?
+000109|Even if she should pine to a shadow, which isn't probable.
+000110|Does Morris know this?
+000111|"I shall be most happy to inform him!" the Doctor exclaimed.
+000112|misess Montgomery resumed her meditations, and her visitor, who was prepared to give time to the affair, asked himself whether, in spite of her little conscientious air, she was not playing into her brother's hands.
+000113|At the same time he was half ashamed of the ordeal to which he had subjected her, and was touched by the gentleness with which she bore it.
+000114|"If she were a humbug," he said, "she would get angry;"
+000115|unless she be very deep indeed.
+000116|It is not probable that she is as deep as that.
+000117|"What makes you dislike Morris so much?" she presently asked, emerging from her reflexions.
+000118|I don't dislike him in the least as a friend, as a companion.
+000119|He seems to me a charming fellow, and I should think he would be excellent company.
+000120|I dislike him, exclusively, as a son-in-law.
+000121|If the only office of a son-in-law were to dine at the paternal table, I should set a high value upon your brother.
+000122|He dines capitally.
+000123|But that is a small part of his function, which, in general, is to be a protector and caretaker of my child, who is singularly ill-adapted to take care of herself.
+000124|It is there that he doesn't satisfy me.
+000125|I confess I have nothing but my impression to go by;
+000126|but I am in the habit of trusting my impression.
+000127|Of course you are at liberty to contradict it flat.
+000128|He strikes me as selfish and shallow.
+000129|misess Montgomery's eyes expanded a little, and the Doctor fancied he saw the light of admiration in them.
+000130|"I wonder you have discovered he is selfish!" she exclaimed.
+000131|Do you think he hides it so well?
+000132|"Very well indeed," said misess Montgomery.
+000133|"And I think we are all rather selfish," she added quickly.
+000134|I think so too;
+000135|but I have seen people hide it better than he.
+000136|You see I am helped by a habit I have of dividing people into classes, into types.
+000137|I may easily be mistaken about your brother as an individual, but his type is written on his whole person.
+000138|"He is very good-looking," said misess Montgomery.
+000139|The Doctor eyed her a moment.
+000140|You women are all the same!
+000141|But the type to which your brother belongs was made to be the ruin of you, and you were made to be its handmaids and victims.
+000142|The sign of the type in question is the determination -- sometimes terrible in its quiet intensity -- to accept nothing of life but its pleasures, and to secure these pleasures chiefly by the aid of your complaisant sex.
+000143|Young men of this class never do anything for themselves that they can get other people to do for them, and it is the infatuation, the devotion, the superstition of others that keeps them going.
+000144|These others in ninety-nine cases out of a hundred are women.
+000145|What our young friends chiefly insist upon is that some one else shall suffer for them;
+000146|and women do that sort of thing, as you must know, wonderfully well.
+000147|The Doctor paused a moment, and then he added abruptly, "You have suffered immensely for your brother!"
+000148|This exclamation was abrupt, as I say, but it was also perfectly calculated.
+000149|The Doctor had been rather disappointed at not finding his compact and comfortable little hostess surrounded in a more visible degree by the ravages of Morris Townsend's immorality;
+000150|but he had said to himself that this was not because the young man had spared her, but because she had contrived to plaster up her wounds.
+000151|They were aching there, behind the varnished stove, the festooned engravings, beneath her own neat little poplin bosom;
+000152|and if he could only touch the tender spot, she would make a movement that would betray her.
+000153|The words I have just quoted were an attempt to put his finger suddenly upon the place;
+000154|and they had some of the success that he looked for.
+000155|The tears sprang for a moment to misess Montgomery's eyes, and she indulged in a proud little jerk of the head.
+000156|"I don't know how you have found that out!" she exclaimed.
+000157|By a philosophic trick -- by what they call induction.
+000158|You know you have always your option of contradicting me.
+000159|But kindly answer me a question.
+000160|Don't you give your brother money?
+000161|I think you ought to answer that.
+000162|"Yes, I have given him money," said misess Montgomery.
+000163|And you have not had much to give him?
+000164|She was silent a moment.
+000165|If you ask me for a confession of poverty, that is easily made.
+000166|I am very poor.
+000167|"One would never suppose it from your -- your charming house," said the Doctor.
+000168|I learned from my sister that your income was moderate, and your family numerous.
+000169|"I have five children," misess Montgomery observed;
+000170|but I am happy to say I can bring them up decently.
+000171|Of course you can -- accomplished and devoted as you are!
+000172|But your brother has counted them over, I suppose?
+000173|Counted them over?
+000174|He knows there are five, I mean.
+000175|He tells me it is he that brings them up.
+000176|misess Montgomery stared a moment, and then quickly -- "Oh yes;"
+000177|he teaches them Spanish.
+000178|The Doctor laughed out.
+000179|That must take a great deal off your hands!
+000180|Your brother also knows, of course, that you have very little money.
+000181|"I have often told him so!" misess Montgomery exclaimed, more unreservedly than she had yet spoken.
+000182|She was apparently taking some comfort in the Doctor's clairvoyancy.
+000183|Which means that you have often occasion to, and that he often sponges on you.
+000184|Excuse the crudity of my language;
+000185|I simply express a fact.
+000186|I don't ask you how much of your money he has had, it is none of my business.
+000187|I have ascertained what I suspected -- what I wished.
+000188|And the Doctor got up, gently smoothing his hat.
+000189|"Your brother lives on you," he said as he stood there.
+000190|misess Montgomery quickly rose from her chair, following her visitor's movements with a look of fascination.
+000191|But then, with a certain inconsequence -- "I have never complained of him!" she said.
+000192|You needn't protest -- you have not betrayed him.
+000193|But I advise you not to give him any more money.
+000194|"Don't you see it is in my interest that he should marry a rich person?" she asked.
+000195|If, as you say, he lives on me, I can only wish to get rid of him, and to put obstacles in the way of his marrying is to increase my own difficulties.
+000196|"I wish very much you would come to me with your difficulties," said the Doctor.
+000197|Certainly, if I throw him back on your hands, the least I can do is to help you to bear the burden.
+000198|If you will allow me to say so, then, I shall take the liberty of placing in your hands, for the present, a certain fund for your brother's support.
+000199|misess Montgomery stared;
+000200|she evidently thought he was jesting;
+000201|but she presently saw that he was not, and the complication of her feelings became painful.
+000202|"It seems to me that I ought to be very much offended with you," she murmured.
+000203|Because I have offered you money?
+000204|"That's a superstition," said the Doctor.
+000205|You must let me come and see you again, and we will talk about these things.
+000206|I suppose that some of your children are girls.
+000207|"I have two little girls," said misess Montgomery.
+000208|Well, when they grow up, and begin to think of taking husbands, you will see how anxious you will be about the moral character of these gentlemen.
+000209|Then you will understand this visit of mine!
+000210|Ah, you are not to believe that Morris's moral character is bad!
+000211|The Doctor looked at her a little, with folded arms.
+000212|There is something I should greatly like -- as a moral satisfaction.
+000213|I should like to hear you say -- 'He is abominably selfish!'
+000214|The words came out with the grave distinctness of his voice, and they seemed for an instant to create, to poor misess Montgomery's troubled vision, a material image.
+000215|She gazed at it an instant, and then she turned away.
+000216|"You distress me, sir!" she exclaimed.
+000217|"He is, after all, my brother, and his talents, his talents -- " On these last words her voice quavered, and before he knew it she had burst into tears.
+000218|"His talents are first-rate!" said the Doctor.
+000219|We must find a proper field for them!
+000220|And he assured her most respectfully of his regret at having so greatly discomposed her.
+000221|"It's all for my poor Catherine," he went on.
+000222|You must know her, and you will see.
+000223|misess Montgomery brushed away her tears, and blushed at having shed them.
+000224|"I should like to know your daughter," she answered;
+000225|and then, in an instant -- "Don't let her marry him!"
+000226|doctor Sloper went away with the words gently humming in his ears -- "Don't let her marry him!"

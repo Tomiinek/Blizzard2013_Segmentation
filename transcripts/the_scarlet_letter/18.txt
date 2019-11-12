@@ -1,0 +1,232 @@
+000001|Slowly as the minister walked, he had almost gone by before Hester Prynne could gather voice enough to attract his observation.
+000002|At length she succeeded.
+000003|"Arthur Dimmesdale!" she said, faintly at first, then louder, but hoarsely -- "Arthur Dimmesdale!"
+000004|"Who speaks?" answered the minister.
+000005|Gathering himself quickly up, he stood more erect, like a man taken by surprise in a mood to which he was reluctant to have witnesses.
+000006|Throwing his eyes anxiously in the direction of the voice, he indistinctly beheld a form under the trees, clad in garments so sombre, and so little relieved from the gray twilight into which the clouded sky and the heavy foliage had darkened the noontide, that he knew not whether it were a woman or a shadow.
+000007|It may be that his pathway through life was haunted thus by a spectre that had stolen out from among his thoughts.
+000008|He made a step nigher, and discovered the scarlet letter.
+000009|Hester!
+000010|"Hester Prynne!", said he;
+000011|is it thou?
+000012|Art thou in life?
+000013|"Even so." she answered.
+000014|In such life as has been mine these seven years past!
+000015|And thou, Arthur Dimmesdale, dost thou yet live?
+000016|It was no wonder that they thus questioned one another's actual and bodily existence, and even doubted of their own.
+000017|So strangely did they meet in the dim wood that it was like the first encounter in the world beyond the grave of two spirits who had been intimately connected in their former life, but now stood coldly shuddering in mutual dread, as not yet familiar with their state, nor wonted to the companionship of disembodied beings.
+000018|Each a ghost, and awe-stricken at the other ghost.
+000019|They were awe-stricken likewise at themselves, because the crisis flung back to them their consciousness, and revealed to each heart its history and experience, as life never does, except at such breathless epochs.
+000020|The soul beheld its features in the mirror of the passing moment.
+000021|It was with fear, and tremulously, and, as it were, by a slow, reluctant necessity, that Arthur Dimmesdale put forth his hand, chill as death, and touched the chill hand of Hester Prynne.
+000022|The grasp, cold as it was, took away what was dreariest in the interview.
+000023|They now felt themselves, at least, inhabitants of the same sphere.
+000024|Without a word more spoken -- neither he nor she assuming the guidance, but with an unexpressed consent -- they glided back into the shadow of the woods whence Hester had emerged, and sat down on the heap of moss where she and Pearl had before been sitting.
+000025|When they found voice to speak, it was at first only to utter remarks and inquiries such as any two acquaintances might have made, about the gloomy sky, the threatening storm, and, next, the health of each.
+000026|Thus they went onward, not boldly, but step by step, into the themes that were brooding deepest in their hearts.
+000027|So long estranged by fate and circumstances, they needed something slight and casual to run before and throw open the doors of intercourse, so that their real thoughts might be led across the threshold.
+000028|After awhile, the minister fixed his eyes on Hester Prynne's.
+000029|"Hester," said he, "hast thou found peace?"
+000030|She smiled drearily, looking down upon her bosom.
+000031|"Hast thou?" she asked.
+000032|"None -- nothing but despair!" he answered.
+000033|What else could I look for, being what I am, and leading such a life as mine?
+000034|Were I an atheist -- a man devoid of conscience -- a wretch with coarse and brutal instincts -- I might have found peace long ere now.
+000035|Nay, I never should have lost it.
+000036|But, as matters stand with my soul, whatever of good capacity there originally was in me, all of God's gifts that were the choicest have become the ministers of spiritual torment.
+000037|Hester, I am most miserable!
+000038|"The people reverence thee," said Hester.
+000039|And surely thou workest good among them!
+000040|Doth this bring thee no comfort?
+000041|"More misery, Hester! -- Only the more misery!" answered the clergyman with a bitter smile.
+000042|As concerns the good which I may appear to do, I have no faith in it.
+000043|It must needs be a delusion.
+000044|What can a ruined soul like mine effect towards the redemption of other souls? -- or a polluted soul towards their purification?
+000045|And as for the people's reverence, would that it were turned to scorn and hatred!
+000046|Canst thou deem it, Hester, a consolation that I must stand up in my pulpit, and meet so many eyes turned upward to my face, as if the light of heaven were beaming from it! -- must see my flock hungry for the truth, and listening to my words as if a tongue of Pentecost were speaking! -- and then look inward, and discern the black reality of what they idolise?
+000047|I have laughed, in bitterness and agony of heart, at the contrast between what I seem and what I am!
+000048|And Satan laughs at it!
+000049|"You wrong yourself in this," said Hester gently.
+000050|You have deeply and sorely repented.
+000051|Your sin is left behind you in the days long past.
+000052|Your present life is not less holy, in very truth, than it seems in people's eyes.
+000053|Is there no reality in the penitence thus sealed and witnessed by good works?
+000054|And wherefore should it not bring you peace?
+000055|"No, Hester -- no!" replied the clergyman.
+000056|There is no substance in it!
+000057|It is cold and dead, and can do nothing for me!
+000058|Of penance, I have had enough!
+000059|Of penitence, there has been none!
+000060|Else, I should long ago have thrown off these garments of mock holiness, and have shown myself to mankind as they will see me at the judgment-seat.
+000061|Happy are you, Hester, that wear the scarlet letter openly upon your bosom!
+000062|Mine burns in secret!
+000063|Thou little knowest what a relief it is, after the torment of a seven years' cheat, to look into an eye that recognises me for what I am!
+000064|Had I one friend -- or were it my worst enemy! -- to whom, when sickened with the praises of all other men, I could daily betake myself, and be known as the vilest of all sinners, methinks my soul might keep itself alive thereby.
+000065|Even thus much of truth would save me!
+000066|But now, it is all falsehood! -- all emptiness! -- all death!
+000067|Hester Prynne looked into his face, but hesitated to speak.
+000068|Yet, uttering his long-restrained emotions so vehemently as he did, his words here offered her the very point of circumstances in which to interpose what she came to say.
+000069|She conquered her fears, and spoke:
+000070|"Such a friend as thou hast even now wished for," said she, "with whom to weep over thy sin, thou hast in me, the partner of it!"
+000071|Again she hesitated, but brought out the words with an effort.
+000072|Thou hast long had such an enemy, and dwellest with him, under the same roof!
+000073|The minister started to his feet, gasping for breath, and clutching at his heart, as if he would have torn it out of his bosom.
+000074|Ha!
+000075|"What sayest thou?" cried he.
+000076|An enemy!
+000077|And under mine own roof!
+000078|What mean you?
+000079|Hester Prynne was now fully sensible of the deep injury for which she was responsible to this unhappy man, in permitting him to lie for so many years, or, indeed, for a single moment, at the mercy of one whose purposes could not be other than malevolent.
+000080|The very contiguity of his enemy, beneath whatever mask the latter might conceal himself, was enough to disturb the magnetic sphere of a being so sensitive as Arthur Dimmesdale.
+000081|There had been a period when Hester was less alive to this consideration;
+000082|or, perhaps, in the misanthropy of her own trouble, she left the minister to bear what she might picture to herself as a more tolerable doom.
+000083|But of late, since the night of his vigil, all her sympathies towards him had been both softened and invigorated.
+000084|She now read his heart more accurately.
+000085|She doubted not that the continual presence of Roger Chillingworth -- the secret poison of his malignity, infecting all the air about him -- and his authorised interference, as a physician, with the minister's physical and spiritual infirmities -- that these bad opportunities had been turned to a cruel purpose.
+000086|By means of them, the sufferer's conscience had been kept in an irritated state, the tendency of which was, not to cure by wholesome pain, but to disorganize and corrupt his spiritual being.
+000087|Its result, on earth, could hardly fail to be insanity, and hereafter, that eternal alienation from the Good and True, of which madness is perhaps the earthly type.
+000088|Such was the ruin to which she had brought the man, once -- nay, why should we not speak it? -- still so passionately loved!
+000089|Hester felt that the sacrifice of the clergyman's good name, and death itself, as she had already told Roger Chillingworth, would have been infinitely preferable to the alternative which she had taken upon herself to choose.
+000090|And now, rather than have had this grievous wrong to confess, she would gladly have laid down on the forest leaves, and died there, at Arthur Dimmesdale's feet.
+000091|"Oh, Arthur!" cried she, "forgive me!"
+000092|In all things else, I have striven to be true!
+000093|Truth was the one virtue which I might have held fast, and did hold fast, through all extremity;
+000094|save when thy good -- thy life -- thy fame -- were put in question!
+000095|Then I consented to a deception.
+000096|But a lie is never good, even though death threaten on the other side!
+000097|Dost thou not see what I would say?
+000098|That old man! -- the physician! -- he whom they call Roger Chillingworth! -- he was my husband!
+000099|The minister looked at her for an instant, with all that violence of passion, which -- intermixed in more shapes than one with his higher, purer, softer qualities -- was, in fact, the portion of him which the devil claimed, and through which he sought to win the rest.
+000100|Never was there a blacker or a fiercer frown than Hester now encountered.
+000101|For the brief space that it lasted, it was a dark transfiguration.
+000102|But his character had been so much enfeebled by suffering, that even its lower energies were incapable of more than a temporary struggle.
+000103|He sank down on the ground, and buried his face in his hands.
+000104|"I might have known it," murmured he -- "I did know it!"
+000105|Was not the secret told me, in the natural recoil of my heart at the first sight of him, and as often as I have seen him since?
+000106|Why did I not understand?
+000107|Oh, Hester Prynne, thou little, little knowest all the horror of this thing!
+000108|And the shame! -- the indelicacy! -- the horrible ugliness of this exposure of a sick and guilty heart to the very eye that would gloat over it!
+000109|Woman, woman, thou art accountable for this! -- I cannot forgive thee!
+000110|"Thou shalt forgive me!" cried Hester, flinging herself on the fallen leaves beside him.
+000111|Let God punish!
+000112|Thou shalt forgive!
+000113|With sudden and desperate tenderness she threw her arms around him, and pressed his head against her bosom, little caring though his cheek rested on the scarlet letter.
+000114|He would have released himself, but strove in vain to do so.
+000115|Hester would not set him free, lest he should look her sternly in the face.
+000116|All the world had frowned on her -- for seven long years had it frowned upon this lonely woman -- and still she bore it all, nor ever once turned away her firm, sad eyes.
+000117|Heaven, likewise, had frowned upon her, and she had not died.
+000118|But the frown of this pale, weak, sinful, and sorrow-stricken man was what Hester could not bear, and live!
+000119|"Wilt thou yet forgive me?" she repeated, over and over again.
+000120|Wilt thou not frown?
+000121|Wilt thou forgive?
+000122|"I do forgive you, Hester," replied the minister at length, with a deep utterance, out of an abyss of sadness, but no anger.
+000123|I freely forgive you now.
+000124|May God forgive us both.
+000125|We are not, Hester, the worst sinners in the world.
+000126|There is one worse than even the polluted priest!
+000127|That old man's revenge has been blacker than my sin.
+000128|He has violated, in cold blood, the sanctity of a human heart.
+000129|Thou and I, Hester, never did so!
+000130|"Never, never!" whispered she.
+000131|What we did had a consecration of its own.
+000132|We felt it so!
+000133|We said so to each other.
+000134|Hast thou forgotten it?
+000135|"Hush, Hester!" said Arthur Dimmesdale, rising from the ground.
+000136|No;
+000137|I have not forgotten!
+000138|They sat down again, side by side, and hand clasped in hand, on the mossy trunk of the fallen tree.
+000139|Life had never brought them a gloomier hour;
+000140|it was the point whither their pathway had so long been tending, and darkening ever, as it stole along -- and yet it unclosed a charm that made them linger upon it, and claim another, and another, and, after all, another moment.
+000141|The forest was obscure around them, and creaked with a blast that was passing through it.
+000142|The boughs were tossing heavily above their heads;
+000143|while one solemn old tree groaned dolefully to another, as if telling the sad story of the pair that sat beneath, or constrained to forbode evil to come.
+000144|And yet they lingered.
+000145|How dreary looked the forest-track that led backward to the settlement, where Hester Prynne must take up again the burden of her ignominy and the minister the hollow mockery of his good name!
+000146|So they lingered an instant longer.
+000147|No golden light had ever been so precious as the gloom of this dark forest.
+000148|Here seen only by his eyes, the scarlet letter need not burn into the bosom of the fallen woman!
+000149|Here seen only by her eyes, Arthur Dimmesdale, false to God and man, might be, for one moment true!
+000150|He started at a thought that suddenly occurred to him.
+000151|"Hester!" cried he, "here is a new horror!"
+000152|Roger Chillingworth knows your purpose to reveal his true character.
+000153|Will he continue, then, to keep our secret?
+000154|What will now be the course of his revenge?
+000155|"There is a strange secrecy in his nature," replied Hester, thoughtfully;
+000156|and it has grown upon him by the hidden practices of his revenge.
+000157|I deem it not likely that he will betray the secret.
+000158|He will doubtless seek other means of satiating his dark passion.
+000159|"And I! -- how am I to live longer, breathing the same air with this deadly enemy?" exclaimed Arthur Dimmesdale, shrinking within himself, and pressing his hand nervously against his heart -- a gesture that had grown involuntary with him.
+000160|Think for me, Hester!
+000161|Thou art strong.
+000162|Resolve for me!
+000163|"Thou must dwell no longer with this man," said Hester, slowly and firmly.
+000164|Thy heart must be no longer under his evil eye!
+000165|"It were far worse than death!" replied the minister.
+000166|But how to avoid it?
+000167|What choice remains to me?
+000168|Shall I lie down again on these withered leaves, where I cast myself when thou didst tell me what he was?
+000169|Must I sink down there, and die at once?
+000170|Alas!
+000171|"what a ruin has befallen thee!" said Hester, with the tears gushing into her eyes.
+000172|Wilt thou die for very weakness?
+000173|There is no other cause!
+000174|"The judgment of God is on me," answered the conscience-stricken priest.
+000175|It is too mighty for me to struggle with!
+000176|"Heaven would show mercy," rejoined Hester, "hadst thou but the strength to take advantage of it."
+000177|"Be thou strong for me!" answered he.
+000178|Advise me what to do.
+000179|"Is the world, then, so narrow?" exclaimed Hester Prynne, fixing her deep eyes on the minister's, and instinctively exercising a magnetic power over a spirit so shattered and subdued that it could hardly hold itself erect.
+000180|Doth the universe lie within the compass of yonder town, which only a little time ago was but a leaf-strewn desert, as lonely as this around us?
+000181|Whither leads yonder forest-track?
+000182|Backward to the settlement, thou sayest!
+000183|Yes;
+000184|but, onward, too!
+000185|Deeper it goes, and deeper into the wilderness, less plainly to be seen at every step;
+000186|until some few miles hence the yellow leaves will show no vestige of the white man's tread.
+000187|There thou art free!
+000188|So brief a journey would bring thee from a world where thou hast been most wretched, to one where thou mayest still be happy!
+000189|Is there not shade enough in all this boundless forest to hide thy heart from the gaze of Roger Chillingworth?
+000190|Yes, Hester;
+000191|"but only under the fallen leaves!" replied the minister, with a sad smile.
+000192|"Then there is the broad pathway of the sea!" continued Hester.
+000193|It brought thee hither.
+000194|If thou so choose, it will bear thee back again.
+000195|In our native land, whether in some remote rural village, or in vast London -- or, surely, in Germany, in France, in pleasant Italy -- thou wouldst be beyond his power and knowledge!
+000196|And what hast thou to do with all these iron men, and their opinions?
+000197|They have kept thy better part in bondage too long already!
+000198|"It cannot be!" answered the minister, listening as if he were called upon to realise a dream.
+000199|I am powerless to go.
+000200|Wretched and sinful as I am, I have had no other thought than to drag on my earthly existence in the sphere where Providence hath placed me.
+000201|Lost as my own soul is, I would still do what I may for other human souls!
+000202|I dare not quit my post, though an unfaithful sentinel, whose sure reward is death and dishonour, when his dreary watch shall come to an end!
+000203|"Thou art crushed under this seven years' weight of misery," replied Hester, fervently resolved to buoy him up with her own energy.
+000204|But thou shalt leave it all behind thee!
+000205|It shall not cumber thy steps, as thou treadest along the forest-path: neither shalt thou freight the ship with it, if thou prefer to cross the sea.
+000206|Leave this wreck and ruin here where it hath happened.
+000207|Meddle no more with it!
+000208|Begin all anew!
+000209|Hast thou exhausted possibility in the failure of this one trial?
+000210|Not so!
+000211|The future is yet full of trial and success.
+000212|There is happiness to be enjoyed!
+000213|There is good to be done!
+000214|Exchange this false life of thine for a true one.
+000215|Be, if thy spirit summon thee to such a mission, the teacher and apostle of the red men.
+000216|Or, as is more thy nature, be a scholar and a sage among the wisest and the most renowned of the cultivated world.
+000217|Preach!
+000218|Write!
+000219|Act!
+000220|Do anything, save to lie down and die!
+000221|Give up this name of Arthur Dimmesdale, and make thyself another, and a high one, such as thou canst wear without fear or shame.
+000222|Why shouldst thou tarry so much as one other day in the torments that have so gnawed into thy life?
+000223|that have made thee feeble to will and to do?
+000224|that will leave thee powerless even to repent?
+000225|Up, and away!
+000226|"Oh, Hester!" cried Arthur Dimmesdale, in whose eyes a fitful light, kindled by her enthusiasm, flashed up and died away, "thou tellest of running a race to a man whose knees are tottering beneath him!"
+000227|I must die here!
+000228|There is not the strength or courage left me to venture into the wide, strange, difficult world alone!
+000229|It was the last expression of the despondency of a broken spirit.
+000230|He lacked energy to grasp the better fortune that seemed within his reach.
+000231|He repeated the word -- "Alone, Hester!"
+000232|"Thou shall not go alone!" answered she, in a deep whisper.

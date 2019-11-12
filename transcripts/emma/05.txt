@@ -1,0 +1,144 @@
+000001|"I do not know what your opinion may be, misess Weston," said mister Knightley, "of this great intimacy between Emma and Harriet Smith, but I think it a bad thing."
+000002|A bad thing!
+000003|Do you really think it a bad thing? -- why so?
+000004|I think they will neither of them do the other any good.
+000005|You surprize me! Emma must do Harriet good: and by supplying her with a new object of interest, Harriet may be said to do Emma good.
+000006|I have been seeing their intimacy with the greatest pleasure.
+000007|How very differently we feel!
+000008|Not think they will do each other any good!
+000009|This will certainly be the beginning of one of our quarrels about Emma, mister Knightley.
+000010|Perhaps you think I am come on purpose to quarrel with you, knowing Weston to be out, and that you must still fight your own battle.
+000011|mister Weston would undoubtedly support me, if he were here, for he thinks exactly as I do on the subject.
+000012|We were speaking of it only yesterday, and agreeing how fortunate it was for Emma, that there should be such a girl in Highbury for her to associate with.
+000013|mister Knightley, I shall not allow you to be a fair judge in this case.
+000014|You are so much used to live alone, that you do not know the value of a companion;
+000015|and, perhaps no man can be a good judge of the comfort a woman feels in the society of one of her own sex, after being used to it all her life.
+000016|I can imagine your objection to Harriet Smith.
+000017|She is not the superior young woman which Emma's friend ought to be.
+000018|But on the other hand, as Emma wants to see her better informed, it will be an inducement to her to read more herself.
+000019|They will read together.
+000020|She means it, I know.
+000021|Emma has been meaning to read more ever since she was twelve years old.
+000022|I have seen a great many lists of her drawing-up at various times of books that she meant to read regularly through -- and very good lists they were -- very well chosen, and very neatly arranged -- sometimes alphabetically, and sometimes by some other rule.
+000023|The list she drew up when only fourteen -- I remember thinking it did her judgment so much credit, that I preserved it some time;
+000024|and I dare say she may have made out a very good list now.
+000025|But I have done with expecting any course of steady reading from Emma.
+000026|She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding.
+000027|Where Miss Taylor failed to stimulate, I may safely affirm that Harriet Smith will do nothing.
+000028|You never could persuade her to read half so much as you wished.
+000029|You know you could not.
+000030|"I dare say," replied misess Weston, smiling, "that I thought so then;"
+000031|but since we have parted, I can never remember Emma's omitting to do any thing I wished.
+000032|"There is hardly any desiring to refresh such a memory as that," -- said mister Knightley, feelingly;
+000033|and for a moment or two he had done.
+000034|"But I," he soon added, "who have had no such charm thrown over my senses, must still see, hear, and remember."
+000035|Emma is spoiled by being the cleverest of her family.
+000036|At ten years old, she had the misfortune of being able to answer questions which puzzled her sister at seventeen.
+000037|She was always quick and assured: Isabella slow and diffident.
+000038|And ever since she was twelve, Emma has been mistress of the house and of you all.
+000039|In her mother she lost the only person able to cope with her.
+000040|She inherits her mother's talents, and must have been under subjection to her.
+000041|I should have been sorry, mister Knightley, to be dependent on your recommendation, had I quitted mister Woodhouse's family and wanted another situation;
+000042|I do not think you would have spoken a good word for me to any body.
+000043|I am sure you always thought me unfit for the office I held.
+000044|"Yes," said he, smiling.
+000045|You are better placed here;
+000046|very fit for a wife, but not at all for a governess.
+000047|But you were preparing yourself to be an excellent wife all the time you were at Hartfield.
+000048|You might not give Emma such a complete education as your powers would seem to promise;
+000049|but you were receiving a very good education from her, on the very material matrimonial point of submitting your own will, and doing as you were bid;
+000050|and if Weston had asked me to recommend him a wife, I should certainly have named Miss Taylor.
+000051|Thank you.
+000052|There will be very little merit in making a good wife to such a man as mister Weston.
+000053|Why, to own the truth, I am afraid you are rather thrown away, and that with every disposition to bear, there will be nothing to be borne.
+000054|We will not despair, however.
+000055|Weston may grow cross from the wantonness of comfort, or his son may plague him.
+000056|I hope not that.
+000057|It is not likely.
+000058|No, mister Knightley, do not foretell vexation from that quarter.
+000059|Not I, indeed.
+000060|I only name possibilities.
+000061|I do not pretend to Emma's genius for foretelling and guessing.
+000062|I hope, with all my heart, the young man may be a Weston in merit, and a Churchill in fortune.
+000063|But Harriet Smith -- I have not half done about Harriet Smith.
+000064|I think her the very worst sort of companion that Emma could possibly have.
+000065|She knows nothing herself, and looks upon Emma as knowing every thing.
+000066|She is a flatterer in all her ways;
+000067|and so much the worse, because undesigned.
+000068|Her ignorance is hourly flattery.
+000069|How can Emma imagine she has any thing to learn herself, while Harriet is presenting such a delightful inferiority?
+000070|And as for Harriet, I will venture to say that she cannot gain by the acquaintance.
+000071|Hartfield will only put her out of conceit with all the other places she belongs to.
+000072|She will grow just refined enough to be uncomfortable with those among whom birth and circumstances have placed her home.
+000073|I am much mistaken if Emma's doctrines give any strength of mind, or tend at all to make a girl adapt herself rationally to the varieties of her situation in life.
+000074|They only give a little polish.
+000075|I either depend more upon Emma's good sense than you do, or am more anxious for her present comfort;
+000076|for I cannot lament the acquaintance.
+000077|How well she looked last night!
+000078|Oh! you would rather talk of her person than her mind, would you?
+000079|Very well;
+000080|I shall not attempt to deny Emma's being pretty.
+000081|Pretty! say beautiful rather.
+000082|Can you imagine any thing nearer perfect beauty than Emma altogether -- face and figure?
+000083|I do not know what I could imagine, but I confess that I have seldom seen a face or figure more pleasing to me than hers.
+000084|But I am a partial old friend.
+000085|Such an eye! -- the true hazle eye -- and so brilliant!
+000086|regular features, open countenance, with a complexion! oh! what a bloom of full health, and such a pretty height and size;
+000087|such a firm and upright figure!
+000088|There is health, not merely in her bloom, but in her air, her head, her glance.
+000089|One hears sometimes of a child being 'the picture of health;' now, Emma always gives me the idea of being the complete picture of grown-up health.
+000090|She is loveliness itself.
+000091|mister Knightley, is not she?
+000092|"I have not a fault to find with her person," he replied.
+000093|I think her all you describe.
+000094|I love to look at her;
+000095|and I will add this praise, that I do not think her personally vain.
+000096|Considering how very handsome she is, she appears to be little occupied with it;
+000097|her vanity lies another way.
+000098|misess Weston, I am not to be talked out of my dislike of Harriet Smith, or my dread of its doing them both harm.
+000099|And I, mister Knightley, am equally stout in my confidence of its not doing them any harm.
+000100|With all dear Emma's little faults, she is an excellent creature.
+000101|Where shall we see a better daughter, or a kinder sister, or a truer friend?
+000102|No, no;
+000103|she has qualities which may be trusted;
+000104|she will never lead any one really wrong;
+000105|she will make no lasting blunder;
+000106|where Emma errs once, she is in the right a hundred times.
+000107|Very well;
+000108|I will not plague you any more.
+000109|Emma shall be an angel, and I will keep my spleen to myself till Christmas brings John and Isabella.
+000110|John loves Emma with a reasonable and therefore not a blind affection, and Isabella always thinks as he does;
+000111|except when he is not quite frightened enough about the children.
+000112|I am sure of having their opinions with me.
+000113|I know that you all love her really too well to be unjust or unkind;
+000114|but excuse me, mister Knightley, if I take the liberty (I consider myself, you know, as having somewhat of the privilege of speech that Emma's mother might have had) the liberty of hinting that I do not think any possible good can arise from Harriet Smith's intimacy being made a matter of much discussion among you.
+000115|Pray excuse me;
+000116|but supposing any little inconvenience may be apprehended from the intimacy, it cannot be expected that Emma, accountable to nobody but her father, who perfectly approves the acquaintance, should put an end to it, so long as it is a source of pleasure to herself.
+000117|It has been so many years my province to give advice, that you cannot be surprized, mister Knightley, at this little remains of office.
+000118|"Not at all," cried he;
+000119|I am much obliged to you for it.
+000120|It is very good advice, and it shall have a better fate than your advice has often found;
+000121|for it shall be attended to.
+000122|misess John Knightley is easily alarmed, and might be made unhappy about her sister.
+000123|"Be satisfied," said he, "I will not raise any outcry."
+000124|I will keep my ill-humour to myself.
+000125|I have a very sincere interest in Emma.
+000126|Isabella does not seem more my sister;
+000127|has never excited a greater interest;
+000128|perhaps hardly so great.
+000129|There is an anxiety, a curiosity in what one feels for Emma.
+000130|I wonder what will become of her!
+000131|"So do I," said misess Weston gently, "very much."
+000132|She always declares she will never marry, which, of course, means just nothing at all.
+000133|But I have no idea that she has yet ever seen a man she cared for.
+000134|It would not be a bad thing for her to be very much in love with a proper object.
+000135|I should like to see Emma in love, and in some doubt of a return;
+000136|it would do her good.
+000137|But there is nobody hereabouts to attach her;
+000138|and she goes so seldom from home.
+000139|"There does, indeed, seem as little to tempt her to break her resolution at present," said misess Weston, "as can well be;"
+000140|and while she is so happy at Hartfield, I cannot wish her to be forming any attachment which would be creating such difficulties on poor mister Woodhouse's account.
+000141|I do not recommend matrimony at present to Emma, though I mean no slight to the state, I assure you.
+000142|Part of her meaning was to conceal some favourite thoughts of her own and mister Weston's on the subject, as much as possible.
+000143|There were wishes at Randalls respecting Emma's destiny, but it was not desirable to have them suspected;
+000144|and the quiet transition which mister Knightley soon afterwards made to "What does Weston think of the weather;"

@@ -1,0 +1,272 @@
+000001|Harriet slept at Hartfield that night.
+000002|For some weeks past she had been spending more than half her time there, and gradually getting to have a bed-room appropriated to herself;
+000003|and Emma judged it best in every respect, safest and kindest, to keep her with them as much as possible just at present.
+000004|She was obliged to go the next morning for an hour or two to misess Goddard's, but it was then to be settled that she should return to Hartfield, to make a regular visit of some days.
+000005|While she was gone, mister Knightley called, and sat some time with mister Woodhouse and Emma, till mister Woodhouse, who had previously made up his mind to walk out, was persuaded by his daughter not to defer it, and was induced by the entreaties of both, though against the scruples of his own civility, to leave mister Knightley for that purpose.
+000006|mister Knightley, who had nothing of ceremony about him, was offering by his short, decided answers, an amusing contrast to the protracted apologies and civil hesitations of the other.
+000007|Well, I believe, if you will excuse me, mister Knightley, if you will not consider me as doing a very rude thing, I shall take Emma's advice and go out for a quarter of an hour.
+000008|As the sun is out, I believe I had better take my three turns while I can.
+000009|I treat you without ceremony, mister Knightley.
+000010|We invalids think we are privileged people.
+000011|My dear sir, do not make a stranger of me.
+000012|I leave an excellent substitute in my daughter.
+000013|Emma will be happy to entertain you.
+000014|And therefore I think I will beg your excuse and take my three turns -- my winter walk.
+000015|You cannot do better, sir.
+000016|I would ask for the pleasure of your company, mister Knightley, but I am a very slow walker, and my pace would be tedious to you;
+000017|and, besides, you have another long walk before you, to Donwell Abbey.
+000018|Thank you, sir, thank you;
+000019|I am going this moment myself;
+000020|and I think the sooner you go the better.
+000021|I will fetch your greatcoat and open the garden door for you.
+000022|mister Woodhouse at last was off;
+000023|but mister Knightley, instead of being immediately off likewise, sat down again, seemingly inclined for more chat.
+000024|He began speaking of Harriet, and speaking of her with more voluntary praise than Emma had ever heard before.
+000025|"I cannot rate her beauty as you do," said he;
+000026|but she is a pretty little creature, and I am inclined to think very well of her disposition.
+000027|Her character depends upon those she is with;
+000028|but in good hands she will turn out a valuable woman.
+000029|I am glad you think so;
+000030|and the good hands, I hope, may not be wanting.
+000031|"Come," said he, "you are anxious for a compliment, so I will tell you that you have improved her."
+000032|You have cured her of her school-girl's giggle;
+000033|she really does you credit.
+000034|Thank you.
+000035|I should be mortified indeed if I did not believe I had been of some use;
+000036|but it is not every body who will bestow praise where they may.
+000037|You do not often overpower me with it.
+000038|You are expecting her again, you say, this morning?
+000039|Almost every moment.
+000040|She has been gone longer already than she intended.
+000041|Something has happened to delay her;
+000042|some visitors perhaps.
+000043|Highbury gossips!
+000044|Tiresome wretches!
+000045|Harriet may not consider every body tiresome that you would.
+000046|Emma knew this was too true for contradiction, and therefore said nothing.
+000047|He presently added, with a smile,
+000048|I do not pretend to fix on times or places, but I must tell you that I have good reason to believe your little friend will soon hear of something to her advantage.
+000049|Indeed! how so? of what sort?
+000050|"A very serious sort, I assure you;" still smiling.
+000051|Very serious!
+000052|I can think of but one thing -- Who is in love with her?
+000053|Who makes you their confidant?
+000054|Emma was more than half in hopes of mister Elton's having dropt a hint.
+000055|mister Knightley was a sort of general friend and adviser, and she knew mister Elton looked up to him.
+000056|"I have reason to think," he replied, "that Harriet Smith will soon have an offer of marriage, and from a most unexceptionable quarter: -- Robert Martin is the man."
+000057|Her visit to Abbey-Mill, this summer, seems to have done his business.
+000058|He is desperately in love and means to marry her.
+000059|"He is very obliging," said Emma;
+000060|but is he sure that Harriet means to marry him?
+000061|Well, well, means to make her an offer then.
+000062|Will that do?
+000063|He came to the Abbey two evenings ago, on purpose to consult me about it.
+000064|He knows I have a thorough regard for him and all his family, and, I believe, considers me as one of his best friends.
+000065|He came to ask me whether I thought it would be imprudent in him to settle so early;
+000066|whether I thought her too young: in short, whether I approved his choice altogether;
+000067|having some apprehension perhaps of her being considered (especially since your making so much of her) as in a line of society above him.
+000068|I was very much pleased with all that he said.
+000069|I never hear better sense from any one than Robert Martin.
+000070|He always speaks to the purpose;
+000071|open, straightforward, and very well judging.
+000072|He told me every thing;
+000073|his circumstances and plans, and what they all proposed doing in the event of his marriage.
+000074|He is an excellent young man, both as son and brother.
+000075|I had no hesitation in advising him to marry.
+000076|He proved to me that he could afford it;
+000077|and that being the case, I was convinced he could not do better.
+000078|I praised the fair lady too, and altogether sent him away very happy.
+000079|If he had never esteemed my opinion before, he would have thought highly of me then;
+000080|and, I dare say, left the house thinking me the best friend and counsellor man ever had.
+000081|This happened the night before last.
+000082|Now, as we may fairly suppose, he would not allow much time to pass before he spoke to the lady, and as he does not appear to have spoken yesterday, it is not unlikely that he should be at misess Goddard's to-day;
+000083|and she may be detained by a visitor, without thinking him at all a tiresome wretch.
+000084|"Pray, mister Knightley," said Emma, who had been smiling to herself through a great part of this speech, "how do you know that mister Martin did not speak yesterday?"
+000085|"Certainly," replied he, surprized, "I do not absolutely know it;"
+000086|but it may be inferred.
+000087|Was not she the whole day with you?
+000088|"Come," said she, "I will tell you something, in return for what you have told me."
+000089|He did speak yesterday -- that is, he wrote, and was refused.
+000090|This was obliged to be repeated before it could be believed;
+000091|and mister Knightley actually looked red with surprize and displeasure, as he stood up, in tall indignation, and said,
+000092|Then she is a greater simpleton than I ever believed her.
+000093|What is the foolish girl about?
+000094|"Oh! to be sure," cried Emma, "it is always incomprehensible to a man that a woman should ever refuse an offer of marriage."
+000095|A man always imagines a woman to be ready for any body who asks her.
+000096|Nonsense! a man does not imagine any such thing.
+000097|But what is the meaning of this?
+000098|Harriet Smith refuse Robert Martin?
+000099|madness, if it is so;
+000100|but I hope you are mistaken.
+000101|I saw her answer! -- nothing could be clearer.
+000102|You saw her answer! -- you wrote her answer too.
+000103|Emma, this is your doing.
+000104|You persuaded her to refuse him.
+000105|And if I did, which, however, I am far from allowing I should not feel that I had done wrong.
+000106|mister Martin is a very respectable young man, but I cannot admit him to be Harriet's equal;
+000107|and am rather surprized indeed that he should have ventured to address her.
+000108|By your account, he does seem to have had some scruples.
+000109|It is a pity that they were ever got over.
+000110|"Not Harriet's equal!" exclaimed mister Knightley loudly and warmly;
+000111|and with calmer asperity, added, a few moments afterwards, "No, he is not her equal indeed, for he is as much her superior in sense as in situation."
+000112|Emma, your infatuation about that girl blinds you.
+000113|What are Harriet Smith's claims, either of birth, nature or education, to any connexion higher than Robert Martin?
+000114|She is the natural daughter of nobody knows whom, with probably no settled provision at all, and certainly no respectable relations.
+000115|She is known only as parlour-boarder at a common school.
+000116|She is not a sensible girl, nor a girl of any information.
+000117|She has been taught nothing useful, and is too young and too simple to have acquired any thing herself.
+000118|At her age she can have no experience, and with her little wit, is not very likely ever to have any that can avail her.
+000119|She is pretty, and she is good tempered, and that is all.
+000120|My only scruple in advising the match was on his account, as being beneath his deserts, and a bad connexion for him.
+000121|I felt that, as to fortune, in all probability he might do much better;
+000122|and that as to a rational companion or useful helpmate, he could not do worse.
+000123|But I could not reason so to a man in love, and was willing to trust to there being no harm in her, to her having that sort of disposition, which, in good hands, like his, might be easily led aright and turn out very well.
+000124|The advantage of the match I felt to be all on her side;
+000125|and had not the smallest doubt (nor have I now) that there would be a general cry-out upon her extreme good luck.
+000126|Even your satisfaction I made sure of.
+000127|It crossed my mind immediately that you would not regret your friend's leaving Highbury, for the sake of her being settled so well.
+000128|I remember saying to myself, 'Even Emma, with all her partiality for Harriet, will think this a good match.'
+000129|I cannot help wondering at your knowing so little of Emma as to say any such thing.
+000130|What! think a farmer, and with all his sense and all his merit mister Martin is nothing more, a good match for my intimate friend!
+000131|Not regret her leaving Highbury for the sake of marrying a man whom I could never admit as an acquaintance of my own!
+000132|I wonder you should think it possible for me to have such feelings.
+000133|I assure you mine are very different.
+000134|I must think your statement by no means fair.
+000135|You are not just to Harriet's claims.
+000136|They would be estimated very differently by others as well as myself;
+000137|mister Martin may be the richest of the two, but he is undoubtedly her inferior as to rank in society.
+000138|The sphere in which she moves is much above his.
+000139|It would be a degradation.
+000140|A degradation to illegitimacy and ignorance, to be married to a respectable, intelligent gentleman-farmer!
+000141|As to the circumstances of her birth, though in a legal sense she may be called Nobody, it will not hold in common sense.
+000142|She is not to pay for the offence of others, by being held below the level of those with whom she is brought up.
+000143|There can scarcely be a doubt that her father is a gentleman -- and a gentleman of fortune.
+000144|Her allowance is very liberal;
+000145|nothing has ever been grudged for her improvement or comfort.
+000146|That she is a gentleman's daughter, is indubitable to me;
+000147|that she associates with gentlemen's daughters, no one, I apprehend, will deny.
+000148|She is superior to mister Robert Martin.
+000149|"Whoever might be her parents," said mister Knightley, "whoever may have had the charge of her, it does not appear to have been any part of their plan to introduce her into what you would call good society."
+000150|After receiving a very indifferent education she is left in misess Goddard's hands to shift as she can;
+000151|to move, in short, in misess Goddard's line, to have misess Goddard's acquaintance.
+000152|Her friends evidently thought this good enough for her;
+000153|and it was good enough.
+000154|She desired nothing better herself.
+000155|Till you chose to turn her into a friend, her mind had no distaste for her own set, nor any ambition beyond it.
+000156|She was as happy as possible with the Martins in the summer.
+000157|She had no sense of superiority then.
+000158|If she has it now, you have given it.
+000159|You have been no friend to Harriet Smith, Emma.
+000160|Robert Martin would never have proceeded so far, if he had not felt persuaded of her not being disinclined to him.
+000161|I know him well.
+000162|He has too much real feeling to address any woman on the haphazard of selfish passion.
+000163|And as to conceit, he is the farthest from it of any man I know.
+000164|Depend upon it he had encouragement.
+000165|It was most convenient to Emma not to make a direct reply to this assertion;
+000166|she chose rather to take up her own line of the subject again.
+000167|You are a very warm friend to mister Martin;
+000168|but, as I said before, are unjust to Harriet.
+000169|Harriet's claims to marry well are not so contemptible as you represent them.
+000170|She is not a clever girl, but she has better sense than you are aware of, and does not deserve to have her understanding spoken of so slightingly.
+000171|Waiving that point, however, and supposing her to be, as you describe her, only pretty and good-natured, let me tell you, that in the degree she possesses them, they are not trivial recommendations to the world in general, for she is, in fact, a beautiful girl, and must be thought so by ninety-nine people out of an hundred;
+000172|and till it appears that men are much more philosophic on the subject of beauty than they are generally supposed;
+000173|till they do fall in love with well-informed minds instead of handsome faces, a girl, with such loveliness as Harriet, has a certainty of being admired and sought after, of having the power of chusing from among many, consequently a claim to be nice.
+000174|Her good-nature, too, is not so very slight a claim, comprehending, as it does, real, thorough sweetness of temper and manner, a very humble opinion of herself, and a great readiness to be pleased with other people.
+000175|I am very much mistaken if your sex in general would not think such beauty, and such temper, the highest claims a woman could possess.
+000176|Upon my word, Emma, to hear you abusing the reason you have, is almost enough to make me think so too.
+000177|Better be without sense, than misapply it as you do.
+000178|"To be sure!" cried she playfully.
+000179|I know that is the feeling of you all.
+000180|I know that such a girl as Harriet is exactly what every man delights in -- what at once bewitches his senses and satisfies his judgment.
+000181|Oh! Harriet may pick and chuse.
+000182|Were you, yourself, ever to marry, she is the very woman for you.
+000183|And is she, at seventeen, just entering into life, just beginning to be known, to be wondered at because she does not accept the first offer she receives?
+000184|No -- pray let her have time to look about her.
+000185|"I have always thought it a very foolish intimacy," said mister Knightley presently, "though I have kept my thoughts to myself;"
+000186|but I now perceive that it will be a very unfortunate one for Harriet.
+000187|You will puff her up with such ideas of her own beauty, and of what she has a claim to, that, in a little while, nobody within her reach will be good enough for her.
+000188|Vanity working on a weak head, produces every sort of mischief.
+000189|Nothing so easy as for a young lady to raise her expectations too high.
+000190|Miss Harriet Smith may not find offers of marriage flow in so fast, though she is a very pretty girl.
+000191|Men of sense, whatever you may chuse to say, do not want silly wives.
+000192|Men of family would not be very fond of connecting themselves with a girl of such obscurity -- and most prudent men would be afraid of the inconvenience and disgrace they might be involved in, when the mystery of her parentage came to be revealed.
+000193|Let her marry Robert Martin, and she is safe, respectable, and happy for ever;
+000194|but if you encourage her to expect to marry greatly, and teach her to be satisfied with nothing less than a man of consequence and large fortune, she may be a parlour-boarder at misess Goddard's all the rest of her life -- or, at least, (for Harriet Smith is a girl who will marry somebody or other,) till she grow desperate, and is glad to catch at the old writing-master's son.
+000195|We think so very differently on this point, mister Knightley, that there can be no use in canvassing it.
+000196|We shall only be making each other more angry.
+000197|But as to my letting her marry Robert Martin, it is impossible;
+000198|she has refused him, and so decidedly, I think, as must prevent any second application.
+000199|She must abide by the evil of having refused him, whatever it may be;
+000200|and as to the refusal itself, I will not pretend to say that I might not influence her a little;
+000201|but I assure you there was very little for me or for any body to do.
+000202|His appearance is so much against him, and his manner so bad, that if she ever were disposed to favour him, she is not now.
+000203|I can imagine, that before she had seen any body superior, she might tolerate him.
+000204|He was the brother of her friends, and he took pains to please her;
+000205|and altogether, having seen nobody better that must have been his great assistant she might not, while she was at Abbey-Mill, find him disagreeable.
+000206|But the case is altered now.
+000207|She knows now what gentlemen are;
+000208|and nothing but a gentleman in education and manner has any chance with Harriet.
+000209|"Nonsense, errant nonsense, as ever was talked!" cried mister Knightley.
+000210|Robert Martin's manners have sense, sincerity, and good-humour to recommend them;
+000211|and his mind has more true gentility than Harriet Smith could understand.
+000212|Emma made no answer, and tried to look cheerfully unconcerned, but was really feeling uncomfortable and wanting him very much to be gone.
+000213|She did not repent what she had done;
+000214|she still thought herself a better judge of such a point of female right and refinement than he could be;
+000215|but yet she had a sort of habitual respect for his judgment in general, which made her dislike having it so loudly against her;
+000216|and to have him sitting just opposite to her in angry state, was very disagreeable.
+000217|Some minutes passed in this unpleasant silence, with only one attempt on Emma's side to talk of the weather, but he made no answer.
+000218|He was thinking.
+000219|The result of his thoughts appeared at last in these words.
+000220|Robert Martin has no great loss -- if he can but think so;
+000221|and I hope it will not be long before he does.
+000222|Your views for Harriet are best known to yourself;
+000223|but as you make no secret of your love of match-making, it is fair to suppose that views, and plans, and projects you have;
+000224|and as a friend I shall just hint to you that if Elton is the man, I think it will be all labour in vain.
+000225|Emma laughed and disclaimed.
+000226|He continued,
+000227|Depend upon it, Elton will not do.
+000228|Elton is a very good sort of man, and a very respectable vicar of Highbury, but not at all likely to make an imprudent match.
+000229|He knows the value of a good income as well as any body.
+000230|Elton may talk sentimentally, but he will act rationally.
+000231|He is as well acquainted with his own claims, as you can be with Harriet's.
+000232|He knows that he is a very handsome young man, and a great favourite wherever he goes;
+000233|and from his general way of talking in unreserved moments, when there are only men present, I am convinced that he does not mean to throw himself away.
+000234|I have heard him speak with great animation of a large family of young ladies that his sisters are intimate with, who have all twenty thousand pounds apiece.
+000235|"I am very much obliged to you," said Emma, laughing again.
+000236|If I had set my heart on mister Elton's marrying Harriet, it would have been very kind to open my eyes;
+000237|but at present I only want to keep Harriet to myself.
+000238|I have done with match-making indeed.
+000239|I could never hope to equal my own doings at Randalls.
+000240|I shall leave off while I am well.
+000241|"Good morning to you," -- said he, rising and walking off abruptly.
+000242|He was very much vexed.
+000243|He felt the disappointment of the young man, and was mortified to have been the means of promoting it, by the sanction he had given;
+000244|and the part which he was persuaded Emma had taken in the affair, was provoking him exceedingly.
+000245|Emma remained in a state of vexation too;
+000246|but there was more indistinctness in the causes of her's, than in his.
+000247|She did not always feel so absolutely satisfied with herself, so entirely convinced that her opinions were right and her adversary's wrong, as mister Knightley.
+000248|He walked off in more complete self-approbation than he left for her.
+000249|She was not so materially cast down, however, but that a little time and the return of Harriet were very adequate restoratives.
+000250|Harriet's staying away so long was beginning to make her uneasy.
+000251|The possibility of the young man's coming to misess Goddard's that morning, and meeting with Harriet and pleading his own cause, gave alarming ideas.
+000252|The dread of such a failure after all became the prominent uneasiness;
+000253|and when Harriet appeared, and in very good spirits, and without having any such reason to give for her long absence, she felt a satisfaction which settled her with her own mind, and convinced her, that let mister Knightley think or say what he would, she had done nothing which woman's friendship and woman's feelings would not justify.
+000254|He had frightened her a little about mister Elton;
+000255|but when she considered that mister Knightley could not have observed him as she had done, neither with the interest, nor (she must be allowed to tell herself, in spite of mister Knightley's pretensions) with the skill of such an observer on such a question as herself, that he had spoken it hastily and in anger, she was able to believe, that he had rather said what he wished resentfully to be true, than what he knew any thing about.
+000256|He certainly might have heard mister Elton speak with more unreserve than she had ever done, and mister Elton might not be of an imprudent, inconsiderate disposition as to money matters;
+000257|he might naturally be rather attentive than otherwise to them;
+000258|but then, mister Knightley did not make due allowance for the influence of a strong passion at war with all interested motives.
+000259|mister Knightley saw no such passion, and of course thought nothing of its effects;
+000260|but she saw too much of it to feel a doubt of its overcoming any hesitations that a reasonable prudence might originally suggest;
+000261|and more than a reasonable, becoming degree of prudence, she was very sure did not belong to mister Elton.
+000262|Harriet's cheerful look and manner established hers: she came back, not to think of mister Martin, but to talk of mister Elton.
+000263|Miss Nash had been telling her something, which she repeated immediately with great delight.
+000264|mister Perry had been to misess Goddard's to attend a sick child, and Miss Nash had seen him, and he had told Miss Nash, that as he was coming back yesterday from Clayton Park, he had met mister Elton, and found to his great surprize, that mister Elton was actually on his road to London, and not meaning to return till the morrow, though it was the whist-club night, which he had been never known to miss before;
+000265|and mister Perry had remonstrated with him about it, and told him how shabby it was in him, their best player, to absent himself, and tried very much to persuade him to put off his journey only one day;
+000266|but it would not do;
+000267|mister Elton had been determined to go on, and had said in a very particular way indeed, that he was going on business which he would not put off for any inducement in the world;
+000268|and something about a very enviable commission, and being the bearer of something exceedingly precious.
+000269|mister Perry could not quite understand him, but he was very sure there must be a lady in the case, and he told him so;
+000270|and mister Elton only looked very conscious and smiling, and rode off in great spirits.
+000271|Miss Nash had told her all this, and had talked a great deal more about mister Elton;
+000272|and said, looking so very significantly at her, "that she did not pretend to understand what his business might be, but she only knew that any woman whom mister Elton could prefer, she should think the luckiest woman in the world;"

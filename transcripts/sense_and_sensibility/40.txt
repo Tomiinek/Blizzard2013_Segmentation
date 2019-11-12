@@ -1,0 +1,159 @@
+000001|"Well, Miss Dashwood," said misess Jennings, sagaciously smiling, as soon as the gentleman had withdrawn, "I do not ask you what the Colonel has been saying to you;"
+000002|for though, upon my honour, I tried to keep out of hearing, I could not help catching enough to understand his business.
+000003|And I assure you I never was better pleased in my life, and I wish you joy of it with all my heart.
+000004|"Thank you, ma'am," said Elinor.
+000005|It is a matter of great joy to me;
+000006|and I feel the goodness of Colonel Brandon most sensibly.
+000007|There are not many men who would act as he has done.
+000008|Few people who have so compassionate a heart!
+000009|I never was more astonished in my life.
+000010|Lord! my dear, you are very modest.
+000011|I an't the least astonished at it in the world, for I have often thought of late, there was nothing more likely to happen.
+000012|You judged from your knowledge of the Colonel's general benevolence;
+000013|but at least you could not foresee that the opportunity would so very soon occur.
+000014|"Opportunity!" repeated misess Jennings -- "Oh! as to that, when a man has once made up his mind to such a thing, somehow or other he will soon find an opportunity."
+000015|Well, my dear, I wish you joy of it again and again;
+000016|and if ever there was a happy couple in the world, I think I shall soon know where to look for them.
+000017|"You mean to go to Delaford after them I suppose," said Elinor, with a faint smile.
+000018|Aye, my dear, that I do, indeed.
+000019|And as to the house being a bad one, I do not know what the Colonel would be at, for it is as good a one as ever I saw.
+000020|He spoke of its being out of repair.
+000021|Well, and whose fault is that? why don't he repair it? -- who should do it but himself?
+000022|They were interrupted by the servant's coming in to announce the carriage being at the door;
+000023|and misess Jennings immediately preparing to go, said,
+000024|Well, my dear, I must be gone before I have had half my talk out.
+000025|But, however, we may have it all over in the evening;
+000026|for we shall be quite alone.
+000027|I do not ask you to go with me, for I dare say your mind is too full of the matter to care for company;
+000028|and besides, you must long to tell your sister all about it.
+000029|Marianne had left the room before the conversation began.
+000030|Certainly, ma'am, I shall tell Marianne of it;
+000031|but I shall not mention it at present to any body else.
+000032|"Oh! very well," said misess Jennings rather disappointed.
+000033|Then you would not have me tell it to Lucy, for I think of going as far as Holborn to-day.
+000034|No, ma'am, not even Lucy if you please.
+000035|One day's delay will not be very material;
+000036|and till I have written to mister Ferrars, I think it ought not to be mentioned to any body else.
+000037|I shall do that directly.
+000038|It is of importance that no time should be lost with him, for he will of course have much to do relative to his ordination.
+000039|This speech at first puzzled misess Jennings exceedingly.
+000040|Why mister Ferrars was to have been written to about it in such a hurry, she could not immediately comprehend.
+000041|A few moments' reflection, however, produced a very happy idea, and she exclaimed;
+000042|Oh, ho! I understand you.
+000043|Mister Ferrars is to be the man.
+000044|Well, so much the better for him.
+000045|Ay, to be sure, he must be ordained in readiness;
+000046|and I am very glad to find things are so forward between you.
+000047|But, my dear, is not this rather out of character?
+000048|Should not the Colonel write himself? -- sure, he is the proper person.
+000049|Elinor did not quite understand the beginning of misess Jennings's speech, neither did she think it worth inquiring into;
+000050|and therefore only replied to its conclusion.
+000051|Colonel Brandon is so delicate a man, that he rather wished any one to announce his intentions to mister Ferrars than himself.
+000052|And so you are forced to do it.
+000053|Well that is an odd kind of delicacy!
+000054|However, I will not disturb you (seeing her preparing to write.) You know your own concerns best.
+000055|So goodby, my dear.
+000056|I have not heard of any thing to please me so well since Charlotte was brought to bed.
+000057|And away she went;
+000058|but returning again in a moment,
+000059|I have just been thinking of Betty's sister, my dear.
+000060|I should be very glad to get her so good a mistress.
+000061|But whether she would do for a lady's maid, I am sure I can't tell.
+000062|She is an excellent housemaid, and works very well at her needle.
+000063|However, you will think of all that at your leisure.
+000064|"Certainly, ma'am," replied Elinor, not hearing much of what she said, and more anxious to be alone, than to be mistress of the subject.
+000065|How she should begin -- how she should express herself in her note to Edward, was now all her concern.
+000066|The particular circumstances between them made a difficulty of that which to any other person would have been the easiest thing in the world;
+000067|but she equally feared to say too much or too little, and sat deliberating over her paper, with the pen in her hand, till broken in on by the entrance of Edward himself.
+000068|He had met misess Jennings at the door in her way to the carriage, as he came to leave his farewell card;
+000069|and she, after apologising for not returning herself, had obliged him to enter, by saying that Miss Dashwood was above, and wanted to speak with him on very particular business.
+000070|Elinor had just been congratulating herself, in the midst of her perplexity, that however difficult it might be to express herself properly by letter, it was at least preferable to giving the information by word of mouth, when her visitor entered, to force her upon this greatest exertion of all.
+000071|Her astonishment and confusion were very great on his so sudden appearance.
+000072|She had not seen him before since his engagement became public, and therefore not since his knowing her to be acquainted with it;
+000073|which, with the consciousness of what she had been thinking of, and what she had to tell him, made her feel particularly uncomfortable for some minutes.
+000074|He too was much distressed;
+000075|and they sat down together in a most promising state of embarrassment.
+000076|Whether he had asked her pardon for his intrusion on first coming into the room, he could not recollect;
+000077|but determining to be on the safe side, he made his apology in form as soon as he could say any thing, after taking a chair.
+000078|"misess Jennings told me," said he, "that you wished to speak with me, at least I understood her so -- or I certainly should not have intruded on you in such a manner;"
+000079|though at the same time, I should have been extremely sorry to leave London without seeing you and your sister;
+000080|especially as it will most likely be some time -- it is not probable that I should soon have the pleasure of meeting you again.
+000081|I go to Oxford tomorrow.
+000082|"You would not have gone, however," said Elinor, recovering herself, and determined to get over what she so much dreaded as soon as possible, "without receiving our good wishes, even if we had not been able to give them in person."
+000083|misess Jennings was quite right in what she said.
+000084|I have something of consequence to inform you of, which I was on the point of communicating by paper.
+000085|I am charged with a most agreeable office (breathing rather faster than usual as she spoke.) Colonel Brandon, who was here only ten minutes ago, has desired me to say, that understanding you mean to take orders, he has great pleasure in offering you the living of Delaford now just vacant, and only wishes it were more valuable.
+000086|Allow me to congratulate you on having so respectable and well-judging a friend, and to join in his wish that the living -- it is about two hundred a-year -- were much more considerable, and such as might better enable you to -- as might be more than a temporary accommodation to yourself -- such, in short, as might establish all your views of happiness.
+000087|What Edward felt, as he could not say it himself, it cannot be expected that any one else should say for him.
+000088|He looked all the astonishment which such unexpected, such unthought-of information could not fail of exciting;
+000089|but he said only these two words,
+000090|Colonel Brandon!
+000091|"Yes," continued Elinor, gathering more resolution, as some of the worst was over, "Colonel Brandon means it as a testimony of his concern for what has lately passed -- for the cruel situation in which the unjustifiable conduct of your family has placed you -- a concern which I am sure Marianne, myself, and all your friends, must share;"
+000092|and likewise as a proof of his high esteem for your general character, and his particular approbation of your behaviour on the present occasion.
+000093|Colonel Brandon give me a living!
+000094|Can it be possible?
+000095|The unkindness of your own relations has made you astonished to find friendship any where.
+000096|"No," replied he, with sudden consciousness, "not to find it in you;"
+000097|for I cannot be ignorant that to you, to your goodness, I owe it all.
+000098|I feel it -- I would express it if I could -- but, as you well know, I am no orator.
+000099|You are very much mistaken.
+000100|I do assure you that you owe it entirely, at least almost entirely, to your own merit, and Colonel Brandon's discernment of it.
+000101|I have had no hand in it.
+000102|I did not even know, till I understood his design, that the living was vacant;
+000103|nor had it ever occurred to me that he might have had such a living in his gift.
+000104|As a friend of mine, of my family, he may, perhaps -- indeed I know he has, still greater pleasure in bestowing it;
+000105|but, upon my word, you owe nothing to my solicitation.
+000106|Truth obliged her to acknowledge some small share in the action, but she was at the same time so unwilling to appear as the benefactress of Edward, that she acknowledged it with hesitation;
+000107|which probably contributed to fix that suspicion in his mind which had recently entered it.
+000108|For a short time he sat deep in thought, after Elinor had ceased to speak;
+000109|at last, and as if it were rather an effort, he said,
+000110|Colonel Brandon seems a man of great worth and respectability.
+000111|I have always heard him spoken of as such, and your brother I know esteems him highly.
+000112|He is undoubtedly a sensible man, and in his manners perfectly the gentleman.
+000113|"Indeed," replied Elinor, "I believe that you will find him, on farther acquaintance, all that you have heard him to be, and as you will be such very near neighbours (for I understand the parsonage is almost close to the mansion-house,) it is particularly important that he should be all this."
+000114|Edward made no answer;
+000115|but when she had turned away her head, gave her a look so serious, so earnest, so uncheerful, as seemed to say, that he might hereafter wish the distance between the parsonage and the mansion-house much greater.
+000116|"Colonel Brandon, I think, lodges in saint James Street," said he, soon afterwards, rising from his chair.
+000117|Elinor told him the number of the house.
+000118|I must hurry away then, to give him those thanks which you will not allow me to give you;
+000119|to assure him that he has made me a very -- an exceedingly happy man.
+000120|Elinor did not offer to detain him;
+000121|and they parted, with a very earnest assurance on her side of her unceasing good wishes for his happiness in every change of situation that might befall him;
+000122|on his, with rather an attempt to return the same good will, than the power of expressing it.
+000123|"When I see him again," said Elinor to herself, as the door shut him out, "I shall see him the husband of Lucy."
+000124|And with this pleasing anticipation, she sat down to reconsider the past, recall the words and endeavour to comprehend all the feelings of Edward;
+000125|and, of course, to reflect on her own with discontent.
+000126|When misess Jennings came home, though she returned from seeing people whom she had never seen before, and of whom therefore she must have a great deal to say, her mind was so much more occupied by the important secret in her possession, than by anything else, that she reverted to it again as soon as Elinor appeared.
+000127|"Well, my dear," she cried, "I sent you up the young man."
+000128|Did not I do right?
+000129|And I suppose you had no great difficulty.
+000130|You did not find him very unwilling to accept your proposal?
+000131|No, ma'am;
+000132|that was not very likely.
+000133|Well, and how soon will he be ready?
+000134|For it seems all to depend upon that.
+000135|"Really," said Elinor, "I know so little of these kind of forms, that I can hardly even conjecture as to the time, or the preparation necessary;"
+000136|but I suppose two or three months will complete his ordination.
+000137|"Two or three months!" cried misess Jennings;
+000138|Lord! my dear, how calmly you talk of it;
+000139|and can the Colonel wait two or three months!
+000140|Lord bless me!
+000141|I am sure it would put me quite out of patience!
+000142|And though one would be very glad to do a kindness by poor mister Ferrars, I do think it is not worth while to wait two or three months for him.
+000143|Sure somebody else might be found that would do as well;
+000144|somebody that is in orders already.
+000145|"My dear ma'am," said Elinor, "what can you be thinking of?"
+000146|Why, Colonel Brandon's only object is to be of use to mister Ferrars.
+000147|Lord bless you, my dear!
+000148|Sure you do not mean to persuade me that the Colonel only marries you for the sake of giving ten guineas to mister Ferrars!
+000149|The deception could not continue after this;
+000150|and an explanation immediately took place, by which both gained considerable amusement for the moment, without any material loss of happiness to either, for misess Jennings only exchanged one form of delight for another, and still without forfeiting her expectation of the first.
+000151|"Aye, aye, the parsonage is but a small one," said she, after the first ebullition of surprise and satisfaction was over, "and very likely may be out of repair;"
+000152|but to hear a man apologising, as I thought, for a house that to my knowledge has five sitting rooms on the ground-floor, and I think the housekeeper told me could make up fifteen beds! -- and to you too, that had been used to live in Barton cottage!
+000153|It seems quite ridiculous.
+000154|But, my dear, we must touch up the Colonel to do some thing to the parsonage, and make it comfortable for them, before Lucy goes to it.
+000155|But Colonel Brandon does not seem to have any idea of the living's being enough to allow them to marry.
+000156|The Colonel is a ninny, my dear;
+000157|because he has two thousand a-year himself, he thinks that nobody else can marry on less.
+000158|Take my word for it, that, if I am alive, I shall be paying a visit at Delaford Parsonage before Michaelmas;
+000159|and I am sure I shan't go if Lucy an't there.

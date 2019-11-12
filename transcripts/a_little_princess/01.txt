@@ -1,0 +1,207 @@
+000001|Once on a dark winter's day, when the yellow fog hung so thick and heavy in the streets of London that the lamps were lighted and the shop windows blazed with gas as they do at night, an odd-looking little girl sat in a cab with her father and was driven rather slowly through the big thoroughfares.
+000002|She sat with her feet tucked under her, and leaned against her father, who held her in his arm, as she stared out of the window at the passing people with a queer old-fashioned thoughtfulness in her big eyes.
+000003|She was such a little girl that one did not expect to see such a look on her small face.
+000004|It would have been an old look for a child of twelve, and Sara Crewe was only seven.
+000005|The fact was, however, that she was always dreaming and thinking odd things and could not herself remember any time when she had not been thinking things about grown-up people and the world they belonged to.
+000006|She felt as if she had lived a long, long time.
+000007|At this moment she was remembering the voyage she had just made from Bombay with her father, Captain Crewe.
+000008|She was thinking of the big ship, of the Lascars passing silently to and fro on it, of the children playing about on the hot deck, and of some young officers' wives who used to try to make her talk to them and laugh at the things she said.
+000009|Principally, she was thinking of what a queer thing it was that at one time one was in India in the blazing sun, and then in the middle of the ocean, and then driving in a strange vehicle through strange streets where the day was as dark as the night.
+000010|She found this so puzzling that she moved closer to her father.
+000011|"Papa," she said in a low, mysterious little voice which was almost a whisper, "papa."
+000012|What is it, darling?
+000013|Captain Crewe answered, holding her closer and looking down into her face.
+000014|What is Sara thinking of?
+000015|Is this the place?
+000016|Sara whispered, cuddling still closer to him.
+000017|Is it, papa?
+000018|Yes, little Sara, it is.
+000019|We have reached it at last.
+000020|And though she was only seven years old, she knew that he felt sad when he said it.
+000021|It seemed to her many years since he had begun to prepare her mind for "the place," as she always called it.
+000022|Her mother had died when she was born, so she had never known or missed her.
+000023|Her young, handsome, rich, petting father seemed to be the only relation she had in the world.
+000024|They had always played together and been fond of each other.
+000025|She only knew he was rich because she had heard people say so when they thought she was not listening, and she had also heard them say that when she grew up she would be rich, too.
+000026|She did not know all that being rich meant.
+000027|She had always lived in a beautiful bungalow, and had been used to seeing many servants who made salaams to her and called her "Missee Sahib," and gave her her own way in everything.
+000028|She had had toys and pets and an ayah who worshipped her, and she had gradually learned that people who were rich had these things.
+000029|That, however, was all she knew about it.
+000030|During her short life only one thing had troubled her, and that thing was "the place" she was to be taken to some day.
+000031|The climate of India was very bad for children, and as soon as possible they were sent away from it -- generally to England and to school.
+000032|She had seen other children go away, and had heard their fathers and mothers talk about the letters they received from them.
+000033|She had known that she would be obliged to go also, and though sometimes her father's stories of the voyage and the new country had attracted her, she had been troubled by the thought that he could not stay with her.
+000034|"Couldn't you go to that place with me, papa?" she had asked when she was five years old.
+000035|Couldn't you go to school, too?
+000036|I would help you with your lessons.
+000037|"But you will not have to stay for a very long time, little Sara," he had always said.
+000038|You will go to a nice house where there will be a lot of little girls, and you will play together, and I will send you plenty of books, and you will grow so fast that it will seem scarcely a year before you are big enough and clever enough to come back and take care of papa.
+000039|She had liked to think of that.
+000040|To keep the house for her father;
+000041|to ride with him, and sit at the head of his table when he had dinner parties;
+000042|to talk to him and read his books -- that would be what she would like most in the world, and if one must go away to "the place" in England to attain it, she must make up her mind to go.
+000043|She did not care very much for other little girls, but if she had plenty of books she could console herself.
+000044|She liked books more than anything else, and was, in fact, always inventing stories of beautiful things and telling them to herself.
+000045|Sometimes she had told them to her father, and he had liked them as much as she did.
+000046|"Well, papa," she said softly, "if we are here I suppose we must be resigned."
+000047|He laughed at her old-fashioned speech and kissed her.
+000048|He was really not at all resigned himself, though he knew he must keep that a secret.
+000049|His quaint little Sara had been a great companion to him, and he felt he should be a lonely fellow when, on his return to India, he went into his bungalow knowing he need not expect to see the small figure in its white frock come forward to meet him.
+000050|So he held her very closely in his arms as the cab rolled into the big, dull square in which stood the house which was their destination.
+000051|It was a big, dull, brick house, exactly like all the others in its row, but that on the front door there shone a brass plate on which was engraved in black letters:
+000052|Miss minchin, select seminary for young ladies.
+000053|"Here we are, Sara," said Captain Crewe, making his voice sound as cheerful as possible.
+000054|Then he lifted her out of the cab and they mounted the steps and rang the bell.
+000055|Sara often thought afterward that the house was somehow exactly like Miss Minchin.
+000056|It was respectable and well furnished, but everything in it was ugly;
+000057|and the very armchairs seemed to have hard bones in them.
+000058|In the hall everything was hard and polished -- even the red cheeks of the moon face on the tall clock in the corner had a severe varnished look.
+000059|The drawing room into which they were ushered was covered by a carpet with a square pattern upon it, the chairs were square, and a heavy marble timepiece stood upon the heavy marble mantel.
+000060|As she sat down in one of the stiff mahogany chairs, Sara cast one of her quick looks about her.
+000061|"I don't like it, papa," she said.
+000062|But then I dare say soldiers -- even brave ones -- don't really like going into battle.
+000063|Captain Crewe laughed outright at this.
+000064|He was young and full of fun, and he never tired of hearing Sara's queer speeches.
+000065|"Oh, little Sara," he said.
+000066|What shall I do when I have no one to say solemn things to me?
+000067|No one else is as solemn as you are.
+000068|"But why do solemn things make you laugh so?" inquired Sara.
+000069|"Because you are such fun when you say them," he answered, laughing still more.
+000070|And then suddenly he swept her into his arms and kissed her very hard, stopping laughing all at once and looking almost as if tears had come into his eyes.
+000071|It was just then that Miss Minchin entered the room.
+000072|She was very like her house, Sara felt: tall and dull, and respectable and ugly.
+000073|She had large, cold, fishy eyes, and a large, cold, fishy smile.
+000074|It spread itself into a very large smile when she saw Sara and Captain Crewe.
+000075|She had heard a great many desirable things of the young soldier from the lady who had recommended her school to him.
+000076|Among other things, she had heard that he was a rich father who was willing to spend a great deal of money on his little daughter.
+000077|"It will be a great privilege to have charge of such a beautiful and promising child, Captain Crewe," she said, taking Sara's hand and stroking it.
+000078|Lady Meredith has told me of her unusual cleverness.
+000079|A clever child is a great treasure in an establishment like mine.
+000080|Sara stood quietly, with her eyes fixed upon Miss Minchin's face.
+000081|She was thinking something odd, as usual.
+000082|"Why does she say I am a beautiful child?" she was thinking.
+000083|I am not beautiful at all.
+000084|Colonel Grange's little girl, Isobel, is beautiful.
+000085|She has dimples and rose-colored cheeks, and long hair the color of gold.
+000086|I have short black hair and green eyes;
+000087|besides which, I am a thin child and not fair in the least.
+000088|I am one of the ugliest children I ever saw.
+000089|She is beginning by telling a story.
+000090|She was mistaken, however, in thinking she was an ugly child.
+000091|She was not in the least like Isobel Grange, who had been the beauty of the regiment, but she had an odd charm of her own.
+000092|She was a slim, supple creature, rather tall for her age, and had an intense, attractive little face.
+000093|Her hair was heavy and quite black and only curled at the tips;
+000094|her eyes were greenish gray, it is true, but they were big, wonderful eyes with long, black lashes, and though she herself did not like the color of them, many other people did.
+000095|Still she was very firm in her belief that she was an ugly little girl, and she was not at all elated by Miss Minchin's flattery.
+000096|"I should be telling a story if I said she was beautiful," she thought;
+000097|and I should know I was telling a story.
+000098|I believe I am as ugly as she is -- in my way.
+000099|What did she say that for?
+000100|After she had known Miss Minchin longer she learned why she had said it.
+000101|She discovered that she said the same thing to each papa and mamma who brought a child to her school.
+000102|Sara stood near her father and listened while he and Miss Minchin talked.
+000103|She had been brought to the seminary because Lady Meredith's two little girls had been educated there, and Captain Crewe had a great respect for Lady Meredith's experience.
+000104|Sara was to be what was known as "a parlor boarder," and she was to enjoy even greater privileges than parlor boarders usually did.
+000105|She was to have a pretty bedroom and sitting room of her own;
+000106|she was to have a pony and a carriage, and a maid to take the place of the ayah who had been her nurse in India.
+000107|"I am not in the least anxious about her education," Captain Crewe said, with his gay laugh, as he held Sara's hand and patted it.
+000108|The difficulty will be to keep her from learning too fast and too much.
+000109|She is always sitting with her little nose burrowing into books.
+000110|She doesn't read them, Miss Minchin;
+000111|she gobbles them up as if she were a little wolf instead of a little girl.
+000112|She is always starving for new books to gobble, and she wants grown-up books -- great, big, fat ones -- French and German as well as English -- history and biography and poets, and all sorts of things.
+000113|Drag her away from her books when she reads too much.
+000114|Make her ride her pony in the Row or go out and buy a new doll.
+000115|She ought to play more with dolls.
+000116|"Papa," said Sara, "you see, if I went out and bought a new doll every few days I should have more than I could be fond of."
+000117|Dolls ought to be intimate friends.
+000118|Emily is going to be my intimate friend.
+000119|Captain Crewe looked at Miss Minchin and Miss Minchin looked at Captain Crewe.
+000120|"Who is Emily?" she inquired.
+000121|"Tell her, Sara," Captain Crewe said, smiling.
+000122|Sara's green-gray eyes looked very solemn and quite soft as she answered.
+000123|"She is a doll I haven't got yet," she said.
+000124|She is a doll papa is going to buy for me.
+000125|We are going out together to find her.
+000126|I have called her Emily.
+000127|She is going to be my friend when papa is gone.
+000128|I want her to talk to about him.
+000129|Miss Minchin's large, fishy smile became very flattering indeed.
+000130|"What an original child!" she said.
+000131|What a darling little creature!
+000132|"Yes," said Captain Crewe, drawing Sara close.
+000133|She is a darling little creature.
+000134|Take great care of her for me, Miss Minchin.
+000135|Sara stayed with her father at his hotel for several days;
+000136|in fact, she remained with him until he sailed away again to India.
+000137|They went out and visited many big shops together, and bought a great many things.
+000138|They bought, indeed, a great many more things than Sara needed;
+000139|but Captain Crewe was a rash, innocent young man and wanted his little girl to have everything she admired and everything he admired himself, so between them they collected a wardrobe much too grand for a child of seven.
+000140|There were velvet dresses trimmed with costly furs, and lace dresses, and embroidered ones, and hats with great, soft ostrich feathers, and ermine coats and muffs, and boxes of tiny gloves and handkerchiefs and silk stockings in such abundant supplies that the polite young women behind the counters whispered to each other that the odd little girl with the big, solemn eyes must be at least some foreign princess -- perhaps the little daughter of an Indian rajah.
+000141|And at last they found Emily, but they went to a number of toy shops and looked at a great many dolls before they discovered her.
+000142|"I want her to look as if she wasn't a doll really," Sara said.
+000143|I want her to look as if she listens when I talk to her.
+000144|"The trouble with dolls, papa" -- and she put her head on one side and reflected as she said it -- "the trouble with dolls is that they never seem to hear."
+000145|So they looked at big ones and little ones -- at dolls with black eyes and dolls with blue -- at dolls with brown curls and dolls with golden braids, dolls dressed and dolls undressed.
+000146|"You see," Sara said when they were examining one who had no clothes.
+000147|If, when I find her, she has no frocks, we can take her to a dressmaker and have her things made to fit.
+000148|They will fit better if they are tried on.
+000149|After a number of disappointments they decided to walk and look in at the shop windows and let the cab follow them.
+000150|They had passed two or three places without even going in, when, as they were approaching a shop which was really not a very large one, Sara suddenly started and clutched her father's arm.
+000151|"Oh, papa!" she cried.
+000152|There is Emily!
+000153|A flush had risen to her face and there was an expression in her green-gray eyes as if she had just recognized someone she was intimate with and fond of.
+000154|"She is actually waiting there for us!" she said.
+000155|Let us go in to her.
+000156|"Dear me," said Captain Crewe, "I feel as if we ought to have someone to introduce us."
+000157|"You must introduce me and I will introduce you," said Sara.
+000158|But I knew her the minute I saw her -- so perhaps she knew me, too.
+000159|Perhaps she had known her.
+000160|She had certainly a very intelligent expression in her eyes when Sara took her in her arms.
+000161|She was a large doll, but not too large to carry about easily;
+000162|she had naturally curling golden-brown hair, which hung like a mantle about her, and her eyes were a deep, clear, gray-blue, with soft, thick eyelashes which were real eyelashes and not mere painted lines.
+000163|"Of course," said Sara, looking into her face as she held her on her knee, "of course papa, this is Emily."
+000164|So Emily was bought and actually taken to a children's outfitter's shop and measured for a wardrobe as grand as Sara's own.
+000165|She had lace frocks, too, and velvet and muslin ones, and hats and coats and beautiful lace-trimmed underclothes, and gloves and handkerchiefs and furs.
+000166|"I should like her always to look as if she was a child with a good mother," said Sara.
+000167|I'm her mother, though I am going to make a companion of her.
+000168|Captain Crewe would really have enjoyed the shopping tremendously, but that a sad thought kept tugging at his heart.
+000169|This all meant that he was going to be separated from his beloved, quaint little comrade.
+000170|He got out of his bed in the middle of that night and went and stood looking down at Sara, who lay asleep with Emily in her arms.
+000171|Her black hair was spread out on the pillow and Emily's golden-brown hair mingled with it, both of them had lace-ruffled nightgowns, and both had long eyelashes which lay and curled up on their cheeks.
+000172|Emily looked so like a real child that Captain Crewe felt glad she was there.
+000173|He drew a big sigh and pulled his mustache with a boyish expression.
+000174|"Heigh-ho, little Sara!" he said to himself "I don't believe you know how much your daddy will miss you."
+000175|The next day he took her to Miss Minchin's and left her there.
+000176|He was to sail away the next morning.
+000177|He explained to Miss Minchin that his solicitors, Messrs.
+000178|Barrow and Skipworth, had charge of his affairs in England and would give her any advice she wanted, and that they would pay the bills she sent in for Sara's expenses.
+000179|He would write to Sara twice a week, and she was to be given every pleasure she asked for.
+000180|"She is a sensible little thing, and she never wants anything it isn't safe to give her," he said.
+000181|Then he went with Sara into her little sitting room and they bade each other good-by.
+000182|Sara sat on his knee and held the lapels of his coat in her small hands, and looked long and hard at his face.
+000183|"Are you learning me by heart, little Sara?" he said, stroking her hair.
+000184|"No," she answered.
+000185|I know you by heart.
+000186|You are inside my heart.
+000187|And they put their arms round each other and kissed as if they would never let each other go.
+000188|When the cab drove away from the door, Sara was sitting on the floor of her sitting room, with her hands under her chin and her eyes following it until it had turned the corner of the square.
+000189|Emily was sitting by her, and she looked after it, too.
+000190|When Miss Minchin sent her sister, Miss Amelia, to see what the child was doing, she found she could not open the door.
+000191|"I have locked it," said a queer, polite little voice from inside.
+000192|I want to be quite by myself, if you please.
+000193|Miss Amelia was fat and dumpy, and stood very much in awe of her sister.
+000194|She was really the better-natured person of the two, but she never disobeyed Miss Minchin.
+000195|She went downstairs again, looking almost alarmed.
+000196|"I never saw such a funny, old-fashioned child, sister," she said.
+000197|She has locked herself in, and she is not making the least particle of noise.
+000198|"It is much better than if she kicked and screamed, as some of them do," Miss Minchin answered.
+000199|I expected that a child as much spoiled as she is would set the whole house in an uproar.
+000200|If ever a child was given her own way in everything, she is.
+000201|"I've been opening her trunks and putting her things away," said Miss Amelia.
+000202|I never saw anything like them -- sable and ermine on her coats, and real Valenciennes lace on her underclothing.
+000203|You have seen some of her clothes.
+000204|What do you think of them?
+000205|"I think they are perfectly ridiculous," replied Miss Minchin, sharply;
+000206|but they will look very well at the head of the line when we take the schoolchildren to church on Sunday.
+000207|She has been provided for as if she were a little princess.

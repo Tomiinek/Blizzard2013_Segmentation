@@ -1,0 +1,117 @@
+000001|Hester Prynne remained constant in her resolve to make known to mister Dimmesdale, at whatever risk of present pain or ulterior consequences, the true character of the man who had crept into his intimacy.
+000002|For several days, however, she vainly sought an opportunity of addressing him in some of the meditative walks which she knew him to be in the habit of taking along the shores of the Peninsula, or on the wooded hills of the neighbouring country.
+000003|There would have been no scandal, indeed, nor peril to the holy whiteness of the clergyman's good fame, had she visited him in his own study, where many a penitent, ere now, had confessed sins of perhaps as deep a dye as the one betokened by the scarlet letter.
+000004|But, partly that she dreaded the secret or undisguised interference of old Roger Chillingworth, and partly that her conscious heart imparted suspicion where none could have been felt, and partly that both the minister and she would need the whole wide world to breathe in, while they talked together -- for all these reasons Hester never thought of meeting him in any narrower privacy than beneath the open sky.
+000005|At last, while attending a sick chamber, whither the Rev.
+000006|mister Dimmesdale had been summoned to make a prayer, she learnt that he had gone, the day before, to visit the Apostle Eliot, among his Indian converts.
+000007|He would probably return by a certain hour in the afternoon of the morrow.
+000008|Betimes, therefore, the next day, Hester took little Pearl -- who was necessarily the companion of all her mother's expeditions, however inconvenient her presence -- and set forth.
+000009|The road, after the two wayfarers had crossed from the Peninsula to the mainland, was no other than a foot-path.
+000010|It straggled onward into the mystery of the primeval forest.
+000011|This hemmed it in so narrowly, and stood so black and dense on either side, and disclosed such imperfect glimpses of the sky above, that, to Hester's mind, it imaged not amiss the moral wilderness in which she had so long been wandering.
+000012|The day was chill and sombre.
+000013|Overhead was a gray expanse of cloud, slightly stirred, however, by a breeze;
+000014|so that a gleam of flickering sunshine might now and then be seen at its solitary play along the path.
+000015|This flitting cheerfulness was always at the further extremity of some long vista through the forest.
+000016|The sportive sunlight -- feebly sportive, at best, in the predominant pensiveness of the day and scene -- withdrew itself as they came nigh, and left the spots where it had danced the drearier, because they had hoped to find them bright.
+000017|"Mother," said little Pearl, "the sunshine does not love you."
+000018|It runs away and hides itself, because it is afraid of something on your bosom.
+000019|Now, see!
+000020|There it is, playing a good way off.
+000021|Stand you here, and let me run and catch it.
+000022|I am but a child.
+000023|It will not flee from me -- for I wear nothing on my bosom yet!
+000024|"Nor ever will, my child, I hope," said Hester.
+000025|"And why not, mother?" asked Pearl, stopping short, just at the beginning of her race.
+000026|Will not it come of its own accord when I am a woman grown?
+000027|"Run away, child," answered her mother, "and catch the sunshine."
+000028|It will soon be gone.
+000029|Pearl set forth at a great pace, and as Hester smiled to perceive, did actually catch the sunshine, and stood laughing in the midst of it, all brightened by its splendour, and scintillating with the vivacity excited by rapid motion.
+000030|The light lingered about the lonely child, as if glad of such a playmate, until her mother had drawn almost nigh enough to step into the magic circle too.
+000031|"It will go now," said Pearl, shaking her head.
+000032|"See!" answered Hester, smiling;
+000033|now I can stretch out my hand and grasp some of it.
+000034|As she attempted to do so, the sunshine vanished;
+000035|or, to judge from the bright expression that was dancing on Pearl's features, her mother could have fancied that the child had absorbed it into herself, and would give it forth again, with a gleam about her path, as they should plunge into some gloomier shade.
+000036|There was no other attribute that so much impressed her with a sense of new and untransmitted vigour in Pearl's nature, as this never failing vivacity of spirits: she had not the disease of sadness, which almost all children, in these latter days, inherit, with the scrofula, from the troubles of their ancestors.
+000037|Perhaps this, too, was a disease, and but the reflex of the wild energy with which Hester had fought against her sorrows before Pearl's birth.
+000038|It was certainly a doubtful charm, imparting a hard, metallic lustre to the child's character.
+000039|She wanted -- what some people want throughout life -- a grief that should deeply touch her, and thus humanise and make her capable of sympathy.
+000040|But there was time enough yet for little Pearl.
+000041|"Come, my child!" said Hester, looking about her from the spot where Pearl had stood still in the sunshine -- "we will sit down a little way within the wood, and rest ourselves."
+000042|"I am not aweary, mother," replied the little girl.
+000043|But you may sit down, if you will tell me a story meanwhile.
+000044|"A story, child!" said Hester.
+000045|And about what?
+000046|"Oh, a story about the Black Man," answered Pearl, taking hold of her mother's gown, and looking up, half earnestly, half mischievously, into her face.
+000047|How he haunts this forest, and carries a book with him a big, heavy book, with iron clasps;
+000048|and how this ugly Black Man offers his book and an iron pen to everybody that meets him here among the trees;
+000049|and they are to write their names with their own blood;
+000050|and then he sets his mark on their bosoms.
+000051|Didst thou ever meet the Black Man, mother?
+000052|"And who told you this story, Pearl," asked her mother, recognising a common superstition of the period.
+000053|"It was the old dame in the chimney corner, at the house where you watched last night," said the child.
+000054|But she fancied me asleep while she was talking of it.
+000055|She said that a thousand and a thousand people had met him here, and had written in his book, and have his mark on them.
+000056|And that ugly tempered lady, old Mistress Hibbins, was one.
+000057|And, mother, the old dame said that this scarlet letter was the Black Man's mark on thee, and that it glows like a red flame when thou meetest him at midnight, here in the dark wood.
+000058|Is it true, mother?
+000059|And dost thou go to meet him in the nighttime?
+000060|"Didst thou ever awake and find thy mother gone?" asked Hester.
+000061|"Not that I remember," said the child.
+000062|If thou fearest to leave me in our cottage, thou mightest take me along with thee.
+000063|I would very gladly go!
+000064|But, mother, tell me now!
+000065|Is there such a Black Man?
+000066|And didst thou ever meet him?
+000067|And is this his mark?
+000068|"Wilt thou let me be at peace, if I once tell thee?" asked her mother.
+000069|"Yes, if thou tellest me all," answered Pearl.
+000070|"Once in my life I met the Black Man!" said her mother.
+000071|This scarlet letter is his mark!
+000072|Thus conversing, they entered sufficiently deep into the wood to secure themselves from the observation of any casual passenger along the forest track.
+000073|Here they sat down on a luxuriant heap of moss;
+000074|which at some epoch of the preceding century, had been a gigantic pine, with its roots and trunk in the darksome shade, and its head aloft in the upper atmosphere.
+000075|It was a little dell where they had seated themselves, with a leaf-strewn bank rising gently on either side, and a brook flowing through the midst, over a bed of fallen and drowned leaves.
+000076|The trees impending over it had flung down great branches from time to time, which choked up the current, and compelled it to form eddies and black depths at some points;
+000077|while, in its swifter and livelier passages there appeared a channel-way of pebbles, and brown, sparkling sand.
+000078|Letting the eyes follow along the course of the stream, they could catch the reflected light from its water, at some short distance within the forest, but soon lost all traces of it amid the bewilderment of tree-trunks and underbrush, and here and there a huge rock covered over with gray lichens.
+000079|All these giant trees and boulders of granite seemed intent on making a mystery of the course of this small brook;
+000080|fearing, perhaps, that, with its never-ceasing loquacity, it should whisper tales out of the heart of the old forest whence it flowed, or mirror its revelations on the smooth surface of a pool.
+000081|Continually, indeed, as it stole onward, the streamlet kept up a babble, kind, quiet, soothing, but melancholy, like the voice of a young child that was spending its infancy without playfulness, and knew not how to be merry among sad acquaintance and events of sombre hue.
+000082|Oh, brook!
+000083|"Oh, foolish and tiresome little brook!" cried Pearl, after listening awhile to its talk, "Why art thou so sad?"
+000084|Pluck up a spirit, and do not be all the time sighing and murmuring!
+000085|But the brook, in the course of its little lifetime among the forest trees, had gone through so solemn an experience that it could not help talking about it, and seemed to have nothing else to say.
+000086|Pearl resembled the brook, inasmuch as the current of her life gushed from a well-spring as mysterious, and had flowed through scenes shadowed as heavily with gloom.
+000087|But, unlike the little stream, she danced and sparkled, and prattled airily along her course.
+000088|"What does this sad little brook say, mother?" inquired she.
+000089|"If thou hadst a sorrow of thine own, the brook might tell thee of it," answered her mother, "even as it is telling me of mine."
+000090|But now, Pearl, I hear a footstep along the path, and the noise of one putting aside the branches.
+000091|I would have thee betake thyself to play, and leave me to speak with him that comes yonder.
+000092|"Is it the Black Man?" asked Pearl.
+000093|"Wilt thou go and play, child?" repeated her mother, "But do not stray far into the wood."
+000094|And take heed that thou come at my first call.
+000095|"Yes, mother," answered Pearl, "But if it be the Black Man, wilt thou not let me stay a moment, and look at him, with his big book under his arm?"
+000096|"Go, silly child!" said her mother impatiently.
+000097|It is no Black Man!
+000098|Thou canst see him now, through the trees.
+000099|It is the minister!
+000100|"And so it is!" said the child.
+000101|And, mother, he has his hand over his heart!
+000102|Is it because, when the minister wrote his name in the book, the Black Man set his mark in that place?
+000103|But why does he not wear it outside his bosom, as thou dost, mother?
+000104|"Go now, child, and thou shalt tease me as thou wilt another time," cried Hester Prynne.
+000105|But do not stray far.
+000106|Keep where thou canst hear the babble of the brook.
+000107|The child went singing away, following up the current of the brook, and striving to mingle a more lightsome cadence with its melancholy voice.
+000108|But the little stream would not be comforted, and still kept telling its unintelligible secret of some very mournful mystery that had happened -- or making a prophetic lamentation about something that was yet to happen -- within the verge of the dismal forest.
+000109|So Pearl, who had enough of shadow in her own little life, chose to break off all acquaintance with this repining brook.
+000110|She set herself, therefore, to gathering violets and wood-anemones, and some scarlet columbines that she found growing in the crevice of a high rock.
+000111|When her elf-child had departed, Hester Prynne made a step or two towards the track that led through the forest, but still remained under the deep shadow of the trees.
+000112|She beheld the minister advancing along the path entirely alone, and leaning on a staff which he had cut by the wayside.
+000113|He looked haggard and feeble, and betrayed a nerveless despondency in his air, which had never so remarkably characterised him in his walks about the settlement, nor in any other situation where he deemed himself liable to notice.
+000114|Here it was wofully visible, in this intense seclusion of the forest, which of itself would have been a heavy trial to the spirits.
+000115|There was a listlessness in his gait, as if he saw no reason for taking one step further, nor felt any desire to do so, but would have been glad, could he be glad of anything, to fling himself down at the root of the nearest tree, and lie there passive for evermore.
+000116|The leaves might bestrew him, and the soil gradually accumulate and form a little hillock over his frame, no matter whether there were life in it or no.
+000117|Death was too definite an object to be wished for or avoided.

@@ -1,0 +1,62 @@
+000001|Happy for all her maternal feelings was the day on which misess Bennet got rid of her two most deserving daughters.
+000002|With what delighted pride she afterwards visited misess Bingley, and talked of misess Darcy, may be guessed.
+000003|I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children produced so happy an effect as to make her a sensible, amiable, well-informed woman for the rest of her life;
+000004|though perhaps it was lucky for her husband, who might not have relished domestic felicity in so unusual a form, that she still was occasionally nervous and invariably silly.
+000005|mister Bennet missed his second daughter exceedingly;
+000006|his affection for her drew him oftener from home than anything else could do.
+000007|He delighted in going to Pemberley, especially when he was least expected.
+000008|mister Bingley and Jane remained at Netherfield only a twelvemonth.
+000009|So near a vicinity to her mother and Meryton relations was not desirable even to his easy temper, or her affectionate heart.
+000010|The darling wish of his sisters was then gratified;
+000011|he bought an estate in a neighbouring county to Derbyshire, and Jane and Elizabeth, in addition to every other source of happiness, were within thirty miles of each other.
+000012|Kitty, to her very material advantage, spent the chief of her time with her two elder sisters.
+000013|In society so superior to what she had generally known, her improvement was great.
+000014|She was not of so ungovernable a temper as Lydia;
+000015|and, removed from the influence of Lydia's example, she became, by proper attention and management, less irritable, less ignorant, and less insipid.
+000016|From the further disadvantage of Lydia's society she was of course carefully kept, and though misess Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going.
+000017|Mary was the only daughter who remained at home;
+000018|and she was necessarily drawn from the pursuit of accomplishments by misess Bennet's being quite unable to sit alone.
+000019|Mary was obliged to mix more with the world, but she could still moralize over every morning visit;
+000020|and as she was no longer mortified by comparisons between her sisters' beauty and her own, it was suspected by her father that she submitted to the change without much reluctance.
+000021|As for Wickham and Lydia, their characters suffered no revolution from the marriage of her sisters.
+000022|He bore with philosophy the conviction that Elizabeth must now become acquainted with whatever of his ingratitude and falsehood had before been unknown to her;
+000023|and in spite of every thing, was not wholly without hope that Darcy might yet be prevailed on to make his fortune.
+000024|The congratulatory letter which Elizabeth received from Lydia on her marriage, explained to her that, by his wife at least, if not by himself, such a hope was cherished.
+000025|The letter was to this effect:
+000026|My dear lizzy, I wish you joy.
+000027|If you love mister Darcy half as well as I do my dear Wickham, you must be very happy.
+000028|It is a great comfort to have you so rich, and when you have nothing else to do, I hope you will think of us.
+000029|I am sure Wickham would like a place at court very much, and I do not think we shall have quite money enough to live upon without some help.
+000030|Any place would do, of about three or four hundred a year;
+000031|but however, do not speak to mister Darcy about it, if you had rather not.
+000032|Yours, et cetera.
+000033|As it happened that Elizabeth had much rather not, she endeavoured in her answer to put an end to every entreaty and expectation of the kind.
+000034|Such relief, however, as it was in her power to afford, by the practice of what might be called economy in her own private expences, she frequently sent them.
+000035|It had always been evident to her that such an income as theirs, under the direction of two persons so extravagant in their wants, and heedless of the future, must be very insufficient to their support;
+000036|and whenever they changed their quarters, either Jane or herself were sure of being applied to for some little assistance towards discharging their bills.
+000037|Their manner of living, even when the restoration of peace dismissed them to a home, was unsettled in the extreme.
+000038|They were always moving from place to place in quest of a cheap situation, and always spending more than they ought.
+000039|His affection for her soon sunk into indifference;
+000040|hers lasted a little longer;
+000041|and in spite of her youth and her manners, she retained all the claims to reputation which her marriage had given her.
+000042|Though Darcy could never receive him at Pemberley, yet, for Elizabeth's sake, he assisted him further in his profession.
+000043|Lydia was occasionally a visitor there, when her husband was gone to enjoy himself in London or Bath;
+000044|and with the Bingleys they both of them frequently staid so long, that even Bingley's good humour was overcome, and he proceeded so far as to talk of giving them a hint to be gone.
+000045|Miss Bingley was very deeply mortified by Darcy's marriage;
+000046|but as she thought it advisable to retain the right of visiting at Pemberley, she dropt all her resentment;
+000047|was fonder than ever of Georgiana, almost as attentive to Darcy as heretofore, and paid off every arrear of civility to Elizabeth.
+000048|Pemberley was now Georgiana's home;
+000049|and the attachment of the sisters was exactly what Darcy had hoped to see.
+000050|They were able to love each other even as well as they intended.
+000051|Georgiana had the highest opinion in the world of Elizabeth;
+000052|though at first she often listened with an astonishment bordering on alarm at her lively, sportive, manner of talking to her brother.
+000053|He, who had always inspired in herself a respect which almost overcame her affection, she now saw the object of open pleasantry.
+000054|Her mind received knowledge which had never before fallen in her way.
+000055|By Elizabeth's instructions, she began to comprehend that a woman may take liberties with her husband which a brother will not always allow in a sister more than ten years younger than himself.
+000056|Lady Catherine was extremely indignant on the marriage of her nephew;
+000057|and as she gave way to all the genuine frankness of her character in her reply to the letter which announced its arrangement, she sent him language so very abusive, especially of Elizabeth, that for some time all intercourse was at an end.
+000058|But at length, by Elizabeth's persuasion, he was prevailed on to overlook the offence, and seek a reconciliation;
+000059|and, after a little further resistance on the part of his aunt, her resentment gave way, either to her affection for him, or her curiosity to see how his wife conducted herself;
+000060|and she condescended to wait on them at Pemberley, in spite of that pollution which its woods had received, not merely from the presence of such a mistress, but the visits of her uncle and aunt from the city.
+000061|With the Gardiners, they were always on the most intimate terms.
+000062|Darcy, as well as Elizabeth, really loved them;

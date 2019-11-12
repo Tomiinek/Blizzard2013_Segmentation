@@ -1,0 +1,220 @@
+000001|One morning, about a week after Bingley's engagement with Jane had been formed, as he and the females of the family were sitting together in the dining-room, their attention was suddenly drawn to the window, by the sound of a carriage;
+000002|and they perceived a chaise and four driving up the lawn.
+000003|It was too early in the morning for visitors, and besides, the equipage did not answer to that of any of their neighbours.
+000004|The horses were post;
+000005|and neither the carriage, nor the livery of the servant who preceded it, were familiar to them.
+000006|As it was certain, however, that somebody was coming, Bingley instantly prevailed on Miss Bennet to avoid the confinement of such an intrusion, and walk away with him into the shrubbery.
+000007|They both set off, and the conjectures of the remaining three continued, though with little satisfaction, till the door was thrown open and their visitor entered.
+000008|It was Lady Catherine de Bourgh.
+000009|They were of course all intending to be surprised;
+000010|but their astonishment was beyond their expectation;
+000011|and on the part of misess Bennet and Kitty, though she was perfectly unknown to them, even inferior to what Elizabeth felt.
+000012|She entered the room with an air more than usually ungracious, made no other reply to Elizabeth's salutation than a slight inclination of the head, and sat down without saying a word.
+000013|Elizabeth had mentioned her name to her mother on her ladyship's entrance, though no request of introduction had been made.
+000014|misess Bennet, all amazement, though flattered by having a guest of such high importance, received her with the utmost politeness.
+000015|After sitting for a moment in silence, she said very stiffly to Elizabeth,
+000016|I hope you are well, Miss Bennet.
+000017|That lady, I suppose, is your mother.
+000018|Elizabeth replied very concisely that she was.
+000019|And that I suppose is one of your sisters.
+000020|"Yes, madam," said misess Bennet, delighted to speak to Lady Catherine.
+000021|She is my youngest girl but one.
+000022|My youngest of all is lately married, and my eldest is somewhere about the grounds, walking with a young man who, I believe, will soon become a part of the family.
+000023|"You have a very small park here," returned Lady Catherine after a short silence.
+000024|It is nothing in comparison of Rosings, my lady, I dare say;
+000025|but I assure you it is much larger than Sir William Lucas's.
+000026|This must be a most inconvenient sitting room for the evening, in summer;
+000027|the windows are full west.
+000028|misess Bennet assured her that they never sat there after dinner, and then added:
+000029|May I take the liberty of asking your ladyship whether you left mister and misess Collins well.
+000030|Yes, very well.
+000031|I saw them the night before last.
+000032|Elizabeth now expected that she would produce a letter for her from Charlotte, as it seemed the only probable motive for her calling.
+000033|But no letter appeared, and she was completely puzzled.
+000034|Misess Bennet, with great civility, begged her ladyship to take some refreshment;
+000035|but Lady Catherine very resolutely, and not very politely, declined eating anything;
+000036|and then, rising up, said to Elizabeth,
+000037|Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn.
+000038|I should be glad to take a turn in it, if you will favour me with your company.
+000039|"Go, my dear," cried her mother, "and show her ladyship about the different walks."
+000040|I think she will be pleased with the hermitage.
+000041|Elizabeth obeyed, and running into her own room for her parasol, attended her noble guest downstairs.
+000042|As they passed through the hall, Lady Catherine opened the doors into the dining-parlour and drawing-room, and pronouncing them, after a short survey, to be decent looking rooms, walked on.
+000043|Her carriage remained at the door, and Elizabeth saw that her waiting-woman was in it.
+000044|They proceeded in silence along the gravel walk that led to the copse;
+000045|Elizabeth was determined to make no effort for conversation with a woman who was now more than usually insolent and disagreeable.
+000046|"How could I ever think her like her nephew?" said she, as she looked in her face.
+000047|As soon as they entered the copse, Lady Catherine began in the following manner:
+000048|You can be at no loss, Miss Bennet, to understand the reason of my journey hither.
+000049|Your own heart, your own conscience, must tell you why I come.
+000050|Elizabeth looked with unaffected astonishment.
+000051|Indeed, you are mistaken, Madam.
+000052|I have not been at all able to account for the honour of seeing you here.
+000053|"Miss Bennet," replied her ladyship, in an angry tone, "you ought to know, that I am not to be trifled with."
+000054|But however insincere you may choose to be, you shall not find me so.
+000055|My character has ever been celebrated for its sincerity and frankness, and in a cause of such moment as this, I shall certainly not depart from it.
+000056|A report of a most alarming nature reached me two days ago.
+000057|I was told that not only your sister was on the point of being most advantageously married, but that you, that Miss Elizabeth Bennet, would, in all likelihood, be soon afterwards united to my nephew, my own nephew, mister Darcy.
+000058|Though I know it must be a scandalous falsehood, though I would not injure him so much as to suppose the truth of it possible, I instantly resolved on setting off for this place, that I might make my sentiments known to you.
+000059|"If you believed it impossible to be true," said Elizabeth, colouring with astonishment and disdain, "I wonder you took the trouble of coming so far."
+000060|What could your ladyship propose by it?
+000061|At once to insist upon having such a report universally contradicted.
+000062|"Your coming to Longbourn, to see me and my family," said Elizabeth coolly, "will be rather a confirmation of it;"
+000063|if, indeed, such a report is in existence.
+000064|If! Do you then pretend to be ignorant of it?
+000065|Has it not been industriously circulated by yourselves?
+000066|Do you not know that such a report is spread abroad?
+000067|I never heard that it was.
+000068|And can you likewise declare, that there is no foundation for it?
+000069|I do not pretend to possess equal frankness with your ladyship.
+000070|You may ask questions which I shall not choose to answer.
+000071|This is not to be borne.
+000072|Miss Bennet, I insist on being satisfied.
+000073|Has he, has my nephew, made you an offer of marriage?
+000074|Your ladyship has declared it to be impossible.
+000075|It ought to be so;
+000076|it must be so, while he retains the use of his reason.
+000077|But your arts and allurements may, in a moment of infatuation, have made him forget what he owes to himself and to all his family.
+000078|You may have drawn him in.
+000079|If I have, I shall be the last person to confess it.
+000080|Miss Bennet, do you know who I am?
+000081|I have not been accustomed to such language as this.
+000082|I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.
+000083|But you are not entitled to know mine;
+000084|nor will such behaviour as this, ever induce me to be explicit.
+000085|Let me be rightly understood.
+000086|This match, to which you have the presumption to aspire, can never take place.
+000087|No, never.
+000088|Mister Darcy is engaged to my daughter.
+000089|Now what have you to say?
+000090|Only this;
+000091|that if he is so, you can have no reason to suppose he will make an offer to me.
+000092|Lady Catherine hesitated for a moment, and then replied:
+000093|The engagement between them is of a peculiar kind.
+000094|From their infancy, they have been intended for each other.
+000095|It was the favourite wish of his mother, as well as of hers.
+000096|While in their cradles, we planned the union: and now, at the moment when the wishes of both sisters would be accomplished in their marriage, to be prevented by a young woman of inferior birth, of no importance in the world, and wholly unallied to the family!
+000097|Do you pay no regard to the wishes of his friends?
+000098|To his tacit engagement with Miss de Bourgh?
+000099|Are you lost to every feeling of propriety and delicacy?
+000100|Have you not heard me say that from his earliest hours he was destined for his cousin?
+000101|Yes, and I had heard it before.
+000102|But what is that to me?
+000103|If there is no other objection to my marrying your nephew, I shall certainly not be kept from it by knowing that his mother and aunt wished him to marry Miss de Bourgh.
+000104|You both did as much as you could in planning the marriage.
+000105|Its completion depended on others.
+000106|If mister Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice?
+000107|And if I am that choice, why may not I accept him?
+000108|Because honour, decorum, prudence, nay, interest, forbid it.
+000109|Yes, Miss Bennet, interest;
+000110|for do not expect to be noticed by his family or friends, if you wilfully act against the inclinations of all.
+000111|You will be censured, slighted, and despised, by everyone connected with him.
+000112|Your alliance will be a disgrace;
+000113|your name will never even be mentioned by any of us.
+000114|"These are heavy misfortunes," replied Elizabeth.
+000115|But the wife of mister Darcy must have such extraordinary sources of happiness necessarily attached to her situation, that she could, upon the whole, have no cause to repine.
+000116|Obstinate, headstrong girl!
+000117|I am ashamed of you!
+000118|Is this your gratitude for my attentions to you last spring?
+000119|Is nothing due to me on that score?
+000120|Let us sit down.
+000121|You are to understand, Miss Bennet, that I came here with the determined resolution of carrying my purpose;
+000122|nor will I be dissuaded from it.
+000123|I have not been used to submit to any person's whims.
+000124|I have not been in the habit of brooking disappointment.
+000125|That will make your ladyship's situation at present more pitiable;
+000126|but it will have no effect on me.
+000127|I will not be interrupted.
+000128|Hear me in silence.
+000129|My daughter and my nephew are formed for each other.
+000130|They are descended, on the maternal side, from the same noble line;
+000131|and, on the father's, from respectable, honourable, and ancient -- though untitled -- families.
+000132|Their fortune on both sides is splendid.
+000133|They are destined for each other by the voice of every member of their respective houses;
+000134|and what is to divide them?
+000135|The upstart pretensions of a young woman without family, connections, or fortune.
+000136|Is this to be endured!
+000137|But it must not, shall not be.
+000138|If you were sensible of your own good, you would not wish to quit the sphere in which you have been brought up.
+000139|In marrying your nephew, I should not consider myself as quitting that sphere.
+000140|He is a gentleman;
+000141|I am a gentleman's daughter;
+000142|so far we are equal.
+000143|True.
+000144|You are a gentleman's daughter.
+000145|But who was your mother?
+000146|Who are your uncles and aunts?
+000147|Do not imagine me ignorant of their condition.
+000148|"Whatever my connections may be," said Elizabeth, "if your nephew does not object to them, they can be nothing to you."
+000149|Tell me once for all, are you engaged to him?
+000150|Though Elizabeth would not, for the mere purpose of obliging Lady Catherine, have answered this question, she could not but say, after a moment's deliberation:
+000151|I am not.
+000152|Lady Catherine seemed pleased.
+000153|And will you promise me, never to enter into such an engagement?
+000154|I will make no promise of the kind.
+000155|Miss Bennet I am shocked and astonished.
+000156|I expected to find a more reasonable young woman.
+000157|But do not deceive yourself into a belief that I will ever recede.
+000158|I shall not go away till you have given me the assurance I require.
+000159|And I certainly never shall give it.
+000160|I am not to be intimidated into anything so wholly unreasonable.
+000161|Your ladyship wants mister Darcy to marry your daughter;
+000162|but would my giving you the wished-for promise make their marriage at all more probable?
+000163|Supposing him to be attached to me, would my refusing to accept his hand make him wish to bestow it on his cousin?
+000164|Allow me to say, Lady Catherine, that the arguments with which you have supported this extraordinary application have been as frivolous as the application was ill-judged.
+000165|You have widely mistaken my character, if you think I can be worked on by such persuasions as these.
+000166|How far your nephew might approve of your interference in his affairs, I cannot tell;
+000167|but you have certainly no right to concern yourself in mine.
+000168|I must beg, therefore, to be importuned no farther on the subject.
+000169|Not so hasty, if you please.
+000170|I have by no means done.
+000171|To all the objections I have already urged, I have still another to add.
+000172|I am no stranger to the particulars of your youngest sister's infamous elopement.
+000173|I know it all;
+000174|that the young man's marrying her was a patched-up business, at the expence of your father and uncles.
+000175|And is such a girl to be my nephew's sister?
+000176|Is her husband, is the son of his late father's steward, to be his brother?
+000177|Heaven and earth! -- of what are you thinking?
+000178|Are the shades of Pemberley to be thus polluted?
+000179|"You can now have nothing further to say," she resentfully answered.
+000180|You have insulted me in every possible method.
+000181|I must beg to return to the house.
+000182|And she rose as she spoke.
+000183|Lady Catherine rose also, and they turned back.
+000184|Her ladyship was highly incensed.
+000185|You have no regard, then, for the honour and credit of my nephew!
+000186|Unfeeling, selfish girl!
+000187|Do you not consider that a connection with you must disgrace him in the eyes of everybody?
+000188|Lady Catherine, I have nothing further to say.
+000189|You know my sentiments.
+000190|You are then resolved to have him?
+000191|I have said no such thing.
+000192|I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to you, or to any person so wholly unconnected with me.
+000193|It is well.
+000194|You refuse, then, to oblige me.
+000195|You refuse to obey the claims of duty, honour, and gratitude.
+000196|You are determined to ruin him in the opinion of all his friends, and make him the contempt of the world.
+000197|"Neither duty, nor honour, nor gratitude," replied Elizabeth, "have any possible claim on me, in the present instance."
+000198|No principle of either would be violated by my marriage with mister Darcy.
+000199|And with regard to the resentment of his family, or the indignation of the world, if the former were excited by his marrying me, it would not give me one moment's concern -- and the world in general would have too much sense to join in the scorn.
+000200|And this is your real opinion!
+000201|This is your final resolve!
+000202|Very well.
+000203|I shall now know how to act.
+000204|Do not imagine, Miss Bennet, that your ambition will ever be gratified.
+000205|I came to try you.
+000206|I hoped to find you reasonable;
+000207|but, depend upon it, I will carry my point.
+000208|In this manner Lady Catherine talked on, till they were at the door of the carriage, when, turning hastily round, she added, "I take no leave of you, Miss Bennet."
+000209|I send no compliments to your mother.
+000210|You deserve no such attention.
+000211|I am most seriously displeased.
+000212|Elizabeth made no answer;
+000213|and without attempting to persuade her ladyship to return into the house, walked quietly into it herself.
+000214|She heard the carriage drive away as she proceeded up stairs.
+000215|Her mother impatiently met her at the door of the dressing-room, to ask why Lady Catherine would not come in again and rest herself.
+000216|"She did not choose it," said her daughter, "she would go."
+000217|She is a very fine-looking woman! and her calling here was prodigiously civil! for she only came, I suppose, to tell us the Collinses were well.
+000218|She is on her road somewhere, I dare say, and so, passing through Meryton, thought she might as well call on you.
+000219|I suppose she had nothing particular to say to you, Lizzy?
+000220|Elizabeth was forced to give into a little falsehood here;

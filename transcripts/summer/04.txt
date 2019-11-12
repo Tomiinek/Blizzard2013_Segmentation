@@ -1,0 +1,101 @@
+000001|He stopped and lifted his hat with a shy smile.
+000002|"I beg your pardon," he said.
+000003|I thought there was no one here.
+000004|Charity stood before him, barring his way.
+000005|You can't come in.
+000006|The library ain't open to the public Wednesdays.
+000007|I know it's not;
+000008|but my cousin gave me her key.
+000009|Miss Hatchard's got no right to give her key to other folks, any more'n I have.
+000010|I'm the librarian and I know the by-laws.
+000011|This is my library.
+000012|The young man looked profoundly surprised.
+000013|Why, I know it is;
+000014|I'm so sorry if you mind my coming.
+000015|I suppose you came to see what more you could say to set her against me?
+000016|But you needn't trouble: it's my library today, but it won't be this time tomorrow.
+000017|I'm on the way now to take her back the key and the register.
+000018|Young Harney's face grew grave, but without betraying the consciousness of guilt she had looked for.
+000019|"I don't understand," he said.
+000020|There must be some mistake.
+000021|Why should I say things against you to Miss Hatchard -- or to anyone?
+000022|The apparent evasiveness of the reply caused Charity's indignation to overflow.
+000023|I don't know why you should.
+000024|I could understand Orma Fry's doing it, because she's always wanted to get me out of here ever since the first day.
+000025|I can't see why, when she's got her own home, and her father to work for her;
+000026|nor Ida Targatt, neither, when she got a legacy from her step-brother on'y last year.
+000027|But anyway we all live in the same place, and when it's a place like North Dormer it's enough to make people hate each other just to have to walk down the same street every day.
+000028|But you don't live here, and you don't know anything about any of us, so what did you have to meddle for?
+000029|Do you suppose the other girls'd have kept the books any better'n I did?
+000030|Why, Orma Fry don't hardly know a book from a flat-iron!
+000031|And what if I don't always sit round here doing nothing till it strikes five up at the church?
+000032|Who cares if the library's open or shut?
+000033|Do you suppose anybody ever comes here for books?
+000034|What they'd like to come for is to meet the fellows they're going with if I'd let 'em.
+000035|But I wouldn't let Bill Sollas from over the hill hang round here waiting for the youngest Targatt girl, because I know him... that's all... even if I don't know about books all I ought to....
+000036|She stopped with a choking in her throat.
+000037|Tremors of rage were running through her, and she steadied herself against the edge of the desk lest he should see her weakness.
+000038|What he saw seemed to affect him deeply, for he grew red under his sunburn, and stammered out: "But, Miss Royall, I assure you..."
+000039|I assure you....
+000040|His distress inflamed her anger, and she regained her voice to fling back: "If I was you I'd have the nerve to stick to what I said!"
+000041|The taunt seemed to restore his presence of mind.
+000042|I hope I should if I knew;
+000043|but I don't.
+000044|Apparently something disagreeable has happened, for which you think I'm to blame.
+000045|But I don't know what it is, because I've been up on Eagle Ridge ever since the early morning.
+000046|I don't know where you've been this morning, but I know you were here in this library yesterday;
+000047|and it was you that went home and told your cousin the books were in bad shape, and brought her round to see how I'd neglected them.
+000048|Young Harney looked sincerely concerned.
+000049|Was that what you were told?
+000050|I don't wonder you're angry.
+000051|The books are in bad shape, and as some are interesting it's a pity.
+000052|I told Miss Hatchard they were suffering from dampness and lack of air;
+000053|and I brought her here to show her how easily the place could be ventilated.
+000054|I also told her you ought to have some one to help you do the dusting and airing.
+000055|If you were given a wrong version of what I said I'm sorry;
+000056|but I'm so fond of old books that I'd rather see them made into a bonfire than left to moulder away like these.
+000057|Charity felt her sobs rising and tried to stifle them in words.
+000058|I don't care what you say you told her.
+000059|All I know is she thinks it's all my fault, and I'm going to lose my job, and I wanted it more'n anyone in the village, because I haven't got anybody belonging to me, the way other folks have.
+000060|All I wanted was to put aside money enough to get away from here sometime.
+000061|D'you suppose if it hadn't been for that I'd have kept on sitting day after day in this old vault?
+000062|Of this appeal her hearer took up only the last question.
+000063|It is an old vault;
+000064|but need it be?
+000065|That's the point.
+000066|And it's my putting the question to my cousin that seems to have been the cause of the trouble.
+000067|His glance explored the melancholy penumbra of the long narrow room, resting on the blotched walls, the discoloured rows of books, and the stern rosewood desk surmounted by the portrait of the young Honorius.
+000068|Of course it's a bad job to do anything with a building jammed against a hill like this ridiculous mausoleum: you couldn't get a good draught through it without blowing a hole in the mountain.
+000069|But it can be ventilated after a fashion, and the sun can be let in: I'll show you how if you like....
+000070|The architect's passion for improvement had already made him lose sight of her grievance, and he lifted his stick instructively toward the cornice.
+000071|But her silence seemed to tell him that she took no interest in the ventilation of the library, and turning back to her abruptly he held out both hands.
+000072|Look here -- you don't mean what you said?
+000073|You don't really think I'd do anything to hurt you?
+000074|A new note in his voice disarmed her: no one had ever spoken to her in that tone.
+000075|"Oh, what did you do it for then?" she wailed.
+000076|He had her hands in his, and she was feeling the smooth touch that she had imagined the day before on the hillside.
+000077|He pressed her hands lightly and let them go.
+000078|Why, to make things pleasanter for you here;
+000079|and better for the books.
+000080|I'm sorry if my cousin twisted around what I said.
+000081|She's excitable, and she lives on trifles: I ought to have remembered that.
+000082|Don't punish me by letting her think you take her seriously.
+000083|It was wonderful to hear him speak of Miss Hatchard as if she were a querulous baby: in spite of his shyness he had the air of power that the experience of cities probably gave.
+000084|It was the fact of having lived in Nettleton that made lawyer Royall, in spite of his infirmities, the strongest man in North Dormer;
+000085|and Charity was sure that this young man had lived in bigger places than Nettleton.
+000086|She felt that if she kept up her denunciatory tone he would secretly class her with Miss Hatchard;
+000087|and the thought made her suddenly simple.
+000088|It don't matter to Miss Hatchard how I take her.
+000089|mister Royall says she's going to get a trained librarian;
+000090|and I'd sooner resign than have the village say she sent me away.
+000091|Naturally you would.
+000092|But I'm sure she doesn't mean to send you away.
+000093|At any rate, won't you give me the chance to find out first and let you know?
+000094|It will be time enough to resign if I'm mistaken.
+000095|Her pride flamed into her cheeks at the suggestion of his intervening.
+000096|I don't want anybody should coax her to keep me if I don't suit.
+000097|He coloured too.
+000098|I give you my word I won't do that.
+000099|Only wait till tomorrow, will you?
+000100|He looked straight into her eyes with his shy grey glance.
+000101|You can trust me, you know -- you really can.

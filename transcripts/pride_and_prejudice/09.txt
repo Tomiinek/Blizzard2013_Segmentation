@@ -1,0 +1,117 @@
+000001|Elizabeth passed the chief of the night in her sister's room, and in the morning had the pleasure of being able to send a tolerable answer to the inquiries which she very early received from mister Bingley by a housemaid, and some time afterwards from the two elegant ladies who waited on his sisters.
+000002|In spite of this amendment, however, she requested to have a note sent to Longbourn, desiring her mother to visit Jane, and form her own judgement of her situation.
+000003|The note was immediately dispatched, and its contents as quickly complied with.
+000004|misess Bennet, accompanied by her two youngest girls, reached Netherfield soon after the family breakfast.
+000005|Had she found Jane in any apparent danger, misess Bennet would have been very miserable;
+000006|but being satisfied on seeing her that her illness was not alarming, she had no wish of her recovering immediately, as her restoration to health would probably remove her from Netherfield.
+000007|She would not listen, therefore, to her daughter's proposal of being carried home;
+000008|neither did the apothecary, who arrived about the same time, think it at all advisable.
+000009|After sitting a little while with Jane, on Miss Bingley's appearance and invitation, the mother and three daughters all attended her into the breakfast parlour.
+000010|Bingley met them with hopes that misess Bennet had not found Miss Bennet worse than she expected.
+000011|"Indeed I have, sir," was her answer.
+000012|She is a great deal too ill to be moved.
+000013|mister Jones says we must not think of moving her.
+000014|We must trespass a little longer on your kindness.
+000015|"Removed!" cried Bingley.
+000016|It must not be thought of.
+000017|My sister, I am sure, will not hear of her removal.
+000018|"You may depend upon it, Madam," said Miss Bingley, with cold civility, "that Miss Bennet will receive every possible attention while she remains with us."
+000019|misess Bennet was profuse in her acknowledgments.
+000020|"I am sure," she added, "if it was not for such good friends I do not know what would become of her, for she is very ill indeed, and suffers a vast deal, though with the greatest patience in the world, which is always the way with her, for she has, without exception, the sweetest temper I have ever met with."
+000021|I often tell my other girls they are nothing to her.
+000022|You have a sweet room here, mister Bingley, and a charming prospect over the gravel walk.
+000023|I do not know a place in the country that is equal to Netherfield.
+000024|You will not think of quitting it in a hurry, I hope, though you have but a short lease.
+000025|"Whatever I do is done in a hurry," replied he;
+000026|and therefore if I should resolve to quit Netherfield, I should probably be off in five minutes.
+000027|At present, however, I consider myself as quite fixed here.
+000028|"That is exactly what I should have supposed of you," said Elizabeth.
+000029|"You begin to comprehend me, do you?" cried he, turning towards her.
+000030|Oh! yes -- I understand you perfectly.
+000031|I wish I might take this for a compliment;
+000032|but to be so easily seen through I am afraid is pitiful.
+000033|That is as it happens.
+000034|It does not follow that a deep, intricate character is more or less estimable than such a one as yours.
+000035|"Lizzy," cried her mother, "remember where you are, and do not run on in the wild manner that you are suffered to do at home."
+000036|"I did not know before," continued Bingley immediately, "that you were a studier of character."
+000037|It must be an amusing study.
+000038|Yes, but intricate characters are the most amusing.
+000039|They have at least that advantage.
+000040|"The country," said Darcy, "can in general supply but a few subjects for such a study."
+000041|In a country neighbourhood you move in a very confined and unvarying society.
+000042|But people themselves alter so much, that there is something new to be observed in them for ever.
+000043|"Yes, indeed," cried misess Bennet, offended by his manner of mentioning a country neighbourhood.
+000044|I assure you there is quite as much of that going on in the country as in town.
+000045|Everybody was surprised, and Darcy, after looking at her for a moment, turned silently away.
+000046|misess Bennet, who fancied she had gained a complete victory over him, continued her triumph.
+000047|I cannot see that London has any great advantage over the country, for my part, except the shops and public places.
+000048|The country is a vast deal pleasanter, is it not, mister Bingley?
+000049|"When I am in the country," he replied, "I never wish to leave it;"
+000050|and when I am in town it is pretty much the same.
+000051|They have each their advantages, and I can be equally happy in either.
+000052|Aye -- that is because you have the right disposition.
+000053|"But that gentleman," looking at Darcy, "seemed to think the country was nothing at all."
+000054|"Indeed, Mamma, you are mistaken," said Elizabeth, blushing for her mother.
+000055|You quite mistook mister Darcy.
+000056|He only meant that there was not such a variety of people to be met with in the country as in the town, which you must acknowledge to be true.
+000057|Certainly, my dear, nobody said there were;
+000058|but as to not meeting with many people in this neighbourhood, I believe there are few neighbourhoods larger.
+000059|I know we dine with four-and-twenty families.
+000060|Nothing but concern for Elizabeth could enable Bingley to keep his countenance.
+000061|His sister was less delicate, and directed her eyes towards mister Darcy with a very expressive smile.
+000062|Elizabeth, for the sake of saying something that might turn her mother's thoughts, now asked her if Charlotte Lucas had been at Longbourn since her coming away.
+000063|Yes, she called yesterday with her father.
+000064|What an agreeable man Sir William is, mister Bingley, is not he?
+000065|So much the man of fashion!
+000066|So genteel and easy!
+000067|He has always something to say to everybody.
+000068|That is my idea of good breeding;
+000069|and those persons who fancy themselves very important, and never open their mouths, quite mistake the matter.
+000070|Did Charlotte dine with you?
+000071|No, she would go home.
+000072|I fancy she was wanted about the mince-pies.
+000073|For my part, mister Bingley, I always keep servants that can do their own work;
+000074|my daughters are brought up very differently.
+000075|But everybody is to judge for themselves, and the Lucases are a very good sort of girls, I assure you.
+000076|It is a pity they are not handsome!
+000077|Not that I think Charlotte so very plain -- but then she is our particular friend.
+000078|She seems a very pleasant young woman.
+000079|Oh! dear, yes;
+000080|but you must own she is very plain.
+000081|Lady Lucas herself has often said so, and envied me Jane's beauty.
+000082|I do not like to boast of my own child, but to be sure, Jane -- one does not often see anybody better looking.
+000083|It is what everybody says.
+000084|I do not trust my own partiality.
+000085|When she was only fifteen, there was a man at my brother Gardiner's in town so much in love with her that my sister-in-law was sure he would make her an offer before we came away.
+000086|But, however, he did not.
+000087|Perhaps he thought her too young.
+000088|However, he wrote some verses on her, and very pretty they were.
+000089|"And so ended his affection," said Elizabeth impatiently.
+000090|There has been many a one, I fancy, overcome in the same way.
+000091|I wonder who first discovered the efficacy of poetry in driving away love!
+000092|"I have been used to consider poetry as the food of love," said Darcy.
+000093|Of a fine, stout, healthy love it may.
+000094|Everything nourishes what is strong already.
+000095|But if it be only a slight, thin sort of inclination, I am convinced that one good sonnet will starve it entirely away.
+000096|Darcy only smiled;
+000097|and the general pause which ensued made Elizabeth tremble lest her mother should be exposing herself again.
+000098|She longed to speak, but could think of nothing to say;
+000099|and after a short silence misess Bennet began repeating her thanks to mister Bingley for his kindness to Jane, with an apology for troubling him also with Lizzy.
+000100|mister Bingley was unaffectedly civil in his answer, and forced his younger sister to be civil also, and say what the occasion required.
+000101|She performed her part indeed without much graciousness, but misess Bennet was satisfied, and soon afterwards ordered her carriage.
+000102|Upon this signal, the youngest of her daughters put herself forward.
+000103|The two girls had been whispering to each other during the whole visit, and the result of it was, that the youngest should tax mister Bingley with having promised on his first coming into the country to give a ball at Netherfield.
+000104|Lydia was a stout, well-grown girl of fifteen, with a fine complexion and good-humoured countenance;
+000105|a favourite with her mother, whose affection had brought her into public at an early age.
+000106|She had high animal spirits, and a sort of natural self-consequence, which the attention of the officers, to whom her uncle's good dinners, and her own easy manners recommended her, had increased into assurance.
+000107|She was very equal, therefore, to address mister Bingley on the subject of the ball, and abruptly reminded him of his promise;
+000108|adding, that it would be the most shameful thing in the world if he did not keep it.
+000109|His answer to this sudden attack was delightful to their mother's ear:
+000110|I am perfectly ready, I assure you, to keep my engagement;
+000111|and when your sister is recovered, you shall, if you please, name the very day of the ball.
+000112|But you would not wish to be dancing when she is ill.
+000113|Lydia declared herself satisfied.
+000114|Oh! yes -- it would be much better to wait till Jane was well, and by that time most likely Captain Carter would be at Meryton again.
+000115|"And when you have given your ball," she added, "I shall insist on their giving one also."
+000116|I shall tell Colonel Forster it will be quite a shame if he does not.
+000117|misess Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations' behaviour to the remarks of the two ladies and mister Darcy;

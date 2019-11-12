@@ -1,0 +1,134 @@
+000001|Marianne would have thought herself very inexcusable had she been able to sleep at all the first night after parting from Willoughby.
+000002|She would have been ashamed to look her family in the face the next morning, had she not risen from her bed in more need of repose than when she lay down in it.
+000003|But the feelings which made such composure a disgrace, left her in no danger of incurring it.
+000004|She was awake the whole night, and she wept the greatest part of it.
+000005|She got up with a headache, was unable to talk, and unwilling to take any nourishment;
+000006|giving pain every moment to her mother and sisters, and forbidding all attempt at consolation from either.
+000007|Her sensibility was potent enough!
+000008|When breakfast was over she walked out by herself, and wandered about the village of Allenham, indulging the recollection of past enjoyment and crying over the present reverse for the chief of the morning.
+000009|The evening passed off in the equal indulgence of feeling.
+000010|She played over every favourite song that she had been used to play to Willoughby, every air in which their voices had been oftenest joined, and sat at the instrument gazing on every line of music that he had written out for her, till her heart was so heavy that no farther sadness could be gained;
+000011|and this nourishment of grief was every day applied.
+000012|She spent whole hours at the pianoforte alternately singing and crying;
+000013|her voice often totally suspended by her tears.
+000014|In books too, as well as in music, she courted the misery which a contrast between the past and present was certain of giving.
+000015|She read nothing but what they had been used to read together.
+000016|Such violence of affliction indeed could not be supported for ever;
+000017|it sunk within a few days into a calmer melancholy;
+000018|but these employments, to which she daily recurred, her solitary walks and silent meditations, still produced occasional effusions of sorrow as lively as ever.
+000019|No letter from Willoughby came;
+000020|and none seemed expected by Marianne.
+000021|Her mother was surprised, and Elinor again became uneasy.
+000022|But misess Dashwood could find explanations whenever she wanted them, which at least satisfied herself.
+000023|"Remember, Elinor," said she, "how very often Sir John fetches our letters himself from the post, and carries them to it."
+000024|We have already agreed that secrecy may be necessary, and we must acknowledge that it could not be maintained if their correspondence were to pass through Sir John's hands.
+000025|Elinor could not deny the truth of this, and she tried to find in it a motive sufficient for their silence.
+000026|But there was one method so direct, so simple, and in her opinion so eligible of knowing the real state of the affair, and of instantly removing all mystery, that she could not help suggesting it to her mother.
+000027|"Why do you not ask Marianne at once," said she, "whether she is or she is not engaged to Willoughby?"
+000028|From you, her mother, and so kind, so indulgent a mother, the question could not give offence.
+000029|It would be the natural result of your affection for her.
+000030|She used to be all unreserve, and to you more especially.
+000031|I would not ask such a question for the world.
+000032|Supposing it possible that they are not engaged, what distress would not such an enquiry inflict!
+000033|At any rate it would be most ungenerous.
+000034|I should never deserve her confidence again, after forcing from her a confession of what is meant at present to be unacknowledged to any one.
+000035|I know Marianne's heart: I know that she dearly loves me, and that I shall not be the last to whom the affair is made known, when circumstances make the revealment of it eligible.
+000036|I would not attempt to force the confidence of any one;
+000037|of a child much less;
+000038|because a sense of duty would prevent the denial which her wishes might direct.
+000039|Elinor thought this generosity overstrained, considering her sister's youth, and urged the matter farther, but in vain;
+000040|common sense, common care, common prudence, were all sunk in misess Dashwood's romantic delicacy.
+000041|It was several days before Willoughby's name was mentioned before Marianne by any of her family;
+000042|Sir John and misess Jennings, indeed, were not so nice;
+000043|their witticisms added pain to many a painful hour;
+000044|but one evening, misess Dashwood, accidentally taking up a volume of Shakespeare, exclaimed,
+000045|We have never finished Hamlet, Marianne;
+000046|our dear Willoughby went away before we could get through it.
+000047|We will put it by, that when he comes again...But it may be months, perhaps, before that happens.
+000048|"Months!" cried Marianne, with strong surprise.
+000049|No -- nor many weeks.
+000050|misess Dashwood was sorry for what she had said;
+000051|but it gave Elinor pleasure, as it produced a reply from Marianne so expressive of confidence in Willoughby and knowledge of his intentions.
+000052|One morning, about a week after his leaving the country, Marianne was prevailed on to join her sisters in their usual walk, instead of wandering away by herself.
+000053|Hitherto she had carefully avoided every companion in her rambles.
+000054|If her sisters intended to walk on the downs, she directly stole away towards the lanes;
+000055|if they talked of the valley, she was as speedy in climbing the hills, and could never be found when the others set off.
+000056|But at length she was secured by the exertions of Elinor, who greatly disapproved such continual seclusion.
+000057|They walked along the road through the valley, and chiefly in silence, for Marianne's mind could not be controlled, and Elinor, satisfied with gaining one point, would not then attempt more.
+000058|Beyond the entrance of the valley, where the country, though still rich, was less wild and more open, a long stretch of the road which they had travelled on first coming to Barton, lay before them;
+000059|and on reaching that point, they stopped to look around them, and examine a prospect which formed the distance of their view from the cottage, from a spot which they had never happened to reach in any of their walks before.
+000060|Amongst the objects in the scene, they soon discovered an animated one;
+000061|it was a man on horseback riding towards them.
+000062|In a few minutes they could distinguish him to be a gentleman;
+000063|and in a moment afterwards Marianne rapturously exclaimed,
+000064|It is he;
+000065|it is indeed;
+000066|"I know it is!" -- and was hastening to meet him, when Elinor cried out,
+000067|Indeed, Marianne, I think you are mistaken.
+000068|It is not Willoughby.
+000069|The person is not tall enough for him, and has not his air.
+000070|"He has, he has," cried Marianne, "I am sure he has."
+000071|His air, his coat, his horse.
+000072|I knew how soon he would come.
+000073|She walked eagerly on as she spoke;
+000074|and Elinor, to screen Marianne from particularity, as she felt almost certain of its not being Willoughby, quickened her pace and kept up with her.
+000075|They were soon within thirty yards of the gentleman.
+000076|Marianne looked again;
+000077|her heart sunk within her;
+000078|and abruptly turning round, she was hurrying back, when the voices of both her sisters were raised to detain her;
+000079|a third, almost as well known as Willoughby's, joined them in begging her to stop, and she turned round with surprise to see and welcome Edward Ferrars.
+000080|He was the only person in the world who could at that moment be forgiven for not being Willoughby;
+000081|the only one who could have gained a smile from her;
+000082|but she dispersed her tears to smile on him, and in her sister's happiness forgot for a time her own disappointment.
+000083|He dismounted, and giving his horse to his servant, walked back with them to Barton, whither he was purposely coming to visit them.
+000084|He was welcomed by them all with great cordiality, but especially by Marianne, who showed more warmth of regard in her reception of him than even Elinor herself.
+000085|To Marianne, indeed, the meeting between Edward and her sister was but a continuation of that unaccountable coldness which she had often observed at Norland in their mutual behaviour.
+000086|On Edward's side, more particularly, there was a deficiency of all that a lover ought to look and say on such an occasion.
+000087|He was confused, seemed scarcely sensible of pleasure in seeing them, looked neither rapturous nor gay, said little but what was forced from him by questions, and distinguished Elinor by no mark of affection.
+000088|Marianne saw and listened with increasing surprise.
+000089|She began almost to feel a dislike of Edward;
+000090|and it ended, as every feeling must end with her, by carrying back her thoughts to Willoughby, whose manners formed a contrast sufficiently striking to those of his brother elect.
+000091|After a short silence which succeeded the first surprise and enquiries of meeting, Marianne asked Edward if he came directly from London.
+000092|No, he had been in Devonshire a fortnight.
+000093|"A fortnight!" she repeated, surprised at his being so long in the same county with Elinor without seeing her before.
+000094|He looked rather distressed as he added, that he had been staying with some friends near Plymouth.
+000095|"Have you been lately in Sussex?" said Elinor.
+000096|I was at Norland about a month ago.
+000097|"And how does dear, dear Norland look?" cried Marianne.
+000098|"Dear, dear Norland," said Elinor, "probably looks much as it always does at this time of the year."
+000099|The woods and walks thickly covered with dead leaves.
+000100|"Oh," cried Marianne, "with what transporting sensation have I formerly seen them fall!"
+000101|How have I delighted, as I walked, to see them driven in showers about me by the wind!
+000102|What feelings have they, the season, the air altogether inspired!
+000103|Now there is no one to regard them.
+000104|They are seen only as a nuisance, swept hastily off, and driven as much as possible from the sight.
+000105|"It is not every one," said Elinor, "who has your passion for dead leaves."
+000106|No; my feelings are not often shared, not often understood.
+000107|"But sometimes they are." -- As she said this, she sunk into a reverie for a few moments;
+000108|but rousing herself again, "Now, Edward," said she, calling his attention to the prospect, "here is Barton valley."
+000109|Look up to it, and be tranquil if you can.
+000110|Look at those hills!
+000111|Did you ever see their equals?
+000112|To the left is Barton park, amongst those woods and plantations.
+000113|You may see the end of the house.
+000114|And there, beneath that farthest hill, which rises with such grandeur, is our cottage.
+000115|"It is a beautiful country," he replied;
+000116|but these bottoms must be dirty in winter.
+000117|How can you think of dirt, with such objects before you?
+000118|"Because," replied he, smiling, "among the rest of the objects before me, I see a very dirty lane."
+000119|"How strange!" said Marianne to herself as she walked on.
+000120|Have you an agreeable neighbourhood here?
+000121|Are the Middletons pleasant people?
+000122|"No, not all," answered Marianne;
+000123|we could not be more unfortunately situated.
+000124|"Marianne," cried her sister, "how can you say so?"
+000125|How can you be so unjust?
+000126|They are a very respectable family, mister Ferrars;
+000127|and towards us have behaved in the friendliest manner.
+000128|Have you forgot, Marianne, how many pleasant days we have owed to them?
+000129|"No," said Marianne, in a low voice, "nor how many painful moments."
+000130|Elinor took no notice of this;
+000131|and directing her attention to their visitor, endeavoured to support something like discourse with him, by talking of their present residence, its conveniences, et cetera.
+000132|extorting from him occasional questions and remarks.
+000133|His coldness and reserve mortified her severely;
+000134|she was vexed and half angry;

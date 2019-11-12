@@ -1,0 +1,465 @@
+000001|Anne recollected with pleasure the next morning her promise of going to Misess Smith, meaning that it should engage her from home at the time when Mister Elliot would be most likely to call;
+000002|for to avoid Mister Elliot was almost a first object.
+000003|She felt a great deal of good-will towards him.
+000004|In spite of the mischief of his attentions, she owed him gratitude and regard, perhaps compassion.
+000005|She could not help thinking much of the extraordinary circumstances attending their acquaintance, of the right which he seemed to have to interest her, by everything in situation, by his own sentiments, by his early prepossession.
+000006|It was altogether very extraordinary;
+000007|flattering, but painful.
+000008|There was much to regret.
+000009|How she might have felt had there been no Captain Wentworth in the case, was not worth enquiry;
+000010|for there was a Captain Wentworth;
+000011|and be the conclusion of the present suspense good or bad, her affection would be his for ever.
+000012|Their union, she believed, could not divide her more from other men, than their final separation.
+000013|Prettier musings of high-wrought love and eternal constancy, could never have passed along the streets of Bath, than Anne was sporting with from Camden Place to Westgate Buildings.
+000014|It was almost enough to spread purification and perfume all the way.
+000015|She was sure of a pleasant reception;
+000016|and her friend seemed this morning particularly obliged to her for coming, seemed hardly to have expected her, though it had been an appointment.
+000017|An account of the concert was immediately claimed;
+000018|and Anne's recollections of the concert were quite happy enough to animate her features and make her rejoice to talk of it.
+000019|All that she could tell she told most gladly, but the all was little for one who had been there, and unsatisfactory for such an enquirer as Misess Smith, who had already heard, through the short cut of a laundress and a waiter, rather more of the general success and produce of the evening than Anne could relate, and who now asked in vain for several particulars of the company.
+000020|Everybody of any consequence or notoriety in Bath was well know by name to Misess Smith.
+000021|"The little Durands were there, I conclude," said she, "with their mouths open to catch the music, like unfledged sparrows ready to be fed."
+000022|They never miss a concert.
+000023|Yes; I did not see them myself, but I heard Mister Elliot say they were in the room.
+000024|The Ibbotsons, were they there?
+000025|and the two new beauties, with the tall Irish officer, who is talked of for one of them.
+000026|I do not know.
+000027|I do not think they were.
+000028|Old Lady Mary Maclean?
+000029|I need not ask after her.
+000030|She never misses, I know;
+000031|and you must have seen her.
+000032|She must have been in your own circle;
+000033|for as you went with Lady Dalrymple, you were in the seats of grandeur, round the orchestra, of course.
+000034|No, that was what I dreaded.
+000035|It would have been very unpleasant to me in every respect.
+000036|But happily Lady Dalrymple always chooses to be farther off;
+000037|and we were exceedingly well placed, that is, for hearing;
+000038|I must not say for seeing, because I appear to have seen very little.
+000039|Oh! you saw enough for your own amusement.
+000040|I can understand.
+000041|There is a sort of domestic enjoyment to be known even in a crowd, and this you had.
+000042|You were a large party in yourselves, and you wanted nothing beyond.
+000043|"But I ought to have looked about me more," said Anne, conscious while she spoke that there had in fact been no want of looking about, that the object only had been deficient.
+000044|No, no;
+000045|you were better employed.
+000046|You need not tell me that you had a pleasant evening.
+000047|I see it in your eye.
+000048|I perfectly see how the hours passed: that you had always something agreeable to listen to.
+000049|In the intervals of the concert it was conversation.
+000050|Anne half smiled and said, "Do you see that in my eye?"
+000051|Yes, I do.
+000052|Your countenance perfectly informs me that you were in company last night with the person whom you think the most agreeable in the world, the person who interests you at this present time more than all the rest of the world put together.
+000053|A blush overspread Anne's cheeks.
+000054|She could say nothing.
+000055|"And such being the case," continued Misess Smith, after a short pause, "I hope you believe that I do know how to value your kindness in coming to me this morning."
+000056|It is really very good of you to come and sit with me, when you must have so many pleasanter demands upon your time.
+000057|Anne heard nothing of this.
+000058|She was still in the astonishment and confusion excited by her friend's penetration, unable to imagine how any report of Captain Wentworth could have reached her.
+000059|After another short silence
+000060|"Pray," said Misess Smith, "is Mister Elliot aware of your acquaintance with me?"
+000061|Does he know that I am in Bath?
+000062|"Mister Elliot!" repeated Anne, looking up surprised.
+000063|A moment's reflection shewed her the mistake she had been under.
+000064|She caught it instantaneously;
+000065|and recovering her courage with the feeling of safety, soon added, more composedly, "Are you acquainted with Mister Elliot?"
+000066|"I have been a good deal acquainted with him," replied Misess Smith, gravely, "but it seems worn out now."
+000067|It is a great while since we met.
+000068|I was not at all aware of this.
+000069|You never mentioned it before.
+000070|Had I known it, I would have had the pleasure of talking to him about you.
+000071|"To confess the truth," said Misess Smith, assuming her usual air of cheerfulness, "that is exactly the pleasure I want you to have."
+000072|I want you to talk about me to Mister Elliot.
+000073|I want your interest with him.
+000074|He can be of essential service to me;
+000075|and if you would have the goodness, my dear Miss Elliot, to make it an object to yourself, of course it is done.
+000076|I should be extremely happy;
+000077|"I hope you cannot doubt my willingness to be of even the slightest use to you," replied Anne;
+000078|but I suspect that you are considering me as having a higher claim on Mister Elliot, a greater right to influence him, than is really the case.
+000079|I am sure you have, somehow or other, imbibed such a notion.
+000080|You must consider me only as Mister Elliot's relation.
+000081|If in that light there is anything which you suppose his cousin might fairly ask of him, I beg you would not hesitate to employ me.
+000082|Misess Smith gave her a penetrating glance, and then, smiling, said
+000083|I have been a little premature, I perceive;
+000084|I beg your pardon.
+000085|I ought to have waited for official information.
+000086|But now, my dear Miss Elliot, as an old friend, do give me a hint as to when I may speak.
+000087|Next week?
+000088|To be sure by next week I may be allowed to think it all settled, and build my own selfish schemes on Mister Elliot's good fortune.
+000089|"No," replied Anne, "nor next week, nor next, nor next."
+000090|I assure you that nothing of the sort you are thinking of will be settled any week.
+000091|I am not going to marry Mister Elliot.
+000092|I should like to know why you imagine I am?
+000093|Misess Smith looked at her again, looked earnestly, smiled, shook her head, and exclaimed
+000094|Now, how I do wish I understood you!
+000095|How I do wish I knew what you were at!
+000096|I have a great idea that you do not design to be cruel, when the right moment occurs.
+000097|Till it does come, you know, we women never mean to have anybody.
+000098|It is a thing of course among us, that every man is refused, till he offers.
+000099|But why should you be cruel?
+000100|Let me plead for my -- present friend I cannot call him, but for my former friend.
+000101|Where can you look for a more suitable match?
+000102|Where could you expect a more gentlemanlike, agreeable man?
+000103|Let me recommend Mister Elliot.
+000104|I am sure you hear nothing but good of him from Colonel Wallis;
+000105|and who can know him better than Colonel Wallis?
+000106|My dear Misess Smith, Mister Elliot's wife has not been dead much above half a year.
+000107|He ought not to be supposed to be paying his addresses to any one.
+000108|"Oh! if these are your only objections," cried Misess Smith, archly, "Mister Elliot is safe, and I shall give myself no more trouble about him."
+000109|Do not forget me when you are married, that's all.
+000110|Let him know me to be a friend of yours, and then he will think little of the trouble required, which it is very natural for him now, with so many affairs and engagements of his own, to avoid and get rid of as he can;
+000111|very natural, perhaps.
+000112|Ninety-nine out of a hundred would do the same.
+000113|Of course, he cannot be aware of the importance to me.
+000114|Well, my dear Miss Elliot, I hope and trust you will be very happy.
+000115|Mister Elliot has sense to understand the value of such a woman.
+000116|Your peace will not be shipwrecked as mine has been.
+000117|You are safe in all worldly matters, and safe in his character.
+000118|He will not be led astray;
+000119|he will not be misled by others to his ruin.
+000120|"No," said Anne, "I can readily believe all that of my cousin."
+000121|He seems to have a calm decided temper, not at all open to dangerous impressions.
+000122|I consider him with great respect.
+000123|I have no reason, from any thing that has fallen within my observation, to do otherwise.
+000124|But I have not known him long;
+000125|and he is not a man, I think, to be known intimately soon.
+000126|Will not this manner of speaking of him, Misess Smith, convince you that he is nothing to me?
+000127|Surely this must be calm enough.
+000128|And, upon my word, he is nothing to me.
+000129|Should he ever propose to me (which I have very little reason to imagine he has any thought of doing), I shall not accept him.
+000130|I assure you I shall not.
+000131|I assure you, Mister Elliot had not the share which you have been supposing, in whatever pleasure the concert of last night might afford: not Mister Elliot;
+000132|it is not Mister Elliot that
+000133|She stopped, regretting with a deep blush that she had implied so much;
+000134|but less would hardly have been sufficient.
+000135|Misess Smith would hardly have believed so soon in Mister Elliot's failure, but from the perception of there being a somebody else.
+000136|As it was, she instantly submitted, and with all the semblance of seeing nothing beyond;
+000137|and Anne, eager to escape farther notice, was impatient to know why Misess Smith should have fancied she was to marry Mister Elliot;
+000138|where she could have received the idea, or from whom she could have heard it.
+000139|Do tell me how it first came into your head.
+000140|"It first came into my head," replied Misess Smith, "upon finding how much you were together, and feeling it to be the most probable thing in the world to be wished for by everybody belonging to either of you;"
+000141|and you may depend upon it that all your acquaintance have disposed of you in the same way.
+000142|But I never heard it spoken of till two days ago.
+000143|And has it indeed been spoken of?
+000144|Did you observe the woman who opened the door to you when you called yesterday?
+000145|No. Was not it Misess Speed, as usual, or the maid?
+000146|I observed no one in particular.
+000147|It was my friend Misess Rooke;
+000148|Nurse Rooke;
+000149|who, by-the-bye, had a great curiosity to see you, and was delighted to be in the way to let you in.
+000150|She came away from Marlborough Buildings only on Sunday;
+000151|and she it was who told me you were to marry Mister Elliot.
+000152|She had had it from Misess Wallis herself, which did not seem bad authority.
+000153|She sat an hour with me on Monday evening, and gave me the whole history.
+000154|"The whole history," repeated Anne, laughing.
+000155|She could not make a very long history, I think, of one such little article of unfounded news.
+000156|Misess Smith said nothing.
+000157|"But," continued Anne, presently, "though there is no truth in my having this claim on Mister Elliot, I should be extremely happy to be of use to you in any way that I could."
+000158|Shall I mention to him your being in Bath?
+000159|Shall I take any message?
+000160|No, I thank you: no, certainly not.
+000161|In the warmth of the moment, and under a mistaken impression, I might, perhaps, have endeavoured to interest you in some circumstances;
+000162|but not now.
+000163|No, I thank you, I have nothing to trouble you with.
+000164|I think you spoke of having known Mister Elliot many years?
+000165|I did.
+000166|Not before he was married, I suppose?
+000167|Yes; he was not married when I knew him first.
+000168|And -- were you much acquainted?
+000169|Intimately.
+000170|Indeed!
+000171|Then do tell me what he was at that time of life.
+000172|I have a great curiosity to know what Mister Elliot was as a very young man.
+000173|Was he at all such as he appears now?
+000174|"I have not seen Mister Elliot these three years," was Misess Smith's answer, given so gravely that it was impossible to pursue the subject farther;
+000175|and Anne felt that she had gained nothing but an increase of curiosity.
+000176|They were both silent: Misess Smith very thoughtful.
+000177|At last
+000178|"I beg your pardon, my dear Miss Elliot," she cried, in her natural tone of cordiality, "I beg your pardon for the short answers I have been giving you, but I have been uncertain what I ought to do."
+000179|I have been doubting and considering as to what I ought to tell you.
+000180|There were many things to be taken into the account.
+000181|One hates to be officious, to be giving bad impressions, making mischief.
+000182|Even the smooth surface of family-union seems worth preserving, though there may be nothing durable beneath.
+000183|However, I have determined;
+000184|I think I am right;
+000185|I think you ought to be made acquainted with Mister Elliot's real character.
+000186|Though I fully believe that, at present, you have not the smallest intention of accepting him, there is no saying what may happen.
+000187|You might, some time or other, be differently affected towards him.
+000188|Hear the truth, therefore, now, while you are unprejudiced.
+000189|Mister Elliot is a man without heart or conscience;
+000190|a designing, wary, cold-blooded being, who thinks only of himself;
+000191|whom for his own interest or ease, would be guilty of any cruelty, or any treachery, that could be perpetrated without risk of his general character.
+000192|He has no feeling for others.
+000193|Those whom he has been the chief cause of leading into ruin, he can neglect and desert without the smallest compunction.
+000194|He is totally beyond the reach of any sentiment of justice or compassion.
+000195|Oh! he is black at heart, hollow and black!
+000196|Anne's astonished air, and exclamation of wonder, made her pause, and in a calmer manner, she added,
+000197|My expressions startle you.
+000198|You must allow for an injured, angry woman.
+000199|But I will try to command myself.
+000200|I will not abuse him.
+000201|I will only tell you what I have found him.
+000202|Facts shall speak.
+000203|He was the intimate friend of my dear husband, who trusted and loved him, and thought him as good as himself.
+000204|The intimacy had been formed before our marriage.
+000205|I found them most intimate friends;
+000206|and I, too, became excessively pleased with Mister Elliot, and entertained the highest opinion of him.
+000207|At nineteen, you know, one does not think very seriously;
+000208|but Mister Elliot appeared to me quite as good as others, and much more agreeable than most others, and we were almost always together.
+000209|We were principally in town, living in very good style.
+000210|He was then the inferior in circumstances;
+000211|he was then the poor one;
+000212|he had chambers in the Temple, and it was as much as he could do to support the appearance of a gentleman.
+000213|He had always a home with us whenever he chose it;
+000214|he was always welcome;
+000215|he was like a brother.
+000216|My poor Charles, who had the finest, most generous spirit in the world, would have divided his last farthing with him;
+000217|and I know that his purse was open to him;
+000218|I know that he often assisted him.
+000219|"This must have been about that very period of Mister Elliot's life," said Anne, "which has always excited my particular curiosity."
+000220|It must have been about the same time that he became known to my father and sister.
+000221|I never knew him myself;
+000222|I only heard of him;
+000223|but there was a something in his conduct then, with regard to my father and sister, and afterwards in the circumstances of his marriage, which I never could quite reconcile with present times.
+000224|It seemed to announce a different sort of man.
+000225|"I know it all, I know it all," cried Misess Smith.
+000226|He had been introduced to Sir Walter and your sister before I was acquainted with him, but I heard him speak of them for ever.
+000227|I know he was invited and encouraged, and I know he did not choose to go.
+000228|I can satisfy you, perhaps, on points which you would little expect;
+000229|and as to his marriage, I knew all about it at the time.
+000230|I was privy to all the fors and againsts;
+000231|I was the friend to whom he confided his hopes and plans;
+000232|and though I did not know his wife previously, her inferior situation in society, indeed, rendered that impossible, yet I knew her all her life afterwards, or at least till within the last two years of her life, and can answer any question you may wish to put.
+000233|"Nay," said Anne, "I have no particular enquiry to make about her."
+000234|I have always understood they were not a happy couple.
+000235|But I should like to know why, at that time of his life, he should slight my father's acquaintance as he did.
+000236|My father was certainly disposed to take very kind and proper notice of him.
+000237|Why did Mister Elliot draw back?
+000238|"Mister Elliot," replied Misess Smith, "at that period of his life, had one object in view: to make his fortune, and by a rather quicker process than the law."
+000239|He was determined to make it by marriage.
+000240|He was determined, at least, not to mar it by an imprudent marriage;
+000241|and I know it was his belief (whether justly or not, of course I cannot decide), that your father and sister, in their civilities and invitations, were designing a match between the heir and the young lady, and it was impossible that such a match should have answered his ideas of wealth and independence.
+000242|That was his motive for drawing back, I can assure you.
+000243|He told me the whole story.
+000244|He had no concealments with me.
+000245|It was curious, that having just left you behind me in Bath, my first and principal acquaintance on marrying should be your cousin;
+000246|and that, through him, I should be continually hearing of your father and sister.
+000247|He described one Miss Elliot, and I thought very affectionately of the other.
+000248|"Perhaps," cried Anne, struck by a sudden idea, "you sometimes spoke of me to Mister Elliot?"
+000249|To be sure I did;
+000250|very often.
+000251|I used to boast of my own Anne Elliot, and vouch for your being a very different creature from
+000252|She checked herself just in time.
+000253|"This accounts for something which Mister Elliot said last night," cried Anne.
+000254|This explains it.
+000255|I found he had been used to hear of me.
+000256|I could not comprehend how.
+000257|What wild imaginations one forms where dear self is concerned!
+000258|How sure to be mistaken!
+000259|But I beg your pardon;
+000260|I have interrupted you.
+000261|Mister Elliot married then completely for money?
+000262|The circumstances, probably, which first opened your eyes to his character.
+000263|Misess Smith hesitated a little here.
+000264|Oh! those things are too common.
+000265|When one lives in the world, a man or woman's marrying for money is too common to strike one as it ought.
+000266|I was very young, and associated only with the young, and we were a thoughtless, gay set, without any strict rules of conduct.
+000267|We lived for enjoyment.
+000268|I think differently now;
+000269|time and sickness and sorrow have given me other notions;
+000270|but at that period I must own I saw nothing reprehensible in what Mister Elliot was doing.
+000271|'To do the best for himself,' passed as a duty.
+000272|But was not she a very low woman?
+000273|Yes; which I objected to, but he would not regard.
+000274|Money, money, was all that he wanted.
+000275|Her father was a grazier, her grandfather had been a butcher, but that was all nothing.
+000276|She was a fine woman, had had a decent education, was brought forward by some cousins, thrown by chance into Mister Elliot's company, and fell in love with him;
+000277|and not a difficulty or a scruple was there on his side, with respect to her birth.
+000278|All his caution was spent in being secured of the real amount of her fortune, before he committed himself.
+000279|Depend upon it, whatever esteem Mister Elliot may have for his own situation in life now, as a young man he had not the smallest value for it.
+000280|His chance for the Kellynch estate was something, but all the honour of the family he held as cheap as dirt.
+000281|I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included;
+000282|but I will not pretend to repeat half that I used to hear him say on that subject.
+000283|It would not be fair;
+000284|and yet you ought to have proof, for what is all this but assertion, and you shall have proof.
+000285|"Indeed, my dear Misess Smith, I want none," cried Anne.
+000286|You have asserted nothing contradictory to what Mister Elliot appeared to be some years ago.
+000287|This is all in confirmation, rather, of what we used to hear and believe.
+000288|I am more curious to know why he should be so different now.
+000289|But for my satisfaction, if you will have the goodness to ring for Mary;
+000290|stay: I am sure you will have the still greater goodness of going yourself into my bedroom, and bringing me the small inlaid box which you will find on the upper shelf of the closet.
+000291|Anne, seeing her friend to be earnestly bent on it, did as she was desired.
+000292|The box was brought and placed before her, and Misess Smith, sighing over it as she unlocked it, said
+000293|This is full of papers belonging to him, to my husband;
+000294|a small portion only of what I had to look over when I lost him.
+000295|The letter I am looking for was one written by Mister Elliot to him before our marriage, and happened to be saved;
+000296|why, one can hardly imagine.
+000297|But he was careless and immethodical, like other men, about those things;
+000298|and when I came to examine his papers, I found it with others still more trivial, from different people scattered here and there, while many letters and memorandums of real importance had been destroyed.
+000299|Here it is;
+000300|I would not burn it, because being even then very little satisfied with Mister Elliot, I was determined to preserve every document of former intimacy.
+000301|I have now another motive for being glad that I can produce it.
+000302|This was the letter, directed to "Charles Smith, Esqwa"
+000303|"Tunbridge Wells," and dated from London, as far back as July, eighteen ou three:
+000304|Dear Smith, -- I have received yours.
+000305|Your kindness almost overpowers me.
+000306|I wish nature had made such hearts as yours more common, but I have lived three-and-twenty years in the world, and have seen none like it.
+000307|At present, believe me, I have no need of your services, being in cash again.
+000308|Give me joy: I have got rid of Sir Walter and Miss.
+000309|They are gone back to Kellynch, and almost made me swear to visit them this summer;
+000310|but my first visit to Kellynch will be with a surveyor, to tell me how to bring it with best advantage to the hammer.
+000311|The baronet, nevertheless, is not unlikely to marry again;
+000312|he is quite fool enough.
+000313|If he does, however, they will leave me in peace, which may be a decent equivalent for the reversion.
+000314|He is worse than last year.
+000315|I wish I had any name but Elliot.
+000316|I am sick of it.
+000317|The name of Walter I can drop, thank God! and I desire you will never insult me with my second W. again, meaning, for the rest of my life, to be only yours truly, -- Wm. Elliot.
+000318|Such a letter could not be read without putting Anne in a glow;
+000319|and Misess Smith, observing the high colour in her face, said
+000320|The language, I know, is highly disrespectful.
+000321|Though I have forgot the exact terms, I have a perfect impression of the general meaning.
+000322|But it shows you the man.
+000323|Mark his professions to my poor husband.
+000324|Can any thing be stronger?
+000325|Anne could not immediately get over the shock and mortification of finding such words applied to her father.
+000326|She was obliged to recollect that her seeing the letter was a violation of the laws of honour, that no one ought to be judged or to be known by such testimonies, that no private correspondence could bear the eye of others, before she could recover calmness enough to return the letter which she had been meditating over, and say
+000327|Thank you.
+000328|This is full proof undoubtedly;
+000329|proof of every thing you were saying.
+000330|But why be acquainted with us now?
+000331|"I can explain this too," cried Misess Smith, smiling.
+000332|Can you really?
+000333|Yes. I have shewn you Mister Elliot as he was a dozen years ago, and I will shew him as he is now.
+000334|I cannot produce written proof again, but I can give as authentic oral testimony as you can desire, of what he is now wanting, and what he is now doing.
+000335|He is no hypocrite now.
+000336|He truly wants to marry you.
+000337|His present attentions to your family are very sincere: quite from the heart.
+000338|I will give you my authority: his friend Colonel Wallis.
+000339|Colonel Wallis!
+000340|you are acquainted with him?
+000341|No. It does not come to me in quite so direct a line as that;
+000342|it takes a bend or two, but nothing of consequence.
+000343|The stream is as good as at first;
+000344|the little rubbish it collects in the turnings is easily moved away.
+000345|Mister Elliot talks unreservedly to Colonel Wallis of his views on you, which said Colonel Wallis, I imagine to be, in himself, a sensible, careful, discerning sort of character;
+000346|but Colonel Wallis has a very pretty silly wife, to whom he tells things which he had better not, and he repeats it all to her.
+000347|She in the overflowing spirits of her recovery, repeats it all to her nurse;
+000348|and the nurse knowing my acquaintance with you, very naturally brings it all to me.
+000349|On Monday evening, my good friend Misess Rooke let me thus much into the secrets of Marlborough Buildings.
+000350|When I talked of a whole history, therefore, you see I was not romancing so much as you supposed.
+000351|My dear Misess Smith, your authority is deficient.
+000352|This will not do.
+000353|Mister Elliot's having any views on me will not in the least account for the efforts he made towards a reconciliation with my father.
+000354|That was all prior to my coming to Bath.
+000355|I found them on the most friendly terms when I arrived.
+000356|I know you did;
+000357|I know it all perfectly, but
+000358|Indeed, Misess Smith, we must not expect to get real information in such a line.
+000359|Facts or opinions which are to pass through the hands of so many, to be misconceived by folly in one, and ignorance in another, can hardly have much truth left.
+000360|Only give me a hearing.
+000361|You will soon be able to judge of the general credit due, by listening to some particulars which you can yourself immediately contradict or confirm.
+000362|Nobody supposes that you were his first inducement.
+000363|He had seen you indeed, before he came to Bath, and admired you, but without knowing it to be you.
+000364|So says my historian, at least.
+000365|Is this true?
+000366|Did he see you last summer or autumn, 'somewhere down in the west,' to use her own words, without knowing it to be you?
+000367|He certainly did.
+000368|So far it is very true.
+000369|At Lyme. I happened to be at Lyme.
+000370|"Well," continued Misess Smith, triumphantly, "grant my friend the credit due to the establishment of the first point asserted."
+000371|He saw you then at Lyme, and liked you so well as to be exceedingly pleased to meet with you again in Camden Place, as Miss Anne Elliot, and from that moment, I have no doubt, had a double motive in his visits there.
+000372|But there was another, and an earlier, which I will now explain.
+000373|If there is anything in my story which you know to be either false or improbable, stop me.
+000374|My account states, that your sister's friend, the lady now staying with you, whom I have heard you mention, came to Bath with Miss Elliot and Sir Walter as long ago as September (in short when they first came themselves), and has been staying there ever since;
+000375|that she is a clever, insinuating, handsome woman, poor and plausible, and altogether such in situation and manner, as to give a general idea, among Sir Walter's acquaintance, of her meaning to be Lady Elliot, and as general a surprise that Miss Elliot should be apparently, blind to the danger.
+000376|Here Misess Smith paused a moment;
+000377|but Anne had not a word to say, and she continued
+000378|This was the light in which it appeared to those who knew the family, long before you returned to it;
+000379|and Colonel Wallis had his eye upon your father enough to be sensible of it, though he did not then visit in Camden Place;
+000380|but his regard for Mister Elliot gave him an interest in watching all that was going on there, and when Mister Elliot came to Bath for a day or two, as he happened to do a little before Christmas, Colonel Wallis made him acquainted with the appearance of things, and the reports beginning to prevail.
+000381|Now you are to understand, that time had worked a very material change in Mister Elliot's opinions as to the value of a baronetcy.
+000382|Upon all points of blood and connexion he is a completely altered man.
+000383|Having long had as much money as he could spend, nothing to wish for on the side of avarice or indulgence, he has been gradually learning to pin his happiness upon the consequence he is heir to.
+000384|I thought it coming on before our acquaintance ceased, but it is now a confirmed feeling.
+000385|He cannot bear the idea of not being Sir William.
+000386|You may guess, therefore, that the news he heard from his friend could not be very agreeable, and you may guess what it produced;
+000387|the resolution of coming back to Bath as soon as possible, and of fixing himself here for a time, with the view of renewing his former acquaintance, and recovering such a footing in the family as might give him the means of ascertaining the degree of his danger, and of circumventing the lady if he found it material.
+000388|This was agreed upon between the two friends as the only thing to be done;
+000389|and Colonel Wallis was to assist in every way that he could.
+000390|He was to be introduced, and Misess Wallis was to be introduced, and everybody was to be introduced.
+000391|Mister Elliot came back accordingly;
+000392|and on application was forgiven, as you know, and re-admitted into the family;
+000393|and there it was his constant object, and his only object (till your arrival added another motive), to watch Sir Walter and Misess Clay.
+000394|He omitted no opportunity of being with them, threw himself in their way, called at all hours;
+000395|but I need not be particular on this subject.
+000396|You can imagine what an artful man would do;
+000397|and with this guide, perhaps, may recollect what you have seen him do.
+000398|"Yes," said Anne, "you tell me nothing which does not accord with what I have known, or could imagine."
+000399|There is always something offensive in the details of cunning.
+000400|The manoeuvres of selfishness and duplicity must ever be revolting, but I have heard nothing which really surprises me.
+000401|I know those who would be shocked by such a representation of Mister Elliot, who would have difficulty in believing it;
+000402|but I have never been satisfied.
+000403|I have always wanted some other motive for his conduct than appeared.
+000404|I should like to know his present opinion, as to the probability of the event he has been in dread of;
+000405|whether he considers the danger to be lessening or not.
+000406|"Lessening, I understand," replied Misess Smith.
+000407|He thinks Misess Clay afraid of him, aware that he sees through her, and not daring to proceed as she might do in his absence.
+000408|But since he must be absent some time or other, I do not perceive how he can ever be secure while she holds her present influence.
+000409|Misess Wallis has an amusing idea, as nurse tells me, that it is to be put into the marriage articles when you and Mister Elliot marry, that your father is not to marry Misess Clay.
+000410|A scheme, worthy of Misess Wallis's understanding, by all accounts;
+000411|but my sensible nurse Rooke sees the absurdity of it.
+000412|'Why, to be sure, ma'am,' said she, 'it would not prevent his marrying anybody else.' And, indeed, to own the truth, I do not think nurse, in her heart, is a very strenuous opposer of Sir Walter's making a second match.
+000413|She must be allowed to be a favourer of matrimony, you know;
+000414|and (since self will intrude) who can say that she may not have some flying visions of attending the next Lady Elliot, through Misess Wallis's recommendation?
+000415|"I am very glad to know all this," said Anne, after a little thoughtfulness.
+000416|It will be more painful to me in some respects to be in company with him, but I shall know better what to do.
+000417|My line of conduct will be more direct.
+000418|Mister Elliot is evidently a disingenuous, artificial, worldly man, who has never had any better principle to guide him than selfishness.
+000419|But Mister Elliot was not done with.
+000420|Misess Smith had been carried away from her first direction, and Anne had forgotten, in the interest of her own family concerns, how much had been originally implied against him;
+000421|but her attention was now called to the explanation of those first hints, and she listened to a recital which, if it did not perfectly justify the unqualified bitterness of Misess Smith, proved him to have been very unfeeling in his conduct towards her;
+000422|very deficient both in justice and compassion.
+000423|She learned that, the intimacy between them continuing unimpaired by Mister Elliot's marriage, they had been as before always together, and Mister Elliot had led his friend into expenses much beyond his fortune.
+000424|Misess Smith did not want to take blame to herself, and was most tender of throwing any on her husband;
+000425|but Anne could collect that their income had never been equal to their style of living, and that from the first there had been a great deal of general and joint extravagance.
+000426|From his wife's account of him she could discern Mister Smith to have been a man of warm feelings, easy temper, careless habits, and not strong understanding, much more amiable than his friend, and very unlike him, led by him, and probably despised by him.
+000427|Mister Elliot, raised by his marriage to great affluence, and disposed to every gratification of pleasure and vanity which could be commanded without involving himself, (for with all his self-indulgence he had become a prudent man), and beginning to be rich, just as his friend ought to have found himself to be poor, seemed to have had no concern at all for that friend's probable finances, but, on the contrary, had been prompting and encouraging expenses which could end only in ruin;
+000428|and the Smiths accordingly had been ruined.
+000429|The husband had died just in time to be spared the full knowledge of it.
+000430|They had previously known embarrassments enough to try the friendship of their friends, and to prove that Mister Elliot's had better not be tried;
+000431|but it was not till his death that the wretched state of his affairs was fully known.
+000432|With a confidence in Mister Elliot's regard, more creditable to his feelings than his judgement, Mister Smith had appointed him the executor of his will;
+000433|but Mister Elliot would not act, and the difficulties and distress which this refusal had heaped on her, in addition to the inevitable sufferings of her situation, had been such as could not be related without anguish of spirit, or listened to without corresponding indignation.
+000434|Anne was shewn some letters of his on the occasion, answers to urgent applications from Misess Smith, which all breathed the same stern resolution of not engaging in a fruitless trouble, and, under a cold civility, the same hard-hearted indifference to any of the evils it might bring on her.
+000435|It was a dreadful picture of ingratitude and inhumanity;
+000436|and Anne felt, at some moments, that no flagrant open crime could have been worse.
+000437|She had a great deal to listen to;
+000438|all the particulars of past sad scenes, all the minutiae of distress upon distress, which in former conversations had been merely hinted at, were dwelt on now with a natural indulgence.
+000439|Anne could perfectly comprehend the exquisite relief, and was only the more inclined to wonder at the composure of her friend's usual state of mind.
+000440|There was one circumstance in the history of her grievances of particular irritation.
+000441|She had good reason to believe that some property of her husband in the West Indies, which had been for many years under a sort of sequestration for the payment of its own incumbrances, might be recoverable by proper measures;
+000442|and this property, though not large, would be enough to make her comparatively rich.
+000443|But there was nobody to stir in it.
+000444|Mister Elliot would do nothing, and she could do nothing herself, equally disabled from personal exertion by her state of bodily weakness, and from employing others by her want of money.
+000445|She had no natural connexions to assist her even with their counsel, and she could not afford to purchase the assistance of the law.
+000446|This was a cruel aggravation of actually straitened means.
+000447|To feel that she ought to be in better circumstances, that a little trouble in the right place might do it, and to fear that delay might be even weakening her claims, was hard to bear.
+000448|It was on this point that she had hoped to engage Anne's good offices with Mister Elliot.
+000449|She had previously, in the anticipation of their marriage, been very apprehensive of losing her friend by it;
+000450|but on being assured that he could have made no attempt of that nature, since he did not even know her to be in Bath, it immediately occurred, that something might be done in her favour by the influence of the woman he loved, and she had been hastily preparing to interest Anne's feelings, as far as the observances due to Mister Elliot's character would allow, when Anne's refutation of the supposed engagement changed the face of everything;
+000451|and while it took from her the new-formed hope of succeeding in the object of her first anxiety, left her at least the comfort of telling the whole story her own way.
+000452|After listening to this full description of Mister Elliot, Anne could not but express some surprise at Misess Smith's having spoken of him so favourably in the beginning of their conversation.
+000453|She had seemed to recommend and praise him!
+000454|"My dear," was Misess Smith's reply, "there was nothing else to be done."
+000455|I considered your marrying him as certain, though he might not yet have made the offer, and I could no more speak the truth of him, than if he had been your husband.
+000456|My heart bled for you, as I talked of happiness;
+000457|and yet he is sensible, he is agreeable, and with such a woman as you, it was not absolutely hopeless.
+000458|He was very unkind to his first wife.
+000459|They were wretched together.
+000460|But she was too ignorant and giddy for respect, and he had never loved her.
+000461|I was willing to hope that you must fare better.
+000462|Anne could just acknowledge within herself such a possibility of having been induced to marry him, as made her shudder at the idea of the misery which must have followed.
+000463|It was just possible that she might have been persuaded by Lady Russell!
+000464|And under such a supposition, which would have been most miserable, when time had disclosed all, too late?
+000465|It was very desirable that Lady Russell should be no longer deceived;

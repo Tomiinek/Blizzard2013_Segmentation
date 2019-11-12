@@ -1,0 +1,283 @@
+000001|Time passed on.
+000002|A few more to-morrows, and the party from London would be arriving.
+000003|It was an alarming change;
+000004|and Emma was thinking of it one morning, as what must bring a great deal to agitate and grieve her, when mister Knightley came in, and distressing thoughts were put by.
+000005|After the first chat of pleasure he was silent;
+000006|and then, in a graver tone, began with,
+000007|I have something to tell you, Emma;
+000008|some news.
+000009|"Good or bad?" said she, quickly, looking up in his face.
+000010|I do not know which it ought to be called.
+000011|Oh! good I am sure.
+000012|I see it in your countenance.
+000013|You are trying not to smile.
+000014|"I am afraid," said he, composing his features, "I am very much afraid, my dear Emma, that you will not smile when you hear it."
+000015|Indeed! but why so?
+000016|I can hardly imagine that any thing which pleases or amuses you, should not please and amuse me too.
+000017|"There is one subject," he replied, "I hope but one, on which we do not think alike."
+000018|He paused a moment, again smiling, with his eyes fixed on her face.
+000019|Does nothing occur to you?
+000020|Do not you recollect?
+000021|Harriet Smith.
+000022|Her cheeks flushed at the name, and she felt afraid of something, though she knew not what.
+000023|"Have you heard from her yourself this morning?" cried he.
+000024|You have, I believe, and know the whole.
+000025|No, I have not;
+000026|I know nothing;
+000027|pray tell me.
+000028|You are prepared for the worst, I see -- and very bad it is.
+000029|Harriet Smith marries Robert Martin.
+000030|Emma gave a start, which did not seem like being prepared -- and her eyes, in eager gaze, said, "No, this is impossible!" but her lips were closed.
+000031|"It is so, indeed," continued mister Knightley;
+000032|I have it from Robert Martin himself.
+000033|He left me not half an hour ago.
+000034|She was still looking at him with the most speaking amazement.
+000035|You like it, my Emma, as little as I feared.
+000036|I wish our opinions were the same.
+000037|But in time they will.
+000038|Time, you may be sure, will make one or the other of us think differently;
+000039|and, in the meanwhile, we need not talk much on the subject.
+000040|"You mistake me, you quite mistake me," she replied, exerting herself.
+000041|It is not that such a circumstance would now make me unhappy, but I cannot believe it.
+000042|It seems an impossibility!
+000043|You cannot mean to say, that Harriet Smith has accepted Robert Martin.
+000044|You cannot mean that he has even proposed to her again -- yet.
+000045|You only mean, that he intends it.
+000046|"I mean that he has done it," answered mister Knightley, with smiling but determined decision, "and been accepted."
+000047|"Good God!" she cried.
+000048|Well!
+000049|Then having recourse to her workbasket, in excuse for leaning down her face, and concealing all the exquisite feelings of delight and entertainment which she knew she must be expressing, she added, "Well, now tell me every thing;"
+000050|make this intelligible to me.
+000051|How, where, when?
+000052|Let me know it all.
+000053|I never was more surprized -- but it does not make me unhappy, I assure you.
+000054|How -- how has it been possible?
+000055|It is a very simple story.
+000056|He went to town on business three days ago, and I got him to take charge of some papers which I was wanting to send to John.
+000057|He delivered these papers to John, at his chambers, and was asked by him to join their party the same evening to Astley's.
+000058|They were going to take the two eldest boys to Astley's.
+000059|The party was to be our brother and sister, Henry, John -- and Miss Smith.
+000060|My friend Robert could not resist.
+000061|They called for him in their way;
+000062|were all extremely amused;
+000063|and my brother asked him to dine with them the next day -- which he did -- and in the course of that visit as I understand he found an opportunity of speaking to Harriet;
+000064|and certainly did not speak in vain.
+000065|She made him, by her acceptance, as happy even as he is deserving.
+000066|He came down by yesterday's coach, and was with me this morning immediately after breakfast, to report his proceedings, first on my affairs, and then on his own.
+000067|This is all that I can relate of the how, where, and when.
+000068|Your friend Harriet will make a much longer history when you see her.
+000069|She will give you all the minute particulars, which only woman's language can make interesting.
+000070|In our communications we deal only in the great.
+000071|However, I must say, that Robert Martin's heart seemed for him, and to me, very overflowing;
+000072|and that he did mention, without its being much to the purpose, that on quitting their box at Astley's, my brother took charge of misess John Knightley and little John, and he followed with Miss Smith and Henry;
+000073|and that at one time they were in such a crowd, as to make Miss Smith rather uneasy.
+000074|He stopped.
+000075|Emma dared not attempt any immediate reply.
+000076|To speak, she was sure would be to betray a most unreasonable degree of happiness.
+000077|She must wait a moment, or he would think her mad.
+000078|Her silence disturbed him;
+000079|and after observing her a little while, he added,
+000080|Emma, my love, you said that this circumstance would not now make you unhappy;
+000081|but I am afraid it gives you more pain than you expected.
+000082|His situation is an evil -- but you must consider it as what satisfies your friend;
+000083|and I will answer for your thinking better and better of him as you know him more.
+000084|His good sense and good principles would delight you.
+000085|As far as the man is concerned, you could not wish your friend in better hands.
+000086|His rank in society I would alter if I could, which is saying a great deal I assure you, Emma.
+000087|You laugh at me about William Larkins;
+000088|but I could quite as ill spare Robert Martin.
+000089|He wanted her to look up and smile;
+000090|and having now brought herself not to smile too broadly -- she did -- cheerfully answering,
+000091|You need not be at any pains to reconcile me to the match.
+000092|I think Harriet is doing extremely well.
+000093|Her connexions may be worse than his.
+000094|In respectability of character, there can be no doubt that they are.
+000095|I have been silent from surprize merely, excessive surprize.
+000096|You cannot imagine how suddenly it has come on me! how peculiarly unprepared I was! -- for I had reason to believe her very lately more determined against him, much more, than she was before.
+000097|"You ought to know your friend best," replied mister Knightley;
+000098|but I should say she was a good-tempered, soft-hearted girl, not likely to be very, very determined against any young man who told her he loved her.
+000099|Emma could not help laughing as she answered, "Upon my word, I believe you know her quite as well as I do."
+000100|But, mister Knightley, are you perfectly sure that she has absolutely and downright accepted him.
+000101|I could suppose she might in time -- but can she already?
+000102|Did not you misunderstand him?
+000103|You were both talking of other things;
+000104|of business, shows of cattle, or new drills -- and might not you, in the confusion of so many subjects, mistake him?
+000105|It was not Harriet's hand that he was certain of -- it was the dimensions of some famous ox.
+000106|The contrast between the countenance and air of mister Knightley and Robert Martin was, at this moment, so strong to Emma's feelings, and so strong was the recollection of all that had so recently passed on Harriet's side, so fresh the sound of those words, spoken with such emphasis,
+000107|"No, I hope I know better than to think of Robert Martin," that she was really expecting the intelligence to prove, in some measure, premature.
+000108|It could not be otherwise.
+000109|"Do you dare say this?" cried mister Knightley.
+000110|Do you dare to suppose me so great a blockhead, as not to know what a man is talking of?
+000111|What do you deserve?
+000112|Oh! I always deserve the best treatment, because I never put up with any other;
+000113|and, therefore, you must give me a plain, direct answer.
+000114|Are you quite sure that you understand the terms on which mister Martin and Harriet now are?
+000115|"I am quite sure," he replied, speaking very distinctly, "that he told me she had accepted him;"
+000116|and that there was no obscurity, nothing doubtful, in the words he used;
+000117|and I think I can give you a proof that it must be so.
+000118|He asked my opinion as to what he was now to do.
+000119|He knew of no one but misess Goddard to whom he could apply for information of her relations or friends.
+000120|Could I mention any thing more fit to be done, than to go to misess Goddard?
+000121|I assured him that I could not.
+000122|Then, he said, he would endeavour to see her in the course of this day.
+000123|"I am perfectly satisfied," replied Emma, with the brightest smiles, "and most sincerely wish them happy."
+000124|You are materially changed since we talked on this subject before.
+000125|I hope so -- for at that time I was a fool.
+000126|And I am changed also;
+000127|for I am now very willing to grant you all Harriet's good qualities.
+000128|I have taken some pains for your sake, and for Robert Martin's sake, (whom I have always had reason to believe as much in love with her as ever,) to get acquainted with her.
+000129|I have often talked to her a good deal.
+000130|You must have seen that I did.
+000131|Sometimes, indeed, I have thought you were half suspecting me of pleading poor Martin's cause, which was never the case;
+000132|but, from all my observations, I am convinced of her being an artless, amiable girl, with very good notions, very seriously good principles, and placing her happiness in the affections and utility of domestic life.
+000133|Much of this, I have no doubt, she may thank you for.
+000134|"Me!" cried Emma, shaking her head.
+000135|Ah! poor Harriet!
+000136|She checked herself, however, and submitted quietly to a little more praise than she deserved.
+000137|Their conversation was soon afterwards closed by the entrance of her father.
+000138|She was not sorry.
+000139|She wanted to be alone.
+000140|Her mind was in a state of flutter and wonder, which made it impossible for her to be collected.
+000141|She was in dancing, singing, exclaiming spirits;
+000142|and till she had moved about, and talked to herself, and laughed and reflected, she could be fit for nothing rational.
+000143|Her father's business was to announce James's being gone out to put the horses to, preparatory to their now daily drive to Randalls;
+000144|and she had, therefore, an immediate excuse for disappearing.
+000145|The joy, the gratitude, the exquisite delight of her sensations may be imagined.
+000146|The sole grievance and alloy thus removed in the prospect of Harriet's welfare, she was really in danger of becoming too happy for security.
+000147|What had she to wish for?
+000148|Nothing, but to grow more worthy of him, whose intentions and judgment had been ever so superior to her own.
+000149|Nothing, but that the lessons of her past folly might teach her humility and circumspection in future.
+000150|Serious she was, very serious in her thankfulness, and in her resolutions;
+000151|and yet there was no preventing a laugh, sometimes in the very midst of them.
+000152|She must laugh at such a close!
+000153|Such an end of the doleful disappointment of five weeks back!
+000154|Such a heart -- such a Harriet!
+000155|Now there would be pleasure in her returning -- Every thing would be a pleasure.
+000156|It would be a great pleasure to know Robert Martin.
+000157|High in the rank of her most serious and heartfelt felicities, was the reflection that all necessity of concealment from mister Knightley would soon be over.
+000158|The disguise, equivocation, mystery, so hateful to her to practise, might soon be over.
+000159|She could now look forward to giving him that full and perfect confidence which her disposition was most ready to welcome as a duty.
+000160|In the gayest and happiest spirits she set forward with her father;
+000161|not always listening, but always agreeing to what he said;
+000162|and, whether in speech or silence, conniving at the comfortable persuasion of his being obliged to go to Randalls every day, or poor misess Weston would be disappointed.
+000163|They arrived.
+000164|Misess Weston was alone in the drawing-room: -- but hardly had they been told of the baby, and mister Woodhouse received the thanks for coming, which he asked for, when a glimpse was caught through the blind, of two figures passing near the window.
+000165|"It is Frank and Miss Fairfax," said misess Weston.
+000166|I was just going to tell you of our agreeable surprize in seeing him arrive this morning.
+000167|He stays till to-morrow, and Miss Fairfax has been persuaded to spend the day with us.
+000168|They are coming in, I hope.
+000169|In half a minute they were in the room.
+000170|Emma was extremely glad to see him -- but there was a degree of confusion -- a number of embarrassing recollections on each side.
+000171|They met readily and smiling, but with a consciousness which at first allowed little to be said;
+000172|and having all sat down again, there was for some time such a blank in the circle, that Emma began to doubt whether the wish now indulged, which she had long felt, of seeing Frank Churchill once more, and of seeing him with Jane, would yield its proportion of pleasure.
+000173|When mister Weston joined the party, however, and when the baby was fetched, there was no longer a want of subject or animation -- or of courage and opportunity for Frank Churchill to draw near her and say,
+000174|I have to thank you, Miss Woodhouse, for a very kind forgiving message in one of misess Weston's letters.
+000175|I hope time has not made you less willing to pardon.
+000176|I hope you do not retract what you then said.
+000177|"No, indeed," cried Emma, most happy to begin, "not in the least."
+000178|I am particularly glad to see and shake hands with you -- and to give you joy in person.
+000179|He thanked her with all his heart, and continued some time to speak with serious feeling of his gratitude and happiness.
+000180|"Is not she looking well?" said he, turning his eyes towards Jane.
+000181|Better than she ever used to do?
+000182|You see how my father and misess Weston doat upon her.
+000183|But his spirits were soon rising again, and with laughing eyes, after mentioning the expected return of the Campbells, he named the name of Dixon.
+000184|Emma blushed, and forbade its being pronounced in her hearing.
+000185|"I can never think of it," she cried, "without extreme shame."
+000186|"The shame," he answered, "is all mine, or ought to be."
+000187|But is it possible that you had no suspicion?
+000188|I mean of late.
+000189|Early, I know, you had none.
+000190|I never had the smallest, I assure you.
+000191|That appears quite wonderful.
+000192|I was once very near -- and I wish I had -- it would have been better.
+000193|But though I was always doing wrong things, they were very bad wrong things, and such as did me no service.
+000194|It would have been a much better transgression had I broken the bond of secrecy and told you every thing.
+000195|"It is not now worth a regret," said Emma.
+000196|"I have some hope," resumed he, "of my uncle's being persuaded to pay a visit at Randalls;"
+000197|he wants to be introduced to her.
+000198|When the Campbells are returned, we shall meet them in London, and continue there, I trust, till we may carry her northward.
+000199|But now, I am at such a distance from her -- is not it hard, Miss Woodhouse?
+000200|Till this morning, we have not once met since the day of reconciliation.
+000201|Do not you pity me?
+000202|Emma spoke her pity so very kindly, that with a sudden accession of gay thought, he cried,
+000203|"Ah! by the bye," then sinking his voice, and looking demure for the moment -- "I hope mister Knightley is well?"
+000204|He paused.
+000205|She coloured and laughed.
+000206|I know you saw my letter, and think you may remember my wish in your favour.
+000207|Let me return your congratulations.
+000208|I assure you that I have heard the news with the warmest interest and satisfaction.
+000209|He is a man whom I cannot presume to praise.
+000210|Emma was delighted, and only wanted him to go on in the same style;
+000211|but his mind was the next moment in his own concerns and with his own Jane, and his next words were,
+000212|Did you ever see such a skin? -- such smoothness! such delicacy! -- and yet without being actually fair.
+000213|One cannot call her fair.
+000214|It is a most uncommon complexion, with her dark eye-lashes and hair -- a most distinguishing complexion!
+000215|So peculiarly the lady in it.
+000216|Just colour enough for beauty.
+000217|"I have always admired her complexion," replied Emma, archly;
+000218|but do not I remember the time when you found fault with her for being so pale?
+000219|When we first began to talk of her.
+000220|Have you quite forgotten?
+000221|Oh! no -- what an impudent dog I was! -- How could I dare
+000222|But he laughed so heartily at the recollection, that Emma could not help saying,
+000223|I do suspect that in the midst of your perplexities at that time, you had very great amusement in tricking us all.
+000224|I am sure you had.
+000225|I am sure it was a consolation to you.
+000226|Oh! no, no, no -- how can you suspect me of such a thing?
+000227|I was the most miserable wretch!
+000228|Not quite so miserable as to be insensible to mirth.
+000229|I am sure it was a source of high entertainment to you, to feel that you were taking us all in.
+000230|Perhaps I am the readier to suspect, because, to tell you the truth, I think it might have been some amusement to myself in the same situation.
+000231|I think there is a little likeness between us.
+000232|He bowed.
+000233|"If not in our dispositions," she presently added, with a look of true sensibility, "there is a likeness in our destiny;"
+000234|the destiny which bids fair to connect us with two characters so much superior to our own.
+000235|"True, true," he answered, warmly.
+000236|No, not true on your side.
+000237|You can have no superior, but most true on mine.
+000238|She is a complete angel.
+000239|Look at her.
+000240|Is not she an angel in every gesture?
+000241|Observe the turn of her throat.
+000242|Observe her eyes, as she is looking up at my father.
+000243|You will be glad to hear inclining his head, and whispering seriously that my uncle means to give her all my aunt's jewels.
+000244|They are to be new set.
+000245|I am resolved to have some in an ornament for the head.
+000246|Will not it be beautiful in her dark hair?
+000247|"Very beautiful, indeed," replied Emma;
+000248|and she spoke so kindly, that he gratefully burst out,
+000249|How delighted I am to see you again! and to see you in such excellent looks!
+000250|I would not have missed this meeting for the world.
+000251|I should certainly have called at Hartfield, had you failed to come.
+000252|The others had been talking of the child, misess Weston giving an account of a little alarm she had been under, the evening before, from the infant's appearing not quite well.
+000253|She believed she had been foolish, but it had alarmed her, and she had been within half a minute of sending for mister Perry.
+000254|Perhaps she ought to be ashamed, but mister Weston had been almost as uneasy as herself.
+000255|In ten minutes, however, the child had been perfectly well again.
+000256|This was her history;
+000257|and particularly interesting it was to mister Woodhouse, who commended her very much for thinking of sending for Perry, and only regretted that she had not done it.
+000258|She should always send for Perry, if the child appeared in the slightest degree disordered, were it only for a moment.
+000259|She could not be too soon alarmed, nor send for Perry too often.
+000260|It was a pity, perhaps, that he had not come last night;
+000261|for, though the child seemed well now, very well considering, it would probably have been better if Perry had seen it.
+000262|Frank Churchill caught the name.
+000263|"Perry!" said he to Emma, and trying, as he spoke, to catch Miss Fairfax's eye.
+000264|My friend mister Perry!
+000265|What are they saying about mister Perry?
+000266|Has he been here this morning?
+000267|And how does he travel now?
+000268|Has he set up his carriage?
+000269|Emma soon recollected, and understood him;
+000270|and while she joined in the laugh, it was evident from Jane's countenance that she too was really hearing him, though trying to seem deaf.
+000271|"Such an extraordinary dream of mine!" he cried.
+000272|I can never think of it without laughing.
+000273|She hears us, she hears us, Miss Woodhouse.
+000274|I see it in her cheek, her smile, her vain attempt to frown.
+000275|Look at her.
+000276|Do not you see that, at this instant, the very passage of her own letter, which sent me the report, is passing under her eye -- that the whole blunder is spread before her -- that she can attend to nothing else, though pretending to listen to the others?
+000277|Jane was forced to smile completely, for a moment;
+000278|and the smile partly remained as she turned towards him, and said in a conscious, low, yet steady voice,
+000279|How you can bear such recollections, is astonishing to me!
+000280|They will sometimes obtrude -- but how you can court them!
+000281|He had a great deal to say in return, and very entertainingly;
+000282|but Emma's feelings were chiefly with Jane, in the argument;
+000283|and on leaving Randalls, and falling naturally into a comparison of the two men, she felt, that pleased as she had been to see Frank Churchill, and really regarding him as she did with friendship, she had never been more sensible of mister Knightley's high superiority of character.

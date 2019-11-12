@@ -1,0 +1,302 @@
+000001|Ethan went out into the passage to hang up his wet garments.
+000002|He listened for Zeena's step and, not hearing it, called her name up the stairs.
+000003|She did not answer, and after a moment's hesitation he went up and opened her door.
+000004|The room was almost dark, but in the obscurity he saw her sitting by the window, bolt upright, and knew by the rigidity of the outline projected against the pane that she had not taken off her travelling dress.
+000005|"Well, Zeena," he ventured from the threshold.
+000006|She did not move, and he continued: "Supper's about ready."
+000007|Ain't you coming?
+000008|She replied: "I don't feel as if I could touch a morsel."
+000009|It was the consecrated formula, and he expected it to be followed, as usual, by her rising and going down to supper.
+000010|But she remained seated, and he could think of nothing more felicitous than: "I presume you're tired after the long ride."
+000011|Turning her head at this, she answered solemnly: "I'm a great deal sicker than you think."
+000012|Her words fell on his ear with a strange shock of wonder.
+000013|He had often heard her pronounce them before -- what if at last they were true?
+000014|He advanced a step or two into the dim room.
+000015|"I hope that's not so, Zeena," he said.
+000016|She continued to gaze at him through the twilight with a mien of wan authority, as of one consciously singled out for a great fate.
+000017|"I've got complications," she said.
+000018|Ethan knew the word for one of exceptional import.
+000019|Almost everybody in the neighbourhood had "troubles," frankly localized and specified;
+000020|but only the chosen had "complications."
+000021|To have them was in itself a distinction, though it was also, in most cases, a death-warrant.
+000022|People struggled on for years with "troubles," but they almost always succumbed to "complications."
+000023|Ethan's heart was jerking to and fro between two extremities of feeling, but for the moment compassion prevailed.
+000024|His wife looked so hard and lonely, sitting there in the darkness with such thoughts.
+000025|"Is that what the new doctor told you?" he asked, instinctively lowering his voice.
+000026|Yes.
+000027|He says any regular doctor would want me to have an operation.
+000028|Ethan was aware that, in regard to the important question of surgical intervention, the female opinion of the neighbourhood was divided, some glorying in the prestige conferred by operations while others shunned them as indelicate.
+000029|Ethan, from motives of economy, had always been glad that Zeena was of the latter faction.
+000030|In the agitation caused by the gravity of her announcement he sought a consolatory short cut.
+000031|What do you know about this doctor anyway?
+000032|Nobody ever told you that before.
+000033|He saw his blunder before she could take it up: she wanted sympathy, not consolation.
+000034|I didn't need to have anybody tell me I was losing ground every day.
+000035|Everybody but you could see it.
+000036|And everybody in Bettsbridge knows about doctor Buck.
+000037|He has his office in Worcester, and comes over once a fortnight to Shadd's Falls and Bettsbridge for consultations.
+000038|Eliza Spears was wasting away with kidney trouble before she went to him, and now she's up and around, and singing in the choir.
+000039|Well, I'm glad of that.
+000040|"You must do just what he tells you," Ethan answered sympathetically.
+000041|She was still looking at him.
+000042|"I mean to," she said.
+000043|He was struck by a new note in her voice.
+000044|It was neither whining nor reproachful, but drily resolute.
+000045|"What does he want you should do?" he asked, with a mounting vision of fresh expenses.
+000046|He wants I should have a hired girl.
+000047|He says I oughtn't to have to do a single thing around the house.
+000048|"A hired girl?" Ethan stood transfixed.
+000049|Yes.
+000050|And Aunt Martha found me one right off.
+000051|Everybody said I was lucky to get a girl to come away out here, and I agreed to give her a dollar extry to make sure.
+000052|She'll be over to-morrow afternoon.
+000053|Wrath and dismay contended in Ethan.
+000054|He had foreseen an immediate demand for money, but not a permanent drain on his scant resources.
+000055|He no longer believed what Zeena had told him of the supposed seriousness of her state: he saw in her expedition to Bettsbridge only a plot hatched between herself and her Pierce relations to foist on him the cost of a servant;
+000056|and for the moment wrath predominated.
+000057|"If you meant to engage a girl you ought to have told me before you started," he said.
+000058|How could I tell you before I started?
+000059|How did I know what doctor Buck would say?
+000060|"Oh, doctor Buck -- " Ethan's incredulity escaped in a short laugh.
+000061|Did doctor Buck tell you how I was to pay her wages?
+000062|Her voice rose furiously with his.
+000063|No, he didn't.
+000064|For I'd 'a' been ashamed to tell him that you grudged me the money to get back my health, when I lost it nursing your own mother!
+000065|You lost your health nursing mother?
+000066|Yes;
+000067|and my folks all told me at the time you couldn't do no less than marry me after
+000068|Zeena!
+000069|Through the obscurity which hid their faces their thoughts seemed to dart at each other like serpents shooting venom.
+000070|Ethan was seized with horror of the scene and shame at his own share in it.
+000071|It was as senseless and savage as a physical fight between two enemies in the darkness.
+000072|He turned to the shelf above the chimney, groped for matches and lit the one candle in the room.
+000073|At first its weak flame made no impression on the shadows;
+000074|then Zeena's face stood grimly out against the uncurtained pane, which had turned from grey to black.
+000075|It was the first scene of open anger between the couple in their sad seven years together, and Ethan felt as if he had lost an irretrievable advantage in descending to the level of recrimination.
+000076|But the practical problem was there and had to be dealt with.
+000077|You know I haven't got the money to pay for a girl, Zeena.
+000078|You'll have to send her back: I can't do it.
+000079|The doctor says it'll be my death if I go on slaving the way I've had to.
+000080|He doesn't understand how I've stood it as long as I have.
+000081|Slaving!
+000082|He checked himself again, "You sha'n't lift a hand, if he says so."
+000083|I'll do everything round the house myself
+000084|She broke in: "You're neglecting the farm enough already," and this being true, he found no answer, and left her time to add ironically: "Better send me over to the almshouse and done with it..."
+000085|I guess there's been Fromes there afore now.
+000086|The taunt burned into him, but he let it pass.
+000087|I haven't got the money.
+000088|That settles it.
+000089|There was a moment's pause in the struggle, as though the combatants were testing their weapons.
+000090|Then Zeena said in a level voice: "I thought you were to get fifty dollars from Andrew Hale for that lumber."
+000091|Andrew Hale never pays under three months.
+000092|He had hardly spoken when he remembered the excuse he had made for not accompanying his wife to the station the day before;
+000093|and the blood rose to his frowning brows.
+000094|Why, you told me yesterday you'd fixed it up with him to pay cash down.
+000095|You said that was why you couldn't drive me over to the Flats.
+000096|Ethan had no suppleness in deceiving.
+000097|He had never before been convicted of a lie, and all the resources of evasion failed him.
+000098|"I guess that was a misunderstanding," he stammered.
+000099|You ain't got the money?
+000100|No.
+000101|And you ain't going to get it?
+000102|No.
+000103|Well, I couldn't know that when I engaged the girl, could I?
+000104|"No." He paused to control his voice."
+000105|But you know it now.
+000106|I'm sorry, but it can't be helped.
+000107|You're a poor man's wife, Zeena;
+000108|but I'll do the best I can for you.
+000109|For a while she sat motionless, as if reflecting, her arms stretched along the arms of her chair, her eyes fixed on vacancy.
+000110|"Oh, I guess we'll make out," she said mildly.
+000111|The change in her tone reassured him.
+000112|Of course we will!
+000113|There's a whole lot more I can do for you, and Mattie
+000114|Zeena, while he spoke, seemed to be following out some elaborate mental calculation.
+000115|"She emerged from it to say: "There'll be Mattie's board less, any how"
+000116|Ethan, supposing the discussion to be over, had turned to go down to supper.
+000117|He stopped short, not grasping what he heard.
+000118|"Mattie's board less -- ?" he began.
+000119|Zeena laughed.
+000120|It was on odd unfamiliar sound -- he did not remember ever having heard her laugh before.
+000121|You didn't suppose I was going to keep two girls, did you?
+000122|No wonder you were scared at the expense!
+000123|He still had but a confused sense of what she was saying.
+000124|From the beginning of the discussion he had instinctively avoided the mention of Mattie's name, fearing he hardly knew what: criticism, complaints, or vague allusions to the imminent probability of her marrying.
+000125|But the thought of a definite rupture had never come to him, and even now could not lodge itself in his mind.
+000126|"I don't know what you mean," he said.
+000127|Mattie Silver's not a hired girl.
+000128|She's your relation.
+000129|She's a pauper that's hung onto us all after her father'd done his best to ruin us.
+000130|I've kep' her here a whole year: it's somebody else's turn now.
+000131|As the shrill words shot out Ethan heard a tap on the door, which he had drawn shut when he turned back from the threshold.
+000132|"Ethan -- Zeena!" Mattie's voice sounded gaily from the landing, "do you know what time it is?"
+000133|Supper's been ready half an hour.
+000134|Inside the room there was a moment's silence;
+000135|then Zeena called out from her seat: "I'm not coming down to supper."
+000136|Oh, I'm sorry!
+000137|Aren't you well?
+000138|Sha'n't I bring you up a bite of something?
+000139|Ethan roused himself with an effort and opened the door.
+000140|Go along down, Matt.
+000141|Zeena's just a little tired.
+000142|I'm coming.
+000143|He heard her "All right!" and her quick step on the stairs;
+000144|then he shut the door and turned back into the room.
+000145|His wife's attitude was unchanged, her face inexorable, and he was seized with the despairing sense of his helplessness.
+000146|You ain't going to do it, Zeena?
+000147|"Do what?" she emitted between flattened lips.
+000148|Send Mattie away -- like this?
+000149|I never bargained to take her for life!
+000150|He continued with rising vehemence: "You can't put her out of the house like a thief -- a poor girl without friends or money."
+000151|She's done her best for you and she's got no place to go to.
+000152|You may forget she's your kin but everybody else'll remember it.
+000153|If you do a thing like that what do you suppose folks'll say of you?
+000154|Zeena waited a moment, as if giving him time to feel the full force of the contrast between his own excitement and her composure.
+000155|Then she replied in the same smooth voice: "I know well enough what they say of my having kep' her here as long as I have."
+000156|Ethan's hand dropped from the door-knob, which he had held clenched since he had drawn the door shut on Mattie.
+000157|His wife's retort was like a knife-cut across the sinews and he felt suddenly weak and powerless.
+000158|He had meant to humble himself, to argue that Mattie's keep didn't cost much, after all, that he could make out to buy a stove and fix up a place in the attic for the hired girl -- but Zeena's words revealed the peril of such pleadings.
+000159|"You mean to tell her she's got to go -- at once?" he faltered out, in terror of letting his wife complete her sentence.
+000160|"As if trying to make him see reason she replied impartially: "The girl will be over from Bettsbridge to-morrow, and I presume she's got to have somewheres to sleep."
+000161|Ethan looked at her with loathing.
+000162|She was no longer the listless creature who had lived at his side in a state of sullen self-absorption, but a mysterious alien presence, an evil energy secreted from the long years of silent brooding.
+000163|It was the sense of his helplessness that sharpened his antipathy.
+000164|There had never been anything in her that one could appeal to;
+000165|but as long as he could ignore and command he had remained indifferent.
+000166|Now she had mastered him and he abhorred her.
+000167|Mattie was her relation, not his: there were no means by which he could compel her to keep the girl under her roof.
+000168|All the long misery of his baffled past, of his youth of failure, hardship and vain effort, rose up in his soul in bitterness and seemed to take shape before him in the woman who at every turn had barred his way.
+000169|She had taken everything else from him;
+000170|and now she meant to take the one thing that made up for all the others.
+000171|For a moment such a flame of hate rose in him that it ran down his arm and clenched his fist against her.
+000172|He took a wild step forward and then stopped.
+000173|"You're -- you're not coming down?" he said in a bewildered voice.
+000174|No.
+000175|"I guess I'll lay down on the bed a little while," she answered mildly;
+000176|and he turned and walked out of the room.
+000177|In the kitchen Mattie was sitting by the stove, the cat curled up on her knees.
+000178|She sprang to her feet as Ethan entered and carried the covered dish of meat-pie to the table.
+000179|"I hope Zeena isn't sick?" she asked.
+000180|No.
+000181|She shone at him across the table.
+000182|Well, sit right down then.
+000183|You must be starving.
+000184|She uncovered the pie and pushed it over to him.
+000185|So they were to have one more evening together, her happy eyes seemed to say!
+000186|He helped himself mechanically and began to eat;
+000187|then disgust took him by the throat and he laid down his fork.
+000188|Mattie's tender gaze was on him and she marked the gesture.
+000189|Why, Ethan, what's the matter?
+000190|Don't it taste right?
+000191|Yes -- it's first-rate.
+000192|Only I
+000193|He pushed his plate away, rose from his chair, and walked around the table to her side.
+000194|She started up with frightened eyes.
+000195|Ethan, there's something wrong!
+000196|I knew there was!
+000197|She seemed to melt against him in her terror, and he caught her in his arms, held her fast there, felt her lashes beat his cheek like netted butterflies.
+000198|"What is it -- what is it?" she stammered;
+000199|but he had found her lips at last and was drinking unconsciousness of everything but the joy they gave him.
+000200|She lingered a moment, caught in the same strong current;
+000201|then she slipped from him and drew back a step or two, pale and troubled.
+000202|"Her look smote him with compunction, and he cried out, as if he saw her drowning in a dream: "You can't go, Matt!"
+000203|I'll never let you!
+000204|"Go -- go?" she stammered.
+000205|Must I go?
+000206|The words went on sounding between them as though a torch of warning flew from hand to hand through a black landscape.
+000207|Ethan was overcome with shame at his lack of self-control in flinging the news at her so brutally.
+000208|His head reeled and he had to support himself against the table.
+000209|All the while he felt as if he were still kissing her, and yet dying of thirst for her lips.
+000210|Ethan, what has happened?
+000211|Is Zeena mad with me?
+000212|Her cry steadied him, though it deepened his wrath and pity.
+000213|"No, no," he assured her, "it's not that."
+000214|But this new doctor has scared her about herself.
+000215|You know she believes all they say the first time she sees them.
+000216|And this one's told her she won't get well unless she lays up and don't do a thing about the house -- not for months
+000217|He paused, his eyes wandering from her miserably.
+000218|She stood silent a moment, drooping before him like a broken branch.
+000219|She was so small and weak-looking that it wrung his heart;
+000220|but suddenly she lifted her head and looked straight at him.
+000221|And she wants somebody handier in my place?
+000222|Is that it?
+000223|That's what she says to-night.
+000224|If she says it to-night she'll say it to-morrow.
+000225|Both bowed to the inexorable truth: they knew that Zeena never changed her mind, and that in her case a resolve once taken was equivalent to an act performed.
+000226|There was a long silence between them;
+000227|then Mattie said in a low voice: "Don't be too sorry, Ethan."
+000228|"Oh, God -- oh, God," he groaned.
+000229|The glow of passion he had felt for her had melted to an aching tenderness.
+000230|He saw her quick lids beating back the tears, and longed to take her in his arms and soothe her.
+000231|"You're letting your supper get cold," she admonished him with a pale gleam of gaiety.
+000232|Oh, Matt -- Matt -- where'll you go to?
+000233|Her lids sank and a tremor crossed her face.
+000234|He saw that for the first time the thought of the future came to her distinctly.
+000235|"I might get something to do over at Stamford," she faltered, as if knowing that he knew she had no hope.
+000236|He dropped back into his seat and hid his face in his hands.
+000237|Despair seized him at the thought of her setting out alone to renew the weary quest for work.
+000238|In the only place where she was known she was surrounded by indifference or animosity;
+000239|and what chance had she, inexperienced and untrained, among the million bread-seekers of the cities?
+000240|There came back to him miserable tales he had heard at Worcester, and the faces of girls whose lives had begun as hopefully as Mattie's....
+000241|It was not possible to think of such things without a revolt of his whole being.
+000242|He sprang up suddenly.
+000243|You can't go, Matt!
+000244|I won't let you!
+000245|She's always had her way, but I mean to have mine now
+000246|Mattie lifted her hand with a quick gesture, and he heard his wife's step behind him.
+000247|Zeena came into the room with her dragging down-at-the-heel step, and quietly took her accustomed seat between them.
+000248|"I felt a little mite better, and doctor Buck says I ought to eat all I can to keep my strength up, even if I ain't got any appetite," she said in her flat whine, reaching across Mattie for the teapot.
+000249|Her "good" dress had been replaced by the black calico and brown knitted shawl which formed her daily wear, and with them she had put on her usual face and manner.
+000250|She poured out her tea, added a great deal of milk to it, helped herself largely to pie and pickles, and made the familiar gesture of adjusting her false teeth before she began to eat.
+000251|The cat rubbed itself ingratiatingly against her, and she said "Good Pussy," stooped to stroke it and gave it a scrap of meat from her plate.
+000252|Ethan sat speechless, not pretending to eat, but Mattie nibbled valiantly at her food and asked Zeena one or two questions about her visit to Bettsbridge.
+000253|Zeena answered in her every-day tone and, warming to the theme, regaled them with several vivid descriptions of intestinal disturbances among her friends and relatives.
+000254|She looked straight at Mattie as she spoke, a faint smile deepening the vertical lines between her nose and chin.
+000255|When supper was over she rose from her seat and pressed her hand to the flat surface over the region of her heart.
+000256|"That pie of yours always sets a mite heavy, Matt," she said, not ill-naturedly.
+000257|She seldom abbreviated the girl's name, and when she did so it was always a sign of affability.
+000258|"I've a good mind to go and hunt up those stomach powders I got last year over in Springfield," she continued.
+000259|I ain't tried them for quite a while, and maybe they'll help the heartburn.
+000260|Mattie lifted her eyes.
+000261|"Can't I get them for you, Zeena?" she ventured.
+000262|No.
+000263|"They're in a place you don't know about," Zeena answered darkly, with one of her secret looks.
+000264|She went out of the kitchen and Mattie, rising, began to clear the dishes from the table.
+000265|As she passed Ethan's chair their eyes met and clung together desolately.
+000266|The warm still kitchen looked as peaceful as the night before.
+000267|The cat had sprung to Zeena's rocking-chair, and the heat of the fire was beginning to draw out the faint sharp scent of the geraniums.
+000268|Ethan dragged himself wearily to his feet.
+000269|"I'll go out and take a look around," he said, going toward the passage to get his lantern.
+000270|As he reached the door he met Zeena coming back into the room, her lips twitching with anger, a flush of excitement on her sallow face.
+000271|The shawl had slipped from her shoulders and was dragging at her down-trodden heels, and in her hands she carried the fragments of the red glass pickle-dish.
+000272|"I'd like to know who done this," she said, looking sternly from Ethan to Mattie.
+000273|There was no answer, and she continued in a trembling voice: "I went to get those powders I'd put away in father's old spectacle-case, top of the china-closet, where I keep the things I set store by, so's folks shan't meddle with them."
+000274|Her voice broke, and two small tears hung on her lashless lids and ran slowly down her cheeks.
+000275|It takes the stepladder to get at the top shelf, and I put Aunt Philura Maple's pickle-dish up there o' purpose when we was married, and it's never been down since, 'cept for the spring cleaning, and then I always lifted it with my own hands, so's 't it shouldn't get broke.
+000276|She laid the fragments reverently on the table.
+000277|"I want to know who done this," she quavered.
+000278|At the challenge Ethan turned back into the room and faced her.
+000279|I can tell you, then.
+000280|The cat done it.
+000281|The cat?
+000282|That's what I said.
+000283|She looked at him hard, and then turned her eyes to Mattie, who was carrying the dish-pan to the table.
+000284|"I'd like to know how the cat got into my china-closet" she said.
+000285|"Chasin' mice, I guess," Ethan rejoined.
+000286|There was a mouse round the kitchen all last evening.
+000287|Zeena continued to look from one to the other;
+000288|then she emitted her small strange laugh.
+000289|"I knew the cat was a smart cat," she said in a high voice, "but I didn't know he was smart enough to pick up the pieces of my pickle-dish and lay 'em edge to edge on the very shelf he knocked 'em off of."
+000290|Mattie suddenly drew her arms out of the steaming water.
+000291|It wasn't Ethan's fault, Zeena!
+000292|The cat did break the dish;
+000293|but I got it down from the china-closet, and I'm the one to blame for its getting broken.
+000294|Zeena stood beside the ruin of her treasure, stiffening into a stony image of resentment, "You got down my pickle-dish-what for?"
+000295|A bright flush flew to Mattie's cheeks.
+000296|"I wanted to make the supper-table pretty," she said.
+000297|You wanted to make the supper-table pretty;
+000298|"and you waited till my back was turned, and took the thing I set most store by of anything I've got, and wouldn't never use it, not even when the minister come to dinner, or Aunt Martha Pierce come over from Bettsbridge -- " Zeena paused with a gasp, as if terrified by her own evocation of the sacrilege.
+000299|You're a bad girl, Mattie Silver, and I always known it.
+000300|It's the way your father begun, and I was warned of it when I took you, and I tried to keep my things where you couldn't get at 'em -- and now you've took from me the one I cared for most of all.
+000301|She broke off in a short spasm of sobs that passed and left her more than ever like a shape of stone.
+000302|"If I'd 'a' listened to folks, you'd 'a' gone before now, and this wouldn't 'a' happened," she said;

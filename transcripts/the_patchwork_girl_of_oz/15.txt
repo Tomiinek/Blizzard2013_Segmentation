@@ -1,0 +1,132 @@
+000001|Dorothy Gale was sitting in one of her rooms in the royal palace, while curled up at her feet was a little black dog with a shaggy coat and very bright eyes.
+000002|She wore a plain white frock, without any jewels or other ornaments except an emerald-green hair-ribbon, for Dorothy was a simple little girl and had not been in the least spoiled by the magnificence surrounding her.
+000003|Once the child had lived on the Kansas prairies, but she seemed marked for adventure, for she had made several trips to the Land of Oz before she came to live there for good.
+000004|Her very best friend was the beautiful Ozma of Oz, who loved Dorothy so well that she kept her in her own palace, so as to be near her.
+000005|The girl's Uncle Henry and Aunt Em -- the only relatives she had in the world -- had also been brought here by Ozma and given a pleasant home.
+000006|Dorothy knew almost everybody in Oz, and it was she who had discovered the Scarecrow, the Tin Woodman and the Cowardly Lion, as well as Tik-Tok the Clockwork Man.
+000007|Her life was very pleasant now, and although she had been made a Princess of Oz by her friend Ozma she did not care much to be a Princess and remained as sweet as when she had been plain Dorothy Gale of Kansas.
+000008|Dorothy was reading in a book this evening when Jellia Jamb, the favorite servant-maid of the palace, came to say that the Shaggy Man wanted to see her.
+000009|"All right," said Dorothy;
+000010|tell him to come right up.
+000011|"But he has some queer creatures with him -- some of the queerest I've ever laid eyes on," reported Jellia.
+000012|Never mind;
+000013|"let 'em all come up," replied Dorothy.
+000014|But when the door opened to admit not only the Shaggy Man, but Scraps, the Woozy and the Glass Cat, Dorothy jumped up and looked at her strange visitors in amazement.
+000015|The Patchwork Girl was the most curious of all and Dorothy was uncertain at first whether Scraps was really alive or only a dream or a nightmare.
+000016|Toto, her dog, slowly uncurled himself and going to the Patchwork Girl sniffed at her inquiringly;
+000017|but soon he lay down again, as if to say he had no interest in such an irregular creation.
+000018|"You're a new one to me," Dorothy said reflectively, addressing the Patchwork Girl.
+000019|I can't imagine where you've come from.
+000020|"Who, me?" asked Scraps, looking around the pretty room instead of at the girl.
+000021|Oh, I came from a bed-quilt, I guess.
+000022|That's what they say, anyhow.
+000023|Some call it a crazy-quilt and some a patchwork quilt.
+000024|But my name is Scraps -- and now you know all about me.
+000025|"Not quite all," returned Dorothy with a smile.
+000026|I wish you'd tell me how you came to be alive.
+000027|"That's an easy job," said Scraps, sitting upon a big upholstered chair and making the springs bounce her up and down.
+000028|Margolotte wanted a slave, so she made me out of an old bed-quilt she didn't use.
+000029|Cotton stuffing, suspender-button eyes, red velvet tongue, pearl beads for teeth.
+000030|The Crooked Magician made a Powder of Life, sprinkled me with it and -- here I am.
+000031|Perhaps you've noticed my different colors.
+000032|A very refined and educated gentleman named the Scarecrow, whom I met, told me I am the most beautiful creature in all Oz, and I believe it.
+000033|"Oh! Have you met our Scarecrow, then?" asked Dorothy, a little puzzled to understand the brief history related.
+000034|Yes; isn't he jolly?
+000035|"The Scarecrow has many good qualities," replied Dorothy.
+000036|But I'm sorry to hear all this 'bout the Crooked Magician.
+000037|Ozma'll be mad as hops when she hears he's been doing magic again.
+000038|She told him not to.
+000039|"He only practices magic for the benefit of his own family," explained Bungle, who was keeping at a respectful distance from the little black dog.
+000040|"Dear me," said Dorothy;
+000041|I hadn't noticed you before.
+000042|Are you glass, or what?
+000043|"I'm glass, and transparent, too, which is more than can be said of some folks," answered the cat.
+000044|Also I have some lovely pink brains;
+000045|you can see 'em work.
+000046|Oh; is that so?
+000047|Come over here and let me see.
+000048|The Glass Cat hesitated, eyeing the dog.
+000049|"Send that beast away and I will," she said.
+000050|Beast!
+000051|Why, that's my dog Toto, an' he's the kindest dog in all the world.
+000052|Toto knows a good many things, too;
+000053|'most as much as I do, I guess.
+000054|"Why doesn't he say anything?" asked Bungle.
+000055|"He can't talk, not being a fairy dog," explained Dorothy.
+000056|He's just a common United States dog;
+000057|but that's a good deal;
+000058|and I understand him, and he understands me, just as well as if he could talk.
+000059|Toto, at this, got up and rubbed his head softly against Dorothy's hand, which she held out to him, and he looked up into her face as if he had understood every word she had said.
+000060|"This cat, Toto," she said to him, "is made of glass, so you mustn't bother it, or chase it, any more than you do my Pink Kitten."
+000061|It's prob'ly brittle and might break if it bumped against anything.
+000062|"Woof!" said Toto, and that meant he understood.
+000063|The Glass Cat was so proud of her pink brains that she ventured to come close to Dorothy, in order that the girl might "see 'em work."
+000064|This was really interesting, but when Dorothy patted the cat she found the glass cold and hard and unresponsive, so she decided at once that Bungle would never do for a pet.
+000065|"What do you know about the Crooked Magician who lives on the mountain?" asked Dorothy.
+000066|"He made me," replied the cat;
+000067|so I know all about him.
+000068|The Patchwork Girl is new -- three or four days old -- but I've lived with doctor Pipt for years;
+000069|and, though I don't much care for him, I will say that he has always refused to work magic for any of the people who come to his house.
+000070|He thinks there's no harm in doing magic things for his own family, and he made me out of glass because the meat cats drink too much milk.
+000071|He also made Scraps come to life so she could do the housework for his wife Margolotte.
+000072|"Then why did you both leave him?" asked Dorothy.
+000073|"I think you'd better let me explain that," interrupted the Shaggy Man, and then he told Dorothy all of Ojo's story and how Unc Nunkie and Margolotte had accidentally been turned to marble by the Liquid of Petrifaction.
+000074|Then he related how the boy had started out in search of the things needed to make the magic charm, which would restore the unfortunates to life, and how he had found the Woozy and taken him along because he could not pull the three hairs out of its tail.
+000075|Dorothy listened to all this with much interest, and thought that so far Ojo had acted very well.
+000076|But when the Shaggy Man told her of the Munchkin boy's arrest by the Soldier with the Green Whiskers, because he was accused of wilfully breaking a Law of Oz, the little girl was greatly shocked.
+000077|"What do you s'pose he's done?" she asked.
+000078|"I fear he has picked a six-leaved clover," answered the Shaggy Man, sadly.
+000079|I did not see him do it, and I warned him that to do so was against the Law;
+000080|but perhaps that is what he did, nevertheless.
+000081|"I'm sorry 'bout that," said Dorothy gravely, "for now there will be no one to help his poor uncle and Margolotte 'cept this Patchwork Girl, the Woozy and the Glass Cat."
+000082|"Don't mention it," said Scraps.
+000083|That's no affair of mine.
+000084|Margolotte and Unc Nunkie are perfect strangers to me, for the moment I came to life they came to marble.
+000085|"I see," remarked Dorothy with a sigh of regret;
+000086|the woman forgot to give you a heart.
+000087|"I'm glad she did," retorted the Patchwork Girl.
+000088|A heart must be a great annoyance to one.
+000089|It makes a person feel sad or sorry or devoted or sympathetic -- all of which sensations interfere with one's happiness.
+000090|"I have a heart," murmured the Glass Cat.
+000091|It's made of a ruby;
+000092|but I don't imagine I shall let it bother me about helping Unc Nunkie and Margolotte.
+000093|"That's a pretty hard heart of yours," said Dorothy.
+000094|And the Woozy, of course
+000095|"Why, as for me," observed the Woozy, who was reclining on the floor with his legs doubled under him, so that he looked much like a square box, "I have never seen those unfortunate people you are speaking of, and yet I am sorry for them, having at times been unfortunate myself."
+000096|When I was shut up in that forest I longed for some one to help me, and by and by Ojo came and did help me.
+000097|So I'm willing to help his uncle.
+000098|I'm only a stupid beast, Dorothy, but I can't help that, and if you'll tell me what to do to help Ojo and his uncle, I'll gladly do it.
+000099|Dorothy walked over and patted the Woozy on his square head.
+000100|"You're not pretty," she said, "but I like you."
+000101|What are you able to do;
+000102|anything 'special?
+000103|I can make my eyes flash fire -- real fire -- when I'm angry.
+000104|When anyone says: 'Krizzle-Kroo' to me I get angry, and then my eyes flash fire.
+000105|"I don't see as fireworks could help Ojo's uncle," remarked Dorothy.
+000106|Can you do anything else?
+000107|"I -- I thought I had a very terrifying growl," said the Woozy, with hesitation;
+000108|but perhaps I was mistaken.
+000109|"Yes," said the Shaggy Man, "you were certainly wrong about that."
+000110|Then he turned to Dorothy and added: "What will become of the Munchkin boy?"
+000111|"I don't know," she said, shaking her head thoughtfully.
+000112|Ozma will see him 'bout it, of course, and then she'll punish him.
+000113|But how, I don't know, 'cause no one ever has been punished in Oz since I knew anything about the place.
+000114|Too bad, Shaggy Man, isn't it?
+000115|While they were talking Scraps had been roaming around the room and looking at all the pretty things it contained.
+000116|She had carried Ojo's basket in her hand, until now, when she decided to see what was inside it.
+000117|She found the bread and cheese, which she had no use for, and the bundle of charms, which were curious but quite a mystery to her.
+000118|Then, turning these over, she came upon the six-leaved clover which the boy had plucked.
+000119|Scraps was quick-witted, and although she had no heart she recognized the fact that Ojo was her first friend.
+000120|She knew at once that because the boy had taken the clover he had been imprisoned, and she understood that Ojo had given her the basket so they would not find the clover in his possession and have proof of his crime.
+000121|So, turning her head to see that no one noticed her, she took the clover from the basket and dropped it into a golden vase that stood on Dorothy's table.
+000122|Then she came forward and said to Dorothy:
+000123|I wouldn't care to help Ojo's uncle, but I will help Ojo.
+000124|He did not break the Law -- no one can prove he did -- and that green-whiskered soldier had no right to arrest him.
+000125|"Ozma ordered the boy's arrest," said Dorothy, "and of course she knew what she was doing."
+000126|But if you can prove Ojo is innocent they will set him free at once.
+000127|They'll have to prove him guilty, won't they?'' asked Scraps.
+000128|I s'pose so.
+000129|"Well, they can't do that," declared the Patchwork Girl.
+000130|As it was nearly time for Dorothy to dine with Ozma, which she did every evening, she rang for a servant and ordered the Woozy taken to a nice room and given plenty of such food as he liked best.
+000131|"That's honey-bees," said the Woozy.
+000132|"You can't eat honey-bees, but you'll be given something just as nice," Dorothy told him.

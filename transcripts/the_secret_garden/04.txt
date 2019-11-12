@@ -1,0 +1,397 @@
+000001|When she opened her eyes in the morning it was because a young housemaid had come into her room to light the fire and was kneeling on the hearth-rug raking out the cinders noisily.
+000002|Mary lay and watched her for a few moments and then began to look about the room.
+000003|She had never seen a room at all like it and thought it curious and gloomy.
+000004|The walls were covered with tapestry with a forest scene embroidered on it.
+000005|There were fantastically dressed people under the trees and in the distance there was a glimpse of the turrets of a castle.
+000006|There were hunters and horses and dogs and ladies.
+000007|Mary felt as if she were in the forest with them.
+000008|Out of a deep window she could see a great climbing stretch of land which seemed to have no trees on it, and to look rather like an endless, dull, purplish sea.
+000009|"What is that?" she said, pointing out of the window.
+000010|Martha, the young housemaid, who had just risen to her feet, looked and pointed also.
+000011|"That there?" she said.
+000012|Yes.
+000013|"That's th' moor," with a good-natured grin.
+000014|Does tha' like it?
+000015|"No," answered Mary.
+000016|I hate it.
+000017|"That's because tha'rt not used to it," Martha said, going back to her hearth.
+000018|Tha' thinks it's too big an' bare now.
+000019|But tha' will like it.
+000020|"Do you?" inquired Mary.
+000021|"Aye, that I do," answered Martha, cheerfully polishing away at the grate.
+000022|I just love it.
+000023|It's none bare.
+000024|It's covered wi' growin' things as smells sweet.
+000025|It's fair lovely in spring an' summer when th' gorse an' broom an' heather's in flower.
+000026|It smells o' honey an' there's such a lot o' fresh air -- an' th' sky looks so high an' th' bees an' skylarks makes such a nice noise hummin' an' singin'.
+000027|Eh! I wouldn't live away from th' moor for anythin'.
+000028|Mary listened to her with a grave, puzzled expression.
+000029|The native servants she had been used to in India were not in the least like this.
+000030|They were obsequious and servile and did not presume to talk to their masters as if they were their equals.
+000031|They made salaams and called them "protector of the poor" and names of that sort.
+000032|Indian servants were commanded to do things, not asked.
+000033|It was not the custom to say "please" and "thank you" and Mary had always slapped her Ayah in the face when she was angry.
+000034|She wondered a little what this girl would do if one slapped her in the face.
+000035|She was a round, rosy, good-natured looking creature, but she had a sturdy way which made Mistress Mary wonder if she might not even slap back -- if the person who slapped her was only a little girl.
+000036|"You are a strange servant," she said from her pillows, rather haughtily.
+000037|Martha sat up on her heels, with her blacking-brush in her hand, and laughed, without seeming the least out of temper.
+000038|"Eh! I know that," she said.
+000039|If there was a grand Missus at Misselthwaite I should never have been even one of th' under housemaids.
+000040|I might have been let to be scullerymaid but I'd never have been let upstairs.
+000041|I'm too common an' I talk too much Yorkshire.
+000042|But this is a funny house for all it's so grand.
+000043|Seems like there's neither Master nor Mistress except mister Pitcher an' misess Medlock.
+000044|mister Craven, he won't be troubled about anythin' when he's here, an' he's nearly always away.
+000045|misess Medlock gave me th' place out o' kindness.
+000046|She told me she could never have done it if Misselthwaite had been like other big houses.
+000047|Are you going to be my servant?
+000048|Mary asked, still in her imperious little Indian way.
+000049|Martha began to rub her grate again.
+000050|"I'm misess Medlock's servant," she said stoutly.
+000051|An' she's mister Craven's -- but I'm to do the housemaid's work up here an' wait on you a bit.
+000052|But you won't need much waitin' on.
+000053|"Who is going to dress me?" demanded Mary.
+000054|Martha sat up on her heels again and stared.
+000055|She spoke in broad Yorkshire in her amazement.
+000056|"Canna' tha' dress thysen!" she said.
+000057|What do you mean?
+000058|"I don't understand your language," said Mary.
+000059|"Eh! I forgot," Martha said.
+000060|misess Medlock told me I'd have to be careful or you wouldn't know what I was sayin'.
+000061|I mean can't you put on your own clothes?
+000062|"No," answered Mary, quite indignantly.
+000063|I never did in my life.
+000064|My Ayah dressed me, of course.
+000065|"Well," said Martha, evidently not in the least aware that she was impudent, "it's time tha' should learn."
+000066|Tha' cannot begin younger.
+000067|It'll do thee good to wait on thysen a bit.
+000068|My mother always said she couldn't see why grand people's children didn't turn out fair fools -- what with nurses an' bein' washed an' dressed an' took out to walk as if they was puppies!
+000069|"It is different in India," said Mistress Mary disdainfully.
+000070|She could scarcely stand this.
+000071|But Martha was not at all crushed.
+000072|"Eh! I can see it's different," she answered almost sympathetically.
+000073|I dare say it's because there's such a lot o' blacks there instead o' respectable white people.
+000074|When I heard you was comin' from India I thought you was a black too.
+000075|Mary sat up in bed furious.
+000076|"What!" she said.
+000077|What!
+000078|You thought I was a native.
+000079|You -- you daughter of a pig!
+000080|Martha stared and looked hot.
+000081|"Who are you callin' names?" she said.
+000082|You needn't be so vexed.
+000083|That's not th' way for a young lady to talk.
+000084|I've nothin' against th' blacks.
+000085|When you read about 'em in tracts they're always very religious.
+000086|You always read as a black's a man an' a brother.
+000087|I've never seen a black an' I was fair pleased to think I was goin' to see one close.
+000088|When I come in to light your fire this mornin' I crep' up to your bed an' pulled th' cover back careful to look at you.
+000089|"An' there you was," disappointedly, "no more black than me -- for all you're so yeller."
+000090|Mary did not even try to control her rage and humiliation.
+000091|You thought I was a native!
+000092|You dared!
+000093|You don't know anything about natives!
+000094|They are not people -- they're servants who must salaam to you.
+000095|You know nothing about India.
+000096|You know nothing about anything!
+000097|She was in such a rage and felt so helpless before the girl's simple stare, and somehow she suddenly felt so horribly lonely and far away from everything she understood and which understood her, that she threw herself face downward on the pillows and burst into passionate sobbing.
+000098|She sobbed so unrestrainedly that good-natured Yorkshire Martha was a little frightened and quite sorry for her.
+000099|She went to the bed and bent over her.
+000100|"Eh! you mustn't cry like that there!" she begged.
+000101|You mustn't for sure.
+000102|I didn't know you'd be vexed.
+000103|I don't know anythin' about anythin' -- just like you said.
+000104|I beg your pardon, Miss.
+000105|Do stop cryin'.
+000106|There was something comforting and really friendly in her queer Yorkshire speech and sturdy way which had a good effect on Mary.
+000107|She gradually ceased crying and became quiet.
+000108|Martha looked relieved.
+000109|"It's time for thee to get up now," she said.
+000110|misess Medlock said I was to carry tha' breakfast an' tea an' dinner into th' room next to this.
+000111|It's been made into a nursery for thee.
+000112|I'll help thee on with thy clothes if tha'll get out o' bed.
+000113|If th' buttons are at th' back tha' cannot button them up tha'self.
+000114|When Mary at last decided to get up, the clothes Martha took from the wardrobe were not the ones she had worn when she arrived the night before with misess Medlock.
+000115|"Those are not mine," she said.
+000116|Mine are black.
+000117|She looked the thick white wool coat and dress over, and added with cool approval:
+000118|Those are nicer than mine.
+000119|"These are th' ones tha' must put on," Martha answered.
+000120|mister Craven ordered misess Medlock to get 'em in London.
+000121|He said 'I won't have a child dressed in black wanderin' about like a lost soul,' he said.
+000122|'It'd make the place sadder than it is.
+000123|Put color on her.' Mother she said she knew what he meant.
+000124|Mother always knows what a body means.
+000125|She doesn't hold with black hersel'.
+000126|"I hate black things," said Mary.
+000127|The dressing process was one which taught them both something.
+000128|Martha had "buttoned up" her little sisters and brothers but she had never seen a child who stood still and waited for another person to do things for her as if she had neither hands nor feet of her own.
+000129|"Why doesn't tha' put on tha' own shoes?" she said when Mary quietly held out her foot.
+000130|"My Ayah did it," answered Mary, staring.
+000131|It was the custom.
+000132|She said that very often -- "It was the custom."
+000133|The native servants were always saying it.
+000134|If one told them to do a thing their ancestors had not done for a thousand years they gazed at one mildly and said, "It is not the custom" and one knew that was the end of the matter.
+000135|It had not been the custom that Mistress Mary should do anything but stand and allow herself to be dressed like a doll, but before she was ready for breakfast she began to suspect that her life at Misselthwaite Manor would end by teaching her a number of things quite new to her -- things such as putting on her own shoes and stockings, and picking up things she let fall.
+000136|If Martha had been a well-trained fine young lady's maid she would have been more subservient and respectful and would have known that it was her business to brush hair, and button boots, and pick things up and lay them away.
+000137|She was, however, only an untrained Yorkshire rustic who had been brought up in a moorland cottage with a swarm of little brothers and sisters who had never dreamed of doing anything but waiting on themselves and on the younger ones who were either babies in arms or just learning to totter about and tumble over things.
+000138|If Mary Lennox had been a child who was ready to be amused she would perhaps have laughed at Martha's readiness to talk, but Mary only listened to her coldly and wondered at her freedom of manner.
+000139|At first she was not at all interested, but gradually, as the girl rattled on in her good-tempered, homely way, Mary began to notice what she was saying.
+000140|"Eh! you should see 'em all," she said.
+000141|There's twelve of us an' my father only gets sixteen shilling a week.
+000142|I can tell you my mother's put to it to get porridge for 'em all.
+000143|They tumble about on th' moor an' play there all day an' mother says th' air of th' moor fattens 'em.
+000144|She says she believes they eat th' grass same as th' wild ponies do.
+000145|Our Dickon, he's twelve years old and he's got a young pony he calls his own.
+000146|"Where did he get it?" asked Mary.
+000147|He found it on th' moor with its mother when it was a little one an' he began to make friends with it an' give it bits o' bread an' pluck young grass for it.
+000148|And it got to like him so it follows him about an' it lets him get on its back.
+000149|Dickon's a kind lad an' animals likes him.
+000150|Mary had never possessed an animal pet of her own and had always thought she should like one.
+000151|So she began to feel a slight interest in Dickon, and as she had never before been interested in anyone but herself, it was the dawning of a healthy sentiment.
+000152|When she went into the room which had been made into a nursery for her, she found that it was rather like the one she had slept in.
+000153|It was not a child's room, but a grown-up person's room, with gloomy old pictures on the walls and heavy old oak chairs.
+000154|A table in the center was set with a good substantial breakfast.
+000155|But she had always had a very small appetite, and she looked with something more than indifference at the first plate Martha set before her.
+000156|"I don't want it," she said.
+000157|Tha' doesn't want thy porridge!
+000158|Martha exclaimed incredulously.
+000159|No.
+000160|Tha' doesn't know how good it is.
+000161|Put a bit o' treacle on it or a bit o' sugar.
+000162|"I don't want it," repeated Mary.
+000163|"Eh!" said Martha.
+000164|I can't abide to see good victuals go to waste.
+000165|If our children was at this table they'd clean it bare in five minutes.
+000166|"Why?" said Mary coldly.
+000167|"Why!" echoed Martha.
+000168|Because they scarce ever had their stomachs full in their lives.
+000169|They're as hungry as young hawks an' foxes.
+000170|"I don't know what it is to be hungry," said Mary, with the indifference of ignorance.
+000171|Martha looked indignant.
+000172|Well, it would do thee good to try it.
+000173|"I can see that plain enough," she said outspokenly.
+000174|I've no patience with folk as sits an' just stares at good bread an' meat.
+000175|My word!
+000176|don't I wish Dickon and Phil an' Jane an' th' rest of 'em had what's here under their pinafores.
+000177|"Why don't you take it to them?" suggested Mary.
+000178|"It's not mine," answered Martha stoutly.
+000179|An' this isn't my day out.
+000180|I get my day out once a month same as th' rest.
+000181|Then I go home an' clean up for mother an' give her a day's rest.
+000182|Mary drank some tea and ate a little toast and some marmalade.
+000183|"You wrap up warm an' run out an' play you," said Martha.
+000184|It'll do you good and give you some stomach for your meat.
+000185|Mary went to the window.
+000186|There were gardens and paths and big trees, but everything looked dull and wintry.
+000187|Out?
+000188|Why should I go out on a day like this?
+000189|Well, if tha' doesn't go out tha'lt have to stay in, an' what has tha' got to do?
+000190|Mary glanced about her.
+000191|There was nothing to do.
+000192|When misess Medlock had prepared the nursery she had not thought of amusement.
+000193|Perhaps it would be better to go and see what the gardens were like.
+000194|"Who will go with me?" she inquired.
+000195|Martha stared.
+000196|"You'll go by yourself," she answered.
+000197|You'll have to learn to play like other children does when they haven't got sisters and brothers.
+000198|Our Dickon goes off on th' moor by himself an' plays for hours.
+000199|That's how he made friends with th' pony.
+000200|He's got sheep on th' moor that knows him, an' birds as comes an' eats out of his hand.
+000201|However little there is to eat, he always saves a bit o' his bread to coax his pets.
+000202|It was really this mention of Dickon which made Mary decide to go out, though she was not aware of it.
+000203|There would be, birds outside though there would not be ponies or sheep.
+000204|They would be different from the birds in India and it might amuse her to look at them.
+000205|Martha found her coat and hat for her and a pair of stout little boots and she showed her her way downstairs.
+000206|"If tha' goes round that way tha'll come to th' gardens," she said, pointing to a gate in a wall of shrubbery.
+000207|There's lots o' flowers in summer-time, but there's nothin' bloomin' now.
+000208|She seemed to hesitate a second before she added, "One of th' gardens is locked up."
+000209|No one has been in it for ten years.
+000210|"Why?" asked Mary in spite of herself.
+000211|Here was another locked door added to the hundred in the strange house.
+000212|mister Craven had it shut when his wife died so sudden.
+000213|He won't let no one go inside.
+000214|It was her garden.
+000215|He locked th' door an' dug a hole and buried th' key.
+000216|There's misess Medlock's bell ringing -- I must run.
+000217|After she was gone Mary turned down the walk which led to the door in the shrubbery.
+000218|She could not help thinking about the garden which no one had been into for ten years.
+000219|She wondered what it would look like and whether there were any flowers still alive in it.
+000220|When she had passed through the shrubbery gate she found herself in great gardens, with wide lawns and winding walks with clipped borders.
+000221|There were trees, and flower-beds, and evergreens clipped into strange shapes, and a large pool with an old gray fountain in its midst.
+000222|But the flower-beds were bare and wintry and the fountain was not playing.
+000223|This was not the garden which was shut up.
+000224|How could a garden be shut up?
+000225|You could always walk into a garden.
+000226|She was just thinking this when she saw that, at the end of the path she was following, there seemed to be a long wall, with ivy growing over it.
+000227|She was not familiar enough with England to know that she was coming upon the kitchen-gardens where the vegetables and fruit were growing.
+000228|She went toward the wall and found that there was a green door in the ivy, and that it stood open.
+000229|This was not the closed garden, evidently, and she could go into it.
+000230|She went through the door and found that it was a garden with walls all round it and that it was only one of several walled gardens which seemed to open into one another.
+000231|She saw another open green door, revealing bushes and pathways between beds containing winter vegetables.
+000232|Fruit-trees were trained flat against the wall, and over some of the beds there were glass frames.
+000233|The place was bare and ugly enough, Mary thought, as she stood and stared about her.
+000234|It might be nicer in summer when things were green, but there was nothing pretty about it now.
+000235|Presently an old man with a spade over his shoulder walked through the door leading from the second garden.
+000236|He looked startled when he saw Mary, and then touched his cap.
+000237|He had a surly old face, and did not seem at all pleased to see her -- but then she was displeased with his garden and wore her "quite contrary" expression, and certainly did not seem at all pleased to see him.
+000238|"What is this place?" she asked.
+000239|"One o' th' kitchen-gardens," he answered.
+000240|"What is that?" said Mary, pointing through the other green door.
+000241|"Another of 'em," shortly.
+000242|There's another on t'other side o' th' wall an' there's th' orchard t'other side o' that.
+000243|"Can I go in them?" asked Mary.
+000244|If tha' likes.
+000245|But there's nowt to see.
+000246|Mary made no response.
+000247|She went down the path and through the second green door.
+000248|There, she found more walls and winter vegetables and glass frames, but in the second wall there was another green door and it was not open.
+000249|Perhaps it led into the garden which no one had seen for ten years.
+000250|As she was not at all a timid child and always did what she wanted to do, Mary went to the green door and turned the handle.
+000251|She hoped the door would not open because she wanted to be sure she had found the mysterious garden -- but it did open quite easily and she walked through it and found herself in an orchard.
+000252|There were walls all round it also and trees trained against them, and there were bare fruit-trees growing in the winter-browned grass -- but there was no green door to be seen anywhere.
+000253|Mary looked for it, and yet when she had entered the upper end of the garden she had noticed that the wall did not seem to end with the orchard but to extend beyond it as if it enclosed a place at the other side.
+000254|She could see the tops of trees above the wall, and when she stood still she saw a bird with a bright red breast sitting on the topmost branch of one of them, and suddenly he burst into his winter song -- almost as if he had caught sight of her and was calling to her.
+000255|She stopped and listened to him and somehow his cheerful, friendly little whistle gave her a pleased feeling -- even a disagreeable little girl may be lonely, and the big closed house and big bare moor and big bare gardens had made this one feel as if there was no one left in the world but herself.
+000256|If she had been an affectionate child, who had been used to being loved, she would have broken her heart, but even though she was "Mistress Mary Quite Contrary" she was desolate, and the bright-breasted little bird brought a look into her sour little face which was almost a smile.
+000257|She listened to him until he flew away.
+000258|He was not like an Indian bird and she liked him and wondered if she should ever see him again.
+000259|Perhaps he lived in the mysterious garden and knew all about it.
+000260|Perhaps it was because she had nothing whatever to do that she thought so much of the deserted garden.
+000261|She was curious about it and wanted to see what it was like.
+000262|Why had mister Archibald Craven buried the key?
+000263|If he had liked his wife so much why did he hate her garden?
+000264|She wondered if she should ever see him, but she knew that if she did she should not like him, and he would not like her, and that she should only stand and stare at him and say nothing, though she should be wanting dreadfully to ask him why he had done such a queer thing.
+000265|"People never like me and I never like people," she thought.
+000266|And I never can talk as the Crawford children could.
+000267|They were always talking and laughing and making noises.
+000268|She thought of the robin and of the way he seemed to sing his song at her, and as she remembered the tree-top he perched on she stopped rather suddenly on the path.
+000269|"I believe that tree was in the secret garden -- I feel sure it was," she said.
+000270|There was a wall round the place and there was no door.
+000271|She walked back into the first kitchen-garden she had entered and found the old man digging there.
+000272|She went and stood beside him and watched him a few moments in her cold little way.
+000273|He took no notice of her and so at last she spoke to him.
+000274|"I have been into the other gardens," she said.
+000275|"There was nothin' to prevent thee," he answered crustily.
+000276|I went into the orchard.
+000277|"There was no dog at th' door to bite thee," he answered.
+000278|"There was no door there into the other garden," said Mary.
+000279|"What garden?" he said in a rough voice, stopping his digging for a moment.
+000280|"The one on the other side of the wall," answered Mistress Mary.
+000281|There are trees there -- I saw the tops of them.
+000282|A bird with a red breast was sitting on one of them and he sang.
+000283|To her surprise the surly old weather-beaten face actually changed its expression.
+000284|A slow smile spread over it and the gardener looked quite different.
+000285|It made her think that it was curious how much nicer a person looked when he smiled.
+000286|She had not thought of it before.
+000287|He turned about to the orchard side of his garden and began to whistle -- a low soft whistle.
+000288|She could not understand how such a surly man could make such a coaxing sound.
+000289|Almost the next moment a wonderful thing happened.
+000290|She heard a soft little rushing flight through the air -- and it was the bird with the red breast flying to them, and he actually alighted on the big clod of earth quite near to the gardener's foot.
+000291|"Here he is," chuckled the old man, and then he spoke to the bird as if he were speaking to a child.
+000292|"Where has tha' been, tha' cheeky little beggar?" he said.
+000293|I've not seen thee before today.
+000294|Has tha begun tha' courtin' this early in th' season?
+000295|Tha'rt too forrad.
+000296|The bird put his tiny head on one side and looked up at him with his soft bright eye which was like a black dewdrop.
+000297|He seemed quite familiar and not the least afraid.
+000298|He hopped about and pecked the earth briskly, looking for seeds and insects.
+000299|It actually gave Mary a queer feeling in her heart, because he was so pretty and cheerful and seemed so like a person.
+000300|He had a tiny plump body and a delicate beak, and slender delicate legs.
+000301|"Will he always come when you call him?" she asked almost in a whisper.
+000302|Aye, that he will.
+000303|I've knowed him ever since he was a fledgling.
+000304|He come out of th' nest in th' other garden an' when first he flew over th' wall he was too weak to fly back for a few days an' we got friendly.
+000305|When he went over th' wall again th' rest of th' brood was gone an' he was lonely an' he come back to me.
+000306|"What kind of a bird is he?" Mary asked.
+000307|Doesn't tha' know?
+000308|He's a robin redbreast an' they're th' friendliest, curiousest birds alive.
+000309|They're almost as friendly as dogs -- if you know how to get on with 'em.
+000310|Watch him peckin' about there an' lookin' round at us now an' again.
+000311|He knows we're talkin' about him.
+000312|It was the queerest thing in the world to see the old fellow.
+000313|He looked at the plump little scarlet-waistcoated bird as if he were both proud and fond of him.
+000314|"He's a conceited one," he chuckled.
+000315|He likes to hear folk talk about him.
+000316|An' curious -- bless me, there never was his like for curiosity an' meddlin'.
+000317|He's always comin' to see what I'm plantin'.
+000318|He knows all th' things Mester Craven never troubles hissel' to find out.
+000319|He's th' head gardener, he is.
+000320|The robin hopped about busily pecking the soil and now and then stopped and looked at them a little.
+000321|Mary thought his black dewdrop eyes gazed at her with great curiosity.
+000322|It really seemed as if he were finding out all about her.
+000323|The queer feeling in her heart increased.
+000324|"Where did the rest of the brood fly to?" she asked.
+000325|There's no knowin'.
+000326|The old ones turn 'em out o' their nest an' make 'em fly an' they're scattered before you know it.
+000327|This one was a knowin' one an' he knew he was lonely.
+000328|Mistress Mary went a step nearer to the robin and looked at him very hard.
+000329|"I'm lonely," she said.
+000330|She had not known before that this was one of the things which made her feel sour and cross.
+000331|She seemed to find it out when the robin looked at her and she looked at the robin.
+000332|The old gardener pushed his cap back on his bald head and stared at her a minute.
+000333|"Art tha' th' little wench from India?" he asked.
+000334|Mary nodded.
+000335|Then no wonder tha'rt lonely.
+000336|"Tha'lt be lonlier before tha's done," he said.
+000337|He began to dig again, driving his spade deep into the rich black garden soil while the robin hopped about very busily employed.
+000338|"What is your name?" Mary inquired.
+000339|He stood up to answer her.
+000340|"Ben Weatherstaff," he answered, and then he added with a surly chuckle, "I'm lonely mysel' except when he's with me," and he jerked his thumb toward the robin.
+000341|He's th' only friend I've got.
+000342|"I have no friends at all," said Mary.
+000343|I never had.
+000344|My Ayah didn't like me and I never played with anyone.
+000345|It is a Yorkshire habit to say what you think with blunt frankness, and old Ben Weatherstaff was a Yorkshire moor man.
+000346|"Tha' an' me are a good bit alike," he said.
+000347|We was wove out of th' same cloth.
+000348|We're neither of us good lookin' an' we're both of us as sour as we look.
+000349|We've got the same nasty tempers, both of us, I'll warrant.
+000350|This was plain speaking, and Mary Lennox had never heard the truth about herself in her life.
+000351|Native servants always salaamed and submitted to you, whatever you did.
+000352|She had never thought much about her looks, but she wondered if she was as unattractive as Ben Weatherstaff and she also wondered if she looked as sour as he had looked before the robin came.
+000353|She actually began to wonder also if she was "nasty tempered."
+000354|She felt uncomfortable.
+000355|Suddenly a clear rippling little sound broke out near her and she turned round.
+000356|She was standing a few feet from a young apple-tree and the robin had flown on to one of its branches and had burst out into a scrap of a song.
+000357|Ben Weatherstaff laughed outright.
+000358|"What did he do that for?" asked Mary.
+000359|"He's made up his mind to make friends with thee," replied Ben.
+000360|Dang me if he hasn't took a fancy to thee.
+000361|"To me?" said Mary, and she moved toward the little tree softly and looked up.
+000362|"Would you make friends with me?" she said to the robin just as if she was speaking to a person.
+000363|"Would you?" And she did not say it either in her hard little voice or in her imperious Indian voice, but in a tone so soft and eager and coaxing that Ben Weatherstaff was as surprised as she had been when she heard him whistle.
+000364|"Why," he cried out, "tha' said that as nice an' human as if tha' was a real child instead of a sharp old woman."
+000365|Tha' said it almost like Dickon talks to his wild things on th' moor.
+000366|Do you know Dickon?
+000367|Mary asked, turning round rather in a hurry.
+000368|Everybody knows him.
+000369|Dickon's wanderin' about everywhere.
+000370|Th' very blackberries an' heather-bells knows him.
+000371|I warrant th' foxes shows him where their cubs lies an' th' skylarks doesn't hide their nests from him.
+000372|Mary would have liked to ask some more questions.
+000373|She was almost as curious about Dickon as she was about the deserted garden.
+000374|But just that moment the robin, who had ended his song, gave a little shake of his wings, spread them and flew away.
+000375|He had made his visit and had other things to do.
+000376|He has flown over the wall!
+000377|Mary cried out, watching him.
+000378|He has flown into the orchard -- he has flown across the other wall -- into the garden where there is no door!
+000379|"He lives there," said old Ben.
+000380|He came out o' th' egg there.
+000381|If he's courtin', he's makin' up to some young madam of a robin that lives among th' old rose-trees there.
+000382|"Rose-trees," said Mary.
+000383|Are there rose-trees?
+000384|Ben Weatherstaff took up his spade again and began to dig.
+000385|"There was ten year' ago," he mumbled.
+000386|"I should like to see them," said Mary.
+000387|Where is the green door?
+000388|There must be a door somewhere.
+000389|Ben drove his spade deep and looked as uncompanionable as he had looked when she first saw him.
+000390|"There was ten year' ago, but there isn't now," he said.
+000391|"No door!" cried Mary.
+000392|There must be.
+000393|None as anyone can find, an' none as is anyone's business.
+000394|Don't you be a meddlesome wench an' poke your nose where it's no cause to go.
+000395|Here, I must go on with my work.
+000396|Get you gone an' play you.
+000397|I've no more time.

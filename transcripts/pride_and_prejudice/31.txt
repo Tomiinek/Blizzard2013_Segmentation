@@ -1,0 +1,96 @@
+000001|Colonel Fitzwilliam's manners were very much admired at the Parsonage, and the ladies all felt that he must add considerably to the pleasures of their engagements at Rosings.
+000002|It was some days, however, before they received any invitation thither -- for while there were visitors in the house, they could not be necessary;
+000003|and it was not till Easter-day, almost a week after the gentlemen's arrival, that they were honoured by such an attention, and then they were merely asked on leaving church to come there in the evening.
+000004|For the last week they had seen very little of Lady Catherine or her daughter.
+000005|Colonel Fitzwilliam had called at the Parsonage more than once during the time, but mister Darcy they had seen only at church.
+000006|The invitation was accepted of course, and at a proper hour they joined the party in Lady Catherine's drawing-room.
+000007|Her ladyship received them civilly, but it was plain that their company was by no means so acceptable as when she could get nobody else;
+000008|and she was, in fact, almost engrossed by her nephews, speaking to them, especially to Darcy, much more than to any other person in the room.
+000009|Colonel Fitzwilliam seemed really glad to see them;
+000010|anything was a welcome relief to him at Rosings;
+000011|and misess Collins's pretty friend had moreover caught his fancy very much.
+000012|He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Elizabeth had never been half so well entertained in that room before;
+000013|and they conversed with so much spirit and flow, as to draw the attention of Lady Catherine herself, as well as of mister Darcy.
+000014|His eyes had been soon and repeatedly turned towards them with a look of curiosity;
+000015|and that her ladyship, after a while, shared the feeling, was more openly acknowledged, for she did not scruple to call out:
+000016|What is that you are saying, Fitzwilliam?
+000017|What is it you are talking of?
+000018|What are you telling Miss Bennet?
+000019|Let me hear what it is.
+000020|"We are speaking of music, madam," said he, when no longer able to avoid a reply.
+000021|Of music!
+000022|Then pray speak aloud.
+000023|It is of all subjects my delight.
+000024|I must have my share in the conversation if you are speaking of music.
+000025|There are few people in England, I suppose, who have more true enjoyment of music than myself, or a better natural taste.
+000026|If I had ever learnt, I should have been a great proficient.
+000027|And so would Anne, if her health had allowed her to apply.
+000028|I am confident that she would have performed delightfully.
+000029|How does Georgiana get on, Darcy?
+000030|mister Darcy spoke with affectionate praise of his sister's proficiency.
+000031|"I am very glad to hear such a good account of her," said Lady Catherine;
+000032|and pray tell her from me, that she cannot expect to excel if she does not practice a good deal.
+000033|"I assure you, madam," he replied, "that she does not need such advice."
+000034|She practises very constantly.
+000035|So much the better.
+000036|It cannot be done too much;
+000037|and when I next write to her, I shall charge her not to neglect it on any account.
+000038|I often tell young ladies that no excellence in music is to be acquired without constant practice.
+000039|I have told Miss Bennet several times, that she will never play really well unless she practises more;
+000040|and though misess Collins has no instrument, she is very welcome, as I have often told her, to come to Rosings every day, and play on the pianoforte in misess Jenkinson's room.
+000041|She would be in nobody's way, you know, in that part of the house.
+000042|mister Darcy looked a little ashamed of his aunt's ill-breeding, and made no answer.
+000043|When coffee was over, Colonel Fitzwilliam reminded Elizabeth of having promised to play to him;
+000044|and she sat down directly to the instrument.
+000045|He drew a chair near her.
+000046|Lady Catherine listened to half a song, and then talked, as before, to her other nephew;
+000047|till the latter walked away from her, and making with his usual deliberation towards the pianoforte stationed himself so as to command a full view of the fair performer's countenance.
+000048|Elizabeth saw what he was doing, and at the first convenient pause, turned to him with an arch smile, and said:
+000049|You mean to frighten me, mister Darcy, by coming in all this state to hear me?
+000050|I will not be alarmed though your sister does play so well.
+000051|There is a stubbornness about me that never can bear to be frightened at the will of others.
+000052|My courage always rises at every attempt to intimidate me.
+000053|"I shall not say you are mistaken," he replied, "because you could not really believe me to entertain any design of alarming you;"
+000054|and I have had the pleasure of your acquaintance long enough to know that you find great enjoyment in occasionally professing opinions which in fact are not your own.
+000055|Elizabeth laughed heartily at this picture of herself, and said to Colonel Fitzwilliam, "Your cousin will give you a very pretty notion of me, and teach you not to believe a word I say."
+000056|I am particularly unlucky in meeting with a person so able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit.
+000057|Indeed, mister Darcy, it is very ungenerous in you to mention all that you knew to my disadvantage in Hertfordshire -- and, give me leave to say, very impolitic too -- for it is provoking me to retaliate, and such things may come out as will shock your relations to hear.
+000058|"I am not afraid of you," said he, smilingly.
+000059|"Pray let me hear what you have to accuse him of," cried Colonel Fitzwilliam.
+000060|I should like to know how he behaves among strangers.
+000061|You shall hear then -- but prepare yourself for something very dreadful.
+000062|The first time of my ever seeing him in Hertfordshire, you must know, was at a ball -- and at this ball, what do you think he did?
+000063|He danced only four dances, though gentlemen were scarce;
+000064|and, to my certain knowledge, more than one young lady was sitting down in want of a partner.
+000065|mister Darcy, you cannot deny the fact.
+000066|I had not at that time the honour of knowing any lady in the assembly beyond my own party.
+000067|True;
+000068|and nobody can ever be introduced in a ball-room.
+000069|Well, Colonel Fitzwilliam, what do I play next?
+000070|My fingers wait your orders.
+000071|"Perhaps," said Darcy, "I should have judged better, had I sought an introduction;"
+000072|but I am ill-qualified to recommend myself to strangers.
+000073|"Shall we ask your cousin the reason of this?" said Elizabeth, still addressing Colonel Fitzwilliam.
+000074|Shall we ask him why a man of sense and education, and who has lived in the world, is ill qualified to recommend himself to strangers?
+000075|"I can answer your question," said Fitzwilliam, "without applying to him."
+000076|It is because he will not give himself the trouble.
+000077|"I certainly have not the talent which some people possess," said Darcy, "of conversing easily with those I have never seen before."
+000078|I cannot catch their tone of conversation, or appear interested in their concerns, as I often see done.
+000079|"My fingers," said Elizabeth, "do not move over this instrument in the masterly manner which I see so many women's do."
+000080|They have not the same force or rapidity, and do not produce the same expression.
+000081|But then I have always supposed it to be my own fault -- because I will not take the trouble of practising.
+000082|It is not that I do not believe my fingers as capable as any other woman's of superior execution.
+000083|Darcy smiled and said, "You are perfectly right."
+000084|You have employed your time much better.
+000085|No one admitted to the privilege of hearing you can think anything wanting.
+000086|We neither of us perform to strangers.
+000087|Here they were interrupted by Lady Catherine, who called out to know what they were talking of.
+000088|Elizabeth immediately began playing again.
+000089|Lady Catherine approached, and, after listening for a few minutes, said to Darcy:
+000090|Miss Bennet would not play at all amiss if she practised more, and could have the advantage of a London master.
+000091|She has a very good notion of fingering, though her taste is not equal to Anne's.
+000092|Anne would have been a delightful performer, had her health allowed her to learn.
+000093|Elizabeth looked at Darcy to see how cordially he assented to his cousin's praise;
+000094|but neither at that moment nor at any other could she discern any symptom of love;
+000095|and from the whole of his behaviour to Miss de Bourgh she derived this comfort for Miss Bingley, that he might have been just as likely to marry her, had she been his relation.
+000096|Lady Catherine continued her remarks on Elizabeth's performance, mixing with them many instructions on execution and taste.

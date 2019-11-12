@@ -1,0 +1,92 @@
+000001|Elinor saw, with great uneasiness the low spirits of her friend.
+000002|His visit afforded her but a very partial satisfaction, while his own enjoyment in it appeared so imperfect.
+000003|It was evident that he was unhappy;
+000004|she wished it were equally evident that he still distinguished her by the same affection which once she had felt no doubt of inspiring;
+000005|but hitherto the continuance of his preference seemed very uncertain;
+000006|and the reservedness of his manner towards her contradicted one moment what a more animated look had intimated the preceding one.
+000007|He joined her and Marianne in the breakfast-room the next morning before the others were down;
+000008|and Marianne, who was always eager to promote their happiness as far as she could, soon left them to themselves.
+000009|But before she was half way upstairs she heard the parlour door open, and, turning round, was astonished to see Edward himself come out.
+000010|"I am going into the village to see my horses," said he, "as you are not yet ready for breakfast;"
+000011|I shall be back again presently.
+000012|Edward returned to them with fresh admiration of the surrounding country;
+000013|in his walk to the village, he had seen many parts of the valley to advantage;
+000014|and the village itself, in a much higher situation than the cottage, afforded a general view of the whole, which had exceedingly pleased him.
+000015|This was a subject which ensured Marianne's attention, and she was beginning to describe her own admiration of these scenes, and to question him more minutely on the objects that had particularly struck him, when Edward interrupted her by saying, "You must not enquire too far, Marianne -- remember I have no knowledge in the picturesque, and I shall offend you by my ignorance and want of taste if we come to particulars."
+000016|I shall call hills steep, which ought to be bold;
+000017|surfaces strange and uncouth, which ought to be irregular and rugged;
+000018|and distant objects out of sight, which ought only to be indistinct through the soft medium of a hazy atmosphere.
+000019|You must be satisfied with such admiration as I can honestly give.
+000020|I call it a very fine country -- the hills are steep, the woods seem full of fine timber, and the valley looks comfortable and snug -- with rich meadows and several neat farm houses scattered here and there.
+000021|It exactly answers my idea of a fine country, because it unites beauty with utility -- and I dare say it is a picturesque one too, because you admire it;
+000022|I can easily believe it to be full of rocks and promontories, grey moss and brush wood, but these are all lost on me.
+000023|I know nothing of the picturesque.
+000024|"I am afraid it is but too true," said Marianne;
+000025|but why should you boast of it?
+000026|"I suspect," said Elinor, "that to avoid one kind of affectation, Edward here falls into another."
+000027|Because he believes many people pretend to more admiration of the beauties of nature than they really feel, and is disgusted with such pretensions, he affects greater indifference and less discrimination in viewing them himself than he possesses.
+000028|He is fastidious and will have an affectation of his own.
+000029|"It is very true," said Marianne, "that admiration of landscape scenery is become a mere jargon."
+000030|Every body pretends to feel and tries to describe with the taste and elegance of him who first defined what picturesque beauty was.
+000031|I detest jargon of every kind, and sometimes I have kept my feelings to myself, because I could find no language to describe them in but what was worn and hackneyed out of all sense and meaning.
+000032|"I am convinced," said Edward, "that you really feel all the delight in a fine prospect which you profess to feel."
+000033|But, in return, your sister must allow me to feel no more than I profess.
+000034|I like a fine prospect, but not on picturesque principles.
+000035|I do not like crooked, twisted, blasted trees.
+000036|I admire them much more if they are tall, straight, and flourishing.
+000037|I do not like ruined, tattered cottages.
+000038|I am not fond of nettles or thistles, or heath blossoms.
+000039|I have more pleasure in a snug farm-house than a watch-tower -- and a troop of tidy, happy villages please me better than the finest banditti in the world.
+000040|Marianne looked with amazement at Edward, with compassion at her sister.
+000041|Elinor only laughed.
+000042|The subject was continued no farther;
+000043|and Marianne remained thoughtfully silent, till a new object suddenly engaged her attention.
+000044|She was sitting by Edward, and in taking his tea from misess Dashwood, his hand passed so directly before her, as to make a ring, with a plait of hair in the centre, very conspicuous on one of his fingers.
+000045|"I never saw you wear a ring before, Edward," she cried.
+000046|Is that Fanny's hair?
+000047|I remember her promising to give you some.
+000048|But I should have thought her hair had been darker.
+000049|Marianne spoke inconsiderately what she really felt -- but when she saw how much she had pained Edward, her own vexation at her want of thought could not be surpassed by his.
+000050|He coloured very deeply, and giving a momentary glance at Elinor, replied, "Yes; it is my sister's hair."
+000051|The setting always casts a different shade on it, you know.
+000052|Elinor had met his eye, and looked conscious likewise.
+000053|That the hair was her own, she instantaneously felt as well satisfied as Marianne;
+000054|the only difference in their conclusions was, that what Marianne considered as a free gift from her sister, Elinor was conscious must have been procured by some theft or contrivance unknown to herself.
+000055|She was not in a humour, however, to regard it as an affront, and affecting to take no notice of what passed, by instantly talking of something else, she internally resolved henceforward to catch every opportunity of eyeing the hair and of satisfying herself, beyond all doubt, that it was exactly the shade of her own.
+000056|Edward's embarrassment lasted some time, and it ended in an absence of mind still more settled.
+000057|He was particularly grave the whole morning.
+000058|Marianne severely censured herself for what she had said;
+000059|but her own forgiveness might have been more speedy, had she known how little offence it had given her sister.
+000060|Before the middle of the day, they were visited by Sir John and misess Jennings, who, having heard of the arrival of a gentleman at the cottage, came to take a survey of the guest.
+000061|With the assistance of his mother-in-law, Sir John was not long in discovering that the name of Ferrars began with an F.
+000062|and this prepared a future mine of raillery against the devoted Elinor, which nothing but the newness of their acquaintance with Edward could have prevented from being immediately sprung.
+000063|But, as it was, she only learned, from some very significant looks, how far their penetration, founded on Margaret's instructions, extended.
+000064|Sir John never came to the Dashwoods without either inviting them to dine at the park the next day, or to drink tea with them that evening.
+000065|On the present occasion, for the better entertainment of their visitor, towards whose amusement he felt himself bound to contribute, he wished to engage them for both.
+000066|"You must drink tea with us to night," said he, "for we shall be quite alone -- and tomorrow you must absolutely dine with us, for we shall be a large party."
+000067|misess Jennings enforced the necessity.
+000068|"And who knows but you may raise a dance," said she.
+000069|And that will tempt you, Miss Marianne.
+000070|"A dance!" cried Marianne.
+000071|Impossible!
+000072|Who is to dance?
+000073|Who! why yourselves, and the Careys, and Whitakers to be sure.
+000074|What! you thought nobody could dance because a certain person that shall be nameless is gone!
+000075|"I wish with all my soul," cried Sir John, "that Willoughby were among us again."
+000076|This, and Marianne's blushing, gave new suspicions to Edward.
+000077|"And who is Willoughby?" said he, in a low voice, to Miss Dashwood, by whom he was sitting.
+000078|She gave him a brief reply.
+000079|Marianne's countenance was more communicative.
+000080|Edward saw enough to comprehend, not only the meaning of others, but such of Marianne's expressions as had puzzled him before;
+000081|and when their visitors left them, he went immediately round her, and said, in a whisper, "I have been guessing."
+000082|Shall I tell you my guess?
+000083|What do you mean?
+000084|Shall I tell you.
+000085|Certainly.
+000086|Well then;
+000087|I guess that mister Willoughby hunts.
+000088|Marianne was surprised and confused, yet she could not help smiling at the quiet archness of his manner, and after a moment's silence, said,
+000089|Oh, Edward!
+000090|How can you?
+000091|But the time will come I hope...I am sure you will like him.
+000092|"I do not doubt it," replied he, rather astonished at her earnestness and warmth;

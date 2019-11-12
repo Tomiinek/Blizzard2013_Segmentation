@@ -1,0 +1,58 @@
+000001|Within a short walk of Longbourn lived a family with whom the Bennets were particularly intimate.
+000002|Sir William Lucas had been formerly in trade in Meryton, where he had made a tolerable fortune, and risen to the honour of knighthood by an address to the king during his mayoralty.
+000003|The distinction had perhaps been felt too strongly.
+000004|It had given him a disgust to his business, and to his residence in a small market town;
+000005|and, in quitting them both, he had removed with his family to a house about a mile from Meryton, denominated from that period Lucas Lodge, where he could think with pleasure of his own importance, and, unshackled by business, occupy himself solely in being civil to all the world.
+000006|For, though elated by his rank, it did not render him supercilious;
+000007|on the contrary, he was all attention to everybody.
+000008|By nature inoffensive, friendly, and obliging, his presentation at saint James's had made him courteous.
+000009|Lady Lucas was a very good kind of woman, not too clever to be a valuable neighbour to misess Bennet.
+000010|They had several children.
+000011|The eldest of them, a sensible, intelligent young woman, about twenty-seven, was Elizabeth's intimate friend.
+000012|That the Miss Lucases and the Miss Bennets should meet to talk over a ball was absolutely necessary;
+000013|and the morning after the assembly brought the former to Longbourn to hear and to communicate.
+000014|"You began the evening well, Charlotte," said misess Bennet with civil self-command to Miss Lucas.
+000015|You were mister Bingley's first choice.
+000016|Yes; but he seemed to like his second better.
+000017|Oh! you mean Jane, I suppose, because he danced with her twice.
+000018|To be sure that did seem as if he admired her -- indeed I rather believe he did -- I heard something about it -- but I hardly know what -- something about mister Robinson.
+000019|Perhaps you mean what I overheard between him and mister Robinson;
+000020|did not I mention it to you?
+000021|mister Robinson's asking him how he liked our Meryton assemblies, and whether he did not think there were a great many pretty women in the room, and which he thought the prettiest?
+000022|and his answering immediately to the last question: 'Oh!
+000023|the eldest Miss Bennet, beyond a doubt;
+000024|there cannot be two opinions on that point.'
+000025|Upon my word!
+000026|Well, that is very decided indeed -- that does seem as if -- but, however, it may all come to nothing, you know.
+000027|"My overhearings were more to the purpose than yours, Eliza," said Charlotte.
+000028|mister Darcy is not so well worth listening to as his friend, is he? -- poor Eliza! -- to be only just tolerable.
+000029|I beg you would not put it into Lizzy's head to be vexed by his ill-treatment, for he is such a disagreeable man, that it would be quite a misfortune to be liked by him.
+000030|misess Long told me last night that he sat close to her for half-an-hour without once opening his lips.
+000031|"Are you quite sure, ma'am? -- is not there a little mistake?" said Jane.
+000032|I certainly saw mister Darcy speaking to her.
+000033|Aye -- because she asked him at last how he liked Netherfield, and he could not help answering her;
+000034|but she said he seemed quite angry at being spoke to.
+000035|"Miss Bingley told me," said Jane, "that he never speaks much, unless among his intimate acquaintances."
+000036|With them he is remarkably agreeable.
+000037|I do not believe a word of it, my dear.
+000038|If he had been so very agreeable, he would have talked to misess Long.
+000039|But I can guess how it was;
+000040|everybody says that he is eat up with pride, and I dare say he had heard somehow that misess Long does not keep a carriage, and had come to the ball in a hack chaise.
+000041|"I do not mind his not talking to misess Long," said Miss Lucas, "but I wish he had danced with Eliza."
+000042|"Another time, Lizzy," said her mother, "I would not dance with him, if I were you."
+000043|I believe, ma'am, I may safely promise you never to dance with him.
+000044|"His pride," said Miss Lucas, "does not offend me so much as pride often does, because there is an excuse for it."
+000045|One cannot wonder that so very fine a young man, with family, fortune, everything in his favour, should think highly of himself.
+000046|If I may so express it, he has a right to be proud.
+000047|"That is very true," replied Elizabeth, "and I could easily forgive his pride, if he had not mortified mine."
+000048|"Pride," observed Mary, who piqued herself upon the solidity of her reflections, "is a very common failing, I believe."
+000049|By all that I have ever read, I am convinced that it is very common indeed;
+000050|that human nature is particularly prone to it, and that there are very few of us who do not cherish a feeling of self-complacency on the score of some quality or other, real or imaginary.
+000051|Vanity and pride are different things, though the words are often used synonymously.
+000052|A person may be proud without being vain.
+000053|Pride relates more to our opinion of ourselves, vanity to what we would have others think of us.
+000054|"If I were as rich as mister Darcy," cried a young Lucas, who came with his sisters, "I should not care how proud I was."
+000055|I would keep a pack of foxhounds, and drink a bottle of wine a day.
+000056|"Then you would drink a great deal more than you ought," said misess Bennet;
+000057|and if I were to see you at it, I should take away your bottle directly.
+000058|The boy protested that she should not;

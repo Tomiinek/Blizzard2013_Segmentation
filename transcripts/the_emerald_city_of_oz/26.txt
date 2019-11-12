@@ -1,0 +1,143 @@
+000001|Ozma was in her rose garden picking a bouquet when the party arrived, and she greeted all her old and new friends as smilingly and sweetly as ever.
+000002|Dorothy's eyes were full of tears as she kissed the lovely Ruler of Oz, and she whispered to her:
+000003|Oh, Ozma, Ozma!
+000004|I'm so sorry!
+000005|Ozma seemed surprised.
+000006|"Sorry for what, Dorothy?" she asked.
+000007|"For all your trouble about the Nome King," was the reply.
+000008|Ozma laughed with genuine amusement.
+000009|"Why, that has not troubled me a bit, dear Princess," she replied.
+000010|Then, looking around at the sad faces of her friends, she added: "Have you all been worrying about this tunnel?"
+000011|"We have!" they exclaimed in a chorus.
+000012|"Well, perhaps it is more serious than I imagined," admitted the fair Ruler;
+000013|but I haven't given the matter much thought.
+000014|After dinner we will all meet together and talk it over.
+000015|So they went to their rooms and prepared for dinner, and Dorothy dressed herself in her prettiest gown and put on her coronet, for she thought that this might be the last time she would ever appear as a Princess of Oz.
+000016|The Scarecrow, the Tin Woodman and Jack Pumpkinhead all sat at the dinner table, although none of them was made so he could eat.
+000017|Usually they served to enliven the meal with their merry talk, but to-night all seemed strangely silent and uneasy.
+000018|As soon as the dinner was finished Ozma led the company to her own private room in which hung the Magic Picture.
+000019|When they had seated themselves the Scarecrow was the first to speak.
+000020|"Is the Nome King's tunnel finished, Ozma?" he asked.
+000021|"It was completed to-day," she replied.
+000022|They have built it right under my palace grounds, and it ends in front of the Forbidden Fountain.
+000023|Nothing but a crust of earth remains to separate our enemies from us, and when they march here, they will easily break through this crust and rush upon us.
+000024|"Who will assist the Nome King?" inquired the Scarecrow.
+000025|"The Whimsies, the Growleywogs and the Phanfasms," she replied.
+000026|I watched to-day in my Magic Picture the messengers whom the Nome King sent to all these people to summon them to assemble in his great caverns.
+000027|"Let us see what they are doing now," suggested the Tin Woodman.
+000028|So Ozma wished to see the Nome King's cavern, and at once the landscape faded from the Magic Picture and was replaced by the scene then being enacted in the jeweled cavern of King Roquat.
+000029|A wild and startling scene it was which the Oz people beheld.
+000030|Before the Nome King stood the Chief of the Whimsies and the Grand Gallipoot of the Growleywogs, surrounded by their most skillful generals.
+000031|Very fierce and powerful they looked, so that even the Nome King and General Guph, who stood beside his master, seemed a bit fearful in the presence of their allies.
+000032|Now a still more formidable creature entered the cavern.
+000033|It was the First and Foremost of the Phanfasms and he proudly sat down in King Roquat's own throne and demanded the right to lead his forces through the tunnel in advance of all the others.
+000034|The First and Foremost now appeared to all eyes in his hairy skin and the bear's head.
+000035|What his real form was even Roquat did not know.
+000036|Through the arches leading into the vast series of caverns that lay beyond the throne room of King Roquat could be seen ranks upon ranks of the invaders -- thousands of Phanfasms, Growleywogs and Whimsies standing in serried lines, while behind them were massed the thousands upon thousands of General Guph's own army of Nomes.
+000037|"Listen!" whispered Ozma.
+000038|I think we can hear what they are saying.
+000039|So they kept still and listened.
+000040|"Is all ready?" demanded the First and Foremost, haughtily.
+000041|"The tunnel is finally completed," replied General Guph.
+000042|"How long will it take us to march to the Emerald City?" asked the Grand Gallipoot of the Growleywogs.
+000043|"If we start at midnight," replied the Nome King, "we shall arrive at the Emerald City by daybreak."
+000044|Then, while all the Oz people are sleeping, we will capture them and make them our slaves.
+000045|After that we will destroy the city itself and march through the Land of Oz, burning and devastating as we go.
+000046|"Good!" cried the First and Foremost.
+000047|When we get through with Oz it will be a desert wilderness.
+000048|Ozma shall be my slave.
+000049|"She shall be my slave!" shouted the Grand Gallipoot, angrily.
+000050|"We'll decide that by and by," said King Roquat hastily.
+000051|Don't let us quarrel now, friends.
+000052|First let us conquer Oz, and then we will divide the spoils of war in a satisfactory manner.
+000053|The First and Foremost smiled wickedly;
+000054|but he only said:
+000055|I and my Phanfasms go first, for nothing on earth can oppose our power.
+000056|They all agreed to that, knowing the Phanfasms to be the mightiest of the combined forces.
+000057|King Roquat now invited them to attend a banquet he had prepared, where they might occupy themselves in eating and drinking until midnight arrived.
+000058|As they had now seen and heard all of the plot against them that they cared to, Ozma allowed her Magic Picture to fade away.
+000059|Then she turned to her friends and said:
+000060|Our enemies will be here sooner than I expected.
+000061|What do you advise me to do?
+000062|"It is now too late to assemble our people," said the Tin Woodman, despondently.
+000063|If you had allowed me to arm and drill my Winkies, we might have put up a good fight and destroyed many of our enemies before we were conquered.
+000064|"The Munchkins are good fighters, too," said Omby Amby;
+000065|and so are the Gillikins.
+000066|"But I do not wish to fight," declared Ozma, firmly.
+000067|No one has the right to destroy any living creatures, however evil they may be, or to hurt them or make them unhappy.
+000068|I will not fight, even to save my kingdom.
+000069|"The Nome King is not so particular," remarked the Scarecrow.
+000070|He intends to destroy us all and ruin our beautiful country.
+000071|"Because the Nome King intends to do evil is no excuse for my doing the same," replied Ozma.
+000072|"Self-preservation is the first law of nature," quoted the Shaggy Man.
+000073|"True," she said, readily.
+000074|I would like to discover a plan to save ourselves without fighting.
+000075|That seemed a hopeless task to them, but realizing that Ozma was determined not to fight, they tried to think of some means that might promise escape.
+000076|"Couldn't we bribe our enemies, by giving them a lot of emeralds and gold?" asked Jack Pumpkinhead.
+000077|"No, because they believe they are able to take everything we have," replied the Ruler.
+000078|"I have thought of something," said Dorothy.
+000079|"What is it, dear?" asked Ozma.
+000080|Let us use the Magic Belt to wish all of us in Kansas.
+000081|We will put some emeralds in our pockets, and can sell them in Topeka for enough to pay off the mortgage on Uncle Henry's farm.
+000082|Then we can all live together and be happy.
+000083|"A clever idea!" exclaimed the Scarecrow.
+000084|Kansas is a very good country.
+000085|"I've been there," said the Shaggy Man.
+000086|"That seems to me an excellent plan," approved the Tin Woodman.
+000087|"No!" said Ozma, decidedly.
+000088|Never will I desert my people and leave them to so cruel a fate.
+000089|I will use the Magic Belt to send the rest of you to Kansas, if you wish, but if my beloved country must be destroyed and my people enslaved I will remain and share their fate.
+000090|"Quite right," asserted the Scarecrow, sighing.
+000091|I will remain with you.
+000092|"And so will I," declared the Tin Woodman and the Shaggy Man and Jack Pumpkinhead, in turn.
+000093|Tiktok, the machine man, also said he intended to stand by Ozma.
+000094|"For," said he, "I should be of no use at all in Kan-sas."
+000095|"For my part," announced Dorothy, gravely, "if the Ruler of Oz must not desert her people, a Princess of Oz has no right to run away, either."
+000096|I'm willing to become a slave with the rest of you;
+000097|so all we can do with the Magic Belt is to use it to send Uncle Henry and Aunt Em back to Kansas.
+000098|"I've been a slave all my life," Aunt Em replied, with considerable cheerfulness, "and so has Henry."
+000099|I guess we won't go back to Kansas, anyway.
+000100|I'd rather take my chances with the rest of you.
+000101|Ozma smiled upon them all gratefully.
+000102|"There is no need to despair just yet," she said.
+000103|I'll get up early to-morrow morning and be at the Forbidden Fountain when the fierce warriors break through the crust of the earth.
+000104|I will speak to them pleasantly and perhaps they won't be so very bad, after all.
+000105|"Why do they call it the Forbidden Fountain?" asked Dorothy, thoughtfully.
+000106|"Don't you know, dear?" returned Ozma, surprised.
+000107|"No," said Dorothy.
+000108|Of course I've seen the fountain in the palace grounds, ever since I first came to Oz;
+000109|and I've read the sign which says: 'All Persons are Forbidden to Drink at this Fountain.' But I never knew why they were forbidden.
+000110|The water seems clear and sparkling and it bubbles up in a golden basin all the time.
+000111|"That water," declared Ozma, gravely, "is the most dangerous thing in all the Land of Oz."
+000112|It is the Water of Oblivion.
+000113|"What does that mean?" asked Dorothy.
+000114|"Whoever drinks at the Forbidden Fountain at once forgets everything he has ever known," Ozma asserted.
+000115|"It wouldn't be a bad way to forget our troubles," suggested Uncle Henry.
+000116|That is true;
+000117|"but you would forget everything else, and become as ignorant as a baby," returned Ozma.
+000118|"Does it make one crazy?" asked Dorothy.
+000119|"No; it only makes one forget," replied the girl Ruler.
+000120|It is said that once -- long, long ago -- a wicked King ruled Oz, and made himself and all his people very miserable and unhappy.
+000121|So Glinda, the Good Sorceress, placed this fountain here, and the King drank of its water and forgot all his wickedness.
+000122|His mind became innocent and vacant, and when he learned the things of life again they were all good things.
+000123|But the people remembered how wicked their King had been, and were still afraid of him.
+000124|Therefore, he made them all drink of the Water of Oblivion and forget everything they had known, so that they became as simple and innocent as their King.
+000125|After that, they all grew wise together, and their wisdom was good, so that peace and happiness reigned in the land.
+000126|But for fear some one might drink of the water again, and in an instant forget all he had learned, the King put that sign upon the fountain, where it has remained for many centuries up to this very day.
+000127|They had all listened intently to Ozma's story, and when she finished speaking there was a long period of silence while all thought upon the curious magical power of the Water of Oblivion.
+000128|Finally the Scarecrow's painted face took on a broad smile that stretched the cloth as far as it would go.
+000129|"How thankful I am," he said, "that I have such an excellent assortment of brains!"
+000130|"I gave you the best brains I ever mixed," declared the Wizard, with an air of pride.
+000131|"You did, indeed!" agreed the Scarecrow, "and they work so splendidly that they have found a way to save Oz -- to save us all!"
+000132|"I'm glad to hear that," said the Wizard.
+000133|We never needed saving more than we do just now.
+000134|"Do you mean to say you can save us from those awful Phanfasms, and Growleywogs and Whimsies?" asked Dorothy eagerly.
+000135|"I'm sure of it, my dear," asserted the Scarecrow, still smiling genially.
+000136|"Tell us how!" cried the Tin Woodman.
+000137|"Not now," said the Scarecrow.
+000138|You may all go to bed, and I advise you to forget your worries just as completely as if you had drunk of the Water of Oblivion in the Forbidden Fountain.
+000139|I'm going to stay here and tell my plan to Ozma alone, but if you will all be at the Forbidden Fountain at daybreak, you'll see how easily we will save the kingdom when our enemies break through the crust of earth and come from the tunnel.
+000140|So they went away and let the Scarecrow and Ozma alone;
+000141|but Dorothy could not sleep a wink all night.
+000142|"He is only a Scarecrow," she said to herself, "and I'm not sure that his mixed brains are as clever as he thinks they are."
+000143|But she knew that if the Scarecrow's plan failed they were all lost;

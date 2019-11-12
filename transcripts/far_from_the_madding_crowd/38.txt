@@ -1,0 +1,82 @@
+000001|it was now five o'clock, and the dawn was promising to break in hues of drab and ash.
+000002|The air changed its temperature and stirred itself more vigorously.
+000003|Cool breezes coursed in transparent eddies round Oak's face.
+000004|The wind shifted yet a point or two and blew stronger.
+000005|In ten minutes every wind of heaven seemed to be roaming at large.
+000006|Some of the thatching on the wheat-stacks was now whirled fantastically aloft, and had to be replaced and weighted with some rails that lay near at hand.
+000007|This done, Oak slaved away again at the barley.
+000008|A huge drop of rain smote his face, the wind snarled round every corner, the trees rocked to the bases of their trunks, and the twigs clashed in strife.
+000009|Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds.
+000010|The rain came on in earnest, and Oak soon felt the water to be tracking cold and clammy routes down his back.
+000011|Ultimately he was reduced well-nigh to a homogeneous sop, and the dyes of his clothes trickled down and stood in a pool at the foot of the ladder.
+000012|The rain stretched obliquely through the dull atmosphere in liquid spines, unbroken in continuity between their beginnings in the clouds and their points in him.
+000013|Oak suddenly remembered that eight months before this time he had been fighting against fire in the same spot as desperately as he was fighting against water now -- and for a futile love of the same woman.
+000014|As for her -- But Oak was generous and true, and dismissed his reflections.
+000015|It was about seven o'clock in the dark leaden morning when Gabriel came down from the last stack, and thankfully exclaimed, "It is done!"
+000016|He was drenched, weary, and sad, and yet not so sad as drenched and weary, for he was cheered by a sense of success in a good cause.
+000017|Faint sounds came from the barn, and he looked that way.
+000018|Figures stepped singly and in pairs through the doors -- all walking awkwardly, and abashed, save the foremost, who wore a red jacket, and advanced with his hands in his pockets, whistling.
+000019|The others shambled after with a conscience-stricken air: the whole procession was not unlike Flaxman's group of the suitors tottering on towards the infernal regions under the conduct of Mercury.
+000020|The gnarled shapes passed into the village, Troy, their leader, entering the farmhouse.
+000021|Not a single one of them had turned his face to the ricks, or apparently bestowed one thought upon their condition.
+000022|Soon Oak too went homeward, by a different route from theirs.
+000023|In front of him against the wet glazed surface of the lane he saw a person walking yet more slowly than himself under an umbrella.
+000024|The man turned and plainly started;
+000025|he was Boldwood.
+000026|"How are you this morning, sir?" said Oak.
+000027|Yes, it is a wet day.
+000028|Oh, I am well, very well, I thank you;
+000029|quite well.
+000030|I am glad to hear it, sir.
+000031|Boldwood seemed to awake to the present by degrees.
+000032|"You look tired and ill, Oak." he said then, desultorily regarding his companion.
+000033|I am tired.
+000034|You look strangely altered, sir.
+000035|I? Not a bit of it: I am well enough.
+000036|What put that into your head?
+000037|I thought you didn't look quite so topping as you used to, that was all.
+000038|"Indeed, then you are mistaken." said Boldwood, shortly.
+000039|Nothing hurts me.
+000040|My constitution is an iron one.
+000041|I've been working hard to get our ricks covered, and was barely in time.
+000042|Never had such a struggle in my life....
+000043|Yours of course are safe, sir.
+000044|"O yes." Boldwood added, after an interval of silence: " What did you ask, Oak?"
+000045|Your ricks are all covered before this time?
+000046|No.
+000047|At any rate, the large ones upon the stone staddles?
+000048|They are not.
+000049|Them under the hedge?
+000050|No.
+000051|I forgot to tell the thatcher to set about it.
+000052|Nor the little one by the stile? Nor the little one by the stile.
+000053|I overlooked the ricks this year.
+000054|Then not a tenth of your corn will come to measure, sir.
+000055|Possibly not.
+000056|"Overlooked them." repeated Gabriel slowly to himself.
+000057|It is difficult to describe the intensely dramatic effect that announcement had upon Oak at such a moment.
+000058|All the night he had been feeling that the neglect he was labouring to repair was abnormal and isolated -- the only instance of the kind within the circuit of the county.
+000059|Yet at this very time, within the same parish, a greater waste had been going on, uncomplained of and disregarded.
+000060|A few months earlier Boldwood's forgetting his husbandry would have been as preposterous an idea as a sailor forgetting he was in a ship.
+000061|Oak was just thinking that whatever he himself might have suffered from Bathsheba's marriage, here was a man who had suffered more, when Boldwood spoke in a changed voice -- that of one who yearned to make a confidence and relieve his heart by an outpouring.
+000062|Oak, you know as well as I that things have gone wrong with me lately.
+000063|I may as well own it.
+000064|I was going to get a little settled in life;
+000065|but in some way my plan has come to nothing.
+000066|"I thought my mistress would have married you," said Gabriel, not knowing enough of the full depths of Boldwood's love to keep silence on the farmer's account, and determined not to evade discipline by doing so on his own.
+000067|"However, it is so sometimes, and nothing happens that we expect." he added, with the repose of a man whom misfortune had inured rather than subdued.
+000068|"I daresay I am a joke about the parish." said Boldwood, as if the subject came irresistibly to his tongue, and with a miserable lightness meant to express his indifference.
+000069|"O no -- I don't think that." -- But the real truth of the matter is that there was not, as some fancy, any jilting on -- her part.
+000070|No engagement ever existed between me and Miss Everdene.
+000071|People say so, but it is untrue: she never promised me!
+000072|Boldwood stood still now and turned his wild face to Oak.
+000073|"O, Gabriel." he continued, "I am weak and foolish, and I don't know what, and I can't fend off my miserable grief!"
+000074|I had some faint belief in the mercy of God till I lost that woman.
+000075|Yes, He prepared a gourd to shade me, and like the prophet I thanked Him and was glad.
+000076|But the next day He prepared a worm to smite the gourd and wither it;
+000077|and I feel it is better to die than to live!
+000078|A silence followed.
+000079|Boldwood aroused himself from the momentary mood of confidence into which he had drifted, and walked on again, resuming his usual reserve, "No, Gabriel." he resumed, with a carelessness which was like the smile on the countenance of a skull:
+000080|it was made more of by other people than ever it was by us.
+000081|I do feel a little regret occasionally, but no woman ever had power over me for any length of time.
+000082|Well, good morning;

@@ -1,0 +1,144 @@
+000001|The day passed much as the day before had done.
+000002|misess Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend;
+000003|and in the evening Elizabeth joined their party in the drawing-room.
+000004|The loo-table, however, did not appear.
+000005|mister Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter and repeatedly calling off his attention by messages to his sister.
+000006|mister Hurst and mister Bingley were at piquet, and misess Hurst was observing their game.
+000007|Elizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion.
+000008|The perpetual commendations of the lady, either on his handwriting, or on the evenness of his lines, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly in union with her opinion of each.
+000009|How delighted Miss Darcy will be to receive such a letter!
+000010|He made no answer.
+000011|You write uncommonly fast.
+000012|You are mistaken.
+000013|I write rather slowly.
+000014|How many letters you must have occasion to write in the course of a year!
+000015|Letters of business, too!
+000016|How odious I should think them!
+000017|It is fortunate, then, that they fall to my lot instead of yours.
+000018|Pray tell your sister that I long to see her.
+000019|I have already told her so once, by your desire.
+000020|I am afraid you do not like your pen.
+000021|Let me mend it for you.
+000022|I mend pens remarkably well.
+000023|Thank you -- but I always mend my own.
+000024|How can you contrive to write so even?
+000025|He was silent.
+000026|Tell your sister I am delighted to hear of her improvement on the harp;
+000027|and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley's.
+000028|Will you give me leave to defer your raptures till I write again?
+000029|At present I have not room to do them justice.
+000030|Oh! it is of no consequence.
+000031|I shall see her in January.
+000032|But do you always write such charming long letters to her, mister Darcy?
+000033|They are generally long;
+000034|but whether always charming it is not for me to determine.
+000035|It is a rule with me, that a person who can write a long letter with ease, cannot write ill.
+000036|"That will not do for a compliment to Darcy, Caroline," cried her brother, "because he does not write with ease."
+000037|He studies too much for words of four syllables.
+000038|Do not you, Darcy?
+000039|My style of writing is very different from yours.
+000040|"Oh!" cried Miss Bingley, "Charles writes in the most careless way imaginable."
+000041|He leaves out half his words, and blots the rest.
+000042|My ideas flow so rapidly that I have not time to express them -- by which means my letters sometimes convey no ideas at all to my correspondents.
+000043|"Your humility, mister Bingley," said Elizabeth, "must disarm reproof."
+000044|"Nothing is more deceitful," said Darcy, "than the appearance of humility."
+000045|It is often only carelessness of opinion, and sometimes an indirect boast.
+000046|And which of the two do you call my little recent piece of modesty?
+000047|The indirect boast;
+000048|for you are really proud of your defects in writing, because you consider them as proceeding from a rapidity of thought and carelessness of execution, which, if not estimable, you think at least highly interesting.
+000049|The power of doing anything with quickness is always prized much by the possessor, and often without any attention to the imperfection of the performance.
+000050|When you told misess Bennet this morning that if you ever resolved upon quitting Netherfield you should be gone in five minutes, you meant it to be a sort of panegyric, of compliment to yourself -- and yet what is there so very laudable in a precipitance which must leave very necessary business undone, and can be of no real advantage to yourself or anyone else?
+000051|"Nay," cried Bingley, "this is too much, to remember at night all the foolish things that were said in the morning."
+000052|And yet, upon my honour, I believe what I said of myself to be true, and I believe it at this moment.
+000053|At least, therefore, I did not assume the character of needless precipitance merely to show off before the ladies.
+000054|I dare say you believed it;
+000055|but I am by no means convinced that you would be gone with such celerity.
+000056|Your conduct would be quite as dependent on chance as that of any man I know;
+000057|and if, as you were mounting your horse, a friend were to say, 'Bingley, you had better stay till next week,' you would probably do it, you would probably not go -- and at another word, might stay a month.
+000058|"You have only proved by this," cried Elizabeth, "that mister Bingley did not do justice to his own disposition."
+000059|You have shown him off now much more than he did himself.
+000060|"I am exceedingly gratified," said Bingley, "by your converting what my friend says into a compliment on the sweetness of my temper."
+000061|But I am afraid you are giving it a turn which that gentleman did by no means intend;
+000062|for he would certainly think better of me, if under such a circumstance I were to give a flat denial, and ride off as fast as I could.
+000063|Would mister Darcy then consider the rashness of your original intentions as atoned for by your obstinacy in adhering to it?
+000064|Upon my word, I cannot exactly explain the matter;
+000065|Darcy must speak for himself.
+000066|You expect me to account for opinions which you choose to call mine, but which I have never acknowledged.
+000067|Allowing the case, however, to stand according to your representation, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house, and the delay of his plan, has merely desired it, asked it without offering one argument in favour of its propriety.
+000068|To yield readily -- easily -- to the persuasion of a friend is no merit with you.
+000069|To yield without conviction is no compliment to the understanding of either.
+000070|You appear to me, mister Darcy, to allow nothing for the influence of friendship and affection.
+000071|A regard for the requester would often make one readily yield to a request, without waiting for arguments to reason one into it.
+000072|I am not particularly speaking of such a case as you have supposed about mister Bingley.
+000073|We may as well wait, perhaps, till the circumstance occurs before we discuss the discretion of his behaviour thereupon.
+000074|But in general and ordinary cases between friend and friend, where one of them is desired by the other to change a resolution of no very great moment, should you think ill of that person for complying with the desire, without waiting to be argued into it?
+000075|Will it not be advisable, before we proceed on this subject, to arrange with rather more precision the degree of importance which is to appertain to this request, as well as the degree of intimacy subsisting between the parties?
+000076|"By all means," cried Bingley;
+000077|let us hear all the particulars, not forgetting their comparative height and size;
+000078|for that will have more weight in the argument, Miss Bennet, than you may be aware of.
+000079|I assure you, that if Darcy were not such a great tall fellow, in comparison with myself, I should not pay him half so much deference.
+000080|I declare I do not know a more awful object than Darcy, on particular occasions, and in particular places;
+000081|at his own house especially, and of a Sunday evening, when he has nothing to do.
+000082|Mister Darcy smiled;
+000083|but Elizabeth thought she could perceive that he was rather offended, and therefore checked her laugh.
+000084|Miss Bingley warmly resented the indignity he had received, in an expostulation with her brother for talking such nonsense.
+000085|"I see your design, Bingley," said his friend.
+000086|You dislike an argument, and want to silence this.
+000087|Perhaps I do.
+000088|Arguments are too much like disputes.
+000089|If you and Miss Bennet will defer yours till I am out of the room, I shall be very thankful;
+000090|and then you may say whatever you like of me.
+000091|"What you ask," said Elizabeth, "is no sacrifice on my side;"
+000092|and mister Darcy had much better finish his letter.
+000093|mister Darcy took her advice, and did finish his letter.
+000094|When that business was over, he applied to Miss Bingley and Elizabeth for an indulgence of some music.
+000095|Miss Bingley moved with some alacrity to the pianoforte;
+000096|and, after a polite request that Elizabeth would lead the way which the other as politely and more earnestly negatived, she seated herself.
+000097|misess Hurst sang with her sister, and while they were thus employed, Elizabeth could not help observing, as she turned over some music-books that lay on the instrument, how frequently mister Darcy's eyes were fixed on her.
+000098|She hardly knew how to suppose that she could be an object of admiration to so great a man;
+000099|and yet that he should look at her because he disliked her, was still more strange.
+000100|She could only imagine, however, at last that she drew his notice because there was something more wrong and reprehensible, according to his ideas of right, than in any other person present.
+000101|The supposition did not pain her.
+000102|She liked him too little to care for his approbation.
+000103|After playing some Italian songs, Miss Bingley varied the charm by a lively Scotch air;
+000104|and soon afterwards mister Darcy, drawing near Elizabeth, said to her:
+000105|Do not you feel a great inclination, Miss Bennet, to seize such an opportunity of dancing a reel?
+000106|She smiled, but made no answer.
+000107|He repeated the question, with some surprise at her silence.
+000108|"Oh!" said she, "I heard you before, but I could not immediately determine what to say in reply."
+000109|You wanted me, I know, to say 'Yes,' that you might have the pleasure of despising my taste;
+000110|but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt.
+000111|I have, therefore, made up my mind to tell you, that I do not want to dance a reel at all -- and now despise me if you dare.
+000112|Indeed I do not dare.
+000113|Elizabeth, having rather expected to affront him, was amazed at his gallantry;
+000114|but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody;
+000115|and Darcy had never been so bewitched by any woman as he was by her.
+000116|He really believed, that were it not for the inferiority of her connections, he should be in some danger.
+000117|Miss Bingley saw, or suspected enough to be jealous;
+000118|and her great anxiety for the recovery of her dear friend Jane received some assistance from her desire of getting rid of Elizabeth.
+000119|She often tried to provoke Darcy into disliking her guest, by talking of their supposed marriage, and planning his happiness in such an alliance.
+000120|"I hope," said she, as they were walking together in the shrubbery the next day, "you will give your mother-in-law a few hints, when this desirable event takes place, as to the advantage of holding her tongue;"
+000121|and if you can compass it, do cure the younger girls of running after officers.
+000122|And, if I may mention so delicate a subject, endeavour to check that little something, bordering on conceit and impertinence, which your lady possesses.
+000123|Have you anything else to propose for my domestic felicity?
+000124|Oh! yes.
+000125|Do let the portraits of your uncle and aunt Phillips be placed in the gallery at Pemberley.
+000126|Put them next to your great-uncle the judge.
+000127|They are in the same profession, you know, only in different lines.
+000128|As for your Elizabeth's picture, you must not have it taken, for what painter could do justice to those beautiful eyes?
+000129|It would not be easy, indeed, to catch their expression, but their colour and shape, and the eyelashes, so remarkably fine, might be copied.
+000130|At that moment they were met from another walk by misess Hurst and Elizabeth herself.
+000131|"I did not know that you intended to walk," said Miss Bingley, in some confusion, lest they had been overheard.
+000132|"You used us abominably ill," answered misess Hurst, "running away without telling us that you were coming out."
+000133|Then taking the disengaged arm of mister Darcy, she left Elizabeth to walk by herself.
+000134|The path just admitted three.
+000135|mister Darcy felt their rudeness, and immediately said:
+000136|This walk is not wide enough for our party.
+000137|We had better go into the avenue.
+000138|But Elizabeth, who had not the least inclination to remain with them, laughingly answered:
+000139|No, no;
+000140|stay where you are.
+000141|You are charmingly grouped, and appear to uncommon advantage.
+000142|The picturesque would be spoilt by admitting a fourth.
+000143|Good-bye.
+000144|She then ran gaily off, rejoicing as she rambled about, in the hope of being at home again in a day or two.

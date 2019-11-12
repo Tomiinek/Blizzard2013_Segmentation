@@ -1,0 +1,84 @@
+000001|boldwood passed into the high road and turned in the direction of Casterbridge.
+000002|Here he walked at an even, steady pace over Yalbury Hill, along the dead level beyond, mounted Mellstock Hill, and between eleven and twelve o'clock crossed the Moor into the town.
+000003|The streets were nearly deserted now, and the waving lamp-flames only lighted up rows of grey shop-shutters, and strips of white paving upon which his step echoed as his passed along.
+000004|He turned to the right, and halted before an archway of heavy stonework, which was closed by an iron studded pair of doors.
+000005|This was the entrance to the gaol, and over it a lamp was fixed, the light enabling the wretched traveller to find a bellpull.
+000006|The small wicket at last opened, and a porter appeared.
+000007|Boldwood stepped forward, and said something in a low tone, when, after a delay, another man came.
+000008|Boldwood entered, and the door was closed behind him, and he walked the world no more.
+000009|Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood's merrymaking became known to all.
+000010|Of those out of the house Oak was one of the first to hear of the catastrophe, and when he entered the room, which was about five minutes after Boldwood's exit, the scene was terrible.
+000011|All the female guests were huddled aghast against the walls like sheep in a storm, and the men were bewildered as to what to do.
+000012|As for Bathsheba, she had changed.
+000013|She was sitting on the floor beside the body of Troy, his head pillowed in her lap, where she had herself lifted it.
+000014|With one hand she held her handkerchief to his breast and covered the wound, though scarcely a single drop of blood had flowed, and with the other she tightly clasped one of his.
+000015|The household convulsion had made her herself again.
+000016|The temporary coma had ceased, and activity had come with the necessity for it.
+000017|Deeds of endurance, which seem ordinary in philosophy, are rare in conduct, and Bathsheba was astonishing all around her now, for her philosophy was her conduct, and she seldom thought practicable what she did not practise.
+000018|She was of the stuff of which great men's mothers are made.
+000019|She was indispensable to high generation, hated at tea parties, feared in shops, and loved at crises.
+000020|Troy recumbent in his wife's lap formed now the sole spectacle in the middle of the spacious room.
+000021|"Gabriel." she said, automatically, when he entered, turning up a face of which only the wellknown lines remained to tell him it was hers, all else in the picture having faded quite.
+000022|Ride to Casterbridge instantly for a surgeon.
+000023|It is, I believe, useless, but go.
+000024|mister Boldwood has shot my husband.
+000025|Her statement of the fact in such quiet and simple words came with more force than a tragic declamation, and had somewhat the effect of setting the distorted images in each mind present into proper focus.
+000026|Oak, almost before he had comprehended anything beyond the briefest abstract of the event, hurried out of the room, saddled a horse and rode away.
+000027|Not till he had ridden more than a mile did it occur to him that he would have done better by sending some other man on this errand, remaining himself in the house.
+000028|What had become of Boldwood?
+000029|He should have been looked after.
+000030|Was he mad -- had there been a quarrel?
+000031|Then how had Troy got there?
+000032|Where had he come from?
+000033|How did this remarkable reappearance effect itself when he was supposed by many to be at the bottom of the sea?
+000034|Oak had in some slight measure been prepared for the presence of Troy by hearing a rumour of his return just before entering Boldwood's house;
+000035|but before he had weighed that information, this fatal event had been superimposed.
+000036|However, it was too late now to think of sending another messenger, and he rode on, in the excitement of these self-inquiries not discerning, when about three miles from Casterbridge, a square-figured pedestrian passing along under the dark hedge in the same direction as his own.
+000037|The miles necessary to be traversed, and other hindrances incidental to the lateness of the hour and the darkness of the night, delayed the arrival of Mr, Aldritch, the surgeon;
+000038|and more than three hours passed between the time at which the shot was fired and that of his entering the house.
+000039|Oak was additionally detained in Casterbridge through having to give notice to the authorities of what had happened;
+000040|and he then found that Boldwood had also entered the town, and delivered himself up.
+000041|In the meantime the surgeon, having hastened into the hall at Boldwood's, found it in darkness and quite deserted.
+000042|He went on to the back of the house, where he discovered in the kitchen an old man, of whom he made inquiries.
+000043|"She's had him took away to her own house, sir," said his informant.
+000044|"Who has?" said the doctor.
+000045|misess Troy.
+000046|'A was quite dead, sir.
+000047|This was astonishing information.
+000048|"She had no right to do that." said the doctor.
+000049|There will have to be an inquest, and she should have waited to know what to do.
+000050|Yes, sir; it was hinted to her that she had better wait till the law was known.
+000051|"But she said law was nothing to her, and she wouldn't let her dear husband's corpse bide neglected for folks to stare at for all the crowners in England." mister Aldritch drove at once back again up the hill to Bathsheba's.
+000052|The first person he met was poor Liddy, who seemed literally to have dwindled smaller in these few latter hours.
+000053|"What has been done?" he said.
+000054|"I don't know, sir." said Liddy, with suspended breath.
+000055|My mistress has done it all.
+000056|Where is she?
+000057|Upstairs with him, sir.
+000058|When he was brought home and taken upstairs, she said she wanted no further help from the men.
+000059|And then she called me, and made me fill the bath, and after that told me I had better go and lie down because I looked so ill.
+000060|Then she locked herself into the room alone with him, and would not let a nurse come in, or anybody at all.
+000061|But I thought I'd wait in the next room in case she should want me.
+000062|I heard her moving about inside for more than an hour, but she only came out once, and that was for more candles, because hers had burnt down into the socket.
+000063|She said we were to let her know when you or mister Thirdly came, sir.
+000064|Oak entered with the parson at this moment, and they all went upstairs together, preceded by Liddy Smallbury.
+000065|Everything was silent as the grave when they paused on the landing.
+000066|Liddy knocked, and Bathsheba's dress was heard rustling across the room: the key turned in the lock, and she opened the door.
+000067|Her looks were calm and nearly rigid, like a slightly animated bust of Melpomene.
+000068|"Oh, mister Aldritch, you have come at last." she murmured from her lips merely, and threw back the door.
+000069|Ah, and mister Thirdly.
+000070|Well, all is done, and anybody in the world may see him now.
+000071|She then passed by him, crossed the landing, and entered another room.
+000072|Looking into the chamber of death she had vacated they saw by the light of the candles which were on the drawers a tall straight shape lying at the further end of the bedroom, wrapped in white.
+000073|Everything around was quite orderly.
+000074|The doctor went in, and after a few minutes returned to the landing again, where Oak and the parson still waited.
+000075|"It is all done, indeed, as she says." remarked mister Aldritch, in a subdued voice.
+000076|The body has been undressed and properly laid out in grave clothes.
+000077|Gracious Heaven -- this mere girl!
+000078|She must have the nerve of a stoic!
+000079|"The heart of a wife merely." floated in a whisper about the ears of the three, and turning they saw Bathsheba in the midst of them.
+000080|Then, as if at that instant to prove that her fortitude had been more of will than of spontaneity, she silently sank down between them and was a shapeless heap of drapery on the floor.
+000081|The simple consciousness that superhuman strain was no longer required had at once put a period to her power to continue it.
+000082|They took her away into a further room, and the medical attendance which had been useless in Troy's case was invaluable in Bathsheba's, who fell into a series of fainting-fits that had a serious aspect for a time.
+000083|The sufferer was got to bed, and Oak, finding from the bulletins that nothing really dreadful was to be apprehended on her score, left the house.
+000084|Liddy kept watch in Bathsheba's chamber, where she heard her mistress, moaning in whispers through the dull slow hours of that wretched night: "O it is my fault -- how can I live!"

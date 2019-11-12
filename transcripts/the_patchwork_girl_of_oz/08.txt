@@ -1,0 +1,238 @@
+000001|"There seem to be very few houses around here, after all," remarked Ojo, after they had walked for a time in silence.
+000002|"Never mind," said Scraps;
+000003|we are not looking for houses, but rather the road of yellow bricks.
+000004|Won't it be funny to run across something yellow in this dismal blue country?
+000005|"There are worse colors than yellow in this country," asserted the Glass Cat, in a spiteful tone.
+000006|"Oh; do you mean the pink pebbles you call your brains, and your red heart and green eyes?" asked the Patchwork Girl.
+000007|"No; I mean you, if you must know it," growled the cat.
+000008|"You're jealous!" laughed Scraps.
+000009|You'd give your whiskers for a lovely variegated complexion like mine.
+000010|"I wouldn't!" retorted the cat.
+000011|I've the clearest complexion in the world, and I don't employ a beauty-doctor, either.
+000012|"I see you don't," said Scraps.
+000013|"Please don't quarrel," begged Ojo.
+000014|This is an important journey, and quarreling makes me discouraged.
+000015|To be brave, one must be cheerful, so I hope you will be as good-tempered as possible.
+000016|They had traveled some distance when suddenly they faced a high fence which barred any further progress straight ahead.
+000017|It ran directly across the road and enclosed a small forest of tall trees, set close together.
+000018|When the group of adventurers peered through the bars of the fence they thought this forest looked more gloomy and forbidding than any they had ever seen before.
+000019|They soon discovered that the path they had been following now made a bend and passed around the enclosure, but what made Ojo stop and look thoughtful was a sign painted on the fence which read:
+000020|beware of the woozy!
+000021|"That means," he said, "that there's a Woozy inside that fence, and the Woozy must be a dangerous animal or they wouldn't tell people to beware of it."
+000022|"Let's keep out, then," replied Scraps.
+000023|That path is outside the fence, and mister Woozy may have all his little forest to himself, for all we care.
+000024|"But one of our errands is to find a Woozy," Ojo explained.
+000025|The Magician wants me to get three hairs from the end of a Woozy's tail.
+000026|"Let's go on and find some other Woozy," suggested the cat.
+000027|This one is ugly and dangerous, or they wouldn't cage him up.
+000028|Maybe we shall find another that is tame and gentle.
+000029|"Perhaps there isn't any other, at all," answered Ojo.
+000030|The sign doesn't say: 'Beware a Woozy';
+000031|it says: 'Beware the Woozy,' which may mean there's only one in all the Land of Oz.
+000032|"Then," said Scraps, "suppose we go in and find him?"
+000033|Very likely if we ask him politely to let us pull three hairs out of the tip of his tail he won't hurt us.
+000034|"It would hurt him, I'm sure, and that would make him cross," said the cat.
+000035|"You needn't worry, Bungle," remarked the Patchwork Girl;
+000036|for if there is danger you can climb a tree.
+000037|Ojo and I are not afraid;
+000038|are we, Ojo?
+000039|"I am, a little," the boy admitted;
+000040|but this danger must be faced, if we intend to save poor Unc Nunkie.
+000041|How shall we get over the fence?
+000042|"Climb," answered Scraps, and at once she began climbing up the rows of bars.
+000043|Ojo followed and found it more easy than he had expected.
+000044|When they got to the top of the fence they began to get down on the other side and soon were in the forest.
+000045|The Glass Cat, being small, crept between the lower bars and joined them.
+000046|Here there was no path of any sort, so they entered the woods, the boy leading the way, and wandered through the trees until they were nearly in the center of the forest.
+000047|They now came upon a clear space in which stood a rocky cave.
+000048|So far they had met no living creature, but when Ojo saw the cave he knew it must be the den of the Woozy.
+000049|It is hard to face any savage beast without a sinking of the heart, but still more terrifying is it to face an unknown beast, which you have never seen even a picture of.
+000050|So there is little wonder that the pulses of the Munchkin boy beat fast as he and his companions stood facing the cave.
+000051|The opening was perfectly square, and about big enough to admit a goat.
+000052|"I guess the Woozy is asleep," said Scraps.
+000053|Shall I throw in a stone, to waken him?
+000054|"No; please don't," answered Ojo, his voice trembling a little.
+000055|I'm in no hurry.
+000056|But he had not long to wait, for the Woozy heard the sound of voices and came trotting out of his cave.
+000057|As this is the only Woozy that has ever lived, either in the Land of Oz or out of it, I must describe it to you.
+000058|The creature was all squares and flat surfaces and edges.
+000059|Its head was an exact square, like one of the building-blocks a child plays with;
+000060|therefore it had no ears, but heard sounds through two openings in the upper corners.
+000061|Its nose, being in the center of a square surface, was flat, while the mouth was formed by the opening of the lower edge of the block.
+000062|The body of the Woozy was much larger than its head, but was likewise block-shaped -- being twice as long as it was wide and high.
+000063|The tail was square and stubby and perfectly straight, and the four legs were made in the same way, each being four-sided.
+000064|The animal was covered with a thick, smooth skin and had no hair at all except at the extreme end of its tail, where there grew exactly three stiff, stubby hairs.
+000065|The beast was dark blue in color and his face was not fierce nor ferocious in expression, but rather good-humored and droll.
+000066|Seeing the strangers, the Woozy folded his hind legs as if they had been hinged and sat down to look his visitors over.
+000067|"Well, well," he exclaimed;
+000068|what a queer lot you are!
+000069|At first I thought some of those miserable Munchkin farmers had come to annoy me, but I am relieved to find you in their stead.
+000070|It is plain to me that you are a remarkable group -- as remarkable in your way as I am in mine -- and so you are welcome to my domain.
+000071|Nice place, isn't it?
+000072|But lonesome -- dreadfully lonesome.
+000073|"Why did they shut you up here?" asked Scraps, who was regarding the queer, square creature with much curiosity.
+000074|Because I eat up all the honey-bees which the Munchkin farmers who live around here keep to make them honey.
+000075|"Are you fond of eating honey-bees?" inquired the boy.
+000076|Very.
+000077|They are really delicious.
+000078|But the farmers did not like to lose their bees and so they tried to destroy me.
+000079|Of course they couldn't do that.
+000080|Why not?
+000081|My skin is so thick and tough that nothing can get through it to hurt me.
+000082|So, finding they could not destroy me, they drove me into this forest and built a fence around me.
+000083|Unkind, wasn't it?
+000084|"But what do you eat now?" asked Ojo.
+000085|Nothing at all.
+000086|I've tried the leaves from the trees and the mosses and creeping vines, but they don't seem to suit my taste.
+000087|So, there being no honey-bees here, I've eaten nothing for years.
+000088|"You must be awfully hungry," said the boy.
+000089|I've got some bread and cheese in my basket.
+000090|Would you like that kind of food?
+000091|Give me a nibble and I will try it;
+000092|"then I can tell you better whether it is grateful to my appetite," returned the Woozy.
+000093|So the boy opened his basket and broke a piece off the loaf of bread.
+000094|He tossed it toward the Woozy, who cleverly caught it in his mouth and ate it in a twinkling.
+000095|"That's rather good," declared the animal.
+000096|Any more?
+000097|"Try some cheese," said Ojo, and threw down a piece.
+000098|The Woozy ate that, too, and smacked its long, thin lips.
+000099|"That's mighty good!" it exclaimed.
+000100|Any more?
+000101|"Plenty," replied Ojo.
+000102|So he sat down on a Stump and fed the Woozy bread and cheese for a long time;
+000103|for, no matter how much the boy broke off, the loaf and the slice remained just as big.
+000104|"That'll do," said the Woozy, at last;
+000105|I'm quite full.
+000106|I hope the strange food won't give me indigestion.
+000107|"I hope not," said Ojo.
+000108|It's what I eat.
+000109|"Well, I must say I'm much obliged, and I'm glad you came," announced the beast."
+000110|Is there anything I can do in return for your kindness?
+000111|"Yes," said Ojo earnestly, "you have it in your power to do me a great favor, if you will."
+000112|"What is it?" asked the Woozy.
+000113|Name the favor and I will grant it.
+000114|"I -- I want three hairs from the tip of your tail," said Ojo, with some hesitation.
+000115|Three hairs!
+000116|"Why, that's all I have -- on my tail or anywhere else," exclaimed the beast.
+000117|I know;
+000118|but I want them very much.
+000119|"They are my sole ornaments, my prettiest feature," said the Woozy, uneasily.
+000120|If I give up those three hairs I -- I'm just a blockhead.
+000121|"Yet I must have them," insisted the boy, firmly, and he then told the Woozy all about the accident to Unc Nunkie and Margolotte, and how the three hairs were to be a part of the magic charm that would restore them to life.
+000122|The beast listened with attention and when Ojo had finished the recital it said, with a sigh:
+000123|I always keep my word, for I pride myself on being square.
+000124|So you may have the three hairs, and welcome.
+000125|I think, under such circumstances, it would be selfish in me to refuse you.
+000126|Thank you!
+000127|Thank you very much," cried the boy, joyfully.
+000128|May I pull out the hairs now?
+000129|"Any time you like," answered the Woozy.
+000130|So Ojo went up to the queer creature and taking hold of one of the hairs began to pull.
+000131|He pulled harder.
+000132|He pulled with all his might;
+000133|but the hair remained fast.
+000134|"What's the trouble?" asked the Woozy, which Ojo had dragged here and there all around the clearing in his endeavor to pull out the hair.
+000135|"It won't come," said the boy, panting.
+000136|"I was afraid of that," declared the beast.
+000137|You'll have to pull harder.
+000138|"I'll help you," exclaimed Scraps, coming to the boy's side.
+000139|You pull the hair, and I'll pull you, and together we ought to get it out easily.
+000140|"Wait a jiffy," called the Woozy, and then it went to a tree and hugged it with its front paws, so that its body couldn't be dragged around by the pull.
+000141|All ready, now.
+000142|Go ahead!
+000143|Ojo grasped the hair with both hands and pulled with all his strength, while Scraps seized the boy around his waist and added her strength to his.
+000144|But the hair wouldn't budge.
+000145|Instead, it slipped out of Ojo's hands and he and Scraps both rolled upon the ground in a heap and never stopped until they bumped against the rocky cave.
+000146|"Give it up," advised the Glass Cat, as the boy arose and assisted the Patchwork Girl to her feet.
+000147|A dozen strong men couldn't pull out those hairs.
+000148|I believe they're clinched on the under side of the Woozy's thick skin.
+000149|"Then what shall I do?" asked the boy, despairingly.
+000150|If on our return I fail to take these three hairs to the Crooked Magician, the other things I have come to seek will be of no use at all, and we cannot restore Unc Nunkie and Margolotte to life.
+000151|"They're goners, I guess," said the Patchwork Girl.
+000152|"Never mind," added the cat.
+000153|I can't see that old Unc and Margolotte are worth all this trouble, anyhow.
+000154|But Ojo did not feel that way.
+000155|He was so disheartened that he sat down upon a stump and began to cry.
+000156|The Woozy looked at the boy thoughtfully.
+000157|"Why don't you take me with you?" asked the beast.
+000158|Then, when at last you get to the Magician's house, he can surely find some way to pull out those three hairs.
+000159|Ojo was overjoyed at this suggestion.
+000160|"That's it!" he cried, wiping away the tears and springing to his feet with a smile.
+000161|If I take the three hairs to the Magician, it won't matter if they are still in your body.
+000162|"It can't matter in the least," agreed the Woozy.
+000163|"Come on, then," said the boy, picking up his basket;
+000164|let us start at once.
+000165|I have several other things to find, you know.
+000166|But the Glass Cat gave a little laugh and inquired in her scornful way:
+000167|How do you intend to get the beast out of this forest?
+000168|That puzzled them all for a time.
+000169|"Let us go to the fence, and then we may find a way," suggested Scraps.
+000170|So they walked through the forest to the fence, reaching it at a point exactly opposite that where they had entered the enclosure.
+000171|"How did you get in?" asked the Woozy.
+000172|"We climbed over," answered Ojo.
+000173|"I can't do that," said the beast.
+000174|I'm a very swift runner, for I can overtake a honey-bee as it flies;
+000175|and I can jump very high, which is the reason they made such a tall fence to keep me in.
+000176|But I can't climb at all, and I'm too big to squeeze between the bars of the fence.
+000177|Ojo tried to think what to do.
+000178|"Can you dig?" he asked.
+000179|"No," answered the Woozy, "for I have no claws."
+000180|My feet are quite flat on the bottom of them.
+000181|Nor can I gnaw away the boards, as I have no teeth.
+000182|"You're not such a terrible creature, after all," remarked Scraps.
+000183|"You haven't heard me growl, or you wouldn't say that," declared the Woozy.
+000184|When I growl, the sound echoes like thunder all through the valleys and woodlands, and children tremble with fear, and women cover their heads with their aprons, and big men run and hide.
+000185|I suppose there is nothing in the world so terrible to listen to as the growl of a Woozy.
+000186|"Please don't growl, then," begged Ojo, earnestly.
+000187|There is no danger of my growling, for I am not angry.
+000188|Only when angry do I utter my fearful, ear-splitting, soul-shuddering growl.
+000189|Also, when I am angry, my eyes flash fire, whether I growl or not.
+000190|"Real fire?" asked Ojo.
+000191|Of course, real fire.
+000192|Do you suppose they'd flash imitation fire?" inquired the Woozy, in an injured tone.
+000193|"In that case, I've solved the riddle," cried Scraps, dancing with glee.
+000194|Those fence-boards are made of wood, and if the Woozy stands close to the fence and lets his eyes flash fire, they might set fire to the fence and burn it up.
+000195|Then he could walk away with us easily, being free.
+000196|"Ah, I have never thought of that plan, or I would have been free long ago," said the Woozy.
+000197|But I cannot flash fire from my eyes unless I am very angry.
+000198|"Can't you get angry 'bout something, please?" asked Ojo.
+000199|I'll try.
+000200|You just say 'Krizzle-Kroo' to me.
+000201|"Will that make you angry?" inquired the boy.
+000202|Terribly angry.
+000203|"What does it mean?" asked Scraps.
+000204|I don't know;
+000205|"that's what makes me so angry," replied the Woozy.
+000206|He then stood close to the fence, with his head near one of the boards, and Scraps called out "Krizzle-Kroo!"
+000207|Then Ojo said "Krizzle-Kroo!" and the Glass Cat said "Krizzle-Kroo!"
+000208|The Woozy began to tremble with anger and small sparks darted from his eyes.
+000209|Seeing this, they all cried "Krizzle-Kroo!" together, and that made the beast's eyes flash fire so fiercely that the fence-board caught the sparks and began to smoke.
+000210|Then it burst into flame, and the Woozy stepped back and said triumphantly:
+000211|Aha! That did the business, all right.
+000212|It was a happy thought for you to yell all together, for that made me as angry as I have ever been.
+000213|Fine sparks, weren't they?
+000214|"Reg'lar fireworks," replied Scraps, admiringly.
+000215|In a few moments the board had burned to a distance of several feet, leaving an opening big enough for them all to pass through.
+000216|Ojo broke some branches from a tree and with them whipped the fire until it was extinguished.
+000217|"We don't want to burn the whole fence down," said he, "for the flames would attract the attention of the Munchkin farmers, who would then come and capture the Woozy again."
+000218|I guess they'll be rather surprised when they find he's escaped.
+000219|"So they will," declared the Woozy, chuckling gleefully.
+000220|When they find I'm gone the farmers will be badly scared, for they'll expect me to eat up their honey-bees, as I did before.
+000221|"That reminds me," said the boy, "that you must promise not to eat honey-bees while you are in our company."
+000222|None at all?
+000223|Not a bee.
+000224|You would get us all into trouble, and we can't afford to have any more trouble than is necessary.
+000225|I'll feed you all the bread and cheese you want, and that must satisfy you.
+000226|All right;
+000227|"I'll promise," said the Woozy, cheerfully.
+000228|And when I promise anything you can depend on it, 'cause I'm square.
+000229|"I don't see what difference that makes," observed the Patchwork Girl, as they found the path and continued their journey."
+000230|The shape doesn't make a thing honest, does it?
+000231|"Of course it does," returned the Woozy, very decidedly.
+000232|No one could trust that Crooked Magician, for instance, just because he is crooked;
+000233|but a square Woozy couldn't do anything crooked if he wanted to.
+000234|"I am neither square nor crooked," said Scraps, looking down at her plump body.
+000235|"No; you're round, so you're liable to do anything," asserted the Woozy.
+000236|Do not blame me, Miss Gorgeous, if I regard you with suspicion.
+000237|Many a satin ribbon has a cotton back.
+000238|Scraps didn't understand this, but she had an uneasy misgiving that she had a cotton back herself.

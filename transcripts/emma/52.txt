@@ -1,0 +1,250 @@
+000001|It was a very great relief to Emma to find Harriet as desirous as herself to avoid a meeting.
+000002|Their intercourse was painful enough by letter.
+000003|How much worse, had they been obliged to meet!
+000004|Harriet expressed herself very much as might be supposed, without reproaches, or apparent sense of ill-usage;
+000005|and yet Emma fancied there was a something of resentment, a something bordering on it in her style, which increased the desirableness of their being separate.
+000006|It might be only her own consciousness;
+000007|but it seemed as if an angel only could have been quite without resentment under such a stroke.
+000008|She had no difficulty in procuring Isabella's invitation;
+000009|and she was fortunate in having a sufficient reason for asking it, without resorting to invention.
+000010|There was a tooth amiss.
+000011|Harriet really wished, and had wished some time, to consult a dentist.
+000012|misess John Knightley was delighted to be of use;
+000013|any thing of ill health was a recommendation to her -- and though not so fond of a dentist as of a mister Wingfield, she was quite eager to have Harriet under her care.
+000014|When it was thus settled on her sister's side, Emma proposed it to her friend, and found her very persuadable.
+000015|Harriet was to go;
+000016|she was invited for at least a fortnight;
+000017|she was to be conveyed in mister Woodhouse's carriage.
+000018|It was all arranged, it was all completed, and Harriet was safe in Brunswick Square.
+000019|Now Emma could, indeed, enjoy mister Knightley's visits;
+000020|now she could talk, and she could listen with true happiness, unchecked by that sense of injustice, of guilt, of something most painful, which had haunted her when remembering how disappointed a heart was near her, how much might at that moment, and at a little distance, be enduring by the feelings which she had led astray herself.
+000021|The difference of Harriet at misess Goddard's, or in London, made perhaps an unreasonable difference in Emma's sensations;
+000022|but she could not think of her in London without objects of curiosity and employment, which must be averting the past, and carrying her out of herself.
+000023|She would not allow any other anxiety to succeed directly to the place in her mind which Harriet had occupied.
+000024|There was a communication before her, one which she only could be competent to make -- the confession of her engagement to her father;
+000025|but she would have nothing to do with it at present.
+000026|She had resolved to defer the disclosure till misess Weston were safe and well.
+000027|No additional agitation should be thrown at this period among those she loved -- and the evil should not act on herself by anticipation before the appointed time.
+000028|A fortnight, at least, of leisure and peace of mind, to crown every warmer, but more agitating, delight, should be hers.
+000029|She soon resolved, equally as a duty and a pleasure, to employ half an hour of this holiday of spirits in calling on Miss Fairfax.
+000030|She ought to go -- and she was longing to see her;
+000031|the resemblance of their present situations increasing every other motive of goodwill.
+000032|It would be a secret satisfaction;
+000033|but the consciousness of a similarity of prospect would certainly add to the interest with which she should attend to any thing Jane might communicate.
+000034|She went -- she had driven once unsuccessfully to the door, but had not been into the house since the morning after Box Hill, when poor Jane had been in such distress as had filled her with compassion, though all the worst of her sufferings had been unsuspected.
+000035|The fear of being still unwelcome, determined her, though assured of their being at home, to wait in the passage, and send up her name.
+000036|She heard Patty announcing it;
+000037|but no such bustle succeeded as poor Miss Bates had before made so happily intelligible.
+000038|No;
+000039|she heard nothing but the instant reply of, "Beg her to walk up;"
+000040|and a moment afterwards she was met on the stairs by Jane herself, coming eagerly forward, as if no other reception of her were felt sufficient.
+000041|Emma had never seen her look so well, so lovely, so engaging.
+000042|There was consciousness, animation, and warmth;
+000043|there was every thing which her countenance or manner could ever have wanted.
+000044|She came forward with an offered hand;
+000045|and said, in a low, but very feeling tone,
+000046|This is most kind, indeed!
+000047|Miss Woodhouse, it is impossible for me to express -- I hope you will believe -- Excuse me for being so entirely without words.
+000048|Emma was gratified, and would soon have shewn no want of words, if the sound of misess Elton's voice from the sitting-room had not checked her, and made it expedient to compress all her friendly and all her congratulatory sensations into a very, very earnest shake of the hand.
+000049|misess Bates and misess Elton were together.
+000050|Miss Bates was out, which accounted for the previous tranquillity.
+000051|Emma could have wished misess Elton elsewhere;
+000052|but she was in a humour to have patience with every body;
+000053|and as misess Elton met her with unusual graciousness, she hoped the rencontre would do them no harm.
+000054|She soon believed herself to penetrate misess Elton's thoughts, and understand why she was, like herself, in happy spirits;
+000055|it was being in Miss Fairfax's confidence, and fancying herself acquainted with what was still a secret to other people.
+000056|Emma saw symptoms of it immediately in the expression of her face;
+000057|and while paying her own compliments to misess Bates, and appearing to attend to the good old lady's replies, she saw her with a sort of anxious parade of mystery fold up a letter which she had apparently been reading aloud to Miss Fairfax, and return it into the purple and gold reticule by her side, saying, with significant nods,
+000058|We can finish this some other time, you know.
+000059|You and I shall not want opportunities.
+000060|And, in fact, you have heard all the essential already.
+000061|I only wanted to prove to you that misess S.
+000062|admits our apology, and is not offended.
+000063|You see how delightfully she writes.
+000064|Oh! she is a sweet creature!
+000065|You would have doated on her, had you gone.
+000066|But not a word more.
+000067|Let us be discreet -- quite on our good behaviour.
+000068|Hush!
+000069|You remember those lines -- I forget the poem at this moment:
+000070|For when a lady's in the case, you know all other things give place.
+000071|Now I say, my dear, in our case, for lady, read -- mum!
+000072|a word to the wise.
+000073|I am in a fine flow of spirits, an't I?
+000074|But I want to set your heart at ease as to misess S.
+000075|My representation, you see, has quite appeased her.
+000076|And again, on Emma's merely turning her head to look at misess Bates's knitting, she added, in a half whisper,
+000077|I mentioned no names, you will observe.
+000078|Oh! no;
+000079|cautious as a minister of state.
+000080|I managed it extremely well.
+000081|Emma could not doubt.
+000082|It was a palpable display, repeated on every possible occasion.
+000083|When they had all talked a little while in harmony of the weather and misess Weston, she found herself abruptly addressed with,
+000084|Do not you think, Miss Woodhouse, our saucy little friend here is charmingly recovered?
+000085|Do not you think her cure does Perry the highest credit?
+000086|Here was a side-glance of great meaning at Jane.
+000087|Upon my word, Perry has restored her in a wonderful short time!
+000088|Oh! if you had seen her, as I did, when she was at the worst!
+000089|And when misess Bates was saying something to Emma, whispered farther, "We do not say a word of any assistance that Perry might have;"
+000090|not a word of a certain young physician from Windsor.
+000091|Oh! no;
+000092|Perry shall have all the credit.
+000093|"I have scarce had the pleasure of seeing you, Miss Woodhouse," she shortly afterwards began, "since the party to Box Hill."
+000094|Very pleasant party.
+000095|But yet I think there was something wanting.
+000096|Things did not seem -- that is, there seemed a little cloud upon the spirits of some.
+000097|So it appeared to me at least, but I might be mistaken.
+000098|However, I think it answered so far as to tempt one to go again.
+000099|What say you both to our collecting the same party, and exploring to Box Hill again, while the fine weather lasts?
+000100|It must be the same party, you know, quite the same party, not one exception.
+000101|Soon after this Miss Bates came in, and Emma could not help being diverted by the perplexity of her first answer to herself, resulting, she supposed, from doubt of what might be said, and impatience to say every thing.
+000102|Thank you, dear Miss Woodhouse, you are all kindness.
+000103|It is impossible to say -- Yes, indeed, I quite understand -- dearest Jane's prospects -- that is, I do not mean.
+000104|But she is charmingly recovered.
+000105|How is mister Woodhouse?
+000106|I am so glad.
+000107|Quite out of my power.
+000108|Such a happy little circle as you find us here.
+000109|Yes, indeed.
+000110|Charming young man!
+000111|that is -- so very friendly;
+000112|I mean good mister Perry! -- such attention to Jane!
+000113|And from her great, her more than commonly thankful delight towards misess Elton for being there, Emma guessed that there had been a little show of resentment towards Jane, from the vicarage quarter, which was now graciously overcome.
+000114|After a few whispers, indeed, which placed it beyond a guess, misess Elton, speaking louder, said,
+000115|Yes, here I am, my good friend;
+000116|and here I have been so long, that anywhere else I should think it necessary to apologise;
+000117|but, the truth is, that I am waiting for my lord and master.
+000118|He promised to join me here, and pay his respects to you.
+000119|What! are we to have the pleasure of a call from mister Elton?
+000120|That will be a favour indeed! for I know gentlemen do not like morning visits, and mister Elton's time is so engaged.
+000121|Upon my word it is, Miss Bates.
+000122|He really is engaged from morning to night.
+000123|There is no end of people's coming to him, on some pretence or other.
+000124|The magistrates, and overseers, and churchwardens, are always wanting his opinion.
+000125|They seem not able to do any thing without him.
+000126|'Upon my word, mister E.,' I often say, 'rather you than I.
+000127|I do not know what would become of my crayons and my instrument, if I had half so many applicants.'
+000128|Bad enough as it is, for I absolutely neglect them both to an unpardonable degree.
+000129|I believe I have not played a bar this fortnight.
+000130|However, he is coming, I assure you: yes, indeed, on purpose to wait on you all.
+000131|And putting up her hand to screen her words from Emma
+000132|A congratulatory visit, you know.
+000133|Oh! yes, quite indispensable.
+000134|Miss Bates looked about her, so happily!
+000135|He promised to come to me as soon as he could disengage himself from Knightley;
+000136|but he and Knightley are shut up together in deep consultation.
+000137|mister E. is Knightley's right hand.
+000138|Emma would not have smiled for the world, and only said, "Is mister Elton gone on foot to Donwell?"
+000139|He will have a hot walk.
+000140|Oh! no, it is a meeting at the Crown, a regular meeting.
+000141|Weston and Cole will be there too;
+000142|but one is apt to speak only of those who lead.
+000143|I fancy mister E. and Knightley have every thing their own way.
+000144|"Have not you mistaken the day?" said Emma.
+000145|I am almost certain that the meeting at the Crown is not till to-morrow.
+000146|mister Knightley was at Hartfield yesterday, and spoke of it as for Saturday.
+000147|"Oh! no, the meeting is certainly to-day," was the abrupt answer, which denoted the impossibility of any blunder on misess Elton's side.
+000148|"I do believe," she continued, "this is the most troublesome parish that ever was."
+000149|We never heard of such things at Maple Grove.
+000150|"Your parish there was small," said Jane.
+000151|Upon my word, my dear, I do not know, for I never heard the subject talked of.
+000152|But it is proved by the smallness of the school, which I have heard you speak of, as under the patronage of your sister and misess Bragge;
+000153|the only school, and not more than five-and-twenty children.
+000154|Ah! you clever creature, that's very true.
+000155|What a thinking brain you have!
+000156|I say, Jane, what a perfect character you and I should make, if we could be shaken together.
+000157|My liveliness and your solidity would produce perfection.
+000158|Not that I presume to insinuate, however, that some people may not think you perfection already.
+000159|But hush!
+000160|not a word, if you please.
+000161|It seemed an unnecessary caution;
+000162|Jane was wanting to give her words, not to misess Elton, but to Miss Woodhouse, as the latter plainly saw.
+000163|The wish of distinguishing her, as far as civility permitted, was very evident, though it could not often proceed beyond a look.
+000164|mister Elton made his appearance.
+000165|His lady greeted him with some of her sparkling vivacity.
+000166|Very pretty, sir, upon my word;
+000167|to send me on here, to be an encumbrance to my friends, so long before you vouchsafe to come!
+000168|But you knew what a dutiful creature you had to deal with.
+000169|You knew I should not stir till my lord and master appeared.
+000170|Here have I been sitting this hour, giving these young ladies a sample of true conjugal obedience -- for who can say, you know, how soon it may be wanted?
+000171|mister Elton was so hot and tired, that all this wit seemed thrown away.
+000172|His civilities to the other ladies must be paid;
+000173|but his subsequent object was to lament over himself for the heat he was suffering, and the walk he had had for nothing.
+000174|"When I got to Donwell," said he, "Knightley could not be found."
+000175|Very odd! very unaccountable!
+000176|after the note I sent him this morning, and the message he returned, that he should certainly be at home till one.
+000177|"Donwell!" cried his wife.
+000178|My dear mister E., you have not been to Donwell!
+000179|You mean the Crown;
+000180|you come from the meeting at the Crown.
+000181|No, no, that's to-morrow;
+000182|and I particularly wanted to see Knightley to-day on that very account.
+000183|Such a dreadful broiling morning!
+000184|I went over the fields too -- speaking in a tone of great ill-usage, which made it so much the worse.
+000185|And then not to find him at home!
+000186|I assure you I am not at all pleased.
+000187|And no apology left, no message for me.
+000188|The housekeeper declared she knew nothing of my being expected.
+000189|Very extraordinary!
+000190|And nobody knew at all which way he was gone.
+000191|Perhaps to Hartfield, perhaps to the Abbey Mill, perhaps into his woods.
+000192|Miss Woodhouse, this is not like our friend Knightley!
+000193|Can you explain it?
+000194|Emma amused herself by protesting that it was very extraordinary, indeed, and that she had not a syllable to say for him.
+000195|"I cannot imagine," said misess Elton, feeling the indignity as a wife ought to do, "I cannot imagine how he could do such a thing by you, of all people in the world!"
+000196|The very last person whom one should expect to be forgotten!
+000197|My dear mister E., he must have left a message for you, I am sure he must.
+000198|Not even Knightley could be so very eccentric;
+000199|and his servants forgot it.
+000200|Depend upon it, that was the case: and very likely to happen with the Donwell servants, who are all, I have often observed, extremely awkward and remiss.
+000201|I am sure I would not have such a creature as his Harry stand at our sideboard for any consideration.
+000202|And as for misess Hodges, Wright holds her very cheap indeed.
+000203|She promised Wright a receipt, and never sent it.
+000204|"I met William Larkins," continued mister Elton, "as I got near the house, and he told me I should not find his master at home, but I did not believe him.
+000205|William seemed rather out of humour.
+000206|He did not know what was come to his master lately, he said, but he could hardly ever get the speech of him.
+000207|I have nothing to do with William's wants, but it really is of very great importance that I should see Knightley to-day;
+000208|and it becomes a matter, therefore, of very serious inconvenience that I should have had this hot walk to no purpose.
+000209|Emma felt that she could not do better than go home directly.
+000210|In all probability she was at this very time waited for there;
+000211|and mister Knightley might be preserved from sinking deeper in aggression towards mister Elton, if not towards William Larkins.
+000212|She was pleased, on taking leave, to find Miss Fairfax determined to attend her out of the room, to go with her even downstairs;
+000213|it gave her an opportunity which she immediately made use of, to say,
+000214|It is as well, perhaps, that I have not had the possibility.
+000215|Had you not been surrounded by other friends, I might have been tempted to introduce a subject, to ask questions, to speak more openly than might have been strictly correct.
+000216|I feel that I should certainly have been impertinent.
+000217|"Oh!" cried Jane, with a blush and an hesitation which Emma thought infinitely more becoming to her than all the elegance of all her usual composure -- "there would have been no danger."
+000218|The danger would have been of my wearying you.
+000219|You could not have gratified me more than by expressing an interest -- .
+000220|Indeed, Miss Woodhouse, speaking more collectedly, with the consciousness which I have of misconduct, very great misconduct, it is particularly consoling to me to know that those of my friends, whose good opinion is most worth preserving, are not disgusted to such a degree as to -- I have not time for half that I could wish to say.
+000221|I long to make apologies, excuses, to urge something for myself.
+000222|I feel it so very due.
+000223|But, unfortunately -- in short, if your compassion does not stand my friend
+000224|"Oh! you are too scrupulous, indeed you are," cried Emma warmly, and taking her hand.
+000225|You owe me no apologies;
+000226|and every body to whom you might be supposed to owe them, is so perfectly satisfied, so delighted even
+000227|You are very kind, but I know what my manners were to you.
+000228|So cold and artificial!
+000229|I had always a part to act.
+000230|It was a life of deceit!
+000231|I know that I must have disgusted you.
+000232|Pray say no more.
+000233|I feel that all the apologies should be on my side.
+000234|Let us forgive each other at once.
+000235|We must do whatever is to be done quickest, and I think our feelings will lose no time there.
+000236|I hope you have pleasant accounts from Windsor?
+000237|Very.
+000238|And the next news, I suppose, will be, that we are to lose you -- just as I begin to know you.
+000239|Oh! as to all that, of course nothing can be thought of yet.
+000240|I am here till claimed by Colonel and misess Campbell.
+000241|"Nothing can be actually settled yet, perhaps," replied Emma, smiling -- "but, excuse me, it must be thought of."
+000242|The smile was returned as Jane answered,
+000243|You are very right;
+000244|it has been thought of.
+000245|And I will own to you, (I am sure it will be safe), that so far as our living with mister Churchill at Enscombe, it is settled.
+000246|There must be three months, at least, of deep mourning;
+000247|but when they are over, I imagine there will be nothing more to wait for.
+000248|Thank you, thank you.
+000249|This is just what I wanted to be assured of.
+000250|Oh! if you knew how much I love every thing that is decided and open!

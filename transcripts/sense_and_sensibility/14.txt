@@ -1,0 +1,80 @@
+000001|The sudden termination of Colonel Brandon's visit at the park, with his steadiness in concealing its cause, filled the mind, and raised the wonder of misess Jennings for two or three days;
+000002|she was a great wonderer, as every one must be who takes a very lively interest in all the comings and goings of all their acquaintance.
+000003|She wondered, with little intermission what could be the reason of it;
+000004|was sure there must be some bad news, and thought over every kind of distress that could have befallen him, with a fixed determination that he should not escape them all.
+000005|"Something very melancholy must be the matter, I am sure," said she.
+000006|I could see it in his face.
+000007|Poor man!
+000008|I am afraid his circumstances may be bad.
+000009|The estate at Delaford was never reckoned more than two thousand a year, and his brother left everything sadly involved.
+000010|I do think he must have been sent for about money matters, for what else can it be?
+000011|I wonder whether it is so.
+000012|I would give anything to know the truth of it.
+000013|Perhaps it is about Miss Williams and, by the bye, I dare say it is, because he looked so conscious when I mentioned her.
+000014|May be she is ill in town;
+000015|nothing in the world more likely, for I have a notion she is always rather sickly.
+000016|I would lay any wager it is about Miss Williams.
+000017|It is not so very likely he should be distressed in his circumstances now, for he is a very prudent man, and to be sure must have cleared the estate by this time.
+000018|I wonder what it can be!
+000019|May be his sister is worse at Avignon, and has sent for him over.
+000020|His setting off in such a hurry seems very like it.
+000021|Well, I wish him out of all his trouble with all my heart, and a good wife into the bargain.
+000022|So wondered, so talked misess Jennings.
+000023|Her opinion varying with every fresh conjecture, and all seeming equally probable as they arose.
+000024|Elinor, though she felt really interested in the welfare of Colonel Brandon, could not bestow all the wonder on his going so suddenly away, which misess Jennings was desirous of her feeling;
+000025|for besides that the circumstance did not in her opinion justify such lasting amazement or variety of speculation, her wonder was otherwise disposed of.
+000026|It was engrossed by the extraordinary silence of her sister and Willoughby on the subject, which they must know to be peculiarly interesting to them all.
+000027|As this silence continued, every day made it appear more strange and more incompatible with the disposition of both.
+000028|Why they should not openly acknowledge to her mother and herself, what their constant behaviour to each other declared to have taken place, Elinor could not imagine.
+000029|She could easily conceive that marriage might not be immediately in their power;
+000030|for though Willoughby was independent, there was no reason to believe him rich.
+000031|His estate had been rated by Sir John at about six or seven hundred a year;
+000032|but he lived at an expense to which that income could hardly be equal, and he had himself often complained of his poverty.
+000033|But for this strange kind of secrecy maintained by them relative to their engagement, which in fact concealed nothing at all, she could not account;
+000034|and it was so wholly contradictory to their general opinions and practice, that a doubt sometimes entered her mind of their being really engaged, and this doubt was enough to prevent her making any inquiry of Marianne.
+000035|Nothing could be more expressive of attachment to them all, than Willoughby's behaviour.
+000036|To Marianne it had all the distinguishing tenderness which a lover's heart could give, and to the rest of the family it was the affectionate attention of a son and a brother.
+000037|The cottage seemed to be considered and loved by him as his home;
+000038|many more of his hours were spent there than at Allenham;
+000039|and if no general engagement collected them at the park, the exercise which called him out in the morning was almost certain of ending there, where the rest of the day was spent by himself at the side of Marianne, and by his favourite pointer at her feet.
+000040|One evening in particular, about a week after Colonel Brandon left the country, his heart seemed more than usually open to every feeling of attachment to the objects around him;
+000041|and on misess Dashwood's happening to mention her design of improving the cottage in the spring, he warmly opposed every alteration of a place which affection had established as perfect with him.
+000042|"What!" he exclaimed -- "Improve this dear cottage!"
+000043|No.
+000044|that I will never consent to.
+000045|Not a stone must be added to its walls, not an inch to its size, if my feelings are regarded.
+000046|"Do not be alarmed," said Miss Dashwood, "nothing of the kind will be done;"
+000047|for my mother will never have money enough to attempt it.
+000048|"I am heartily glad of it," he cried.
+000049|May she always be poor, if she can employ her riches no better.
+000050|Thank you, Willoughby.
+000051|But you may be assured that I would not sacrifice one sentiment of local attachment of yours, or of any one whom I loved, for all the improvements in the world.
+000052|Depend upon it that whatever unemployed sum may remain, when I make up my accounts in the spring, I would even rather lay it uselessly by than dispose of it in a manner so painful to you.
+000053|But are you really so attached to this place as to see no defect in it?
+000054|"I am," said he.
+000055|To me it is faultless.
+000056|Nay, more, I consider it as the only form of building in which happiness is attainable, and were I rich enough I would instantly pull Combe down, and build it up again in the exact plan of this cottage.
+000057|"With dark narrow stairs and a kitchen that smokes, I suppose," said Elinor.
+000058|"Yes," cried he in the same eager tone, "with all and every thing belonging to it;"
+000059|in no one convenience or inconvenience about it, should the least variation be perceptible.
+000060|Then, and then only, under such a roof, I might perhaps be as happy at Combe as I have been at Barton.
+000061|"I flatter myself," replied Elinor, "that even under the disadvantage of better rooms and a broader staircase, you will hereafter find your own house as faultless as you now do this."
+000062|"There certainly are circumstances," said Willoughby, "which might greatly endear it to me;"
+000063|but this place will always have one claim of my affection, which no other can possibly share.
+000064|misess Dashwood looked with pleasure at Marianne, whose fine eyes were fixed so expressively on Willoughby, as plainly denoted how well she understood him.
+000065|"How often did I wish," added he, "when I was at Allenham this time twelvemonth, that Barton cottage were inhabited!"
+000066|I never passed within view of it without admiring its situation, and grieving that no one should live in it.
+000067|How little did I then think that the very first news I should hear from misess Smith, when I next came into the country, would be that Barton cottage was taken: and I felt an immediate satisfaction and interest in the event, which nothing but a kind of prescience of what happiness I should experience from it, can account for.
+000068|"Must it not have been so, Marianne?" speaking to her in a lowered voice.
+000069|Then continuing his former tone, he said, "And yet this house you would spoil, misess Dashwood?"
+000070|You would rob it of its simplicity by imaginary improvement!
+000071|and this dear parlour in which our acquaintance first began, and in which so many happy hours have been since spent by us together, you would degrade to the condition of a common entrance, and every body would be eager to pass through the room which has hitherto contained within itself more real accommodation and comfort than any other apartment of the handsomest dimensions in the world could possibly afford.
+000072|misess Dashwood again assured him that no alteration of the kind should be attempted.
+000073|"You are a good woman," he warmly replied.
+000074|Your promise makes me easy.
+000075|Extend it a little farther, and it will make me happy.
+000076|Tell me that not only your house will remain the same, but that I shall ever find you and yours as unchanged as your dwelling;
+000077|and that you will always consider me with the kindness which has made everything belonging to you so dear to me.
+000078|The promise was readily given, and Willoughby's behaviour during the whole of the evening declared at once his affection and happiness.
+000079|"Shall we see you tomorrow to dinner?" said misess Dashwood, when he was leaving them.
+000080|I do not ask you to come in the morning, for we must walk to the park, to call on Lady Middleton.

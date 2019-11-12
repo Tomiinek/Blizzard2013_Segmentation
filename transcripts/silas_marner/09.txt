@@ -1,0 +1,157 @@
+000001|Awaiting his father, who always took a walk with his managing-man before breakfast.
+000002|Every one breakfasted at a different hour in the Red House, and the Squire was always the latest, giving a long chance to a rather feeble morning appetite before he tried it.
+000003|The table had been spread with substantial eatables nearly two hours before he presented himself -- a tall, stout man of sixty, with a face in which the knit brow and rather hard glance seemed contradicted by the slack and feeble mouth.
+000004|His person showed marks of habitual neglect, his dress was slovenly;
+000005|and yet there was something in the presence of the old Squire distinguishable from that of the ordinary farmers in the parish, who were perhaps every whit as refined as he, but, having slouched their way through life with a consciousness of being in the vicinity of their "betters", wanted that self-possession and authoritativeness of voice and carriage which belonged to a man who thought of superiors as remote existences with whom he had personally little more to do than with America or the stars.
+000006|The Squire had been used to parish homage all his life, used to the presupposition that his family, his tankards, and everything that was his, were the oldest and best;
+000007|and as he never associated with any gentry higher than himself, his opinion was not disturbed by comparison.
+000008|He glanced at his son as he entered the room, and said, "What, sir!"
+000009|"haven't you had your breakfast yet?" but there was no pleasant morning greeting between them;
+000010|not because of any unfriendliness, but because the sweet flower of courtesy is not a growth of such homes as the Red House.
+000011|"Yes, sir," said Godfrey, "I've had my breakfast, but I was waiting to speak to you."
+000012|"Ah! well," said the Squire, throwing himself indifferently into his chair, and speaking in a ponderous coughing fashion, which was felt in Raveloe to be a sort of privilege of his rank, while he cut a piece of beef, and held it up before the deer-hound that had come in with him.
+000013|Ring the bell for my ale, will you?
+000014|You youngsters' business is your own pleasure, mostly.
+000015|There's no hurry about it for anybody but yourselves.
+000016|The Squire's life was quite as idle as his sons', but it was a fiction kept up by himself and his contemporaries in Raveloe that youth was exclusively the period of folly, and that their aged wisdom was constantly in a state of endurance mitigated by sarcasm.
+000017|Godfrey waited, before he spoke again, until the ale had been brought and the door closed -- an interval during which Fleet, the deer-hound, had consumed enough bits of beef to make a poor man's holiday dinner.
+000018|"There's been a cursed piece of ill-luck with Wildfire," he began;
+000019|happened the day before yesterday.
+000020|"What! broke his knees?" said the Squire, after taking a draught of ale.
+000021|I thought you knew how to ride better than that, sir.
+000022|I never threw a horse down in my life.
+000023|If I had, I might ha' whistled for another, for my father wasn't quite so ready to unstring as some other fathers I know of.
+000024|But they must turn over a new leaf -- they must.
+000025|What with mortgages and arrears, I'm as short o' cash as a roadside pauper.
+000026|And that fool Kimble says the newspaper's talking about peace.
+000027|Why, the country wouldn't have a leg to stand on.
+000028|Prices 'ud run down like a jack, and I should never get my arrears, not if I sold all the fellows up.
+000029|And there's that damned Fowler, I won't put up with him any longer;
+000030|I've told Winthrop to go to Cox this very day.
+000031|The lying scoundrel told me he'd be sure to pay me a hundred last month.
+000032|He takes advantage because he's on that outlying farm, and thinks I shall forget him.
+000033|The Squire had delivered this speech in a coughing and interrupted manner, but with no pause long enough for Godfrey to make it a pretext for taking up the word again.
+000034|He felt that his father meant to ward off any request for money on the ground of the misfortune with Wildfire, and that the emphasis he had thus been led to lay on his shortness of cash and his arrears was likely to produce an attitude of mind the utmost unfavourable for his own disclosure.
+000035|But he must go on, now he had begun.
+000036|"It's worse than breaking the horse's knees -- he's been staked and killed," he said, as soon as his father was silent, and had begun to cut his meat.
+000037|But I wasn't thinking of asking you to buy me another horse;
+000038|I was only thinking I'd lost the means of paying you with the price of Wildfire, as I'd meant to do.
+000039|Dunsey took him to the hunt to sell him for me the other day, and after he'd made a bargain for a hundred and twenty with Bryce, he went after the hounds, and took some fool's leap or other that did for the horse at once.
+000040|If it hadn't been for that, I should have paid you a hundred pounds this morning.
+000041|The Squire had laid down his knife and fork, and was staring at his son in amazement, not being sufficiently quick of brain to form a probable guess as to what could have caused so strange an inversion of the paternal and filial relations as this proposition of his son to pay him a hundred pounds.
+000042|"The truth is, sir -- I'm very sorry -- I was quite to blame," said Godfrey.
+000043|Fowler did pay that hundred pounds.
+000044|He paid it to me, when I was over there one day last month.
+000045|And Dunsey bothered me for the money, and I let him have it, because I hoped I should be able to pay it you before this.
+000046|The Squire was purple with anger before his son had done speaking, and found utterance difficultimate.
+000047|You let Dunsey have it, sir?
+000048|And how long have you been so thick with Dunsey that you must collogue with him to embezzle my money?
+000049|Are you turning out a scamp?
+000050|I tell you I won't have it.
+000051|I'll turn the whole pack of you out of the house together, and marry again.
+000052|I'd have you to remember, sir, my property's got no entail on it;
+000053|since my grandfather's time the Casses can do as they like with their land.
+000054|Remember that, sir.
+000055|Let Dunsey have the money!
+000056|Why should you let Dunsey have the money?
+000057|There's some lie at the bottom of it.
+000058|"There's no lie, sir," said Godfrey.
+000059|I wouldn't have spent the money myself, but Dunsey bothered me, and I was a fool, and let him have it.
+000060|But I meant to pay it, whether he did or not.
+000061|That's the whole story.
+000062|I never meant to embezzle money, and I'm not the man to do it.
+000063|You never knew me do a dishonest trick, sir.
+000064|Where's Dunsey, then?
+000065|What do you stand talking there for?
+000066|Go and fetch Dunsey, as I tell you, and let him give account of what he wanted the money for, and what he's done with it.
+000067|He shall repent it.
+000068|I'll turn him out.
+000069|I said I would, and I'll do it.
+000070|He shan't brave me.
+000071|Go and fetch him.
+000072|Dunsey isn't come back, sir.
+000073|What!
+000074|"did he break his own neck, then?" said the Squire, with some disgust at the idea that, in that case, he could not fulfil his threat.
+000075|No, he wasn't hurt, I believe, for the horse was found dead, and Dunsey must have walked off.
+000076|I daresay we shall see him again by-and-by.
+000077|I don't know where he is.
+000078|And what must you be letting him have my money for?
+000079|"Answer me that," said the Squire, attacking Godfrey again, since Dunsey was not within reach.
+000080|"Well, sir, I don't know," said Godfrey, hesitatingly.
+000081|That was a feeble evasion, but Godfrey was not fond of lying, and, not being sufficiently aware that no sort of duplicity can long flourish without the help of vocal falsehoods, he was quite unprepared with invented motives.
+000082|You don't know?
+000083|I tell you what it is, sir.
+000084|"You've been up to some trick, and you've been bribing him not to tell," said the Squire, with a sudden acuteness which startled Godfrey, who felt his heart beat violently at the nearness of his father's guess.
+000085|The sudden alarm pushed him on to take the next step -- a very slight impulse suffices for that on a downward road.
+000086|"Why, sir," he said, trying to speak with careless ease, "it was a little affair between me and Dunsey;"
+000087|it's no matter to anybody else.
+000088|It's hardly worth while to pry into young men's fooleries: it wouldn't have made any difference to you, sir, if I'd not had the bad luck to lose Wildfire.
+000089|I should have paid you the money.
+000090|Fooleries!
+000091|Pshaw!
+000092|it's time you'd done with fooleries.
+000093|"And I'd have you know, sir, you must ha' done with 'em," said the Squire, frowning and casting an angry glance at his son.
+000094|Your goings-on are not what I shall find money for any longer.
+000095|There's my grandfather had his stables full o' horses, and kept a good house, too, and in worse times, by what I can make out;
+000096|and so might I, if I hadn't four good-for-nothing fellows to hang on me like horse-leeches.
+000097|I've been too good a father to you all -- that's what it is.
+000098|But I shall pull up, sir.
+000099|Godfrey was silent.
+000100|He was not likely to be very penetrating in his judgments, but he had always had a sense that his father's indulgence had not been kindness, and had had a vague longing for some discipline that would have checked his own errant weakness and helped his better will.
+000101|The Squire ate his bread and meat hastily, took a deep draught of ale, then turned his chair from the table, and began to speak again.
+000102|It'll be all the worse for you, you know -- you'd need try and help me keep things together.
+000103|Well, sir, I've often offered to take the management of things, but you know you've taken it ill always, and seemed to think I wanted to push you out of your place.
+000104|"I know nothing o' your offering or o' my taking it ill," said the Squire, whose memory consisted in certain strong impressions unmodified by detail;
+000105|but I know, one while you seemed to be thinking o' marrying, and I didn't offer to put any obstacles in your way, as some fathers would.
+000106|I'd as lieve you married Lammeter's daughter as anybody.
+000107|I suppose, if I'd said you nay, you'd ha' kept on with it;
+000108|but, for want o' contradiction, you've changed your mind.
+000109|You're a shilly-shally fellow: you take after your poor mother.
+000110|She never had a will of her own;
+000111|a woman has no call for one, if she's got a proper man for her husband.
+000112|But your wife had need have one, for you hardly know your own mind enough to make both your legs walk one way.
+000113|The lass hasn't said downright she won't have you, has she?
+000114|"No," said Godfrey, feeling very hot and uncomfortable;
+000115|but I don't think she will.
+000116|Think!
+000117|why haven't you the courage to ask her?
+000118|Do you stick to it, you want to have her -- that's the thing?
+000119|"There's no other woman I want to marry," said Godfrey, evasively.
+000120|Well, then, let me make the offer for you, that's all, if you haven't the pluck to do it yourself.
+000121|Lammeter isn't likely to be loath for his daughter to marry into my family, I should think.
+000122|And as for the pretty lass, she wouldn't have her cousin -- and there's nobody else, as I see, could ha' stood in your way.
+000123|"I'd rather let it be, please sir, at present," said Godfrey, in alarm.
+000124|I think she's a little offended with me just now, and I should like to speak for myself.
+000125|A man must manage these things for himself.
+000126|Well, speak, then, and manage it, and see if you can't turn over a new leaf.
+000127|That's what a man must do when he thinks o' marrying.
+000128|I don't see how I can think of it at present, sir.
+000129|You wouldn't like to settle me on one of the farms, I suppose, and I don't think she'd come to live in this house with all my brothers.
+000130|It's a different sort of life to what she's been used to.
+000131|Not come to live in this house?
+000132|Don't tell me.
+000133|"You ask her, that's all," said the Squire, with a short, scornful laugh.
+000134|"I'd rather let the thing be, at present, sir," said Godfrey.
+000135|I hope you won't try to hurry it on by saying anything.
+000136|"I shall do what I choose," said the Squire, "and I shall let you know I'm master;"
+000137|else you may turn out and find an estate to drop into somewhere else.
+000138|Go out and tell Winthrop not to go to Cox's, but wait for me.
+000139|And tell 'em to get my horse saddled.
+000140|And stop: look out and get that hack o' Dunsey's sold, and hand me the money, will you?
+000141|He'll keep no more hacks at my expense.
+000142|And if you know where he's sneaking -- I daresay you do -- you may tell him to spare himself the journey o' coming back home.
+000143|Let him turn ostler, and keep himself.
+000144|He shan't hang on me any more.
+000145|I don't know where he is, sir;
+000146|"and if I did, it isn't my place to tell him to keep away," said Godfrey, moving towards the door.
+000147|"Confound it, sir, don't stay arguing, but go and order my horse," said the Squire, taking up a pipe.
+000148|Godfrey left the room, hardly knowing whether he were more relieved by the sense that the interview was ended without having made any change in his position, or more uneasy that he had entangled himself still further in prevarication and deceit.
+000149|What had passed about his proposing to Nancy had raised a new alarm, lest by some after-dinner words of his father's to mister Lammeter he should be thrown into the embarrassment of being obliged absolutely to decline her when she seemed to be within his reach.
+000150|He fled to his usual refuge, that of hoping for some unforeseen turn of fortune, some favourable chance which would save him from unpleasant consequences -- perhaps even justify his insincerity by manifesting its prudence.
+000151|And in this point of trusting to some throw of fortune's dice, Godfrey can hardly be called specially old-fashioned.
+000152|Favourable Chance, I fancy, is the god of all men who follow their own devices instead of obeying a law they believe in.
+000153|Let even a polished man of these days get into a position he is ashamed to avow, and his mind will be bent on all the possible issues that may deliver him from the calculable results of that position.
+000154|Let him live outside his income, or shirk the resolute honest work that brings wages, and he will presently find himself dreaming of a possible benefactor, a possible simpleton who may be cajoled into using his interest, a possible state of mind in some possible person not yet forthcoming.
+000155|Let him neglect the responsibilities of his office, and he will inevitably anchor himself on the chance that the thing left undone may turn out not to be of the supposed importance.
+000156|Let him betray his friend's confidence, and he will adore that same cunning complexity called Chance, which gives him the hope that his friend will never know.
+000157|Let him forsake a decent craft that he may pursue the gentilities of a profession to which nature never called him, and his religion will infallibly be the worship of blessed Chance, which he will believe in as the mighty creator of success.

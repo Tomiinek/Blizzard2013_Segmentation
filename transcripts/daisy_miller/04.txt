@@ -1,0 +1,482 @@
+000001|He flattered himself on the following day that there was no smiling among the servants when he, at least, asked for misess Miller at her hotel.
+000002|This lady and her daughter, however, were not at home;
+000003|and on the next day after, repeating his visit, Winterbourne again had the misfortune not to find them.
+000004|misess Walker's party took place on the evening of the third day, and, in spite of the frigidity of his last interview with the hostess, Winterbourne was among the guests.
+000005|misess Walker was one of those American ladies who, while residing abroad, make a point, in their own phrase, of studying European society, and she had on this occasion collected several specimens of her diversely born fellow mortals to serve, as it were, as textbooks.
+000006|When Winterbourne arrived, Daisy Miller was not there, but in a few moments he saw her mother come in alone, very shyly and ruefully.
+000007|misess Miller's hair above her exposed-looking temples was more frizzled than ever.
+000008|As she approached misess Walker, Winterbourne also drew near.
+000009|"You see, I've come all alone," said poor misess Miller.
+000010|I'm so frightened;
+000011|I don't know what to do.
+000012|It's the first time I've ever been to a party alone, especially in this country.
+000013|I wanted to bring Randolph or Eugenio, or someone, but Daisy just pushed me off by myself.
+000014|I ain't used to going round alone.
+000015|"And does not your daughter intend to favor us with her society?" demanded misess Walker impressively.
+000016|"Well, Daisy's all dressed," said misess Miller with that accent of the dispassionate, if not of the philosophic, historian with which she always recorded the current incidents of her daughter's career.
+000017|She got dressed on purpose before dinner.
+000018|But she's got a friend of hers there;
+000019|that gentleman -- the Italian -- that she wanted to bring.
+000020|They've got going at the piano;
+000021|it seems as if they couldn't leave off.
+000022|mister Giovanelli sings splendidly.
+000023|"But I guess they'll come before very long," concluded misess Miller hopefully.
+000024|"I'm sorry she should come in that way," said misess Walker.
+000025|"Well, I told her that there was no use in her getting dressed before dinner if she was going to wait three hours," responded Daisy's mamma.
+000026|I didn't see the use of her putting on such a dress as that to sit round with mister Giovanelli.
+000027|"This is most horrible!" said misess Walker, turning away and addressing herself to Winterbourne.
+000028|Elle s'affiche.
+000029|It's her revenge for my having ventured to remonstrate with her.
+000030|When she comes, I shall not speak to her.
+000031|Daisy came after eleven o'clock;
+000032|but she was not, on such an occasion, a young lady to wait to be spoken to.
+000033|She rustled forward in radiant loveliness, smiling and chattering, carrying a large bouquet, and attended by mister Giovanelli.
+000034|Everyone stopped talking and turned and looked at her.
+000035|She came straight to misess Walker.
+000036|I'm afraid you thought I never was coming, so I sent mother off to tell you.
+000037|I wanted to make mister Giovanelli practice some things before he came;
+000038|you know he sings beautifully, and I want you to ask him to sing.
+000039|This is mister Giovanelli;
+000040|you know I introduced him to you;
+000041|he's got the most lovely voice, and he knows the most charming set of songs.
+000042|I made him go over them this evening on purpose;
+000043|we had the greatest time at the hotel.
+000044|Of all this Daisy delivered herself with the sweetest, brightest audibleness, looking now at her hostess and now round the room, while she gave a series of little pats, round her shoulders, to the edges of her dress.
+000045|"Is there anyone I know?" she asked.
+000046|"I think every one knows you!" said misess Walker pregnantly, and she gave a very cursory greeting to mister Giovanelli.
+000047|This gentleman bore himself gallantly.
+000048|He smiled and bowed and showed his white teeth;
+000049|he curled his mustaches and rolled his eyes and performed all the proper functions of a handsome Italian at an evening party.
+000050|He sang very prettily half a dozen songs, though misess Walker afterward declared that she had been quite unable to find out who asked him.
+000051|It was apparently not Daisy who had given him his orders.
+000052|Daisy sat at a distance from the piano, and though she had publicly, as it were, professed a high admiration for his singing, talked, not inaudibly, while it was going on.
+000053|It's a pity these rooms are so small;
+000054|"we can't dance," she said to Winterbourne, as if she had seen him five minutes before.
+000055|"I am not sorry we can't dance," Winterbourne answered;
+000056|I don't dance.
+000057|Of course you don't dance;
+000058|"you're too stiff," said Miss Daisy.
+000059|I hope you enjoyed your drive with misess Walker!
+000060|No.
+000061|I didn't enjoy it;
+000062|I preferred walking with you.
+000063|"We paired off: that was much better," said Daisy.
+000064|But did you ever hear anything so cool as misess Walker's wanting me to get into her carriage and drop poor mister Giovanelli, and under the pretext that it was proper?
+000065|People have different ideas!
+000066|It would have been most unkind;
+000067|he had been talking about that walk for ten days.
+000068|"He should not have talked about it at all," said Winterbourne;
+000069|he would never have proposed to a young lady of this country to walk about the streets with him.
+000070|"About the streets?" cried Daisy with her pretty stare.
+000071|Where, then, would he have proposed to her to walk?
+000072|The Pincio is not the streets, either;
+000073|and I, thank goodness, am not a young lady of this country.
+000074|The young ladies of this country have a dreadfully poky time of it, so far as I can learn;
+000075|I don't see why I should change my habits for them.
+000076|"I am afraid your habits are those of a flirt," said Winterbourne gravely.
+000077|"Of course they are," she cried, giving him her little smiling stare again.
+000078|I'm a fearful, frightful flirt!
+000079|Did you ever hear of a nice girl that was not?
+000080|But I suppose you will tell me now that I am not a nice girl.
+000081|You're a very nice girl;
+000082|"but I wish you would flirt with me, and me only," said Winterbourne.
+000083|Ah! thank you -- thank you very much;
+000084|you are the last man I should think of flirting with.
+000085|As I have had the pleasure of informing you, you are too stiff.
+000086|"You say that too often," said Winterbourne.
+000087|Daisy gave a delighted laugh.
+000088|If I could have the sweet hope of making you angry, I should say it again.
+000089|Don't do that;
+000090|when I am angry I'm stiffer than ever.
+000091|But if you won't flirt with me, do cease, at least, to flirt with your friend at the piano;
+000092|they don't understand that sort of thing here.
+000093|"I thought they understood nothing else!" exclaimed Daisy.
+000094|Not in young unmarried women.
+000095|"It seems to me much more proper in young unmarried women than in old married ones," Daisy declared.
+000096|"Well," said Winterbourne, "when you deal with natives you must go by the custom of the place."
+000097|Flirting is a purely American custom;
+000098|it doesn't exist here.
+000099|So when you show yourself in public with mister Giovanelli, and without your mother
+000100|"Gracious! poor Mother!" interposed Daisy.
+000101|Though you may be flirting, mister Giovanelli is not;
+000102|he means something else.
+000103|"He isn't preaching, at any rate," said Daisy with vivacity.
+000104|And if you want very much to know, we are neither of us flirting;
+000105|we are too good friends for that: we are very intimate friends.
+000106|"Ah!" rejoined Winterbourne, "if you are in love with each other, it is another affair."
+000107|She had allowed him up to this point to talk so frankly that he had no expectation of shocking her by this ejaculation;
+000108|but she immediately got up, blushing visibly, and leaving him to exclaim mentally that little American flirts were the queerest creatures in the world.
+000109|"mister Giovanelli, at least," she said, giving her interlocutor a single glance, "never says such very disagreeable things to me."
+000110|Winterbourne was bewildered;
+000111|he stood, staring.
+000112|mister Giovanelli had finished singing.
+000113|He left the piano and came over to Daisy.
+000114|"Won't you come into the other room and have some tea?" he asked, bending before her with his ornamental smile.
+000115|Daisy turned to Winterbourne, beginning to smile again.
+000116|He was still more perplexed, for this inconsequent smile made nothing clear, though it seemed to prove, indeed, that she had a sweetness and softness that reverted instinctively to the pardon of offenses.
+000117|"It has never occurred to mister Winterbourne to offer me any tea," she said with her little tormenting manner.
+000118|"I have offered you advice," Winterbourne rejoined.
+000119|"I prefer weak tea!" cried Daisy, and she went off with the brilliant Giovanelli.
+000120|She sat with him in the adjoining room, in the embrasure of the window, for the rest of the evening.
+000121|There was an interesting performance at the piano, but neither of these young people gave heed to it.
+000122|When Daisy came to take leave of misess Walker, this lady conscientiously repaired the weakness of which she had been guilty at the moment of the young girl's arrival.
+000123|She turned her back straight upon Miss Miller and left her to depart with what grace she might.
+000124|Winterbourne was standing near the door;
+000125|he saw it all.
+000126|Daisy turned very pale and looked at her mother, but misess Miller was humbly unconscious of any violation of the usual social forms.
+000127|She appeared, indeed, to have felt an incongruous impulse to draw attention to her own striking observance of them.
+000128|"Good night, misess Walker," she said;
+000129|we've had a beautiful evening.
+000130|You see, if I let Daisy come to parties without me, I don't want her to go away without me.
+000131|Daisy turned away, looking with a pale, grave face at the circle near the door;
+000132|Winterbourne saw that, for the first moment, she was too much shocked and puzzled even for indignation.
+000133|He on his side was greatly touched.
+000134|"That was very cruel," he said to misess Walker.
+000135|"She never enters my drawing room again!" replied his hostess.
+000136|Since Winterbourne was not to meet her in misess Walker's drawing room, he went as often as possible to misess Miller's hotel.
+000137|The ladies were rarely at home, but when he found them, the devoted Giovanelli was always present.
+000138|Very often the brilliant little Roman was in the drawing room with Daisy alone, misess Miller being apparently constantly of the opinion that discretion is the better part of surveillance.
+000139|Winterbourne noted, at first with surprise, that Daisy on these occasions was never embarrassed or annoyed by his own entrance;
+000140|but he very presently began to feel that she had no more surprises for him;
+000141|the unexpected in her behavior was the only thing to expect.
+000142|She showed no displeasure at her tete-a-tete with Giovanelli being interrupted;
+000143|she could chatter as freshly and freely with two gentlemen as with one;
+000144|there was always, in her conversation, the same odd mixture of audacity and puerility.
+000145|Winterbourne remarked to himself that if she was seriously interested in Giovanelli, it was very singular that she should not take more trouble to preserve the sanctity of their interviews;
+000146|and he liked her the more for her innocent-looking indifference and her apparently inexhaustible good humor.
+000147|He could hardly have said why, but she seemed to him a girl who would never be jealous.
+000148|At the risk of exciting a somewhat derisive smile on the reader's part, I may affirm that with regard to the women who had hitherto interested him, it very often seemed to Winterbourne among the possibilities that, given certain contingencies, he should be afraid -- literally afraid -- of these ladies;
+000149|he had a pleasant sense that he should never be afraid of Daisy Miller.
+000150|It must be added that this sentiment was not altogether flattering to Daisy;
+000151|it was part of his conviction, or rather of his apprehension, that she would prove a very light young person.
+000152|But she was evidently very much interested in Giovanelli.
+000153|She looked at him whenever he spoke;
+000154|she was perpetually telling him to do this and to do that;
+000155|she was constantly "chaffing" and abusing him.
+000156|She appeared completely to have forgotten that Winterbourne had said anything to displease her at misess Walker's little party.
+000157|One Sunday afternoon, having gone to saint Peter's with his aunt, Winterbourne perceived Daisy strolling about the great church in company with the inevitable Giovanelli.
+000158|Presently he pointed out the young girl and her cavalier to misess Costello.
+000159|This lady looked at them a moment through her eyeglass, and then she said:
+000160|That's what makes you so pensive in these days, eh?
+000161|"I had not the least idea I was pensive," said the young man.
+000162|You are very much preoccupied;
+000163|you are thinking of something.
+000164|"And what is it," he asked, "that you accuse me of thinking of?"
+000165|Of that young lady's -- Miss Baker's, Miss Chandler's -- what's her name?
+000166|Miss Miller's intrigue with that little barber's block.
+000167|"Do you call it an intrigue," Winterbourne asked -- "an affair that goes on with such peculiar publicity?"
+000168|"That's their folly," said misess Costello;
+000169|it's not their merit.
+000170|"No," rejoined Winterbourne, with something of that pensiveness to which his aunt had alluded.
+000171|I don't believe that there is anything to be called an intrigue.
+000172|I have heard a dozen people speak of it;
+000173|they say she is quite carried away by him.
+000174|"They are certainly very intimate," said Winterbourne.
+000175|misess Costello inspected the young couple again with her optical instrument.
+000176|He is very handsome.
+000177|One easily sees how it is.
+000178|She thinks him the most elegant man in the world, the finest gentleman.
+000179|She has never seen anything like him;
+000180|he is better, even, than the courier.
+000181|It was the courier probably who introduced him;
+000182|and if he succeeds in marrying the young lady, the courier will come in for a magnificent commission.
+000183|"I don't believe she thinks of marrying him," said Winterbourne, "and I don't believe he hopes to marry her."
+000184|You may be very sure she thinks of nothing.
+000185|She goes on from day to day, from hour to hour, as they did in the Golden Age.
+000186|I can imagine nothing more vulgar.
+000187|"And at the same time," added misess Costello, "depend upon it that she may tell you any moment that she is 'engaged.'"
+000188|"I think that is more than Giovanelli expects," said Winterbourne.
+000189|Who is Giovanelli?
+000190|The little Italian.
+000191|I have asked questions about him and learned something.
+000192|He is apparently a perfectly respectable little man.
+000193|I believe he is, in a small way, a cavaliere avvocato.
+000194|But he doesn't move in what are called the first circles.
+000195|I think it is really not absolutely impossible that the courier introduced him.
+000196|He is evidently immensely charmed with Miss Miller.
+000197|If she thinks him the finest gentleman in the world, he, on his side, has never found himself in personal contact with such splendor, such opulence, such expensiveness as this young lady's.
+000198|And then she must seem to him wonderfully pretty and interesting.
+000199|I rather doubt that he dreams of marrying her.
+000200|That must appear to him too impossible a piece of luck.
+000201|He has nothing but his handsome face to offer, and there is a substantial mister Miller in that mysterious land of dollars.
+000202|Giovanelli knows that he hasn't a title to offer.
+000203|If he were only a count or a marchese!
+000204|He must wonder at his luck, at the way they have taken him up.
+000205|"He accounts for it by his handsome face and thinks Miss Miller a young lady qui se passe ses fantaisies!" said misess Costello.
+000206|"It is very true," Winterbourne pursued, "that Daisy and her mamma have not yet risen to that stage of -- what shall I call it?"
+000207|of culture at which the idea of catching a count or a marchese begins.
+000208|I believe that they are intellectually incapable of that conception.
+000209|"Ah! but the avvocato can't believe it," said misess Costello.
+000210|Of the observation excited by Daisy's "intrigue," Winterbourne gathered that day at saint Peter's sufficient evidence.
+000211|A dozen of the American colonists in Rome came to talk with misess Costello, who sat on a little portable stool at the base of one of the great pilasters.
+000212|The vesper service was going forward in splendid chants and organ tones in the adjacent choir, and meanwhile, between misess Costello and her friends, there was a great deal said about poor little Miss Miller's going really "too far."
+000213|Winterbourne was not pleased with what he heard, but when, coming out upon the great steps of the church, he saw Daisy, who had emerged before him, get into an open cab with her accomplice and roll away through the cynical streets of Rome, he could not deny to himself that she was going very far indeed.
+000214|He felt very sorry for her -- not exactly that he believed that she had completely lost her head, but because it was painful to hear so much that was pretty, and undefended, and natural assigned to a vulgar place among the categories of disorder.
+000215|He made an attempt after this to give a hint to misess Miller.
+000216|He met one day in the Corso a friend, a tourist like himself, who had just come out of the Doria Palace, where he had been walking through the beautiful gallery.
+000217|His friend talked for a moment about the superb portrait of Innocent X by Velasquez which hangs in one of the cabinets of the palace, and then said, "And in the same cabinet, by the way, I had the pleasure of contemplating a picture of a different kind -- that pretty American girl whom you pointed out to me last week."
+000218|In answer to Winterbourne's inquiries, his friend narrated that the pretty American girl -- prettier than ever -- was seated with a companion in the secluded nook in which the great papal portrait was enshrined.
+000219|"Who was her companion?" asked Winterbourne.
+000220|A little Italian with a bouquet in his buttonhole.
+000221|The girl is delightfully pretty, but I thought I understood from you the other day that she was a young lady du meilleur monde.
+000222|"So she is!" answered Winterbourne;
+000223|and having assured himself that his informant had seen Daisy and her companion but five minutes before, he jumped into a cab and went to call on misess Miller.
+000224|She was at home;
+000225|but she apologized to him for receiving him in Daisy's absence.
+000226|"She's gone out somewhere with mister Giovanelli," said misess Miller.
+000227|She's always going round with mister Giovanelli.
+000228|"I have noticed that they are very intimate," Winterbourne observed.
+000229|"Oh, it seems as if they couldn't live without each other!" said misess Miller.
+000230|Well, he's a real gentleman, anyhow.
+000231|I keep telling Daisy she's engaged!
+000232|And what does Daisy say?
+000233|Oh, she says she isn't engaged.
+000234|"But she might as well be!" this impartial parent resumed;
+000235|she goes on as if she was.
+000236|But I've made mister Giovanelli promise to tell me, if she doesn't.
+000237|I should want to write to mister Miller about it -- shouldn't you?
+000238|Winterbourne replied that he certainly should;
+000239|and the state of mind of Daisy's mamma struck him as so unprecedented in the annals of parental vigilance that he gave up as utterly irrelevant the attempt to place her upon her guard.
+000240|After this Daisy was never at home, and Winterbourne ceased to meet her at the houses of their common acquaintances, because, as he perceived, these shrewd people had quite made up their minds that she was going too far.
+000241|They ceased to invite her;
+000242|and they intimated that they desired to express to observant Europeans the great truth that, though Miss Daisy Miller was a young American lady, her behavior was not representative -- was regarded by her compatriots as abnormal.
+000243|Winterbourne wondered how she felt about all the cold shoulders that were turned toward her, and sometimes it annoyed him to suspect that she did not feel at all.
+000244|He said to himself that she was too light and childish, too uncultivated and unreasoning, too provincial, to have reflected upon her ostracism, or even to have perceived it.
+000245|Then at other moments he believed that she carried about in her elegant and irresponsible little organism a defiant, passionate, perfectly observant consciousness of the impression she produced.
+000246|He asked himself whether Daisy's defiance came from the consciousness of innocence, or from her being, essentially, a young person of the reckless class.
+000247|It must be admitted that holding one's self to a belief in Daisy's "innocence" came to seem to Winterbourne more and more a matter of fine-spun gallantry.
+000248|As I have already had occasion to relate, he was angry at finding himself reduced to chopping logic about this young lady;
+000249|he was vexed at his want of instinctive certitude as to how far her eccentricities were generic, national, and how far they were personal.
+000250|From either view of them he had somehow missed her, and now it was too late.
+000251|She was "carried away" by mister Giovanelli.
+000252|A few days after his brief interview with her mother, he encountered her in that beautiful abode of flowering desolation known as the Palace of the Caesars.
+000253|The early Roman spring had filled the air with bloom and perfume, and the rugged surface of the Palatine was muffled with tender verdure.
+000254|Daisy was strolling along the top of one of those great mounds of ruin that are embanked with mossy marble and paved with monumental inscriptions.
+000255|It seemed to him that Rome had never been so lovely as just then.
+000256|He stood, looking off at the enchanting harmony of line and color that remotely encircles the city, inhaling the softly humid odors, and feeling the freshness of the year and the antiquity of the place reaffirm themselves in mysterious interfusion.
+000257|It seemed to him also that Daisy had never looked so pretty, but this had been an observation of his whenever he met her.
+000258|Giovanelli was at her side, and Giovanelli, too, wore an aspect of even unwonted brilliancy.
+000259|"Well," said Daisy, "I should think you would be lonesome!"
+000260|"Lonesome?" asked Winterbourne.
+000261|You are always going round by yourself.
+000262|Can't you get anyone to walk with you?
+000263|"I am not so fortunate," said Winterbourne, "as your companion."
+000264|Giovanelli, from the first, had treated Winterbourne with distinguished politeness.
+000265|He listened with a deferential air to his remarks;
+000266|he laughed punctiliously at his pleasantries;
+000267|he seemed disposed to testify to his belief that Winterbourne was a superior young man.
+000268|He carried himself in no degree like a jealous wooer;
+000269|he had obviously a great deal of tact;
+000270|he had no objection to your expecting a little humility of him.
+000271|It even seemed to Winterbourne at times that Giovanelli would find a certain mental relief in being able to have a private understanding with him -- to say to him, as an intelligent man, that, bless you, he knew how extraordinary was this young lady, and didn't flatter himself with delusive -- or at least too delusive -- hopes of matrimony and dollars.
+000272|On this occasion he strolled away from his companion to pluck a sprig of almond blossom, which he carefully arranged in his buttonhole.
+000273|"I know why you say that," said Daisy, watching Giovanelli.
+000274|Because you think I go round too much with him.
+000275|And she nodded at her attendant.
+000276|"Every one thinks so -- if you care to know," said Winterbourne.
+000277|Of course I care to know!
+000278|Daisy exclaimed seriously.
+000279|But I don't believe it.
+000280|They are only pretending to be shocked.
+000281|They don't really care a straw what I do.
+000282|Besides, I don't go round so much.
+000283|I think you will find they do care.
+000284|They will show it disagreeably.
+000285|Daisy looked at him a moment.
+000286|How disagreeably?
+000287|"Haven't you noticed anything?" Winterbourne asked.
+000288|I have noticed you.
+000289|But I noticed you were as stiff as an umbrella the first time I saw you.
+000290|"You will find I am not so stiff as several others," said Winterbourne, smiling.
+000291|How shall I find it?
+000292|By going to see the others.
+000293|What will they do to me?
+000294|They will give you the cold shoulder.
+000295|Do you know what that means?
+000296|Daisy was looking at him intently;
+000297|she began to color.
+000298|Do you mean as misess Walker did the other night?
+000299|"Exactly!" said Winterbourne.
+000300|She looked away at Giovanelli, who was decorating himself with his almond blossom.
+000301|Then looking back at Winterbourne, "I shouldn't think you would let people be so unkind!" she said.
+000302|"How can I help it?" he asked.
+000303|I should think you would say something.
+000304|"I do say something;" and he paused a moment.
+000305|I say that your mother tells me that she believes you are engaged.
+000306|"Well, she does," said Daisy very simply.
+000307|Winterbourne began to laugh.
+000308|"And does Randolph believe it?" he asked.
+000309|"I guess Randolph doesn't believe anything," said Daisy.
+000310|Randolph's skepticism excited Winterbourne to further hilarity, and he observed that Giovanelli was coming back to them.
+000311|Daisy, observing it too, addressed herself again to her countryman.
+000312|"Since you have mentioned it," she said, "I am engaged."
+000313|Winterbourne looked at her;
+000314|he had stopped laughing.
+000315|"You don't believe!" she added.
+000316|He was silent a moment;
+000317|and then, "Yes, I believe it," he said.
+000318|"Oh, no, you don't!" she answered.
+000319|Well, then -- I am not!
+000320|The young girl and her cicerone were on their way to the gate of the enclosure, so that Winterbourne, who had but lately entered, presently took leave of them.
+000321|A week afterward he went to dine at a beautiful villa on the Caelian Hill, and, on arriving, dismissed his hired vehicle.
+000322|The evening was charming, and he promised himself the satisfaction of walking home beneath the Arch of Constantine and past the vaguely lighted monuments of the Forum.
+000323|There was a waning moon in the sky, and her radiance was not brilliant, but she was veiled in a thin cloud curtain which seemed to diffuse and equalize it.
+000324|When, on his return from the villa (it was eleven o'clock), Winterbourne approached the dusky circle of the Colosseum, it recurred to him, as a lover of the picturesque, that the interior, in the pale moonshine, would be well worth a glance.
+000325|He turned aside and walked to one of the empty arches, near which, as he observed, an open carriage -- one of the little Roman streetcabs -- was stationed.
+000326|Then he passed in, among the cavernous shadows of the great structure, and emerged upon the clear and silent arena.
+000327|The place had never seemed to him more impressive.
+000328|One-half of the gigantic circus was in deep shade, the other was sleeping in the luminous dusk.
+000329|As he stood there he began to murmur Byron's famous lines, out of "Manfred," but before he had finished his quotation he remembered that if nocturnal meditations in the Colosseum are recommended by the poets, they are deprecated by the doctors.
+000330|The historic atmosphere was there, certainly;
+000331|but the historic atmosphere, scientifically considered, was no better than a villainous miasma.
+000332|Winterbourne walked to the middle of the arena, to take a more general glance, intending thereafter to make a hasty retreat.
+000333|The great cross in the center was covered with shadow;
+000334|it was only as he drew near it that he made it out distinctly.
+000335|Then he saw that two persons were stationed upon the low steps which formed its base.
+000336|One of these was a woman, seated;
+000337|her companion was standing in front of her.
+000338|Presently the sound of the woman's voice came to him distinctly in the warm night air.
+000339|Well, he looks at us as one of the old lions or tigers may have looked at the Christian martyrs!
+000340|These were the words he heard, in the familiar accent of Miss Daisy Miller.
+000341|"Let us hope he is not very hungry," responded the ingenious Giovanelli.
+000342|He will have to take me first;
+000343|you will serve for dessert!
+000344|Winterbourne stopped, with a sort of horror, and, it must be added, with a sort of relief.
+000345|It was as if a sudden illumination had been flashed upon the ambiguity of Daisy's behavior, and the riddle had become easy to read.
+000346|She was a young lady whom a gentleman need no longer be at pains to respect.
+000347|He stood there, looking at her -- looking at her companion and not reflecting that though he saw them vaguely, he himself must have been more brightly visible.
+000348|He felt angry with himself that he had bothered so much about the right way of regarding Miss Daisy Miller.
+000349|Then, as he was going to advance again, he checked himself, not from the fear that he was doing her injustice, but from a sense of the danger of appearing unbecomingly exhilarated by this sudden revulsion from cautious criticism.
+000350|He turned away toward the entrance of the place, but, as he did so, he heard Daisy speak again.
+000351|Why, it was mister Winterbourne!
+000352|He saw me, and he cuts me!
+000353|What a clever little reprobate she was, and how smartly she played at injured innocence!
+000354|But he wouldn't cut her.
+000355|Winterbourne came forward again and went toward the great cross.
+000356|Daisy had got up;
+000357|Giovanelli lifted his hat.
+000358|Winterbourne had now begun to think simply of the craziness, from a sanitary point of view, of a delicate young girl lounging away the evening in this nest of malaria.
+000359|What if she were a clever little reprobate?
+000360|that was no reason for her dying of the perniciosa.
+000361|"How long have you been here?" he asked almost brutally.
+000362|Daisy, lovely in the flattering moonlight, looked at him a moment.
+000363|Then -- "All the evening," she answered, gently.
+000364|I never saw anything so pretty.
+000365|"I am afraid," said Winterbourne, "that you will not think Roman fever very pretty."
+000366|This is the way people catch it.
+000367|"I wonder," he added, turning to Giovanelli, "that you, a native Roman, should countenance such a terrible indiscretion."
+000368|"Ah," said the handsome native, "for myself I am not afraid."
+000369|Neither am I -- for you!
+000370|I am speaking for this young lady.
+000371|Giovanelli lifted his well-shaped eyebrows and showed his brilliant teeth.
+000372|But he took Winterbourne's rebuke with docility.
+000373|I told the signorina it was a grave indiscretion, but when was the signorina ever prudent?
+000374|"I never was sick, and I don't mean to be!" the signorina declared.
+000375|I don't look like much, but I'm healthy!
+000376|I was bound to see the Colosseum by moonlight;
+000377|I shouldn't have wanted to go home without that;
+000378|and we have had the most beautiful time, haven't we, mister Giovanelli?
+000379|If there has been any danger, Eugenio can give me some pills.
+000380|He has got some splendid pills.
+000381|"I should advise you," said Winterbourne, "to drive home as fast as possible and take one!"
+000382|"What you say is very wise," Giovanelli rejoined.
+000383|I will go and make sure the carriage is at hand.
+000384|And he went forward rapidly.
+000385|Daisy followed with Winterbourne.
+000386|He kept looking at her;
+000387|she seemed not in the least embarrassed.
+000388|Winterbourne said nothing;
+000389|Daisy chattered about the beauty of the place.
+000390|"Well, I have seen the Colosseum by moonlight!" she exclaimed.
+000391|That's one good thing.
+000392|Then, noticing Winterbourne's silence, she asked him why he didn't speak.
+000393|He made no answer;
+000394|he only began to laugh.
+000395|They passed under one of the dark archways;
+000396|Giovanelli was in front with the carriage.
+000397|Here Daisy stopped a moment, looking at the young American.
+000398|"did you believe I was engaged, the other day?" she asked.
+000399|"It doesn't matter what I believed the other day," said Winterbourne, still laughing.
+000400|Well, what do you believe now?
+000401|I believe that it makes very little difference whether you are engaged or not!
+000402|He felt the young girl's pretty eyes fixed upon him through the thick gloom of the archway;
+000403|she was apparently going to answer.
+000404|But Giovanelli hurried her forward.
+000405|"Quick! quick!" he said;
+000406|if we get in by midnight we are quite safe.
+000407|Daisy took her seat in the carriage, and the fortunate Italian placed himself beside her.
+000408|"Don't forget Eugenio's pills!" said Winterbourne as he lifted his hat.
+000409|"I don't care," said Daisy in a little strange tone, "whether I have Roman fever or not!"
+000410|Upon this the cab driver cracked his whip, and they rolled away over the desultory patches of the antique pavement.
+000411|Winterbourne, to do him justice, as it were, mentioned to no one that he had encountered Miss Miller, at midnight, in the Colosseum with a gentleman;
+000412|but nevertheless, a couple of days later, the fact of her having been there under these circumstances was known to every member of the little American circle, and commented accordingly.
+000413|Winterbourne reflected that they had of course known it at the hotel, and that, after Daisy's return, there had been an exchange of remarks between the porter and the cab driver.
+000414|But the young man was conscious, at the same moment, that it had ceased to be a matter of serious regret to him that the little American flirt should be "talked about" by low-minded menials.
+000415|These people, a day or two later, had serious information to give: the little American flirt was alarmingly ill.
+000416|Winterbourne, when the rumor came to him, immediately went to the hotel for more news.
+000417|He found that two or three charitable friends had preceded him, and that they were being entertained in misess Miller's salon by Randolph.
+000418|"It's going round at night," said Randolph -- "that's what made her sick."
+000419|She's always going round at night.
+000420|I shouldn't think she'd want to, it's so plaguy dark.
+000421|You can't see anything here at night, except when there's a moon.
+000422|"In America there's always a moon!" misess Miller was invisible;
+000423|she was now, at least, giving her daughter the advantage of her society.
+000424|It was evident that Daisy was dangerously ill.
+000425|Winterbourne went often to ask for news of her, and once he saw misess Miller, who, though deeply alarmed, was, rather to his surprise, perfectly composed, and, as it appeared, a most efficient and judicious nurse.
+000426|She talked a good deal about doctor Davis, but Winterbourne paid her the compliment of saying to himself that she was not, after all, such a monstrous goose.
+000427|"Daisy spoke of you the other day," she said to him.
+000428|Half the time she doesn't know what she's saying, but that time I think she did.
+000429|She gave me a message she told me to tell you.
+000430|She told me to tell you that she never was engaged to that handsome Italian.
+000431|I am sure I am very glad;
+000432|mister Giovanelli hasn't been near us since she was taken ill.
+000433|I thought he was so much of a gentleman;
+000434|but I don't call that very polite!
+000435|A lady told me that he was afraid I was angry with him for taking Daisy round at night.
+000436|Well, so I am, but I suppose he knows I'm a lady.
+000437|I would scorn to scold him.
+000438|Anyway, she says she's not engaged.
+000439|I don't know why she wanted you to know, but she said to me three times, 'Mind you tell mister Winterbourne.' And then she told me to ask if you remembered the time you went to that castle in Switzerland.
+000440|But I said I wouldn't give any such messages as that.
+000441|Only, if she is not engaged, I'm sure I'm glad to know it.
+000442|But, as Winterbourne had said, it mattered very little.
+000443|A week after this, the poor girl died;
+000444|it had been a terrible case of the fever.
+000445|Daisy's grave was in the little Protestant cemetery, in an angle of the wall of imperial Rome, beneath the cypresses and the thick spring flowers.
+000446|Winterbourne stood there beside it, with a number of other mourners, a number larger than the scandal excited by the young lady's career would have led you to expect.
+000447|Near him stood Giovanelli, who came nearer still before Winterbourne turned away.
+000448|Giovanelli was very pale: on this occasion he had no flower in his buttonhole;
+000449|he seemed to wish to say something.
+000450|At last he said, "She was the most beautiful young lady I ever saw, and the most amiable;" and then he added in a moment, "and she was the most innocent."
+000451|Winterbourne looked at him and presently repeated his words, "And the most innocent?"
+000452|The most innocent!
+000453|Winterbourne felt sore and angry.
+000454|"Why the devil," he asked, "did you take her to that fatal place?"
+000455|mister Giovanelli's urbanity was apparently imperturbable.
+000456|He looked on the ground a moment, and then he said, "For myself I had no fear;"
+000457|and she wanted to go.
+000458|"That was no reason!" Winterbourne declared.
+000459|The subtle Roman again dropped his eyes.
+000460|If she had lived, I should have got nothing.
+000461|She would never have married me, I am sure.
+000462|She would never have married you?
+000463|For a moment I hoped so.
+000464|But no.
+000465|I am sure.
+000466|Winterbourne listened to him: he stood staring at the raw protuberance among the April daisies.
+000467|When he turned away again, mister Giovanelli, with his light, slow step, had retired.
+000468|Winterbourne almost immediately left Rome;
+000469|but the following summer he again met his aunt, misess Costello at Vevey.
+000470|misess Costello was fond of Vevey.
+000471|In the interval Winterbourne had often thought of Daisy Miller and her mystifying manners.
+000472|One day he spoke of her to his aunt -- said it was on his conscience that he had done her injustice.
+000473|"I am sure I don't know," said misess Costello.
+000474|How did your injustice affect her?
+000475|She sent me a message before her death which I didn't understand at the time;
+000476|but I have understood it since.
+000477|She would have appreciated one's esteem.
+000478|"Is that a modest way," asked misess Costello, "of saying that she would have reciprocated one's affection?"
+000479|Winterbourne offered no answer to this question;
+000480|but he presently said, "You were right in that remark that you made last summer."
+000481|I was booked to make a mistake.
+000482|I have lived too long in foreign parts.

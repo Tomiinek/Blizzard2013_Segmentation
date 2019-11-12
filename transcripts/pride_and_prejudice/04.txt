@@ -1,0 +1,66 @@
+000001|When Jane and Elizabeth were alone, the former, who had been cautious in her praise of mister Bingley before, expressed to her sister just how very much she admired him.
+000002|"He is just what a young man ought to be," said she, "sensible, good-humoured, lively;"
+000003|and I never saw such happy manners! -- so much ease, with such perfect good breeding!
+000004|"He is also handsome," replied Elizabeth, "which a young man ought likewise to be, if he possibly can."
+000005|His character is thereby complete.
+000006|I was very much flattered by his asking me to dance a second time.
+000007|I did not expect such a compliment.
+000008|Did not you?
+000009|I did for you.
+000010|But that is one great difference between us.
+000011|Compliments always take you by surprise, and me never.
+000012|What could be more natural than his asking you again?
+000013|He could not help seeing that you were about five times as pretty as every other woman in the room.
+000014|No thanks to his gallantry for that.
+000015|Well, he certainly is very agreeable, and I give you leave to like him.
+000016|You have liked many a stupider person.
+000017|Dear Lizzy!
+000018|Oh! you are a great deal too apt, you know, to like people in general.
+000019|You never see a fault in anybody.
+000020|All the world are good and agreeable in your eyes.
+000021|I never heard you speak ill of a human being in your life.
+000022|I would not wish to be hasty in censuring anyone;
+000023|but I always speak what I think.
+000024|I know you do;
+000025|and it is that which makes the wonder.
+000026|With your good sense, to be so honestly blind to the follies and nonsense of others!
+000027|Affectation of candour is common enough -- one meets with it everywhere.
+000028|But to be candid without ostentation or design -- to take the good of everybody's character and make it still better, and say nothing of the bad -- belongs to you alone.
+000029|And so you like this man's sisters, too, do you?
+000030|Their manners are not equal to his.
+000031|Certainly not -- at first.
+000032|But they are very pleasing women when you converse with them.
+000033|Miss Bingley is to live with her brother, and keep his house;
+000034|and I am much mistaken if we shall not find a very charming neighbour in her.
+000035|Elizabeth listened in silence, but was not convinced;
+000036|their behaviour at the assembly had not been calculated to please in general;
+000037|and with more quickness of observation and less pliancy of temper than her sister, and with a judgement too unassailed by any attention to herself, she was very little disposed to approve them.
+000038|They were in fact very fine ladies;
+000039|not deficient in good humour when they were pleased, nor in the power of making themselves agreeable when they chose it, but proud and conceited.
+000040|They were rather handsome, had been educated in one of the first private seminaries in town, had a fortune of twenty thousand pounds, were in the habit of spending more than they ought, and of associating with people of rank, and were therefore in every respect entitled to think well of themselves, and meanly of others.
+000041|They were of a respectable family in the north of England;
+000042|a circumstance more deeply impressed on their memories than that their brother's fortune and their own had been acquired by trade.
+000043|mister Bingley inherited property to the amount of nearly a hundred thousand pounds from his father, who had intended to purchase an estate, but did not live to do it.
+000044|mister Bingley intended it likewise, and sometimes made choice of his county;
+000045|but as he was now provided with a good house and the liberty of a manor, it was doubtful to many of those who best knew the easiness of his temper, whether he might not spend the remainder of his days at Netherfield, and leave the next generation to purchase.
+000046|His sisters were anxious for his having an estate of his own;
+000047|but, though he was now only established as a tenant, Miss Bingley was by no means unwilling to preside at his table -- nor was misess Hurst, who had married a man of more fashion than fortune, less disposed to consider his house as her home when it suited her.
+000048|mister Bingley had not been of age two years, when he was tempted by an accidental recommendation to look at Netherfield House.
+000049|He did look at it, and into it for half-an-hour -- was pleased with the situation and the principal rooms, satisfied with what the owner said in its praise, and took it immediately.
+000050|Between him and Darcy there was a very steady friendship, in spite of great opposition of character.
+000051|Bingley was endeared to Darcy by the easiness, openness, and ductility of his temper, though no disposition could offer a greater contrast to his own, and though with his own he never appeared dissatisfied.
+000052|On the strength of Darcy's regard, Bingley had the firmest reliance, and of his judgement the highest opinion.
+000053|In understanding, Darcy was the superior.
+000054|Bingley was by no means deficient, but Darcy was clever.
+000055|He was at the same time haughty, reserved, and fastidious, and his manners, though well-bred, were not inviting.
+000056|In that respect his friend had greatly the advantage.
+000057|Bingley was sure of being liked wherever he appeared, Darcy was continually giving offense.
+000058|The manner in which they spoke of the Meryton assembly was sufficiently characteristic.
+000059|Bingley had never met with more pleasant people or prettier girls in his life;
+000060|everybody had been most kind and attentive to him;
+000061|there had been no formality, no stiffness;
+000062|he had soon felt acquainted with all the room;
+000063|and, as to Miss Bennet, he could not conceive an angel more beautiful.
+000064|Darcy, on the contrary, had seen a collection of people in whom there was little beauty and no fashion, for none of whom he had felt the smallest interest, and from none received either attention or pleasure.
+000065|Miss Bennet he acknowledged to be pretty, but she smiled too much.
+000066|Misess Hurst and her sister allowed it to be so -- but still they admired her and liked her, and pronounced her to be a sweet girl, and one whom they would not object to know more of.

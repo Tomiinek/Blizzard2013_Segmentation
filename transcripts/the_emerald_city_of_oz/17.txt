@@ -1,0 +1,175 @@
+000001|Wandering through the woods, without knowing where you are going or what adventure you are about to meet next, is not as pleasant as one might think.
+000002|The woods are always beautiful and impressive, and if you are not worried or hungry you may enjoy them immensely;
+000003|but Dorothy was worried and hungry that morning, so she paid little attention to the beauties of the forest, and hurried along as fast as she could go.
+000004|She tried to keep in one direction and not circle around, but she was not at all sure that the direction she had chosen would lead her to the camp.
+000005|By and by, to her great joy, she came upon a path.
+000006|It ran to the right and to the left, being lost in the trees in both directions, and just before her, upon a big oak, were fastened two signs, with arms pointing both ways.
+000007|One sign read: "take the other road to bunbury" and the second sign read: "take the other road to bunnybury"
+000008|"Well!" exclaimed Billina, eyeing the signs, "this looks as if we were getting back to civilization again."
+000009|"I'm not sure about the civil'zation, dear," replied the little girl;
+000010|but it looks as if we might get somewhere, and that's a big relief, anyhow.
+000011|"Which path shall we take?" inquired the Yellow Hen.
+000012|Dorothy stared at the signs thoughtfully.
+000013|"Bunbury sounds like something to eat," she said.
+000014|Let's go there.
+000015|"It's all the same to me," replied Billina.
+000016|She had picked up enough bugs and insects from the moss as she went along to satisfy her own hunger, but the hen knew Dorothy could not eat bugs;
+000017|nor could Toto.
+000018|The path to Bunbury seemed little traveled, but it was distinct enough and ran through the trees in a zigzag course until it finally led them to an open space filled with the queerest houses Dorothy had ever seen.
+000019|They were all made of crackers laid out in tiny squares, and were of many pretty and ornamental shapes, having balconies and porches with posts of bread-sticks and roofs shingled with wafer-crackers.
+000020|There were walks of bread-crusts leading from house to house and forming streets, and the place seemed to have many inhabitants.
+000021|When Dorothy, followed by Billina and Toto, entered the place, they found people walking the streets or assembled in groups talking together, or sitting upon the porches and balconies.
+000022|And what funny people they were!
+000023|Men, women and children were all made of buns and bread.
+000024|Some were thin and others fat;
+000025|some were white, some light brown and some very dark of complexion.
+000026|A few of the buns, which seemed to form the more important class of the people, were neatly frosted.
+000027|Some had raisins for eyes and currant buttons on their clothes;
+000028|others had eyes of cloves and legs of stick cinnamon, and many wore hats and bonnets frosted pink and green.
+000029|There was something of a commotion in Bunbury when the strangers suddenly appeared among them.
+000030|Women caught up their children and hurried into their houses, shutting the cracker doors carefully behind them.
+000031|Some men ran so hastily that they tumbled over one another, while others, more brave, assembled in a group and faced the intruders defiantly.
+000032|Dorothy at once realized that she must act with caution in order not to frighten these shy people, who were evidently unused to the presence of strangers.
+000033|There was a delightful fragrant odor of fresh bread in the town, and this made the little girl more hungry than ever.
+000034|She told Toto and Billina to stay back while she slowly advanced toward the group that stood silently awaiting her.
+000035|"You must 'scuse me for coming unexpected," she said, softly, "but I really didn't know I was coming here until I arrived."
+000036|I was lost in the woods, you know, and I'm as hungry as anything.
+000037|"Hungry!" they murmured, in a horrified chorus.
+000038|Yes;
+000039|"I haven't had anything to eat since last night's supper," she exclaimed.
+000040|Are there any eatables in Bunbury?
+000041|They looked at one another undecidedly, and then one portly bun man, who seemed a person of consequence, stepped forward and said:
+000042|Little girl, to be frank with you, we are all eatables.
+000043|Everything in Bunbury is eatable to ravenous human creatures like you.
+000044|But it is to escape being eaten and destroyed that we have secluded ourselves in this out-of-the-way place, and there is neither right nor justice in your coming here to feed upon us.
+000045|Dorothy looked at him longingly.
+000046|"You're bread, aren't you?" she asked.
+000047|Yes;
+000048|bread and butter.
+000049|The butter is inside me, so it won't melt and run.
+000050|I do the running myself.
+000051|At this joke all the others burst into a chorus of laughter, and Dorothy thought they couldn't be much afraid if they could laugh like that.
+000052|"Couldn't I eat something besides people?" she asked.
+000053|Couldn't I eat just one house, or a side-walk or something?
+000054|I wouldn't mind much what it was, you know.
+000055|"This is not a public bakery, child," replied the man, sternly.
+000056|It's private property.
+000057|I know mister -- mister
+000058|"My name is C. Bunn, Esquire," said the man.
+000059|'C' stands for Cinnamon, and this place is called after my family, which is the most aristocratic in the town.
+000060|"Oh, I don't know about that," objected another of the queer people.
+000061|The Grahams and the Browns and Whites are all excellent families, and there is none better of their kind.
+000062|I'm a Boston Brown, myself.
+000063|"I admit you are all desirable citizens," said mister Bunn rather stiffly;
+000064|but the fact remains that our town is called Bunbury.
+000065|"'Scuse me," interrupted Dorothy;
+000066|but I'm getting hungrier every minute.
+000067|Now, if you're polite and kind, as I'm sure you ought to be, you'll let me eat something.
+000068|There's so much to eat here that you will never miss it.
+000069|Then a big, puffed-up man, of a delicate brown color, stepped forward and said:
+000070|I think it would be a shame to send this child away hungry, especially as she agrees to eat whatever we can spare and not touch our people.
+000071|"So do I, Pop," replied a Roll who stood near.
+000072|"What, then, do you suggest, mister Over?" inquired mister Bunn.
+000073|Why, I'll let her eat my back fence, if she wants to.
+000074|It's made of waffles, and they're very crisp and nice.
+000075|"She may also eat my wheelbarrow," added a pleasant looking Muffin.
+000076|It's made of nabiscos with a zuzu wheel.
+000077|Very good;
+000078|"very good," remarked mister Bunn.
+000079|That is certainly very kind of you.
+000080|Go with Pop Over and mister Muffin, little girl, and they will feed you.
+000081|"Thank you very much," said Dorothy, gratefully.
+000082|May I bring my dog Toto, and the Yellow Hen?
+000083|They're hungry, too.
+000084|"Will you make them behave?" asked the Muffin.
+000085|"Of course," promised Dorothy.
+000086|"Then come along," said Pop Over.
+000087|So Dorothy and Billina and Toto walked up the street and the people seemed no longer to be at all afraid of them.
+000088|mister Muffin's house came first, and as his wheelbarrow stood in the front yard the little girl ate that first.
+000089|It didn't seem very fresh, but she was so hungry that she was not particular.
+000090|Toto ate some, too, while Billina picked up the crumbs.
+000091|While the strangers were engaged in eating, many of the people came and stood in the street curiously watching them.
+000092|Dorothy noticed six roguish looking brown children standing all in a row, and she asked:
+000093|Who are you, little ones?
+000094|"We're the Graham Gems," replied one;
+000095|and we're all twins.
+000096|"I wonder if your mother could spare one or two of you?" asked Billina, who decided that they were fresh baked;
+000097|but at this dangerous question the six little gems ran away as fast as they could go.
+000098|"You musn't say such things, Billina," said Dorothy, reprovingly.
+000099|Now let's go into Pop Over's back yard and get the waffles.
+000100|"I sort of hate to let that fence go," remarked mister Over, nervously, as they walked toward his house.
+000101|The neighbors back of us are Soda Biscuits, and I don't care to mix with them.
+000102|"But I'm hungry yet," declared the girl.
+000103|That wheelbarrow wasn't very big.
+000104|"I've got a shortcake piano, but none of my family can play on it," he said, reflectively.
+000105|Suppose you eat that.
+000106|"All right," said Dorothy;
+000107|I don't mind.
+000108|Anything to be accommodating.
+000109|So mister Over led her into the house, where she ate the piano, which was of an excellent flavor.
+000110|"Is there anything to drink here?" she asked.
+000111|Yes;
+000112|I've a milk pump and a water pump;
+000113|"which will you have?" he asked.
+000114|"I guess I'll try 'em both," said Dorothy.
+000115|So mister Over called to his wife, who brought into the yard a pail made of some kind of baked dough, and Dorothy pumped the pail full of cool, sweet milk and drank it eagerly.
+000116|The wife of Pop Over was several shades darker than her husband.
+000117|"Aren't you overdone?" the little girl asked her.
+000118|"No indeed," answered the woman.
+000119|I'm neither overdone nor done over;
+000120|I'm just misess Over, and I'm the President of the Bunbury Breakfast Band.
+000121|Dorothy thanked them for their hospitality and went away.
+000122|At the gate mister Cinnamon Bunn met her and said he would show her around the town.
+000123|"We have some very interesting inhabitants," he remarked, walking stiffly beside her on his stick-cinnamon legs;
+000124|and all of us who are in good health are well bred.
+000125|If you are no longer hungry we will call upon a few of the most important citizens.
+000126|Toto and Billina followed behind them, behaving very well, and a little way down the street they came to a handsome residence where Aunt Sally Lunn lived.
+000127|The old lady was glad to meet the little girl and gave her a slice of white bread and butter which had been used as a door-mat.
+000128|It was almost fresh and tasted better than anything Dorothy had eaten in the town.
+000129|"Where do you get the butter?" she inquired.
+000130|"We dig it out of the ground, which, as you may have observed, is all flour and meal," replied mister Bunn.
+000131|There is a butter mine just at the opposite side of the village.
+000132|The trees which you see here are all doughleanders and doughderas, and in the season we get quite a crop of dough-nuts off them.
+000133|"I should think the flour would blow around and get into your eyes," said Dorothy.
+000134|"No," said he;
+000135|we are bothered with cracker dust sometimes, but never with flour.
+000136|Then he took her to see Johnny Cake, a cheerful old gentleman who lived near by.
+000137|"I suppose you've heard of me," said old Johnny, with an air of pride.
+000138|I'm a great favorite all over the world.
+000139|"Aren't you rather yellow?" asked Dorothy, looking at him critically.
+000140|Maybe, child.
+000141|"But don't think I'm bilious, for I was never in better health in my life," replied the old gentleman.
+000142|If anything ailed me, I'd willingly acknowledge the corn.
+000143|"Johnny's a trifle stale," said mister Bunn, as they went away;
+000144|but he's a good mixer and never gets cross-grained.
+000145|I will now take you to call upon some of my own relatives.
+000146|They visited the Sugar Bunns, the Currant Bunns and the Spanish Bunns, the latter having a decidedly foreign appearance.
+000147|Then they saw the French Rolls, who were very polite to them, and made a brief call upon the Parker H.
+000148|Rolls, who seemed a bit proud and overbearing.
+000149|"But they're not as stuck up as the Frosted Jumbles," declared mister Bunn, "who are people I really can't abide."
+000150|I don't like to be suspicious or talk scandal, but sometimes I think the Jumbles have too much baking powder in them.
+000151|Just then a dreadful scream was heard, and Dorothy turned hastily around to find a scene of great excitement a little way down the street.
+000152|The people were crowding around Toto and throwing at him everything they could find at hand.
+000153|They pelted the little dog with hard-tack, crackers, and even articles of furniture which were hard baked and heavy enough for missiles.
+000154|Toto howeled a little as the assortment of bake stuff struck him;
+000155|but he stood still, with head bowed and tail between his legs, until Dorothy ran up and inquired what the matter was.
+000156|"Matter!" cried a rye loafer, indignantly, "why the horrid beast has eaten three of our dear Crumpets, and is now devouring a Salt-rising Biscuit!"
+000157|Oh, Toto!
+000158|"How could you?" exclaimed Dorothy, much distressed.
+000159|Toto's mouth was full of his salt-rising victim;
+000160|so he only whined and wagged his tail.
+000161|But Billina, who had flown to the top of a cracker house to be in a safe place, called out:
+000162|Don't blame him, Dorothy;
+000163|the Crumpets dared him to do it.
+000164|"Yes, and you pecked out the eyes of a Raisin Bunn -- one of our best citizens!" shouted a bread pudding, shaking its fist at the Yellow Hen.
+000165|What's that!
+000166|"What's that?" wailed mister Cinnamon Bunn, who had now joined them.
+000167|Oh, what a misfortune -- what a terrible misfortune!
+000168|"See here," said Dorothy, determined to defend her pets, "I think we've treated you all pretty well, seeing you're eatables an' reg'lar food for us."
+000169|I've been kind to you and eaten your old wheelbarrows and pianos and rubbish, an' not said a word.
+000170|But Toto and Billina can't be 'spected to go hungry when the town's full of good things they like to eat, 'cause they can't understand your stingy ways as I do.
+000171|"You must leave here at once!" said mister Bunn, sternly.
+000172|"Suppose we won't go?" said Dorothy, who was now much provoked.
+000173|"Then," said he, "we will put you into the great ovens where we are made, and bake you."
+000174|Dorothy gazed around and saw threatening looks upon the faces of all.
+000175|She had not noticed any ovens in the town, but they might be there, nevertheless, for some of the inhabitants seemed very fresh.

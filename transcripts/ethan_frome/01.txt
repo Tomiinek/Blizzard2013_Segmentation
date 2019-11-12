@@ -1,0 +1,114 @@
+000001|The village lay under two feet of snow, with drifts at the windy corners.
+000002|In a sky of iron the points of the Dipper hung like icicles and Orion flashed his cold fires.
+000003|The moon had set, but the night was so transparent that the white house-fronts between the elms looked gray against the snow, clumps of bushes made black stains on it, and the basement windows of the church sent shafts of yellow light far across the endless undulations.
+000004|Young Ethan Frome walked at a quick pace along the deserted street, past the bank and Michael Eady's new brick store and Lawyer Varnum's house with the two black Norway spruces at the gate.
+000005|Opposite the Varnum gate, where the road fell away toward the Corbury valley, the church reared its slim white steeple and narrow peristyle.
+000006|As the young man walked toward it the upper windows drew a black arcade along the side wall of the building, but from the lower openings, on the side where the ground sloped steeply down to the Corbury road, the light shot its long bars, illuminating many fresh furrows in the track leading to the basement door, and showing, under an adjoining shed, a line of sleighs with heavily blanketed horses.
+000007|The night was perfectly still, and the air so dry and pure that it gave little sensation of cold.
+000008|The effect produced on Frome was rather of a complete absence of atmosphere, as though nothing less tenuous than ether intervened between the white earth under his feet and the metallic dome overhead.
+000009|"It's like being in an exhausted receiver," he thought.
+000010|Four or five years earlier he had taken a year's course at a technological college at Worcester, and dabbled in the laboratory with a friendly professor of physics;
+000011|and the images supplied by that experience still cropped up, at unexpected moments, through the totally different associations of thought in which he had since been living.
+000012|His father's death, and the misfortunes following it, had put a premature end to Ethan's studies;
+000013|but though they had not gone far enough to be of much practical use they had fed his fancy and made him aware of huge cloudy meanings behind the daily face of things.
+000014|As he strode along through the snow the sense of such meanings glowed in his brain and mingled with the bodily flush produced by his sharp tramp.
+000015|At the end of the village he paused before the darkened front of the church.
+000016|He stood there a moment, breathing quickly, and looking up and down the street, in which not another figure moved.
+000017|The pitch of the Corbury road, below lawyer Varnum's spruces, was the favourite coasting-ground of Starkfield, and on clear evenings the church corner rang till late with the shouts of the coasters;
+000018|but to-night not a sled darkened the whiteness of the long declivity.
+000019|The hush of midnight lay on the village, and all its waking life was gathered behind the church windows, from which strains of dance-music flowed with the broad bands of yellow light.
+000020|The young man, skirting the side of the building, went down the slope toward the basement door.
+000021|To keep out of range of the revealing rays from within he made a circuit through the untrodden snow and gradually approached the farther angle of the basement wall.
+000022|Thence, still hugging the shadow, he edged his way cautiously forward to the nearest window, holding back his straight spare body and craning his neck till he got a glimpse of the room.
+000023|Seen thus, from the pure and frosty darkness in which he stood, it seemed to be seething in a mist of heat.
+000024|The metal reflectors of the gas-jets sent crude waves of light against the whitewashed walls, and the iron flanks of the stove at the end of the hall looked as though they were heaving with volcanic fires.
+000025|The floor was thronged with girls and young men.
+000026|Down the side wall facing the window stood a row of kitchen chairs from which the older women had just risen.
+000027|By this time the music had stopped, and the musicians -- a fiddler, and the young lady who played the harmonium on Sundays -- were hastily refreshing themselves at one corner of the supper-table which aligned its devastated pie-dishes and ice-cream saucers on the platform at the end of the hall.
+000028|The guests were preparing to leave, and the tide had already set toward the passage where coats and wraps were hung, when a young man with a sprightly foot and a shock of black hair shot into the middle of the floor and clapped his hands.
+000029|The signal took instant effect.
+000030|The musicians hurried to their instruments, the dancers -- some already half-muffled for departure -- fell into line down each side of the room, the older spectators slipped back to their chairs, and the lively young man, after diving about here and there in the throng, drew forth a girl who had already wound a cherry-coloured "fascinator" about her head, and, leading her up to the end of the floor, whirled her down its length to the bounding tune of a Virginia reel.
+000031|Frome's heart was beating fast.
+000032|He had been straining for a glimpse of the dark head under the cherry-coloured scarf and it vexed him that another eye should have been quicker than his.
+000033|The leader of the reel, who looked as if he had Irish blood in his veins, danced well, and his partner caught his fire.
+000034|As she passed down the line, her light figure swinging from hand to hand in circles of increasing swiftness, the scarf flew off her head and stood out behind her shoulders, and Frome, at each turn, caught sight of her laughing panting lips, the cloud of dark hair about her forehead, and the dark eyes which seemed the only fixed points in a maze of flying lines.
+000035|The dancers were going faster and faster, and the musicians, to keep up with them, belaboured their instruments like jockeys lashing their mounts on the home-stretch;
+000036|yet it seemed to the young man at the window that the reel would never end.
+000037|Now and then he turned his eyes from the girl's face to that of her partner, which, in the exhilaration of the dance, had taken on a look of almost impudent ownership.
+000038|Denis Eady was the son of Michael Eady, the ambitious Irish grocer, whose suppleness and effrontery had given Starkfield its first notion of "smart" business methods, and whose new brick store testified to the success of the attempt.
+000039|His son seemed likely to follow in his steps, and was meanwhile applying the same arts to the conquest of the Starkfield maidenhood.
+000040|Hitherto Ethan Frome had been content to think him a mean fellow;
+000041|but now he positively invited a horse-whipping.
+000042|It was strange that the girl did not seem aware of it: that she could lift her rapt face to her dancer's, and drop her hands into his, without appearing to feel the offence of his look and touch.
+000043|Frome was in the habit of walking into Starkfield to fetch home his wife's cousin, Mattie Silver, on the rare evenings when some chance of amusement drew her to the village.
+000044|It was his wife who had suggested, when the girl came to live with them, that such opportunities should be put in her way.
+000045|Mattie Silver came from Stamford, and when she entered the Fromes' household to act as her cousin Zeena's aid it was thought best, as she came without pay, not to let her feel too sharp a contrast between the life she had left and the isolation of a Starkfield farm.
+000046|But for this -- as Frome sardonically reflected -- it would hardly have occurred to Zeena to take any thought for the girl's amusement.
+000047|When his wife first proposed that they should give Mattie an occasional evening out he had inwardly demurred at having to do the extra two miles to the village and back after his hard day on the farm;
+000048|but not long afterward he had reached the point of wishing that Starkfield might give all its nights to revelry.
+000049|Mattie Silver had lived under his roof for a year, and from early morning till they met at supper he had frequent chances of seeing her;
+000050|but no moments in her company were comparable to those when, her arm in his, and her light step flying to keep time with his long stride, they walked back through the night to the farm.
+000051|He had taken to the girl from the first day, when he had driven over to the Flats to meet her, and she had smiled and waved to him from the train, crying out, "You must be Ethan!" as she jumped down with her bundles, while he reflected, looking over her slight person: "She don't look much on housework, but she ain't a fretter, anyhow."
+000052|But it was not only that the coming to his house of a bit of hopeful young life was like the lighting of a fire on a cold hearth.
+000053|The girl was more than the bright serviceable creature he had thought her.
+000054|She had an eye to see and an ear to hear: he could show her things and tell her things, and taste the bliss of feeling that all he imparted left long reverberations and echoes he could wake at will.
+000055|It was during their night walks back to the farm that he felt most intensely the sweetness of this communion.
+000056|He had always been more sensitive than the people about him to the appeal of natural beauty.
+000057|His unfinished studies had given form to this sensibility and even in his unhappiest moments field and sky spoke to him with a deep and powerful persuasion.
+000058|But hitherto the emotion had remained in him as a silent ache, veiling with sadness the beauty that evoked it.
+000059|He did not even know whether any one else in the world felt as he did, or whether he was the sole victim of this mournful privilege.
+000060|Then he learned that one other spirit had trembled with the same touch of wonder: that at his side, living under his roof and eating his bread, was a creature to whom he could say: "That's Orion down yonder;"
+000061|"the big fellow to the right is Aldebaran, and the bunch of little ones -- like bees swarming -- they're the Pleiades..." or whom he could hold entranced before a ledge of granite thrusting up through the fern while he unrolled the huge panorama of the ice age, and the long dim stretches of succeeding time.
+000062|The fact that admiration for his learning mingled with Mattie's wonder at what he taught was not the least part of his pleasure.
+000063|And there were other sensations, less definable but more exquisite, which drew them together with a shock of silent joy: the cold red of sunset behind winter hills, the flight of cloud-flocks over slopes of golden stubble, or the intensely blue shadows of hemlocks on sunlit snow.
+000064|When she said to him once: "It looks just as if it was painted!" it seemed to Ethan that the art of definition could go no farther, and that words had at last been found to utter his secret soul....
+000065|As he stood in the darkness outside the church these memories came back with the poignancy of vanished things.
+000066|Watching Mattie whirl down the floor from hand to hand he wondered how he could ever have thought that his dull talk interested her.
+000067|To him, who was never gay but in her presence, her gaiety seemed plain proof of indifference.
+000068|The face she lifted to her dancers was the same which, when she saw him, always looked like a window that has caught the sunset.
+000069|He even noticed two or three gestures which, in his fatuity, he had thought she kept for him: a way of throwing her head back when she was amused, as if to taste her laugh before she let it out, and a trick of sinking her lids slowly when anything charmed or moved her.
+000070|The sight made him unhappy, and his unhappiness roused his latent fears.
+000071|His wife had never shown any jealousy of Mattie, but of late she had grumbled increasingly over the house-work and found oblique ways of attracting attention to the girl's inefficiency.
+000072|Zeena had always been what Starkfield called "sickly," and Frome had to admit that, if she were as ailing as she believed, she needed the help of a stronger arm than the one which lay so lightly in his during the night walks to the farm.
+000073|Mattie had no natural turn for housekeeping, and her training had done nothing to remedy the defect.
+000074|She was quick to learn, but forgetful and dreamy, and not disposed to take the matter seriously.
+000075|Ethan had an idea that if she were to marry a man she was fond of the dormant instinct would wake, and her pies and biscuits become the pride of the county;
+000076|but domesticity in the abstract did not interest her.
+000077|At first she was so awkward that he could not help laughing at her;
+000078|but she laughed with him and that made them better friends.
+000079|He did his best to supplement her unskilled efforts, getting up earlier than usual to light the kitchen fire, carrying in the wood overnight, and neglecting the mill for the farm that he might help her about the house during the day.
+000080|He even crept down on Saturday nights to scrub the kitchen floor after the women had gone to bed;
+000081|and Zeena, one day, had surprised him at the churn and had turned away silently, with one of her queer looks.
+000082|Of late there had been other signs of her disfavour, as intangible but more disquieting.
+000083|One cold winter morning, as he dressed in the dark, his candle flickering in the draught of the ill-fitting window, he had heard her speak from the bed behind him.
+000084|"The doctor don't want I should be left without anybody to do for me," she said in her flat whine.
+000085|He had supposed her to be asleep, and the sound of her voice had startled him, though she was given to abrupt explosions of speech after long intervals of secretive silence.
+000086|He turned and looked at her where she lay indistinctly outlined under the dark calico quilt, her high-boned face taking a grayish tinge from the whiteness of the pillow.
+000087|"Nobody to do for you?" he repeated.
+000088|If you say you can't afford a hired girl when Mattie goes.
+000089|Frome turned away again, and taking up his razor stooped to catch the reflection of his stretched cheek in the blotched looking-glass above the wash-stand.
+000090|Why on earth should Mattie go?
+000091|"Well, when she gets married, I mean," his wife's drawl came from behind him.
+000092|"Oh, she'd never leave us as long as you needed her," he returned, scraping hard at his chin.
+000093|"I wouldn't ever have it said that I stood in the way of a poor girl like Mattie marrying a smart fellow like Denis Eady," Zeena answered in a tone of plaintive self-effacement.
+000094|Ethan, glaring at his face in the glass, threw his head back to draw the razor from ear to chin.
+000095|His hand was steady, but the attitude was an excuse for not making an immediate reply.
+000096|"And the doctor don't want I should be left without anybody," Zeena continued.
+000097|He wanted I should speak to you about a girl he's heard about, that might come
+000098|Ethan laid down the razor and straightened himself with a laugh.
+000099|Denis Eady!
+000100|If that's all, I guess there's no such hurry to look round for a girl.
+000101|"Well, I'd like to talk to you about it," said Zeena obstinately.
+000102|He was getting into his clothes in fumbling haste.
+000103|All right.
+000104|But I haven't got the time now;
+000105|"I'm late as it is," he returned, holding his old silver turnip-watch to the candle.
+000106|Zeena, apparently accepting this as final, lay watching him in silence while he pulled his suspenders over his shoulders and jerked his arms into his coat;
+000107|but as he went toward the door she said, suddenly and incisively: "I guess you're always late, now you shave every morning."
+000108|That thrust had frightened him more than any vague insinuations about Denis Eady.
+000109|It was a fact that since Mattie Silver's coming he had taken to shaving every day;
+000110|but his wife always seemed to be asleep when he left her side in the winter darkness, and he had stupidly assumed that she would not notice any change in his appearance.
+000111|Once or twice in the past he had been faintly disquieted by Zenobia's way of letting things happen without seeming to remark them, and then, weeks afterward, in a casual phrase, revealing that she had all along taken her notes and drawn her inferences.
+000112|Of late, however, there had been no room in his thoughts for such vague apprehensions.
+000113|Zeena herself, from an oppressive reality, had faded into an insubstantial shade.
+000114|All his life was lived in the sight and sound of Mattie Silver, and he could no longer conceive of its being otherwise.

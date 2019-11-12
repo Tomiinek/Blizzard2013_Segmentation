@@ -1,0 +1,405 @@
+000001|The Sunday after Miss Bartlett's arrival was a glorious day, like most of the days of that year.
+000002|In the Weald, autumn approached, breaking up the green monotony of summer, touching the parks with the grey bloom of mist, the beech-trees with russet, the oak-trees with gold.
+000003|Up on the heights, battalions of black pines witnessed the change, themselves unchangeable.
+000004|Either country was spanned by a cloudless sky, and in either arose the tinkle of church bells.
+000005|The garden of Windy Corners was deserted except for a red book, which lay sunning itself upon the gravel path.
+000006|From the house came incoherent sounds, as of females preparing for worship.
+000007|The men say they won't go
+000008|Well, I don't blame them
+000009|Minnie says, "need she go?"
+000010|Tell her, no nonsense
+000011|Anne! Mary! Hook me behind!
+000012|Dearest Lucia, may I trespass upon you for a pin?
+000013|For Miss Bartlett had announced that she at all events was one for church.
+000014|The sun rose higher on its journey, guided, not by Phaethon, but by Apollo, competent, unswerving, divine.
+000015|Its rays fell on the ladies whenever they advanced towards the bedroom windows;
+000016|on mister Beebe down at Summer Street as he smiled over a letter from Miss Catharine Alan;
+000017|on George Emerson cleaning his father's boots;
+000018|and lastly, to complete the catalogue of memorable things, on the red book mentioned previously.
+000019|The ladies move, mister Beebe moves, George moves, and movement may engender shadow.
+000020|But this book lies motionless, to be caressed all the morning by the sun and to raise its covers slightly, as though acknowledging the caress.
+000021|Presently Lucy steps out of the drawing-room window.
+000022|Her new cerise dress has been a failure, and makes her look tawdry and wan.
+000023|At her throat is a garnet brooch, on her finger a ring set with rubies -- an engagement ring.
+000024|Her eyes are bent to the Weald.
+000025|She frowns a little -- not in anger, but as a brave child frowns when he is trying not to cry.
+000026|In all that expanse no human eye is looking at her, and she may frown unrebuked and measure the spaces that yet survive between Apollo and the western hills.
+000027|Lucy! Lucy! What's that book?
+000028|Who's been taking a book out of the shelf and leaving it about to spoil?
+000029|It's only the library book that Cecil's been reading.
+000030|But pick it up, and don't stand idling there like a flamingo.
+000031|Lucy picked up the book and glanced at the title listlessly, Under a Loggia.
+000032|She no longer read novels herself, devoting all her spare time to solid literature in the hope of catching Cecil up.
+000033|It was dreadful how little she knew, and even when she thought she knew a thing, like the Italian painters, she found she had forgotten it.
+000034|Only this morning she had confused Francesco Francia with Piero della Francesca, and Cecil had said, "What! you aren't forgetting your Italy already?"
+000035|And this too had lent anxiety to her eyes when she saluted the dear view and the dear garden in the foreground, and above them, scarcely conceivable elsewhere, the dear sun.
+000036|Lucy -- have you a sixpence for Minnie and a shilling for yourself?
+000037|She hastened in to her mother, who was rapidly working herself into a Sunday fluster.
+000038|It's a special collection -- I forget what for.
+000039|I do beg, no vulgar clinking in the plate with halfpennies;
+000040|see that Minnie has a nice bright sixpence.
+000041|Where is the child?
+000042|Minnie!
+000043|That book's all warped.
+000044|Gracious, how plain you look!
+000045|Put it under the Atlas to press.
+000046|Minnie!
+000047|"Oh, misess Honeychurch -- " from the upper regions.
+000048|Minnie, don't be late.
+000049|"Here comes the horse" -- it was always the horse, never the carriage.
+000050|Where's Charlotte?
+000051|Run up and hurry her.
+000052|Why is she so long?
+000053|She had nothing to do.
+000054|She never brings anything but blouses.
+000055|Poor Charlotte -- How I do detest blouses! Minnie!
+000056|Paganism is infectious -- more infectious than diphtheria or piety -- and the Rector's niece was taken to church protesting.
+000057|As usual, she didn't see why.
+000058|Why shouldn't she sit in the sun with the young men?
+000059|The young men, who had now appeared, mocked her with ungenerous words.
+000060|misess Honeychurch defended orthodoxy, and in the midst of the confusion Miss Bartlett, dressed in the very height of the fashion, came strolling down the stairs.
+000061|Dear Marian, I am very sorry, but I have no small change -- nothing but sovereigns and half crowns.
+000062|Could any one give me
+000063|Yes, easily.
+000064|Jump in.
+000065|Gracious me, how smart you look!
+000066|What a lovely frock!
+000067|You put us all to shame.
+000068|"If I did not wear my best rags and tatters now, when should I wear them?" said Miss Bartlett reproachfully.
+000069|She got into the victoria and placed herself with her back to the horse.
+000070|The necessary roar ensued, and then they drove off.
+000071|Good-bye!
+000072|"Be good!" called out Cecil.
+000073|Lucy bit her lip, for the tone was sneering.
+000074|On the subject of "church and so on" they had had rather an unsatisfactory conversation.
+000075|He had said that people ought to overhaul themselves, and she did not want to overhaul herself;
+000076|she did not know it was done.
+000077|Honest orthodoxy Cecil respected, but he always assumed that honesty is the result of a spiritual crisis;
+000078|he could not imagine it as a natural birthright, that might grow heavenward like flowers.
+000079|All that he said on this subject pained her, though he exuded tolerance from every pore;
+000080|somehow the Emersons were different.
+000081|She saw the Emersons after church.
+000082|There was a line of carriages down the road, and the Honeychurch vehicle happened to be opposite Cissie Villa.
+000083|To save time, they walked over the green to it, and found father and son smoking in the garden.
+000084|"Introduce me," said her mother.
+000085|Unless the young man considers that he knows me already.
+000086|He probably did;
+000087|but Lucy ignored the Sacred Lake and introduced them formally.
+000088|Old mister Emerson claimed her with much warmth, and said how glad he was that she was going to be married.
+000089|She said yes, she was glad too;
+000090|and then, as Miss Bartlett and Minnie were lingering behind with mister Beebe, she turned the conversation to a less disturbing topic, and asked him how he liked his new house.
+000091|"Very much," he replied, but there was a note of offence in his voice;
+000092|she had never known him offended before.
+000093|He added: "We find, though, that the Miss Alans were coming, and that we have turned them out."
+000094|Women mind such a thing.
+000095|I am very much upset about it.
+000096|"I believe that there was some misunderstanding," said misess Honeychurch uneasily.
+000097|"Our landlord was told that we should be a different type of person," said George, who seemed disposed to carry the matter further.
+000098|He thought we should be artistic.
+000099|He is disappointed.
+000100|And I wonder whether we ought to write to the Miss Alans and offer to give it up.
+000101|What do you think?
+000102|He appealed to Lucy.
+000103|"Oh, stop now you have come," said Lucy lightly.
+000104|She must avoid censuring Cecil.
+000105|For it was on Cecil that the little episode turned, though his name was never mentioned.
+000106|So George says.
+000107|He says that the Miss Alans must go to the wall.
+000108|Yet it does seem so unkind.
+000109|"There is only a certain amount of kindness in the world," said George, watching the sunlight flash on the panels of the passing carriages.
+000110|"Yes!" exclaimed misess Honeychurch.
+000111|That's exactly what I say.
+000112|Why all this twiddling and twaddling over two Miss Alans?
+000113|"There is a certain amount of kindness, just as there is a certain amount of light," he continued in measured tones.
+000114|We cast a shadow on something wherever we stand, and it is no good moving from place to place to save things;
+000115|because the shadow always follows.
+000116|Choose a place where you won't do harm -- yes, choose a place where you won't do very much harm, and stand in it for all you are worth, facing the sunshine.
+000117|Oh, mister Emerson, I see you're clever!
+000118|Eh -- ?
+000119|I see you're going to be clever.
+000120|I hope you didn't go behaving like that to poor Freddy.
+000121|George's eyes laughed, and Lucy suspected that he and her mother would get on rather well.
+000122|"No, I didn't," he said.
+000123|He behaved that way to me.
+000124|It is his philosophy.
+000125|Only he starts life with it;
+000126|and I have tried the Note of Interrogation first.
+000127|What do you mean?
+000128|No, never mind what you mean.
+000129|Don't explain.
+000130|He looks forward to seeing you this afternoon.
+000131|Do you play tennis?
+000132|Do you mind tennis on Sunday -- ?
+000133|George mind tennis on Sunday!
+000134|George, after his education, distinguish between Sunday
+000135|Very well, George doesn't mind tennis on Sunday.
+000136|No more do I.
+000137|That's settled.
+000138|mister Emerson, if you could come with your son we should be so pleased.
+000139|He thanked her, but the walk sounded rather far;
+000140|he could only potter about in these days.
+000141|She turned to George: "And then he wants to give up his house to the Miss Alans."
+000142|"I know," said George, and put his arm round his father's neck.
+000143|The kindness that mister Beebe and Lucy had always known to exist in him came out suddenly, like sunlight touching a vast landscape -- a touch of the morning sun?
+000144|She remembered that in all his perversities he had never spoken against affection.
+000145|Miss Bartlett approached.
+000146|"You know our cousin, Miss Bartlett," said misess Honeychurch pleasantly.
+000147|You met her with my daughter in Florence.
+000148|"Yes, indeed!" said the old man, and made as if he would come out of the garden to meet the lady.
+000149|Miss Bartlett promptly got into the victoria.
+000150|Thus entrenched, she emitted a formal bow.
+000151|It was the pension Bertolini again, the dining-table with the decanters of water and wine.
+000152|It was the old, old battle of the room with the view.
+000153|George did not respond to the bow.
+000154|Like any boy, he blushed and was ashamed;
+000155|he knew that the chaperon remembered.
+000156|He said: "I -- I'll come up to tennis if I can manage it," and went into the house.
+000157|Perhaps anything that he did would have pleased Lucy, but his awkwardness went straight to her heart;
+000158|men were not gods after all, but as human and as clumsy as girls;
+000159|even men might suffer from unexplained desires, and need help.
+000160|To one of her upbringing, and of her destination, the weakness of men was a truth unfamiliar, but she had surmised it at Florence, when George threw her photographs into the River Arno.
+000161|"George, don't go," cried his father, who thought it a great treat for people if his son would talk to them.
+000162|George has been in such good spirits today, and I am sure he will end by coming up this afternoon.
+000163|Lucy caught her cousin's eye.
+000164|Something in its mute appeal made her reckless.
+000165|"Yes," she said, raising her voice, "I do hope he will."
+000166|Then she went to the carriage and murmured, "The old man hasn't been told;"
+000167|"I knew it was all right." misess Honeychurch followed her, and they drove away.
+000168|Satisfactory that mister Emerson had not been told of the Florence escapade;
+000169|yet Lucy's spirits should not have leapt up as if she had sighted the ramparts of heaven.
+000170|Satisfactory;
+000171|yet surely she greeted it with disproportionate joy.
+000172|All the way home the horses' hoofs sang a tune to her: "He has not told, he has not told."
+000173|Her brain expanded the melody: "He has not told his father -- to whom he tells all things."
+000174|It was not an exploit.
+000175|He did not laugh at me when I had gone.
+000176|She raised her hand to her cheek.
+000177|He does not love me.
+000178|No. How terrible if he did!
+000179|But he has not told.
+000180|He will not tell.
+000181|She longed to shout the words: "It is all right."
+000182|It's a secret between us two for ever.
+000183|Cecil will never hear.
+000184|She was even glad that Miss Bartlett had made her promise secrecy, that last dark evening at Florence, when they had knelt packing in his room.
+000185|The secret, big or little, was guarded.
+000186|Only three English people knew of it in the world.
+000187|Thus she interpreted her joy.
+000188|She greeted Cecil with unusual radiance, because she felt so safe.
+000189|As he helped her out of the carriage, she said:
+000190|The Emersons have been so nice.
+000191|George Emerson has improved enormously.
+000192|"How are my proteges?" asked Cecil, who took no real interest in them, and had long since forgotten his resolution to bring them to Windy Corner for educational purposes.
+000193|"Proteges!" she exclaimed with some warmth.
+000194|For the only relationship which Cecil conceived was feudal: that of protector and protected.
+000195|He had no glimpse of the comradeship after which the girl's soul yearned.
+000196|You shall see for yourself how your proteges are.
+000197|George Emerson is coming up this afternoon.
+000198|He is a most interesting man to talk to.
+000199|Only don't
+000200|She nearly said, "Don't protect him."
+000201|But the bell was ringing for lunch, and, as often happened, Cecil had paid no great attention to her remarks.
+000202|Charm, not argument, was to be her forte.
+000203|Lunch was a cheerful meal.
+000204|Generally Lucy was depressed at meals.
+000205|Some one had to be soothed -- either Cecil or Miss Bartlett or a Being not visible to the mortal eye -- a Being who whispered to her soul: "It will not last, this cheerfulness."
+000206|In January you must go to London to entertain the grandchildren of celebrated men.
+000207|But to-day she felt she had received a guarantee.
+000208|Her mother would always sit there, her brother here.
+000209|The sun, though it had moved a little since the morning, would never be hidden behind the western hills.
+000210|After luncheon they asked her to play.
+000211|She had seen Gluck's Armide that year, and played from memory the music of the enchanted garden -- the music to which Renaud approaches, beneath the light of an eternal dawn, the music that never gains, never wanes, but ripples for ever like the tideless seas of fairyland.
+000212|Such music is not for the piano, and her audience began to get restive, and Cecil, sharing the discontent, called out: "Now play us the other garden -- the one in Parsifal."
+000213|She closed the instrument.
+000214|"Not very dutiful," said her mother's voice.
+000215|Fearing that she had offended Cecil, she turned quickly round.
+000216|There George was.
+000217|He had crept in without interrupting her.
+000218|"Oh, I had no idea!" she exclaimed, getting very red;
+000219|and then, without a word of greeting, she reopened the piano.
+000220|Cecil should have the Parsifal, and anything else that he liked.
+000221|"Our performer has changed her mind," said Miss Bartlett, perhaps implying, she will play the music to mister Emerson.
+000222|Lucy did not know what to do nor even what she wanted to do.
+000223|She played a few bars of the Flower Maidens' song very badly and then she stopped.
+000224|"I vote tennis," said Freddy, disgusted at the scrappy entertainment.
+000225|Yes, so do I.
+000226|Once more she closed the unfortunate piano.
+000227|I vote you have a men's four.
+000228|All right.
+000229|"Not for me, thank you," said Cecil.
+000230|I will not spoil the set.
+000231|He never realized that it may be an act of kindness in a bad player to make up a fourth.
+000232|Oh, come along Cecil.
+000233|I'm bad, Floyd's rotten, and so I dare say's Emerson.
+000234|George corrected him: "I am not bad."
+000235|One looked down one's nose at this.
+000236|"Then certainly I won't play," said Cecil, while Miss Bartlett, under the impression that she was snubbing George, added: "I agree with you, mister Vyse."
+000237|You had much better not play.
+000238|Much better not.
+000239|Minnie, rushing in where Cecil feared to tread, announced that she would play.
+000240|I shall miss every ball anyway, so what does it matter?
+000241|But Sunday intervened and stamped heavily upon the kindly suggestion.
+000242|"Then it will have to be Lucy," said misess Honeychurch;
+000243|you must fall back on Lucy.
+000244|There is no other way out of it.
+000245|Lucy, go and change your frock.
+000246|Lucy's Sabbath was generally of this amphibious nature.
+000247|She kept it without hypocrisy in the morning, and broke it without reluctance in the afternoon.
+000248|As she changed her frock, she wondered whether Cecil was sneering at her;
+000249|really she must overhaul herself and settle everything up before she married him.
+000250|mister Floyd was her partner.
+000251|She liked music, but how much better tennis seemed.
+000252|How much better to run about in comfortable clothes than to sit at the piano and feel girt under the arms.
+000253|Once more music appeared to her the employment of a child.
+000254|George served, and surprised her by his anxiety to win.
+000255|She remembered how he had sighed among the tombs at Santa Croce because things wouldn't fit;
+000256|how after the death of that obscure Italian he had leant over the parapet by the Arno and said to her: "I shall want to live, I tell you."
+000257|He wanted to live now, to win at tennis, to stand for all he was worth in the sun -- the sun which had begun to decline and was shining in her eyes;
+000258|and he did win.
+000259|Ah, how beautiful the Weald looked!
+000260|The hills stood out above its radiance, as Fiesole stands above the Tuscan Plain, and the South Downs, if one chose, were the mountains of Carrara.
+000261|She might be forgetting her Italy, but she was noticing more things in her England.
+000262|One could play a new game with the view, and try to find in its innumerable folds some town or village that would do for Florence.
+000263|Ah, how beautiful the Weald looked!
+000264|But now Cecil claimed her.
+000265|He chanced to be in a lucid critical mood, and would not sympathize with exaltation.
+000266|He had been rather a nuisance all through the tennis, for the novel that he was reading was so bad that he was obliged to read it aloud to others.
+000267|He would stroll round the precincts of the court and call out: "I say, listen to this, Lucy."
+000268|Three split infinitives.
+000269|"Dreadful!" said Lucy, and missed her stroke.
+000270|When they had finished their set, he still went on reading;
+000271|there was some murder scene, and really everyone must listen to it.
+000272|Freddy and mister Floyd were obliged to hunt for a lost ball in the laurels, but the other two acquiesced.
+000273|The scene is laid in Florence.
+000274|What fun, Cecil!
+000275|Read away.
+000276|Come, mister Emerson, sit down after all your energy.
+000277|She had "forgiven" George, as she put it, and she made a point of being pleasant to him.
+000278|He jumped over the net and sat down at her feet asking: "You -- and are you tired?"
+000279|Of course I'm not!
+000280|Do you mind being beaten?
+000281|She was going to answer, "No," when it struck her that she did mind, so she answered, "Yes."
+000282|She added merrily, "I don't see you're such a splendid player, though."
+000283|The light was behind you, and it was in my eyes.
+000284|I never said I was.
+000285|Why, you did!
+000286|You didn't attend.
+000287|You said -- oh, don't go in for accuracy at this house.
+000288|We all exaggerate, and we get very angry with people who don't.
+000289|"'The scene is laid in Florence,'" repeated Cecil, with an upward note.
+000290|Lucy recollected herself.
+000291|'Sunset.
+000292|Leonora was speeding -- '
+000293|Lucy interrupted.
+000294|Leonora?
+000295|Is Leonora the heroine?
+000296|Who's the book by?
+000297|Joseph Emery Prank.
+000298|'Sunset.
+000299|Leonora speeding across the square.
+000300|Pray the saints she might not arrive too late.
+000301|Sunset -- the sunset of Italy.
+000302|Under Orcagna's Loggia -- the Loggia de' Lanzi, as we sometimes call it now -- '
+000303|Lucy burst into laughter.
+000304|'Joseph Emery Prank' indeed!
+000305|Why it's Miss Lavish!
+000306|It's Miss Lavish's novel, and she's publishing it under somebody else's name.
+000307|Who may Miss Lavish be?
+000308|Oh, a dreadful person -- mister Emerson, you remember Miss Lavish?
+000309|Excited by her pleasant afternoon, she clapped her hands.
+000310|George looked up.
+000311|Of course I do.
+000312|I saw her the day I arrived at Summer Street.
+000313|It was she who told me that you lived here.
+000314|Weren't you pleased?
+000315|She meant "to see Miss Lavish," but when he bent down to the grass without replying, it struck her that she could mean something else.
+000316|She watched his head, which was almost resting against her knee, and she thought that the ears were reddening.
+000317|"No wonder the novel's bad," she added.
+000318|I never liked Miss Lavish.
+000319|But I suppose one ought to read it as one's met her.
+000320|"All modern books are bad," said Cecil, who was annoyed at her inattention, and vented his annoyance on literature.
+000321|Every one writes for money in these days.
+000322|Oh, Cecil -- !
+000323|It is so.
+000324|I will inflict Joseph Emery Prank on you no longer.
+000325|Cecil, this afternoon seemed such a twittering sparrow.
+000326|The ups and downs in his voice were noticeable, but they did not affect her.
+000327|She had dwelt amongst melody and movement, and her nerves refused to answer to the clang of his.
+000328|Leaving him to be annoyed, she gazed at the black head again.
+000329|She did not want to stroke it, but she saw herself wanting to stroke it;
+000330|the sensation was curious.
+000331|How do you like this view of ours, mister Emerson?
+000332|I never notice much difference in views.
+000333|What do you mean?
+000334|Because they're all alike.
+000335|Because all that matters in them is distance and air.
+000336|"H'm!" said Cecil, uncertain whether the remark was striking or not.
+000337|"My father" -- he looked up at her (and he was a little flushed) -- "says that there is only one perfect view -- the view of the sky straight over our heads, and that all these views on earth are but bungled copies of it."
+000338|"I expect your father has been reading Dante," said Cecil, fingering the novel, which alone permitted him to lead the conversation.
+000339|He told us another day that views are really crowds -- crowds of trees and houses and hills -- and are bound to resemble each other, like human crowds -- and that the power they have over us is sometimes supernatural, for the same reason.
+000340|Lucy's lips parted.
+000341|For a crowd is more than the people who make it up.
+000342|Something gets added to it -- no one knows how -- just as something has got added to those hills.
+000343|He pointed with his racquet to the South Downs.
+000344|"What a splendid idea!" she murmured.
+000345|I shall enjoy hearing your father talk again.
+000346|I'm so sorry he's not so well.
+000347|No, he isn't well.
+000348|"There's an absurd account of a view in this book," said Cecil.
+000349|Also that men fall into two classes -- those who forget views and those who remember them, even in small rooms.
+000350|mister Emerson, have you any brothers or sisters?
+000351|None.
+000352|Why?
+000353|You spoke of 'us.'
+000354|My mother, I was meaning.
+000355|Cecil closed the novel with a bang.
+000356|Oh, Cecil -- how you made me jump!
+000357|I will inflict Joseph Emery Prank on you no longer.
+000358|I can just remember us all three going into the country for the day and seeing as far as Hindhead.
+000359|It is the first thing that I remember.
+000360|Cecil got up;
+000361|the man was ill-bred -- he hadn't put on his coat after tennis -- he didn't do.
+000362|He would have strolled away if Lucy had not stopped him.
+000363|Cecil, do read the thing about the view.
+000364|Not while mister Emerson is here to entertain us.
+000365|No -- read away.
+000366|I think nothing's funnier than to hear silly things read out loud.
+000367|If mister Emerson thinks us frivolous, he can go.
+000368|This struck Cecil as subtle, and pleased him.
+000369|It put their visitor in the position of a prig.
+000370|Somewhat mollified, he sat down again.
+000371|mister Emerson, go and find tennis balls.
+000372|She opened the book.
+000373|Cecil must have his reading and anything else that he liked.
+000374|But her attention wandered to George's mother, who -- according to mister Eager -- had been murdered in the sight of God and -- according to her son -- had seen as far as Hindhead.
+000375|"Am I really to go?" asked George.
+000376|"No, of course not really," she answered.
+000377|"Chapter two," said Cecil, yawning.
+000378|Find me chapter two, if it isn't bothering you.
+000379|Chapter two was found, and she glanced at its opening sentences.
+000380|She thought she had gone mad.
+000381|Here -- hand me the book.
+000382|She heard her voice saying: "It isn't worth reading -- it's too silly to read -- I never saw such rubbish -- it oughtn't to be allowed to be printed."
+000383|He took the book from her.
+000384|"'Leonora,'" he read, "'sat pensive and alone."
+000385|Before her lay the rich champaign of Tuscany, dotted over with many a smiling village.
+000386|The season was spring.'
+000387|Miss Lavish knew, somehow, and had printed the past in draggled prose, for Cecil to read and for George to hear.
+000388|"'A golden haze,'" he read.
+000389|He read: "'Afar off the towers of Florence, while the bank on which she sat was carpeted with violets."
+000390|All unobserved Antonio stole up behind her -- '
+000391|Lest Cecil should see her face she turned to George and saw his face.
+000392|He read: "'There came from his lips no wordy protestation such as formal lovers use."
+000393|No eloquence was his, nor did he suffer from the lack of it.
+000394|He simply enfolded her in his manly arms.'
+000395|"This isn't the passage I wanted," he informed them, "there is another much funnier, further on."
+000396|He turned over the leaves.
+000397|"Should we go in to tea?" said Lucy, whose voice remained steady.
+000398|She led the way up the garden, Cecil following her, George last.
+000399|She thought a disaster was averted.
+000400|But when they entered the shrubbery it came.
+000401|The book, as if it had not worked mischief enough, had been forgotten, and Cecil must go back for it;
+000402|and George, who loved passionately, must blunder against her in the narrow path.
+000403|"No -- " she gasped, and, for the second time, was kissed by him.
+000404|As if no more was possible, he slipped back;
+000405|Cecil rejoined her;

@@ -1,0 +1,105 @@
+000001|One morning on his way into town mister Pontellier stopped at the house of his old friend and family physician, Doctor Mandelet.
+000002|The Doctor was a semi-retired physician, resting, as the saying is, upon his laurels.
+000003|He bore a reputation for wisdom rather than skill -- leaving the active practice of medicine to his assistants and younger contemporaries -- and was much sought for in matters of consultation.
+000004|A few families, united to him by bonds of friendship, he still attended when they required the services of a physician.
+000005|The Pontelliers were among these.
+000006|mister Pontellier found the Doctor reading at the open window of his study.
+000007|His house stood rather far back from the street, in the center of a delightful garden, so that it was quiet and peaceful at the old gentleman's study window.
+000008|He was a great reader.
+000009|He stared up disapprovingly over his eye-glasses as mister Pontellier entered, wondering who had the temerity to disturb him at that hour of the morning.
+000010|Ah, Pontellier!
+000011|Not sick, I hope.
+000012|Come and have a seat.
+000013|What news do you bring this morning?
+000014|He was quite portly, with a profusion of gray hair, and small blue eyes which age had robbed of much of their brightness but none of their penetration.
+000015|Oh! I'm never sick, Doctor.
+000016|You know that I come of tough fiber -- of that old Creole race of Pontelliers that dry up and finally blow away.
+000017|I came to consult -- no, not precisely to consult -- to talk to you about Edna.
+000018|I don't know what ails her.
+000019|"Madame Pontellier not well," marveled the Doctor.
+000020|Why, I saw her -- I think it was a week ago -- walking along Canal Street, the picture of health, it seemed to me.
+000021|Yes, yes;
+000022|"she seems quite well," said mister Pontellier, leaning forward and whirling his stick between his two hands;
+000023|but she doesn't act well.
+000024|She's odd, she's not like herself.
+000025|I can't make her out, and I thought perhaps you'd help me.
+000026|"How does she act?" inquired the Doctor.
+000027|"Well, it isn't easy to explain," said mister Pontellier, throwing himself back in his chair.
+000028|She lets the housekeeping go to the dickens.
+000029|Well, well;
+000030|women are not all alike, my dear Pontellier.
+000031|We've got to consider -- I know that;
+000032|I told you I couldn't explain.
+000033|Her whole attitude -- toward me and everybody and everything -- has changed.
+000034|You know I have a quick temper, but I don't want to quarrel or be rude to a woman, especially my wife;
+000035|yet I'm driven to it, and feel like ten thousand devils after I've made a fool of myself.
+000036|"She's making it devilishly uncomfortable for me," he went on nervously.
+000037|She's got some sort of notion in her head concerning the eternal rights of women;
+000038|and -- you understand -- we meet in the morning at the breakfast table.
+000039|The old gentleman lifted his shaggy eyebrows, protruded his thick nether lip, and tapped the arms of his chair with his cushioned fingertips.
+000040|What have you been doing to her, Pontellier?
+000041|Doing!
+000042|Parbleu!
+000043|"Has she," asked the Doctor, with a smile, "has she been associating of late with a circle of pseudo-intellectual women -- super-spiritual superior beings?"
+000044|My wife has been telling me about them.
+000045|"That's the trouble," broke in mister Pontellier, "she hasn't been associating with any one."
+000046|She has abandoned her Tuesdays at home, has thrown over all her acquaintances, and goes tramping about by herself, moping in the street-cars, getting in after dark.
+000047|I tell you she's peculiar.
+000048|I don't like it;
+000049|I feel a little worried over it.
+000050|This was a new aspect for the Doctor.
+000051|"Nothing hereditary?" he asked, seriously.
+000052|Nothing peculiar about her family antecedents, is there?
+000053|Oh, no, indeed!
+000054|She comes of sound old Presbyterian Kentucky stock.
+000055|The old gentleman, her father, I have heard, used to atone for his weekday sins with his Sunday devotions.
+000056|I know for a fact, that his race horses literally ran away with the prettiest bit of Kentucky farming land I ever laid eyes upon.
+000057|Margaret -- you know Margaret -- she has all the Presbyterianism undiluted.
+000058|And the youngest is something of a vixen.
+000059|By the way, she gets married in a couple of weeks from now.
+000060|"Send your wife up to the wedding," exclaimed the Doctor, foreseeing a happy solution.
+000061|Let her stay among her own people for a while;
+000062|it will do her good.
+000063|That's what I want her to do.
+000064|She won't go to the marriage.
+000065|She says a wedding is one of the most lamentable spectacles on earth.
+000066|"Nice thing for a woman to say to her husband!" exclaimed mister Pontellier, fuming anew at the recollection.
+000067|"Pontellier," said the Doctor, after a moment's reflection, "let your wife alone for a while."
+000068|Don't bother her, and don't let her bother you.
+000069|Woman, my dear friend, is a very peculiar and delicate organism -- a sensitive and highly organized woman, such as I know misess Pontellier to be, is especially peculiar.
+000070|It would require an inspired psychologist to deal successfully with them.
+000071|And when ordinary fellows like you and me attempt to cope with their idiosyncrasies the result is bungling.
+000072|Most women are moody and whimsical.
+000073|This is some passing whim of your wife, due to some cause or causes which you and I needn't try to fathom.
+000074|But it will pass happily over, especially if you let her alone.
+000075|Send her around to see me.
+000076|Oh! I couldn't do that;
+000077|"there'd be no reason for it," objected mister Pontellier.
+000078|"Then I'll go around and see her," said the Doctor.
+000079|I'll drop in to dinner some evening en bon ami.
+000080|"Do! by all means," urged mister Pontellier.
+000081|What evening will you come?
+000082|Say Thursday.
+000083|"Will you come Thursday?" he asked, rising to take his leave.
+000084|Very well;
+000085|Thursday.
+000086|My wife may possibly have some engagement for me Thursday.
+000087|In case she has, I shall let you know.
+000088|Otherwise, you may expect me.
+000089|mister Pontellier turned before leaving to say:
+000090|I am going to New York on business very soon.
+000091|I have a big scheme on hand, and want to be on the field proper to pull the ropes and handle the ribbons.
+000092|"We'll let you in on the inside if you say so, Doctor," he laughed.
+000093|"No, I thank you, my dear sir," returned the Doctor.
+000094|I leave such ventures to you younger men with the fever of life still in your blood.
+000095|"What I wanted to say," continued mister Pontellier, with his hand on the knob;
+000096|I may have to be absent a good while.
+000097|Would you advise me to take Edna along?
+000098|By all means, if she wishes to go.
+000099|If not, leave her here.
+000100|Don't contradict her.
+000101|The mood will pass, I assure you.
+000102|It may take a month, two, three months -- possibly longer, but it will pass;
+000103|have patience.
+000104|"Well, good-by, a jeudi," said mister Pontellier, as he let himself out.
+000105|The Doctor would have liked during the course of conversation to ask, "Is there any man in the case?" but he knew his Creole too well to make such a blunder as that.

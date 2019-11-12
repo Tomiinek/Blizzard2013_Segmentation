@@ -1,0 +1,112 @@
+000001|"Now," said Dorothy, as they stood on the mountain path, having left behind them the cave in which dwelt the Hoppers and the Horners, "I think we must find a road into the Country of the Winkies, for there is where Ojo wants to go next."
+000002|"Is there such a road?" asked the Scarecrow.
+000003|"I don't know," she replied.
+000004|I s'pose we can go back the way we came, to Jack Pumpkinhead's house, and then turn into the Winkie Country;
+000005|but that seems like running 'round a haystack, doesn't it?
+000006|"Yes," said the Scarecrow.
+000007|What is the next thing Ojo must get?
+000008|"A yellow butterfly," answered the boy.
+000009|"That means the Winkie Country, all right, for it's the yellow country of Oz," remarked Dorothy.
+000010|I think, Scarecrow, we ought to take him to the Tin Woodman, for he's the Emp'ror of the Winkies and will help us to find what Ojo wants.
+000011|"Of course," replied the Scarecrow, brightening at the suggestion.
+000012|The Tin Woodman will do anything we ask him, for he's one of my dearest friends.
+000013|I believe we can take a crosscut into his country and so get to his castle a day sooner than if we travel back the way we came.
+000014|"I think so, too," said the girl;
+000015|and that means we must keep to the left.
+000016|They were obliged to go down the mountain before they found any path that led in the direction they wanted to go, but among the tumbled rocks at the foot of the mountain was a faint trail which they decided to follow.
+000017|Two or three hours walk along this trail brought them to a clear, level country, where there were a few farms and some scattered houses.
+000018|But they knew they were still in the Country of the Quadlings, because everything had a bright red color.
+000019|Not that the trees and grasses were red, but the fences and houses were painted that color and all the wild-flowers that bloomed by the wayside had red blossoms.
+000020|This part of the Quadling Country seemed peaceful and prosperous, if rather lonely, and the road was more distinct and easier to follow.
+000021|But just as they were congratulating themselves upon the progress they had made they came upon a broad river which swept along between high banks, and here the road ended and there was no bridge of any sort to allow them to cross.
+000022|"This is queer," mused Dorothy, looking at the water reflectively.
+000023|Why should there be any road, if the river stops everyone walking along it?
+000024|"Wow!" said Toto, gazing earnestly into her face.
+000025|"That's the best answer you'll get," declared the Scarecrow, with his comical smile, "for no one knows any more than Toto about this road."
+000026|Said Scraps:
+000027|Ev'ry time I see a river, I have chills that make me shiver, For I never can forget All the water's very wet.
+000028|If my patches get a soak It will be a sorry joke;
+000029|So to swim I'll never try Till I find the water dry.
+000030|"Try to control yourself, Scraps," said Ojo;
+000031|you're getting crazy again.
+000032|No one intends to swim that river.
+000033|"No," decided Dorothy, "we couldn't swim it if we tried."
+000034|It's too big a river, and the water moves awful fast.
+000035|"There ought to be a ferryman with a boat," said the Scarecrow;
+000036|but I don't see any.
+000037|"Couldn't we make a raft?" suggested Ojo.
+000038|"There's nothing to make one of," answered Dorothy.
+000039|"Wow!" said Toto again, and Dorothy saw he was looking along the bank of the river.
+000040|"Why, he sees a house over there!" cried the little girl.
+000041|I wonder we didn't notice it ourselves.
+000042|Let's go and ask the people how to get 'cross the river.
+000043|A quarter of a mile along the bank stood a small, round house, painted bright red, and as it was on their side of the river they hurried toward it.
+000044|A chubby little man, dressed all in red, came out to greet them, and with him were two children, also in red costumes.
+000045|The man's eyes were big and staring as he examined the Scarecrow and the Patchwork Girl, and the children shyly hid behind him and peeked timidly at Toto.
+000046|"Do you live here, my good man?" asked the Scarecrow.
+000047|"I think I do, Most Mighty Magician," replied the Quadling, bowing low;
+000048|but whether I'm awake or dreaming I can't be positive, so I'm not sure where I live.
+000049|If you'll kindly pinch me I'll find out all about it!
+000050|"You're awake," said Dorothy, "and this is no magician, but just the Scarecrow."
+000051|"But he's alive," protested the man, "and he oughtn't to be, you know."
+000052|And that other dreadful person -- the girl who is all patches -- seems to be alive, too.
+000053|"Very much so," declared Scraps, making a face at him.
+000054|But that isn't your affair, you know.
+000055|"I've a right to be surprised, haven't I?" asked the man meekly.
+000056|I'm not sure;
+000057|but anyhow you've no right to say I'm dreadful.
+000058|"The Scarecrow, who is a gentleman of great wisdom, thinks I'm beautiful," retorted Scraps.
+000059|"Never mind all that," said Dorothy.
+000060|Tell us, good Quadling, how we can get across the river.
+000061|"I don't know," replied the Quadling.
+000062|"Don't you ever cross it?" asked the girl.
+000063|Never.
+000064|Don't travelers cross it?
+000065|"Not to my knowledge," said he.
+000066|They were much surprised to hear this, and the man added: "It's a pretty big river, and the current is strong."
+000067|I know a man who lives on the opposite bank, for I've seen him there a good many years;
+000068|but we've never spoken because neither of us has ever crossed over.
+000069|"That's queer," said the Scarecrow.
+000070|Don't you own a boat?
+000071|The man shook his head.
+000072|Nor a raft?
+000073|"Where does this river go to?" asked Dorothy.
+000074|"That way," answered the man, pointing with one hand, "it goes into the Country of the Winkies, which is ruled by the Tin Emperor, who must be a mighty magician because he's all made of tin, and yet he's alive."
+000075|"And that way," pointing with the other hand, "the river runs between two mountains where dangerous people dwell."
+000076|The Scarecrow looked at the water before them.
+000077|"The current flows toward the Winkie Country," said he;
+000078|and so, if we had a boat, or a raft, the river would float us there more quickly and more easily than we could walk.
+000079|"That is true," agreed Dorothy;
+000080|and then they all looked thoughtful and wondered what could be done.
+000081|"Why can't the man make us a raft?" asked Ojo.
+000082|"Will you?" inquired Dorothy, turning to the Quadling.
+000083|The chubby man shook his head.
+000084|"I'm too lazy," he said.
+000085|My wife says I'm the laziest man in all Oz, and she is a truthful woman.
+000086|I hate work of any kind, and making a raft is hard work.
+000087|"I'll give you my em'rald ring," promised the girl.
+000088|No; I don't care for emeralds.
+000089|If it were a ruby, which is the color I like best, I might work a little while.
+000090|"I've got some Square Meal Tablets," said the Scarecrow.
+000091|Each one is the same as a dish of soup, a fried fish, a mutton pot-pie, lobster salad, charlotte russe and lemon jelly -- all made into one little tablet that you can swallow without trouble.
+000092|"Without trouble!" exclaimed the Quadling, much interested;
+000093|then those tablets would be fine for a lazy man.
+000094|It's such hard work to chew when you eat.
+000095|"I'll give you six of those tablets if you'll help us make a raft," promised the Scarecrow.
+000096|They're a combination of food which people who eat are very fond of.
+000097|I never eat, you know, being straw;
+000098|but some of my friends eat regularly.
+000099|What do you say to my offer, Quadling?
+000100|"I'll do it," decided the man.
+000101|I'll help, and you can do most of the work.
+000102|But my wife has gone fishing for red eels to-day, so some of you will have to mind the children.
+000103|Scraps promised to do that, and the children were not so shy when the Patchwork Girl sat down to play with them.
+000104|They grew to like Toto, too, and the little dog allowed them to pat him on his head, which gave the little ones much joy.
+000105|There were a number of fallen trees near the house and the Quadling got his axe and chopped them into logs of equal length.
+000106|He took his wife's clothesline to bind these logs together, so that they would form a raft, and Ojo found some strips of wood and nailed them along the tops of the logs, to render them more firm.
+000107|The Scarecrow and Dorothy helped roll the logs together and carry the strips of wood, but it took so long to make the raft that evening came just as it was finished, and with evening the Quadling's wife returned from her fishing.
+000108|The woman proved to be cross and bad-tempered, perhaps because she had only caught one red eel during all the day.
+000109|When she found that her husband had used her clothesline, and the logs she had wanted for firewood, and the boards she had intended to mend the shed with, and a lot of gold nails, she became very angry.
+000110|Scraps wanted to shake the woman, to make her behave, but Dorothy talked to her in a gentle tone and told the Quadling's wife she was a Princess of Oz and a friend of Ozma and that when she got back to the Emerald City she would send them a lot of things to repay them for the raft, including a new clothesline.
+000111|This promise pleased the woman and she soon became more pleasant, saying they could stay the night at her house and begin their voyage on the river next morning.
+000112|This they did, spending a pleasant evening with the Quadling family and being entertained with such hospitality as the poor people were able to offer them.

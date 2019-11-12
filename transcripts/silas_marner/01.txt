@@ -1,0 +1,154 @@
+000001|The shepherd's dog barked fiercely when one of these alien-looking men appeared on the upland, dark against the early winter sunset;
+000002|for what dog likes a figure bent under a heavy bag? -- and these pale men rarely stirred abroad without that mysterious burden.
+000003|The shepherd himself, though he had good reason to believe that the bag held nothing but flaxen thread, or else the long rolls of strong linen spun from that thread, was not quite sure that this trade of weaving, indispensable though it was, could be carried on entirely without the help of the Evil One.
+000004|In that far-off time superstition clung easily round every person or thing that was at all unwonted, or even intermittent and occasional merely, like the visits of the pedlar or the knife-grinder.
+000005|No one knew where wandering men had their homes or their origin;
+000006|and how was a man to be explained unless you at least knew somebody who knew his father and mother?
+000007|To the peasants of old times, the world outside their own direct experience was a region of vagueness and mystery: to their untravelled thought a state of wandering was a conception as dim as the winter life of the swallows that came back with the spring;
+000008|and even a settler, if he came from distant parts, hardly ever ceased to be viewed with a remnant of distrust, which would have prevented any surprise if a long course of inoffensive conduct on his part had ended in the commission of a crime;
+000009|especially if he had any reputation for knowledge, or showed any skill in handicraft.
+000010|All cleverness, whether in the rapid use of that difficult instrument the tongue, or in some other art unfamiliar to villagers, was in itself suspicious: honest folk, born and bred in a visible manner, were mostly not overwise or clever -- at least, not beyond such a matter as knowing the signs of the weather;
+000011|and the process by which rapidity and dexterity of any kind were acquired was so wholly hidden, that they partook of the nature of conjuring.
+000012|In this way it came to pass that those scattered linen-weavers -- emigrants from the town into the country -- were to the last regarded as aliens by their rustic neighbours, and usually contracted the eccentric habits which belong to a state of loneliness.
+000013|In the early years of this century, such a linen-weaver, named Silas Marner, worked at his vocation in a stone cottage that stood among the nutty hedgerows near the village of Raveloe, and not far from the edge of a deserted stone-pit.
+000014|The questionable sound of Silas's loom, so unlike the natural cheerful trotting of the winnowing-machine, or the simpler rhythm of the flail, had a half-fearful fascination for the Raveloe boys, who would often leave off their nutting or birds'-nesting to peep in at the window of the stone cottage, counterbalancing a certain awe at the mysterious action of the loom, by a pleasant sense of scornful superiority, drawn from the mockery of its alternating noises, along with the bent, tread-mill attitude of the weaver.
+000015|But sometimes it happened that Marner, pausing to adjust an irregularity in his thread, became aware of the small scoundrels, and, though chary of his time, he liked their intrusion so ill that he would descend from his loom, and, opening the door, would fix on them a gaze that was always enough to make them take to their legs in terror.
+000016|For how was it possible to believe that those large brown protuberant eyes in Silas Marner's pale face really saw nothing very distinctly that was not close to them, and not rather that their dreadful stare could dart cramp, or rickets, or a wry mouth at any boy who happened to be in the rear?
+000017|They had, perhaps, heard their fathers and mothers hint that Silas Marner could cure folks' rheumatism if he had a mind, and add, still more darkly, that if you could only speak the devil fair enough, he might save you the cost of the doctor.
+000018|Such strange lingering echoes of the old demon-worship might perhaps even now be caught by the diligent listener among the grey-haired peasantry;
+000019|for the rude mind with difficulty associates the ideas of power and benignity.
+000020|A shadowy conception of power that by much persuasion can be induced to refrain from inflicting harm, is the shape most easily taken by the sense of the Invisible in the minds of men who have always been pressed close by primitive wants, and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith.
+000021|To them pain and mishap present a far wider range of possibilities than gladness and enjoyment: their imagination is almost barren of the images that feed desire and hope, but is all overgrown by recollections that are a perpetual pasture to fear.
+000022|Is there anything you can fancy that you would like to eat?
+000023|I once said to an old labouring man, who was in his last illness, and who had refused all the food his wife had offered him.
+000024|"No," he answered, "I've never been used to nothing but common victual, and I can't eat that."
+000025|Experience had bred no fancies in him that could raise the phantasm of appetite.
+000026|And Raveloe was a village where many of the old echoes lingered, undrowned by new voices.
+000027|Not that it was one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly-scattered shepherds: on the contrary, it lay in the rich central plain of what we are pleased to call Merry England, and held farms which, speaking from a spiritual point of view, paid highly-desirable tithes.
+000028|But it was nestled in a snug well-wooded hollow, quite an hour's journey on horseback from any turnpike, where it was never reached by the vibrations of the coach-horn, or of public opinion.
+000029|It was an important-looking village, with a fine old church and large churchyard in the heart of it, and two or three large brick-and-stone homesteads, with well-walled orchards and ornamental weathercocks, standing close upon the road, and lifting more imposing fronts than the rectory, which peeped from among the trees on the other side of the churchyard: -- a village which showed at once the summits of its social life, and told the practised eye that there was no great park and manor-house in the vicinity, but that there were several chiefs in Raveloe who could farm badly quite at their ease, drawing enough money from their bad farming, in those war times, to live in a rollicking fashion, and keep a jolly Christmas, Whitsun, and Easter tide.
+000030|It was fifteen years since Silas Marner had first come to Raveloe;
+000031|he was then simply a pallid young man, with prominent short-sighted brown eyes, whose appearance would have had nothing strange for people of average culture and experience, but for the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation, and his advent from an unknown region called "North'ard".
+000032|So had his way of life: -- he invited no comer to step across his door-sill, and he never strolled into the village to drink a pint at the Rainbow, or to gossip at the wheelwright's: he sought no man or woman, save for the purposes of his calling, or in order to supply himself with necessaries;
+000033|and it was soon clear to the Raveloe lasses that he would never urge one of them to accept him against her will -- quite as if he had heard them declare that they would never marry a dead man come to life again.
+000034|This view of Marner's personality was not without another ground than his pale face and unexampled eyes;
+000035|for Jem Rodney, the mole-catcher, averred that one evening as he was returning homeward, he saw Silas Marner leaning against a stile with a heavy bag on his back, instead of resting the bag on the stile as a man in his senses would have done;
+000036|and that, on coming up to him, he saw that Marner's eyes were set like a dead man's, and he spoke to him, and shook him, and his limbs were stiff, and his hands clutched the bag as if they'd been made of iron;
+000037|but just as he had made up his mind that the weaver was dead, he came all right again, like, as you might say, in the winking of an eye, and said "Good-night", and walked off.
+000038|All this Jem swore he had seen, more by token that it was the very day he had been mole-catching on Squire Cass's land, down by the old saw-pit.
+000039|Some said Marner must have been in a "fit", a word which seemed to explain things otherwise incredible;
+000040|but the argumentative mister Macey, clerk of the parish, shook his head, and asked if anybody was ever known to go off in a fit and not fall down.
+000041|A fit was a stroke, wasn't it? and it was in the nature of a stroke to partly take away the use of a man's limbs and throw him on the parish, if he'd got no children to look to.
+000042|No, no;
+000043|it was no stroke that would let a man stand on his legs, like a horse between the shafts, and then walk off as soon as you can say "Gee!"
+000044|But there might be such a thing as a man's soul being loose from his body, and going out and in, like a bird out of its nest and back;
+000045|and that was how folks got over-wise, for they went to school in this shell-less state to those who could teach them more than their neighbours could learn with their five senses and the parson.
+000046|And where did Master Marner get his knowledge of herbs from -- and charms too, if he liked to give them away?
+000047|Jem Rodney's story was no more than what might have been expected by anybody who had seen how Marner had cured Sally Oates, and made her sleep like a baby, when her heart had been beating enough to burst her body, for two months and more, while she had been under the doctor's care.
+000048|He might cure more folks if he would;
+000049|but he was worth speaking fair, if it was only to keep him from doing you a mischief.
+000050|It was partly to this vague fear that Marner was indebted for protecting him from the persecution that his singularities might have drawn upon him, but still more to the fact that, the old linen-weaver in the neighbouring parish of Tarley being dead, his handicraft made him a highly welcome settler to the richer housewives of the district, and even to the more provident cottagers, who had their little stock of yarn at the year's end.
+000051|Their sense of his usefulness would have counteracted any repugnance or suspicion which was not confirmed by a deficiency in the quality or the tale of the cloth he wove for them.
+000052|And the years had rolled on without producing any change in the impressions of the neighbours concerning Marner, except the change from novelty to habit.
+000053|At the end of fifteen years the Raveloe men said just the same things about Silas Marner as at the beginning: they did not say them quite so often, but they believed them much more strongly when they did say them.
+000054|There was only one important addition which the years had brought: it was, that Master Marner had laid by a fine sight of money somewhere, and that he could buy up "bigger men" than himself.
+000055|But while opinion concerning him had remained nearly stationary, and his daily habits had presented scarcely any visible change, Marner's inward life had been a history and a metamorphosis, as that of every fervid nature must be when it has fled, or been condemned, to solitude.
+000056|His life, before he came to Raveloe, had been filled with the movement, the mental activity, and the close fellowship, which, in that day as in this, marked the life of an artisan early incorporated in a narrow religious sect, where the poorest layman has the chance of distinguishing himself by gifts of speech, and has, at the very least, the weight of a silent voter in the government of his community.
+000057|Marner was highly thought of in that little hidden world, known to itself as the church assembling in Lantern Yard;
+000058|he was believed to be a young man of exemplary life and ardent faith;
+000059|and a peculiar interest had been centred in him ever since he had fallen, at a prayer-meeting, into a mysterious rigidity and suspension of consciousness, which, lasting for an hour or more, had been mistaken for death.
+000060|To have sought a medical explanation for this phenomenon would have been held by Silas himself, as well as by his minister and fellow-members, a wilful self-exclusion from the spiritual significance that might lie therein.
+000061|Silas was evidently a brother selected for a peculiar discipline;
+000062|and though the effort to interpret this discipline was discouraged by the absence, on his part, of any spiritual vision during his outward trance, yet it was believed by himself and others that its effect was seen in an accession of light and fervour.
+000063|A less truthful man than he might have been tempted into the subsequent creation of a vision in the form of resurgent memory;
+000064|a less sane man might have believed in such a creation;
+000065|but Silas was both sane and honest, though, as with many honest and fervent men, culture had not defined any channels for his sense of mystery, and so it spread itself over the proper pathway of inquiry and knowledge.
+000066|He had inherited from his mother some acquaintance with medicinal herbs and their preparation -- a little store of wisdom which she had imparted to him as a solemn bequest -- but of late years he had had doubts about the lawfulness of applying this knowledge, believing that herbs could have no efficacy without prayer, and that prayer might suffice without herbs;
+000067|so that the inherited delight he had in wandering in the fields in search of foxglove and dandelion and coltsfoot, began to wear to him the character of a temptation.
+000068|Among the members of his church there was one young man, a little older than himself, with whom he had long lived in such close friendship that it was the custom of their Lantern Yard brethren to call them David and Jonathan.
+000069|The real name of the friend was William Dane, and he, too, was regarded as a shining instance of youthful piety, though somewhat given to over-severity towards weaker brethren, and to be so dazzled by his own light as to hold himself wiser than his teachers.
+000070|But whatever blemishes others might discern in William, to his friend's mind he was faultless;
+000071|for Marner had one of those impressible self-doubting natures which, at an inexperienced age, admire imperativeness and lean on contradiction.
+000072|The expression of trusting simplicity in Marner's face, heightened by that absence of special observation, that defenceless, deer-like gaze which belongs to large prominent eyes, was strongly contrasted by the self-complacent suppression of inward triumph that lurked in the narrow slanting eyes and compressed lips of William Dane.
+000073|One of the most frequent topics of conversation between the two friends was Assurance of salvation: Silas confessed that he could never arrive at anything higher than hope mingled with fear, and listened with longing wonder when William declared that he had possessed unshaken assurance ever since, in the period of his conversion, he had dreamed that he saw the words "calling and election sure" standing by themselves on a white page in the open Bible.
+000074|Such colloquies have occupied many a pair of pale-faced weavers, whose unnurtured souls have been like young winged things, fluttering forsaken in the twilight.
+000075|It had seemed to the unsuspecting Silas that the friendship had suffered no chill even from his formation of another attachment of a closer kind.
+000076|For some months he had been engaged to a young servant-woman, waiting only for a little increase to their mutual savings in order to their marriage;
+000077|and it was a great delight to him that Sarah did not object to William's occasional presence in their Sunday interviews.
+000078|It was at this point in their history that Silas's cataleptic fit occurred during the prayer-meeting;
+000079|and amidst the various queries and expressions of interest addressed to him by his fellow-members, William's suggestion alone jarred with the general sympathy towards a brother thus singled out for special dealings.
+000080|He observed that, to him, this trance looked more like a visitation of Satan than a proof of divine favour, and exhorted his friend to see that he hid no accursed thing within his soul.
+000081|Silas, feeling bound to accept rebuke and admonition as a brotherly office, felt no resentment, but only pain, at his friend's doubts concerning him;
+000082|and to this was soon added some anxiety at the perception that Sarah's manner towards him began to exhibit a strange fluctuation between an effort at an increased manifestation of regard and involuntary signs of shrinking and dislike.
+000083|He asked her if she wished to break off their engagement;
+000084|but she denied this: their engagement was known to the church, and had been recognized in the prayer-meetings;
+000085|it could not be broken off without strict investigation, and Sarah could render no reason that would be sanctioned by the feeling of the community.
+000086|At this time the senior deacon was taken dangerously ill, and, being a childless widower, he was tended night and day by some of the younger brethren or sisters.
+000087|Silas frequently took his turn in the night-watching with William, the one relieving the other at two in the morning.
+000088|The old man, contrary to expectation, seemed to be on the way to recovery, when one night Silas, sitting up by his bedside, observed that his usual audible breathing had ceased.
+000089|The candle was burning low, and he had to lift it to see the patient's face distinctly.
+000090|Examination convinced him that the deacon was dead -- had been dead some time, for the limbs were rigid.
+000091|Silas asked himself if he had been asleep, and looked at the clock: it was already four in the morning.
+000092|How was it that William had not come?
+000093|In much anxiety he went to seek for help, and soon there were several friends assembled in the house, the minister among them, while Silas went away to his work, wishing he could have met William to know the reason of his non-appearance.
+000094|But at six o'clock, as he was thinking of going to seek his friend, William came, and with him the minister.
+000095|They came to summon him to Lantern Yard, to meet the church members there;
+000096|and to his inquiry concerning the cause of the summons the only reply was, "You will hear."
+000097|Nothing further was said until Silas was seated in the vestry, in front of the minister, with the eyes of those who to him represented God's people fixed solemnly upon him.
+000098|Then the minister, taking out a pocket-knife, showed it to Silas, and asked him if he knew where he had left that knife?
+000099|Silas said, he did not know that he had left it anywhere out of his own pocket -- but he was trembling at this strange interrogation.
+000100|He was then exhorted not to hide his sin, but to confess and repent.
+000101|The knife had been found in the bureau by the departed deacon's bedside -- found in the place where the little bag of church money had lain, which the minister himself had seen the day before.
+000102|Some hand had removed that bag;
+000103|and whose hand could it be, if not that of the man to whom the knife belonged?
+000104|For some time Silas was mute with astonishment: then he said, "God will clear me: I know nothing about the knife being there, or the money being gone."
+000105|Search me and my dwelling;
+000106|you will find nothing but three pound five of my own savings, which William Dane knows I have had these six months.
+000107|At this William groaned, but the minister said, "The proof is heavy against you, brother Marner."
+000108|The money was taken in the night last past, and no man was with our departed brother but you, for William Dane declares to us that he was hindered by sudden sickness from going to take his place as usual, and you yourself said that he had not come;
+000109|and, moreover, you neglected the dead body.
+000110|"I must have slept," said Silas.
+000111|Then, after a pause, he added, "Or I must have had another visitation like that which you have all seen me under, so that the thief must have come and gone while I was not in the body, but out of the body."
+000112|But, I say again, search me and my dwelling, for I have been nowhere else.
+000113|The search was made, and it ended -- in William Dane's finding the well-known bag, empty, tucked behind the chest of drawers in Silas's chamber!
+000114|On this William exhorted his friend to confess, and not to hide his sin any longer.
+000115|Silas turned a look of keen reproach on him, and said, "William, for nine years that we have gone in and out together, have you ever known me tell a lie?"
+000116|But God will clear me.
+000117|"Brother," said William, "how do I know what you may have done in the secret chambers of your heart, to give Satan an advantage over you?"
+000118|Silas was still looking at his friend.
+000119|Suddenly a deep flush came over his face, and he was about to speak impetuously, when he seemed checked again by some inward shock, that sent the flush back and made him tremble.
+000120|But at last he spoke feebly, looking at William.
+000121|I remember now -- the knife wasn't in my pocket.
+000122|William said, "I know nothing of what you mean."
+000123|The other persons present, however, began to inquire where Silas meant to say that the knife was, but he would give no further explanation: he only said, "I am sore stricken;"
+000124|I can say nothing.
+000125|God will clear me.
+000126|On their return to the vestry there was further deliberation.
+000127|Any resort to legal measures for ascertaining the culprit was contrary to the principles of the church in Lantern Yard, according to which prosecution was forbidden to Christians, even had the case held less scandal to the community.
+000128|But the members were bound to take other measures for finding out the truth, and they resolved on praying and drawing lots.
+000129|This resolution can be a ground of surprise only to those who are unacquainted with that obscure religious life which has gone on in the alleys of our towns.
+000130|Silas knelt with his brethren, relying on his own innocence being certified by immediate divine interference, but feeling that there was sorrow and mourning behind for him even then -- that his trust in man had been cruelly bruised.
+000131|The lots declared that Silas Marner was guilty.
+000132|He was solemnly suspended from church-membership, and called upon to render up the stolen money: only on confession, as the sign of repentance, could he be received once more within the folds of the church.
+000133|Marner listened in silence.
+000134|At last, when everyone rose to depart, he went towards William Dane and said, in a voice shaken by agitation
+000135|The last time I remember using my knife, was when I took it out to cut a strap for you.
+000136|I don't remember putting it in my pocket again.
+000137|You stole the money, and you have woven a plot to lay the sin at my door.
+000138|But you may prosper, for all that: there is no just God that governs the earth righteously, but a God of lies, that bears witness against the innocent.
+000139|There was a general shudder at this blasphemy.
+000140|William said meekly, "I leave our brethren to judge whether this is the voice of Satan or not."
+000141|I can do nothing but pray for you, Silas.
+000142|Poor Marner went out with that despair in his soul -- that shaken trust in God and man, which is little short of madness to a loving nature.
+000143|In the bitterness of his wounded spirit, he said to himself, "She will cast me off too."
+000144|And he reflected that, if she did not believe the testimony against him, her whole faith must be upset as his was.
+000145|To people accustomed to reason about the forms in which their religious feeling has incorporated itself, it is difficult to enter into that simple, untaught state of mind in which the form and the feeling have never been severed by an act of reflection.
+000146|We are apt to think it inevitable that a man in Marner's position should have begun to question the validity of an appeal to the divine judgment by drawing lots;
+000147|but to him this would have been an effort of independent thought such as he had never known;
+000148|and he must have made the effort at a moment when all his energies were turned into the anguish of disappointed faith.
+000149|If there is an angel who records the sorrows of men as well as their sins, he knows how many and deep are the sorrows that spring from false ideas for which no man is culpable.
+000150|Marner went home, and for a whole day sat alone, stunned by despair, without any impulse to go to Sarah and attempt to win her belief in his innocence.
+000151|The second day he took refuge from benumbing unbelief, by getting into his loom and working away as usual;
+000152|and before many hours were past, the minister and one of the deacons came to him with the message from Sarah, that she held her engagement to him at an end.
+000153|Silas received the message mutely, and then turned away from the messengers to work at his loom again.
+000154|In little more than a month from that time, Sarah was married to William Dane;

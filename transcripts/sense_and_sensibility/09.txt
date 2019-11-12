@@ -1,0 +1,101 @@
+000001|The Dashwoods were now settled at Barton with tolerable comfort to themselves.
+000002|The house and the garden, with all the objects surrounding them, were now become familiar, and the ordinary pursuits which had given to Norland half its charms were engaged in again with far greater enjoyment than Norland had been able to afford, since the loss of their father.
+000003|Sir John Middleton, who called on them every day for the first fortnight, and who was not in the habit of seeing much occupation at home, could not conceal his amazement on finding them always employed.
+000004|Their visitors, except those from Barton Park, were not many;
+000005|for, in spite of Sir John's urgent entreaties that they would mix more in the neighbourhood, and repeated assurances of his carriage being always at their service, the independence of misess Dashwood's spirit overcame the wish of society for her children;
+000006|and she was resolute in declining to visit any family beyond the distance of a walk.
+000007|There were but few who could be so classed;
+000008|and it was not all of them that were attainable.
+000009|About a mile and a half from the cottage, along the narrow winding valley of Allenham, which issued from that of Barton, as formerly described, the girls had, in one of their earliest walks, discovered an ancient respectable looking mansion which, by reminding them a little of Norland, interested their imagination and made them wish to be better acquainted with it.
+000010|But they learnt, on enquiry, that its possessor, an elderly lady of very good character, was unfortunately too infirm to mix with the world, and never stirred from home.
+000011|The whole country about them abounded in beautiful walks.
+000012|The high downs which invited them from almost every window of the cottage to seek the exquisite enjoyment of air on their summits, were a happy alternative when the dirt of the valleys beneath shut up their superior beauties;
+000013|and towards one of these hills did Marianne and Margaret one memorable morning direct their steps, attracted by the partial sunshine of a showery sky, and unable longer to bear the confinement which the settled rain of the two preceding days had occasioned.
+000014|The weather was not tempting enough to draw the two others from their pencil and their book, in spite of Marianne's declaration that the day would be lastingly fair, and that every threatening cloud would be drawn off from their hills;
+000015|and the two girls set off together.
+000016|They gaily ascended the downs, rejoicing in their own penetration at every glimpse of blue sky;
+000017|and when they caught in their faces the animating gales of a high south-westerly wind, they pitied the fears which had prevented their mother and Elinor from sharing such delightful sensations.
+000018|"Is there a felicity in the world," said Marianne, "superior to this?"
+000019|Margaret, we will walk here at least two hours.
+000020|Margaret agreed, and they pursued their way against the wind, resisting it with laughing delight for about twenty minutes longer, when suddenly the clouds united over their heads, and a driving rain set full in their face.
+000021|Chagrined and surprised, they were obliged, though unwillingly, to turn back, for no shelter was nearer than their own house.
+000022|One consolation however remained for them, to which the exigence of the moment gave more than usual propriety;
+000023|it was that of running with all possible speed down the steep side of the hill which led immediately to their garden gate.
+000024|They set off.
+000025|Marianne had at first the advantage, but a false step brought her suddenly to the ground;
+000026|and Margaret, unable to stop herself to assist her, was involuntarily hurried along, and reached the bottom in safety.
+000027|A gentleman carrying a gun, with two pointers playing round him, was passing up the hill and within a few yards of Marianne, when her accident happened.
+000028|He put down his gun and ran to her assistance.
+000029|She had raised herself from the ground, but her foot had been twisted in her fall, and she was scarcely able to stand.
+000030|The gentleman offered his services;
+000031|and perceiving that her modesty declined what her situation rendered necessary, took her up in his arms without farther delay, and carried her down the hill.
+000032|Then passing through the garden, the gate of which had been left open by Margaret, he bore her directly into the house, whither Margaret was just arrived, and quitted not his hold till he had seated her in a chair in the parlour.
+000033|Elinor and her mother rose up in amazement at their entrance, and while the eyes of both were fixed on him with an evident wonder and a secret admiration which equally sprung from his appearance, he apologized for his intrusion by relating its cause, in a manner so frank and so graceful that his person, which was uncommonly handsome, received additional charms from his voice and expression.
+000034|Had he been even old, ugly, and vulgar, the gratitude and kindness of misess Dashwood would have been secured by any act of attention to her child;
+000035|but the influence of youth, beauty, and elegance, gave an interest to the action which came home to her feelings.
+000036|She thanked him again and again;
+000037|and, with a sweetness of address which always attended her, invited him to be seated.
+000038|But this he declined, as he was dirty and wet.
+000039|Misess Dashwood then begged to know to whom she was obliged.
+000040|His name, he replied, was Willoughby, and his present home was at Allenham, from whence he hoped she would allow him the honour of calling tomorrow to enquire after Miss Dashwood.
+000041|The honour was readily granted, and he then departed, to make himself still more interesting, in the midst of a heavy rain.
+000042|His manly beauty and more than common gracefulness were instantly the theme of general admiration, and the laugh which his gallantry raised against Marianne received particular spirit from his exterior attractions.
+000043|Marianne herself had seen less of his Mama the rest, for the confusion which crimsoned over her face, on his lifting her up, had robbed her of the power of regarding him after their entering the house.
+000044|But she had seen enough of him to join in all the admiration of the others, and with an energy which always adorned her praise.
+000045|His person and air were equal to what her fancy had ever drawn for the hero of a favourite story;
+000046|and in his carrying her into the house with so little previous formality, there was a rapidity of thought which particularly recommended the action to her.
+000047|Every circumstance belonging to him was interesting.
+000048|His name was good, his residence was in their favourite village, and she soon found out that of all manly dresses a shooting-jacket was the most becoming.
+000049|Her imagination was busy, her reflections were pleasant, and the pain of a sprained ankle was disregarded.
+000050|Sir John called on them as soon as the next interval of fair weather that morning allowed him to get out of doors;
+000051|and Marianne's accident being related to him, he was eagerly asked whether he knew any gentleman of the name of Willoughby at Allenham.
+000052|"Willoughby!" cried Sir John;
+000053|what, is he in the country?
+000054|That is good news however;
+000055|I will ride over tomorrow, and ask him to dinner on Thursday.
+000056|"You know him then," said misess Dashwood.
+000057|Know him! to be sure I do.
+000058|Why, he is down here every year.
+000059|And what sort of a young man is he?
+000060|As good a kind of fellow as ever lived, I assure you.
+000061|A very decent shot, and there is not a bolder rider in England.
+000062|"And is that all you can say for him?" cried Marianne, indignantly.
+000063|But what are his manners on more intimate acquaintance?
+000064|What his pursuits, his talents, and genius?
+000065|Sir John was rather puzzled.
+000066|"Upon my soul," said he, "I do not know much about him as to all that."
+000067|But he is a pleasant, good humoured fellow, and has got the nicest little black bitch of a pointer I ever saw.
+000068|Was she out with him today?
+000069|But Marianne could no more satisfy him as to the colour of mister Willoughby's pointer, than he could describe to her the shades of his mind.
+000070|"But who is he?" said Elinor.
+000071|Where does he come from?
+000072|Has he a house at Allenham?
+000073|On this point Sir John could give more certain intelligence;
+000074|and he told them that mister Willoughby had no property of his own in the country;
+000075|that he resided there only while he was visiting the old lady at Allenham Court, to whom he was related, and whose possessions he was to inherit;
+000076|adding, "Yes, yes, he is very well worth catching I can tell you, Miss Dashwood;"
+000077|he has a pretty little estate of his own in Somersetshire besides;
+000078|and if I were you, I would not give him up to my younger sister, in spite of all this tumbling down hills.
+000079|Miss Marianne must not expect to have all the men to herself.
+000080|Brandon will be jealous, if she does not take care.
+000081|"I do not believe," said misess Dashwood, with a good humoured smile, "that mister Willoughby will be incommoded by the attempts of either of my daughters towards what you call catching him."
+000082|It is not an employment to which they have been brought up.
+000083|Men are very safe with us, let them be ever so rich.
+000084|I am glad to find, however, from what you say, that he is a respectable young man, and one whose acquaintance will not be ineligible.
+000085|"He is as good a sort of fellow, I believe, as ever lived," repeated Sir John.
+000086|I remember last Christmas at a little hop at the park, he danced from eight o'clock till four, without once sitting down.
+000087|"Did he indeed?" cried Marianne with sparkling eyes, "and with elegance, with spirit?"
+000088|Yes; and he was up again at eight to ride to covert.
+000089|That is what I like;
+000090|that is what a young man ought to be.
+000091|Whatever be his pursuits, his eagerness in them should know no moderation, and leave him no sense of fatigue.
+000092|"Aye, aye, I see how it will be," said Sir John, "I see how it will be."
+000093|You will be setting your cap at him now, and never think of poor Brandon.
+000094|"That is an expression, Sir John," said Marianne, warmly, "which I particularly dislike."
+000095|I abhor every common-place phrase by which wit is intended;
+000096|and 'setting one's cap at a man,' or 'making a conquest,' are the most odious of all.
+000097|Their tendency is gross and illiberal;
+000098|and if their construction could ever be deemed clever, time has long ago destroyed all its ingenuity.
+000099|Sir John did not much understand this reproof;
+000100|but he laughed as heartily as if he did, and then replied,
+000101|Ay, you will make conquests enough, I dare say, one way or other.

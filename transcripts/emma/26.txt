@@ -1,0 +1,437 @@
+000001|Frank Churchill came back again;
+000002|and if he kept his father's dinner waiting, it was not known at Hartfield;
+000003|for misess Weston was too anxious for his being a favourite with mister Woodhouse, to betray any imperfection which could be concealed.
+000004|He came back, had had his hair cut, and laughed at himself with a very good grace, but without seeming really at all ashamed of what he had done.
+000005|He had no reason to wish his hair longer, to conceal any confusion of face;
+000006|no reason to wish the money unspent, to improve his spirits.
+000007|He was quite as undaunted and as lively as ever;
+000008|and, after seeing him, Emma thus moralised to herself:
+000009|I do not know whether it ought to be so, but certainly silly things do cease to be silly if they are done by sensible people in an impudent way.
+000010|Wickedness is always wickedness, but folly is not always folly.
+000011|It depends upon the character of those who handle it.
+000012|mister Knightley, he is not a trifling, silly young man.
+000013|If he were, he would have done this differently.
+000014|He would either have gloried in the achievement, or been ashamed of it.
+000015|There would have been either the ostentation of a coxcomb, or the evasions of a mind too weak to defend its own vanities.
+000016|No, I am perfectly sure that he is not trifling or silly.
+000017|With Tuesday came the agreeable prospect of seeing him again, and for a longer time than hitherto;
+000018|of judging of his general manners, and by inference, of the meaning of his manners towards herself;
+000019|of guessing how soon it might be necessary for her to throw coldness into her air;
+000020|and of fancying what the observations of all those might be, who were now seeing them together for the first time.
+000021|She meant to be very happy, in spite of the scene being laid at mister Cole's;
+000022|and without being able to forget that among the failings of mister Elton, even in the days of his favour, none had disturbed her more than his propensity to dine with mister Cole.
+000023|Her father's comfort was amply secured, misess Bates as well as misess Goddard being able to come;
+000024|and her last pleasing duty, before she left the house, was to pay her respects to them as they sat together after dinner;
+000025|and while her father was fondly noticing the beauty of her dress, to make the two ladies all the amends in her power, by helping them to large slices of cake and full glasses of wine, for whatever unwilling self-denial his care of their constitution might have obliged them to practise during the meal.
+000026|She had provided a plentiful dinner for them;
+000027|she wished she could know that they had been allowed to eat it.
+000028|She followed another carriage to mister Cole's door;
+000029|and was pleased to see that it was mister Knightley's;
+000030|for mister Knightley keeping no horses, having little spare money and a great deal of health, activity, and independence, was too apt, in Emma's opinion, to get about as he could, and not use his carriage so often as became the owner of Donwell Abbey.
+000031|She had an opportunity now of speaking her approbation while warm from her heart, for he stopped to hand her out.
+000032|"This is coming as you should do," said she;
+000033|like a gentleman.
+000034|I am quite glad to see you.
+000035|He thanked her, observing, "How lucky that we should arrive at the same moment!"
+000036|for, if we had met first in the drawing-room, I doubt whether you would have discerned me to be more of a gentleman than usual.
+000037|You might not have distinguished how I came, by my look or manner.
+000038|Yes I should, I am sure I should.
+000039|There is always a look of consciousness or bustle when people come in a way which they know to be beneath them.
+000040|You think you carry it off very well, I dare say, but with you it is a sort of bravado, an air of affected unconcern;
+000041|I always observe it whenever I meet you under those circumstances.
+000042|Now you have nothing to try for.
+000043|You are not afraid of being supposed ashamed.
+000044|You are not striving to look taller than any body else.
+000045|Now I shall really be very happy to walk into the same room with you.
+000046|"Nonsensical girl!" was his reply, but not at all in anger.
+000047|Emma had as much reason to be satisfied with the rest of the party as with mister Knightley.
+000048|She was received with a cordial respect which could not but please, and given all the consequence she could wish for.
+000049|When the Westons arrived, the kindest looks of love, the strongest of admiration were for her, from both husband and wife;
+000050|the son approached her with a cheerful eagerness which marked her as his peculiar object, and at dinner she found him seated by her -- and, as she firmly believed, not without some dexterity on his side.
+000051|The party was rather large, as it included one other family, a proper unobjectionable country family, whom the Coles had the advantage of naming among their acquaintance, and the male part of mister Cox's family, the lawyer of Highbury.
+000052|The less worthy females were to come in the evening, with Miss Bates, Miss Fairfax, and Miss Smith;
+000053|but already, at dinner, they were too numerous for any subject of conversation to be general;
+000054|and, while politics and mister Elton were talked over, Emma could fairly surrender all her attention to the pleasantness of her neighbour.
+000055|The first remote sound to which she felt herself obliged to attend, was the name of Jane Fairfax.
+000056|misess Cole seemed to be relating something of her that was expected to be very interesting.
+000057|She listened, and found it well worth listening to.
+000058|That very dear part of Emma, her fancy, received an amusing supply.
+000059|misess Cole was telling that she had been calling on Miss Bates, and as soon as she entered the room had been struck by the sight of a pianoforte -- a very elegant looking instrument -- not a grand, but a large-sized square pianoforte;
+000060|and the substance of the story, the end of all the dialogue which ensued of surprize, and inquiry, and congratulations on her side, and explanations on Miss Bates's, was, that this pianoforte had arrived from Broadwood's the day before, to the great astonishment of both aunt and niece -- entirely unexpected;
+000061|that at first, by Miss Bates's account, Jane herself was quite at a loss, quite bewildered to think who could possibly have ordered it -- but now, they were both perfectly satisfied that it could be from only one quarter;
+000062|of course it must be from Colonel Campbell.
+000063|"One can suppose nothing else," added misess Cole, "and I was only surprized that there could ever have been a doubt."
+000064|But Jane, it seems, had a letter from them very lately, and not a word was said about it.
+000065|She knows their ways best;
+000066|but I should not consider their silence as any reason for their not meaning to make the present.
+000067|They might chuse to surprize her.
+000068|misess Cole had many to agree with her;
+000069|every body who spoke on the subject was equally convinced that it must come from Colonel Campbell, and equally rejoiced that such a present had been made;
+000070|and there were enough ready to speak to allow Emma to think her own way, and still listen to misess Cole.
+000071|I declare, I do not know when I have heard any thing that has given me more satisfaction!
+000072|It always has quite hurt me that Jane Fairfax, who plays so delightfully, should not have an instrument.
+000073|It seemed quite a shame, especially considering how many houses there are where fine instruments are absolutely thrown away.
+000074|This is like giving ourselves a slap, to be sure!
+000075|and it was but yesterday I was telling mister Cole, I really was ashamed to look at our new grand pianoforte in the drawing-room, while I do not know one note from another, and our little girls, who are but just beginning, perhaps may never make any thing of it;
+000076|and there is poor Jane Fairfax, who is mistress of music, has not any thing of the nature of an instrument, not even the pitifullest old spinet in the world, to amuse herself with.
+000077|I was saying this to mister Cole but yesterday, and he quite agreed with me;
+000078|only he is so particularly fond of music that he could not help indulging himself in the purchase, hoping that some of our good neighbours might be so obliging occasionally to put it to a better use than we can;
+000079|and that really is the reason why the instrument was bought -- or else I am sure we ought to be ashamed of it.
+000080|We are in great hopes that Miss Woodhouse may be prevailed with to try it this evening.
+000081|Miss Woodhouse made the proper acquiescence;
+000082|and finding that nothing more was to be entrapped from any communication of misess Cole's, turned to Frank Churchill.
+000083|"Why do you smile?" said she.
+000084|Nay, why do you?
+000085|Me! -- I suppose I smile for pleasure at Colonel Campbell's being so rich and so liberal.
+000086|It is a handsome present.
+000087|Very.
+000088|I rather wonder that it was never made before.
+000089|Perhaps Miss Fairfax has never been staying here so long before.
+000090|Or that he did not give her the use of their own instrument -- which must now be shut up in London, untouched by any body.
+000091|That is a grand pianoforte, and he might think it too large for misess Bates's house.
+000092|You may say what you chuse -- but your countenance testifies that your thoughts on this subject are very much like mine.
+000093|I do not know.
+000094|I rather believe you are giving me more credit for acuteness than I deserve.
+000095|I smile because you smile, and shall probably suspect whatever I find you suspect;
+000096|but at present I do not see what there is to question.
+000097|If Colonel Campbell is not the person, who can be?
+000098|What do you say to misess Dixon?
+000099|misess Dixon! very true indeed.
+000100|I had not thought of misess Dixon.
+000101|She must know as well as her father, how acceptable an instrument would be;
+000102|and perhaps the mode of it, the mystery, the surprize, is more like a young woman's scheme than an elderly man's.
+000103|It is misess Dixon, I dare say.
+000104|I told you that your suspicions would guide mine.
+000105|If so, you must extend your suspicions and comprehend mister
+000106|Dixon in them.
+000107|mister Dixon.
+000108|Very well.
+000109|Yes, I immediately perceive that it must be the joint present of mister and misess Dixon.
+000110|We were speaking the other day, you know, of his being so warm an admirer of her performance.
+000111|Yes, and what you told me on that head, confirmed an idea which I had entertained before.
+000112|I do not mean to reflect upon the good intentions of either mister Dixon or Miss Fairfax, but I cannot help suspecting either that, after making his proposals to her friend, he had the misfortune to fall in love with her, or that he became conscious of a little attachment on her side.
+000113|One might guess twenty things without guessing exactly the right;
+000114|but I am sure there must be a particular cause for her chusing to come to Highbury instead of going with the Campbells to Ireland.
+000115|Here, she must be leading a life of privation and penance;
+000116|there it would have been all enjoyment.
+000117|As to the pretence of trying her native air, I look upon that as a mere excuse.
+000118|In the summer it might have passed;
+000119|but what can any body's native air do for them in the months of January, February, and March?
+000120|Good fires and carriages would be much more to the purpose in most cases of delicate health, and I dare say in her's.
+000121|I do not require you to adopt all my suspicions, though you make so noble a profession of doing it, but I honestly tell you what they are.
+000122|And, upon my word, they have an air of great probability.
+000123|mister Dixon's preference of her music to her friend's, I can answer for being very decided.
+000124|And then, he saved her life.
+000125|Did you ever hear of that?
+000126|A water party;
+000127|and by some accident she was falling overboard.
+000128|He caught her.
+000129|He did.
+000130|I was there -- one of the party.
+000131|Were you really?
+000132|Well!
+000133|But you observed nothing of course, for it seems to be a new idea to you.
+000134|If I had been there, I think I should have made some discoveries.
+000135|I dare say you would;
+000136|but I, simple I, saw nothing but the fact, that Miss Fairfax was nearly dashed from the vessel and that mister Dixon caught her.
+000137|It was the work of a moment.
+000138|And though the consequent shock and alarm was very great and much more durable -- indeed I believe it was half an hour before any of us were comfortable again -- yet that was too general a sensation for any thing of peculiar anxiety to be observable.
+000139|I do not mean to say, however, that you might not have made discoveries.
+000140|The conversation was here interrupted.
+000141|They were called on to share in the awkwardness of a rather long interval between the courses, and obliged to be as formal and as orderly as the others;
+000142|but when the table was again safely covered, when every corner dish was placed exactly right, and occupation and ease were generally restored, Emma said,
+000143|The arrival of this pianoforte is decisive with me.
+000144|I wanted to know a little more, and this tells me quite enough.
+000145|Depend upon it, we shall soon hear that it is a present from mister and misess Dixon.
+000146|And if the Dixons should absolutely deny all knowledge of it we must conclude it to come from the Campbells.
+000147|No, I am sure it is not from the Campbells.
+000148|Miss Fairfax knows it is not from the Campbells, or they would have been guessed at first.
+000149|She would not have been puzzled, had she dared fix on them.
+000150|I may not have convinced you perhaps, but I am perfectly convinced myself that mister Dixon is a principal in the business.
+000151|Indeed you injure me if you suppose me unconvinced.
+000152|Your reasonings carry my judgment along with them entirely.
+000153|At first, while I supposed you satisfied that Colonel Campbell was the giver, I saw it only as paternal kindness, and thought it the most natural thing in the world.
+000154|But when you mentioned misess Dixon, I felt how much more probable that it should be the tribute of warm female friendship.
+000155|And now I can see it in no other light than as an offering of love.
+000156|There was no occasion to press the matter farther.
+000157|The conviction seemed real;
+000158|he looked as if he felt it.
+000159|She said no more, other subjects took their turn;
+000160|and the rest of the dinner passed away;
+000161|the dessert succeeded, the children came in, and were talked to and admired amid the usual rate of conversation;
+000162|a few clever things said, a few downright silly, but by much the larger proportion neither the one nor the other -- nothing worse than everyday remarks, dull repetitions, old news, and heavy jokes.
+000163|The ladies had not been long in the drawing-room, before the other ladies, in their different divisions, arrived.
+000164|Emma watched the entree of her own particular little friend;
+000165|and if she could not exult in her dignity and grace, she could not only love the blooming sweetness and the artless manner, but could most heartily rejoice in that light, cheerful, unsentimental disposition which allowed her so many alleviations of pleasure, in the midst of the pangs of disappointed affection.
+000166|There she sat -- and who would have guessed how many tears she had been lately shedding?
+000167|To be in company, nicely dressed herself and seeing others nicely dressed, to sit and smile and look pretty, and say nothing, was enough for the happiness of the present hour.
+000168|Jane Fairfax did look and move superior;
+000169|but Emma suspected she might have been glad to change feelings with Harriet, very glad to have purchased the mortification of having loved -- yes, of having loved even mister Elton in vain -- by the surrender of all the dangerous pleasure of knowing herself beloved by the husband of her friend.
+000170|In so large a party it was not necessary that Emma should approach her.
+000171|She did not wish to speak of the pianoforte, she felt too much in the secret herself, to think the appearance of curiosity or interest fair, and therefore purposely kept at a distance;
+000172|but by the others, the subject was almost immediately introduced, and she saw the blush of consciousness with which congratulations were received, the blush of guilt which accompanied the name of "my excellent friend Colonel Campbell."
+000173|misess Weston, kind-hearted and musical, was particularly interested by the circumstance, and Emma could not help being amused at her perseverance in dwelling on the subject;
+000174|and having so much to ask and to say as to tone, touch, and pedal, totally unsuspicious of that wish of saying as little about it as possible, which she plainly read in the fair heroine's countenance.
+000175|They were soon joined by some of the gentlemen;
+000176|and the very first of the early was Frank Churchill.
+000177|In he walked, the first and the handsomest;
+000178|and after paying his compliments en passant to Miss Bates and her niece, made his way directly to the opposite side of the circle, where sat Miss Woodhouse;
+000179|and till he could find a seat by her, would not sit at all.
+000180|Emma divined what every body present must be thinking.
+000181|She was his object, and every body must perceive it.
+000182|She introduced him to her friend, Miss Smith, and, at convenient moments afterwards, heard what each thought of the other.
+000183|He had never seen so lovely a face, and was delighted with her naivete.
+000184|And she, "Only to be sure it was paying him too great a compliment, but she did think there were some looks a little like mister Elton."
+000185|Emma restrained her indignation, and only turned from her in silence.
+000186|Smiles of intelligence passed between her and the gentleman on first glancing towards Miss Fairfax;
+000187|but it was most prudent to avoid speech.
+000188|He told her that he had been impatient to leave the dining-room -- hated sitting long -- was always the first to move when he could -- that his father, mister Knightley, mister Cox, and mister Cole, were left very busy over parish business -- that as long as he had staid, however, it had been pleasant enough, as he had found them in general a set of gentlemanlike, sensible men;
+000189|and spoke so handsomely of Highbury altogether -- thought it so abundant in agreeable families -- that Emma began to feel she had been used to despise the place rather too much.
+000190|She questioned him as to the society in Yorkshire -- the extent of the neighbourhood about Enscombe, and the sort;
+000191|and could make out from his answers that, as far as Enscombe was concerned, there was very little going on, that their visitings were among a range of great families, none very near;
+000192|and that even when days were fixed, and invitations accepted, it was an even chance that misess Churchill were not in health and spirits for going;
+000193|that they made a point of visiting no fresh person;
+000194|and that, though he had his separate engagements, it was not without difficulty, without considerable address at times, that he could get away, or introduce an acquaintance for a night.
+000195|She saw that Enscombe could not satisfy, and that Highbury, taken at its best, might reasonably please a young man who had more retirement at home than he liked.
+000196|His importance at Enscombe was very evident.
+000197|He did not boast, but it naturally betrayed itself, that he had persuaded his aunt where his uncle could do nothing, and on her laughing and noticing it, he owned that he believed (excepting one or two points) he could with time persuade her to any thing.
+000198|One of those points on which his influence failed, he then mentioned.
+000199|He had wanted very much to go abroad -- had been very eager indeed to be allowed to travel -- but she would not hear of it.
+000200|This had happened the year before.
+000201|Now, he said, he was beginning to have no longer the same wish.
+000202|The unpersuadable point, which he did not mention, Emma guessed to be good behaviour to his father.
+000203|"I have made a most wretched discovery," said he, after a short pause.
+000204|I have been here a week to-morrow -- half my time.
+000205|I never knew days fly so fast.
+000206|A week to-morrow!
+000207|And I have hardly begun to enjoy myself.
+000208|But just got acquainted with misess Weston, and others!
+000209|I hate the recollection.
+000210|Perhaps you may now begin to regret that you spent one whole day, out of so few, in having your hair cut.
+000211|"No," said he, smiling, "that is no subject of regret at all."
+000212|I have no pleasure in seeing my friends, unless I can believe myself fit to be seen.
+000213|The rest of the gentlemen being now in the room, Emma found herself obliged to turn from him for a few minutes, and listen to mister Cole.
+000214|When mister Cole had moved away, and her attention could be restored as before, she saw Frank Churchill looking intently across the room at Miss Fairfax, who was sitting exactly opposite.
+000215|"What is the matter?" said she.
+000216|He started.
+000217|"Thank you for rousing me," he replied.
+000218|I believe I have been very rude;
+000219|but really Miss Fairfax has done her hair in so odd a way -- so very odd a way -- that I cannot keep my eyes from her.
+000220|I never saw any thing so outree!
+000221|Those curls!
+000222|This must be a fancy of her own.
+000223|I see nobody else looking like her!
+000224|I must go and ask her whether it is an Irish fashion.
+000225|Shall I?
+000226|Yes, I will -- I declare I will -- and you shall see how she takes it;
+000227|whether she colours.
+000228|He was gone immediately;
+000229|and Emma soon saw him standing before Miss Fairfax, and talking to her;
+000230|but as to its effect on the young lady, as he had improvidently placed himself exactly between them, exactly in front of Miss Fairfax, she could absolutely distinguish nothing.
+000231|Before he could return to his chair, it was taken by misess Weston.
+000232|"This is the luxury of a large party," said she: -- "one can get near every body, and say every thing."
+000233|My dear Emma, I am longing to talk to you.
+000234|I have been making discoveries and forming plans, just like yourself, and I must tell them while the idea is fresh.
+000235|Do you know how Miss Bates and her niece came here?
+000236|How? -- They were invited, were not they?
+000237|Oh! yes -- but how they were conveyed hither?
+000238|the manner of their coming?
+000239|They walked, I conclude.
+000240|How else could they come?
+000241|Very true.
+000242|Well, a little while ago it occurred to me how very sad it would be to have Jane Fairfax walking home again, late at night, and cold as the nights are now.
+000243|And as I looked at her, though I never saw her appear to more advantage, it struck me that she was heated, and would therefore be particularly liable to take cold.
+000244|Poor girl!
+000245|I could not bear the idea of it;
+000246|so, as soon as mister Weston came into the room, and I could get at him, I spoke to him about the carriage.
+000247|You may guess how readily he came into my wishes;
+000248|and having his approbation, I made my way directly to Miss Bates, to assure her that the carriage would be at her service before it took us home;
+000249|for I thought it would be making her comfortable at once.
+000250|Good soul! she was as grateful as possible, you may be sure.
+000251|'Nobody was ever so fortunate as herself!' -- but with many, many thanks -- 'there was no occasion to trouble us, for mister Knightley's carriage had brought, and was to take them home again.'
+000252|I was quite surprized;
+000253|very glad, I am sure;
+000254|but really quite surprized.
+000255|Such a very kind attention -- and so thoughtful an attention! -- the sort of thing that so few men would think of.
+000256|And, in short, from knowing his usual ways, I am very much inclined to think that it was for their accommodation the carriage was used at all.
+000257|I do suspect he would not have had a pair of horses for himself, and that it was only as an excuse for assisting them.
+000258|"Very likely," said Emma -- "nothing more likely."
+000259|I know no man more likely than mister Knightley to do the sort of thing -- to do any thing really good-natured, useful, considerate, or benevolent.
+000260|He is not a gallant man, but he is a very humane one;
+000261|and this, considering Jane Fairfax's ill-health, would appear a case of humanity to him;
+000262|and for an act of unostentatious kindness, there is nobody whom I would fix on more than on mister Knightley.
+000263|I know he had horses to-day -- for we arrived together;
+000264|and I laughed at him about it, but he said not a word that could betray.
+000265|"Well," said misess Weston, smiling, "you give him credit for more simple, disinterested benevolence in this instance than I do;"
+000266|for while Miss Bates was speaking, a suspicion darted into my head, and I have never been able to get it out again.
+000267|The more I think of it, the more probable it appears.
+000268|In short, I have made a match between mister Knightley and Jane Fairfax.
+000269|See the consequence of keeping you company!
+000270|What do you say to it?
+000271|"mister Knightley and Jane Fairfax!" exclaimed Emma.
+000272|Dear misess Weston, how could you think of such a thing? -- mister Knightley! -- mister Knightley must not marry!
+000273|You would not have little Henry cut out from Donwell?
+000274|Oh! no, no, Henry must have Donwell.
+000275|I cannot at all consent to mister Knightley's marrying;
+000276|and I am sure it is not at all likely.
+000277|I am amazed that you should think of such a thing.
+000278|My dear Emma, I have told you what led me to think of it.
+000279|I do not want the match -- I do not want to injure dear little Henry -- but the idea has been given me by circumstances;
+000280|and if mister Knightley really wished to marry, you would not have him refrain on Henry's account, a boy of six years old, who knows nothing of the matter?
+000281|Yes, I would.
+000282|I could not bear to have Henry supplanted.
+000283|mister Knightley marry!
+000284|No, I have never had such an idea, and I cannot adopt it now.
+000285|And Jane Fairfax, too, of all women!
+000286|Nay, she has always been a first favourite with him, as you very well know.
+000287|But the imprudence of such a match!
+000288|I am not speaking of its prudence;
+000289|merely its probability.
+000290|I see no probability in it, unless you have any better foundation than what you mention.
+000291|His good-nature, his humanity, as I tell you, would be quite enough to account for the horses.
+000292|He has a great regard for the Bateses, you know, independent of Jane Fairfax -- and is always glad to shew them attention.
+000293|My dear misess Weston, do not take to match-making.
+000294|You do it very ill.
+000295|Jane Fairfax mistress of the Abbey!
+000296|Oh! no, no;
+000297|every feeling revolts.
+000298|For his own sake, I would not have him do so mad a thing.
+000299|Imprudent, if you please -- but not mad.
+000300|Excepting inequality of fortune, and perhaps a little disparity of age, I can see nothing unsuitable.
+000301|But mister Knightley does not want to marry.
+000302|I am sure he has not the least idea of it.
+000303|Do not put it into his head.
+000304|Why should he marry?
+000305|He is as happy as possible by himself;
+000306|with his farm, and his sheep, and his library, and all the parish to manage;
+000307|and he is extremely fond of his brother's children.
+000308|He has no occasion to marry, either to fill up his time or his heart.
+000309|My dear Emma, as long as he thinks so, it is so;
+000310|but if he really loves Jane Fairfax
+000311|Nonsense!
+000312|He does not care about Jane Fairfax.
+000313|In the way of love, I am sure he does not.
+000314|He would do any good to her, or her family; but
+000315|"Well," said misess Weston, laughing, "perhaps the greatest good he could do them, would be to give Jane such a respectable home."
+000316|If it would be good to her, I am sure it would be evil to himself;
+000317|a very shameful and degrading connexion.
+000318|How would he bear to have Miss Bates belonging to him?
+000319|To have her haunting the Abbey, and thanking him all day long for his great kindness in marrying Jane?
+000320|'So very kind and obliging!
+000321|But he always had been such a very kind neighbour!' And then fly off, through half a sentence, to her mother's old petticoat.
+000322|'Not that it was such a very old petticoat either -- for still it would last a great while -- and, indeed, she must thankfully say that their petticoats were all very strong.'
+000323|For shame, Emma!
+000324|Do not mimic her.
+000325|You divert me against my conscience.
+000326|And, upon my word, I do not think mister Knightley would be much disturbed by Miss Bates.
+000327|Little things do not irritate him.
+000328|She might talk on;
+000329|and if he wanted to say any thing himself, he would only talk louder, and drown her voice.
+000330|But the question is not, whether it would be a bad connexion for him, but whether he wishes it;
+000331|and I think he does.
+000332|I have heard him speak, and so must you, so very highly of Jane Fairfax!
+000333|The interest he takes in her -- his anxiety about her health -- his concern that she should have no happier prospect!
+000334|I have heard him express himself so warmly on those points!
+000335|Such an admirer of her performance on the pianoforte, and of her voice!
+000336|I have heard him say that he could listen to her for ever.
+000337|Oh! and I had almost forgotten one idea that occurred to me -- this pianoforte that has been sent here by somebody -- though we have all been so well satisfied to consider it a present from the Campbells, may it not be from mister Knightley?
+000338|I cannot help suspecting him.
+000339|I think he is just the person to do it, even without being in love.
+000340|Then it can be no argument to prove that he is in love.
+000341|But I do not think it is at all a likely thing for him to do.
+000342|mister Knightley does nothing mysteriously.
+000343|I have heard him lamenting her having no instrument repeatedly;
+000344|oftener than I should suppose such a circumstance would, in the common course of things, occur to him.
+000345|Very well;
+000346|and if he had intended to give her one, he would have told her so.
+000347|There might be scruples of delicacy, my dear Emma.
+000348|I have a very strong notion that it comes from him.
+000349|I am sure he was particularly silent when misess Cole told us of it at dinner.
+000350|You take up an idea, misess Weston, and run away with it;
+000351|as you have many a time reproached me with doing.
+000352|I see no sign of attachment -- I believe nothing of the pianoforte -- and proof only shall convince me that mister Knightley has any thought of marrying Jane Fairfax.
+000353|They combated the point some time longer in the same way;
+000354|Emma rather gaining ground over the mind of her friend;
+000355|for misess Weston was the most used of the two to yield;
+000356|till a little bustle in the room shewed them that tea was over, and the instrument in preparation;
+000357|and at the same moment mister Cole approaching to entreat Miss Woodhouse would do them the honour of trying it.
+000358|Frank Churchill, of whom, in the eagerness of her conversation with misess Weston, she had been seeing nothing, except that he had found a seat by Miss Fairfax, followed mister Cole, to add his very pressing entreaties;
+000359|and as, in every respect, it suited Emma best to lead, she gave a very proper compliance.
+000360|She knew the limitations of her own powers too well to attempt more than she could perform with credit;
+000361|she wanted neither taste nor spirit in the little things which are generally acceptable, and could accompany her own voice well.
+000362|One accompaniment to her song took her agreeably by surprize -- a second, slightly but correctly taken by Frank Churchill.
+000363|Her pardon was duly begged at the close of the song, and every thing usual followed.
+000364|He was accused of having a delightful voice, and a perfect knowledge of music;
+000365|which was properly denied;
+000366|and that he knew nothing of the matter, and had no voice at all, roundly asserted.
+000367|They sang together once more;
+000368|and Emma would then resign her place to Miss Fairfax, whose performance, both vocal and instrumental, she never could attempt to conceal from herself, was infinitely superior to her own.
+000369|With mixed feelings, she seated herself at a little distance from the numbers round the instrument, to listen.
+000370|Frank Churchill sang again.
+000371|They had sung together once or twice, it appeared, at Weymouth.
+000372|But the sight of mister Knightley among the most attentive, soon drew away half Emma's mind;
+000373|and she fell into a train of thinking on the subject of misess Weston's suspicions, to which the sweet sounds of the united voices gave only momentary interruptions.
+000374|Her objections to mister Knightley's marrying did not in the least subside.
+000375|She could see nothing but evil in it.
+000376|It would be a great disappointment to mister John Knightley;
+000377|consequently to Isabella.
+000378|A real injury to the children -- a most mortifying change, and material loss to them all;
+000379|a very great deduction from her father's daily comfort -- and, as to herself, she could not at all endure the idea of Jane Fairfax at Donwell Abbey.
+000380|A misess Knightley for them all to give way to! -- No -- mister Knightley must never marry.
+000381|Little Henry must remain the heir of Donwell.
+000382|Presently mister Knightley looked back, and came and sat down by her.
+000383|They talked at first only of the performance.
+000384|His admiration was certainly very warm;
+000385|yet she thought, but for misess Weston, it would not have struck her.
+000386|As a sort of touchstone, however, she began to speak of his kindness in conveying the aunt and niece;
+000387|and though his answer was in the spirit of cutting the matter short, she believed it to indicate only his disinclination to dwell on any kindness of his own.
+000388|"I often feel concern," said she, "that I dare not make our carriage more useful on such occasions."
+000389|It is not that I am without the wish;
+000390|but you know how impossible my father would deem it that James should put-to for such a purpose.
+000391|"Quite out of the question, quite out of the question," he replied;
+000392|but you must often wish it, I am sure.
+000393|And he smiled with such seeming pleasure at the conviction, that she must proceed another step.
+000394|"This present from the Campbells," said she -- "this pianoforte is very kindly given."
+000395|"Yes," he replied, and without the smallest apparent embarrassment.
+000396|But they would have done better had they given her notice of it.
+000397|Surprizes are foolish things.
+000398|The pleasure is not enhanced, and the inconvenience is often considerable.
+000399|I should have expected better judgment in Colonel Campbell.
+000400|From that moment, Emma could have taken her oath that mister Knightley had had no concern in giving the instrument.
+000401|But whether he were entirely free from peculiar attachment -- whether there were no actual preference -- remained a little longer doubtful.
+000402|Towards the end of Jane's second song, her voice grew thick.
+000403|"That will do," said he, when it was finished, thinking aloud -- "you have sung quite enough for one evening -- now be quiet."
+000404|Another song, however, was soon begged for.
+000405|One more;
+000406|they would not fatigue Miss Fairfax on any account, and would only ask for one more.
+000407|And Frank Churchill was heard to say, "I think you could manage this without effort;"
+000408|the first part is so very trifling.
+000409|The strength of the song falls on the second.
+000410|mister Knightley grew angry.
+000411|"That fellow," said he, indignantly, "thinks of nothing but shewing off his own voice."
+000412|This must not be.
+000413|And touching Miss Bates, who at that moment passed near -- "Miss Bates, are you mad, to let your niece sing herself hoarse in this manner?"
+000414|Go, and interfere.
+000415|They have no mercy on her.
+000416|Miss Bates, in her real anxiety for Jane, could hardly stay even to be grateful, before she stept forward and put an end to all farther singing.
+000417|Here ceased the concert part of the evening, for Miss Woodhouse and Miss Fairfax were the only young lady performers;
+000418|but soon within five minutes the proposal of dancing -- originating nobody exactly knew where -- was so effectually promoted by mister and misess Cole, that every thing was rapidly clearing away, to give proper space.
+000419|misess Weston, capital in her country-dances, was seated, and beginning an irresistible waltz;
+000420|and Frank Churchill, coming up with most becoming gallantry to Emma, had secured her hand, and led her up to the top.
+000421|While waiting till the other young people could pair themselves off, Emma found time, in spite of the compliments she was receiving on her voice and her taste, to look about, and see what became of mister Knightley.
+000422|This would be a trial.
+000423|He was no dancer in general.
+000424|If he were to be very alert in engaging Jane Fairfax now, it might augur something.
+000425|There was no immediate appearance.
+000426|No; he was talking to misess Cole -- he was looking on unconcerned;
+000427|Jane was asked by somebody else, and he was still talking to misess Cole.
+000428|Emma had no longer an alarm for Henry;
+000429|his interest was yet safe;
+000430|and she led off the dance with genuine spirit and enjoyment.
+000431|Not more than five couple could be mustered;
+000432|but the rarity and the suddenness of it made it very delightful, and she found herself well matched in a partner.
+000433|They were a couple worth looking at.
+000434|Two dances, unfortunately, were all that could be allowed.
+000435|It was growing late, and Miss Bates became anxious to get home, on her mother's account.
+000436|After some attempts, therefore, to be permitted to begin again, they were obliged to thank misess Weston, look sorrowful, and have done.
+000437|"Perhaps it is as well," said Frank Churchill, as he attended Emma to her carriage.

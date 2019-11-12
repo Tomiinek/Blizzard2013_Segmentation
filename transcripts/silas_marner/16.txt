@@ -1,0 +1,253 @@
+000001|The bells of the old Raveloe church were ringing the cheerful peal which told that the morning service was ended;
+000002|and out of the arched doorway in the tower came slowly, retarded by friendly greetings and questions, the richer parishioners who had chosen this bright Sunday morning as eligible for church-going.
+000003|It was the rural fashion of that time for the more important members of the congregation to depart first, while their humbler neighbours waited and looked on, stroking their bent heads or dropping their curtsies to any large ratepayer who turned to notice them.
+000004|Foremost among these advancing groups of well-clad people, there are some whom we shall recognize, in spite of Time, who has laid his hand on them all.
+000005|The tall blond man of forty is not much changed in feature from the Godfrey Cass of six-and-twenty: he is only fuller in flesh, and has only lost the indefinable look of youth -- a loss which is marked even when the eye is undulled and the wrinkles are not yet come.
+000006|Perhaps the pretty woman, not much younger than he, who is leaning on his arm, is more changed than her husband: the lovely bloom that used to be always on her cheek now comes but fitfully, with the fresh morning air or with some strong surprise;
+000007|yet to all who love human faces best for what they tell of human experience, Nancy's beauty has a heightened interest.
+000008|Often the soul is ripened into fuller goodness while age has spread an ugly film, so that mere glances can never divine the preciousness of the fruit.
+000009|But the years have not been so cruel to Nancy.
+000010|The firm yet placid mouth, the clear veracious glance of the brown eyes, speak now of a nature that has been tested and has kept its highest qualities;
+000011|and even the costume, with its dainty neatness and purity, has more significance now the coquetries of youth can have nothing to do with it.
+000012|mister and misess Godfrey Cass (any higher title has died away from Raveloe lips since the old Squire was gathered to his fathers and his inheritance was divided) have turned round to look for the tall aged man and the plainly dressed woman who are a little behind -- Nancy having observed that they must wait for "father and Priscilla" -- and now they all turn into a narrower path leading across the churchyard to a small gate opposite the Red House.
+000013|We will not follow them now;
+000014|for may there not be some others in this departing congregation whom we should like to see again -- some of those who are not likely to be handsomely clad, and whom we may not recognize so easily as the master and mistress of the Red House?
+000015|But it is impossible to mistake Silas Marner.
+000016|His large brown eyes seem to have gathered a longer vision, as is the way with eyes that have been short-sighted in early life, and they have a less vague, a more answering gaze;
+000017|but in everything else one sees signs of a frame much enfeebled by the lapse of the sixteen years.
+000018|The weaver's bent shoulders and white hair give him almost the look of advanced age, though he is not more than five-and-fifty;
+000019|but there is the freshest blossom of youth close by his side -- a blonde dimpled girl of eighteen, who has vainly tried to chastise her curly auburn hair into smoothness under her brown bonnet: the hair ripples as obstinately as a brooklet under the March breeze, and the little ringlets burst away from the restraining comb behind and show themselves below the bonnet-crown.
+000020|Eppie cannot help being rather vexed about her hair, for there is no other girl in Raveloe who has hair at all like it, and she thinks hair ought to be smooth.
+000021|She does not like to be blameworthy even in small things: you see how neatly her prayer-book is folded in her spotted handkerchief.
+000022|That good-looking young fellow, in a new fustian suit, who walks behind her, is not quite sure upon the question of hair in the abstract, when Eppie puts it to him, and thinks that perhaps straight hair is the best in general, but he doesn't want Eppie's hair to be different.
+000023|She surely divines that there is some one behind her who is thinking about her very particularly, and mustering courage to come to her side as soon as they are out in the lane, else why should she look rather shy, and take care not to turn away her head from her father Silas, to whom she keeps murmuring little sentences as to who was at church and who was not at church, and how pretty the red mountain-ash is over the Rectory wall?
+000024|"I wish we had a little garden, father, with double daisies in, like misess Winthrop's," said Eppie, when they were out in the lane;
+000025|only they say it 'ud take a deal of digging and bringing fresh soil -- and you couldn't do that, could you, father?
+000026|Anyhow, I shouldn't like you to do it, for it 'ud be too hard work for you.
+000027|Yes, I could do it, child, if you want a bit o' garden: these long evenings, I could work at taking in a little bit o' the waste, just enough for a root or two o' flowers for you;
+000028|and again, i' the morning, I could have a turn wi' the spade before I sat down to the loom.
+000029|Why didn't you tell me before as you wanted a bit o' garden?
+000030|"I can dig it for you, Master Marner," said the young man in fustian, who was now by Eppie's side, entering into the conversation without the trouble of formalities.
+000031|It'll be play to me after I've done my day's work, or any odd bits o' time when the work's slack.
+000032|And I'll bring you some soil from mister Cass's garden -- he'll let me, and willing.
+000033|"Eh, Aaron, my lad, are you there?" said Silas;
+000034|I wasn't aware of you;
+000035|for when Eppie's talking o' things, I see nothing but what she's a-saying.
+000036|Well, if you could help me with the digging, we might get her a bit o' garden all the sooner.
+000037|"Then, if you think well and good," said Aaron, "I'll come to the Stone-pits this afternoon, and we'll settle what land's to be taken in, and I'll get up an hour earlier i' the morning, and begin on it."
+000038|"But not if you don't promise me not to work at the hard digging, father," said Eppie.
+000039|"For I shouldn't ha' said anything about it," she added, half-bashfully, half-roguishly, "only misess Winthrop said as Aaron 'ud be so good, and -- "
+000040|"And you might ha' known it without mother telling you," said Aaron.
+000041|And Master Marner knows too, I hope, as I'm able and willing to do a turn o' work for him, and he won't do me the unkindness to anyways take it out o' my hands.
+000042|"There, now, father, you won't work in it till it's all easy," said Eppie, "and you and me can mark out the beds, and make holes and plant the roots."
+000043|It'll be a deal livelier at the Stone-pits when we've got some flowers, for I always think the flowers can see us and know what we're talking about.
+000044|And I'll have a bit o' rosemary, and bergamot, and thyme, because they're so sweet-smelling;
+000045|but there's no lavender only in the gentlefolks' gardens, I think.
+000046|"That's no reason why you shouldn't have some," said Aaron, "for I can bring you slips of anything;"
+000047|I'm forced to cut no end of 'em when I'm gardening, and throw 'em away mostly.
+000048|There's a big bed o' lavender at the Red House: the missis is very fond of it.
+000049|"Well," said Silas, gravely, "so as you don't make free for us, or ask for anything as is worth much at the Red House: for mister Cass's been so good to us, and built us up the new end o' the cottage, and given us beds and things, as I couldn't abide to be imposin' for garden-stuff or anything else."
+000050|"No, no, there's no imposin'," said Aaron;
+000051|there's never a garden in all the parish but what there's endless waste in it for want o' somebody as could use everything up.
+000052|It's what I think to myself sometimes, as there need nobody run short o' victuals if the land was made the most on, and there was never a morsel but what could find its way to a mouth.
+000053|It sets one thinking o' that -- gardening does.
+000054|But I must go back now, else mother 'ull be in trouble as I aren't there.
+000055|"Bring her with you this afternoon, Aaron," said Eppie;
+000056|I shouldn't like to fix about the garden, and her not know everything from the first -- should you, father?
+000057|"Aye, bring her if you can, Aaron," said Silas;
+000058|she's sure to have a word to say as'll help us to set things on their right end.
+000059|Aaron turned back up the village, while Silas and Eppie went on up the lonely sheltered lane.
+000060|"O daddy!" she began, when they were in privacy, clasping and squeezing Silas's arm, and skipping round to give him an energetic kiss.
+000061|My little old daddy!
+000062|I'm so glad.
+000063|I don't think I shall want anything else when we've got a little garden;
+000064|"and I knew Aaron would dig it for us," she went on with roguish triumph -- "I knew that very well."
+000065|"You're a deep little puss, you are," said Silas, with the mild passive happiness of love-crowned age in his face;
+000066|but you'll make yourself fine and beholden to Aaron.
+000067|"Oh, no, I shan't," said Eppie, laughing and frisking;
+000068|he likes it.
+000069|Come, come, let me carry your prayer-book, else you'll be dropping it, jumping i' that way.
+000070|Eppie was now aware that her behaviour was under observation, but it was only the observation of a friendly donkey, browsing with a log fastened to his foot -- a meek donkey, not scornfully critical of human trivialities, but thankful to share in them, if possible, by getting his nose scratched;
+000071|and Eppie did not fail to gratify him with her usual notice, though it was attended with the inconvenience of his following them, painfully, up to the very door of their home.
+000072|But the sound of a sharp bark inside, as Eppie put the key in the door, modified the donkey's views, and he limped away again without bidding.
+000073|The sharp bark was the sign of an excited welcome that was awaiting them from a knowing brown terrier, who, after dancing at their legs in a hysterical manner, rushed with a worrying noise at a tortoise-shell kitten under the loom, and then rushed back with a sharp bark again, as much as to say, "I have done my duty by this feeble creature, you perceive";
+000074|while the lady-mother of the kitten sat sunning her white bosom in the window, and looked round with a sleepy air of expecting caresses, though she was not going to take any trouble for them.
+000075|The presence of this happy animal life was not the only change which had come over the interior of the stone cottage.
+000076|There was no bed now in the living-room, and the small space was well filled with decent furniture, all bright and clean enough to satisfy Dolly Winthrop's eye.
+000077|The oaken table and three-cornered oaken chair were hardly what was likely to be seen in so poor a cottage: they had come, with the beds and other things, from the Red House;
+000078|for mister Godfrey Cass, as every one said in the village, did very kindly by the weaver;
+000079|and it was nothing but right a man should be looked on and helped by those who could afford it, when he had brought up an orphan child, and been father and mother to her -- and had lost his money too, so as he had nothing but what he worked for week by week, and when the weaving was going down too -- for there was less and less flax spun -- and Master Marner was none so young.
+000080|Nobody was jealous of the weaver, for he was regarded as an exceptional person, whose claims on neighbourly help were not to be matched in Raveloe.
+000081|Any superstition that remained concerning him had taken an entirely new colour;
+000082|and mister Macey, now a very feeble old man of fourscore and six, never seen except in his chimney-corner or sitting in the sunshine at his door-sill, was of opinion that when a man had done what Silas had done by an orphan child, it was a sign that his money would come to light again, or leastwise that the robber would be made to answer for it -- for, as mister Macey observed of himself, his faculties were as strong as ever.
+000083|Silas sat down now and watched Eppie with a satisfied gaze as she spread the clean cloth, and set on it the potato-pie, warmed up slowly in a safe Sunday fashion, by being put into a dry pot over a slowly-dying fire, as the best substitute for an oven.
+000084|For Silas would not consent to have a grate and oven added to his conveniences: he loved the old brick hearth as he had loved his brown pot -- and was it not there when he had found Eppie?
+000085|The gods of the hearth exist for us still;
+000086|and let all new faith be tolerant of that fetishism, lest it bruise its own roots.
+000087|Silas ate his dinner more silently than usual, soon laying down his knife and fork, and watching half-abstractedly Eppie's play with Snap and the cat, by which her own dining was made rather a lengthy business.
+000088|Yet it was a sight that might well arrest wandering thoughts: Eppie, with the rippling radiance of her hair and the whiteness of her rounded chin and throat set off by the dark-blue cotton gown, laughing merrily as the kitten held on with her four claws to one shoulder, like a design for a jug-handle, while Snap on the right hand and Puss on the other put up their paws towards a morsel which she held out of the reach of both -- Snap occasionally desisting in order to remonstrate with the cat by a cogent worrying growl on the greediness and futility of her conduct;
+000089|till Eppie relented, caressed them both, and divided the morsel between them.
+000090|But at last Eppie, glancing at the clock, checked the play, and said, "O daddy, you're wanting to go into the sunshine to smoke your pipe."
+000091|But I must clear away first, so as the house may be tidy when godmother comes.
+000092|I'll make haste -- I won't be long.
+000093|Silas had taken to smoking a pipe daily during the last two years, having been strongly urged to it by the sages of Raveloe, as a practice "good for the fits";
+000094|and this advice was sanctioned by doctor Kimble, on the ground that it was as well to try what could do no harm -- a principle which was made to answer for a great deal of work in that gentleman's medical practice.
+000095|Silas did not highly enjoy smoking, and often wondered how his neighbours could be so fond of it;
+000096|but a humble sort of acquiescence in what was held to be good, had become a strong habit of that new self which had been developed in him since he had found Eppie on his hearth: it had been the only clew his bewildered mind could hold by in cherishing this young life that had been sent to him out of the darkness into which his gold had departed.
+000097|By seeking what was needful for Eppie, by sharing the effect that everything produced on her, he had himself come to appropriate the forms of custom and belief which were the mould of Raveloe life;
+000098|and as, with reawakening sensibilities, memory also reawakened, he had begun to ponder over the elements of his old faith, and blend them with his new impressions, till he recovered a consciousness of unity between his past and present.
+000099|The sense of presiding goodness and the human trust which come with all pure peace and joy, had given him a dim impression that there had been some error, some mistake, which had thrown that dark shadow over the days of his best years;
+000100|and as it grew more and more easy to him to open his mind to Dolly Winthrop, he gradually communicated to her all he could describe of his early life.
+000101|The communication was necessarily a slow and difficult process, for Silas's meagre power of explanation was not aided by any readiness of interpretation in Dolly, whose narrow outward experience gave her no key to strange customs, and made every novelty a source of wonder that arrested them at every step of the narrative.
+000102|It was only by fragments, and at intervals which left Dolly time to revolve what she had heard till it acquired some familiarity for her, that Silas at last arrived at the climax of the sad story -- the drawing of lots, and its false testimony concerning him;
+000103|and this had to be repeated in several interviews, under new questions on her part as to the nature of this plan for detecting the guilty and clearing the innocent.
+000104|And yourn's the same Bible, you're sure o' that, Master Marner -- the Bible as you brought wi' you from that country -- it's the same as what they've got at church, and what Eppie's a-learning to read in?
+000105|"Yes," said Silas, "every bit the same;"
+000106|"and there's drawing o' lots in the Bible, mind you," he added in a lower tone.
+000107|"Oh, dear, dear," said Dolly in a grieved voice, as if she were hearing an unfavourable report of a sick man's case.
+000108|She was silent for some minutes;
+000109|at last she said
+000110|There's wise folks, happen, as know how it all is;
+000111|the parson knows, I'll be bound;
+000112|but it takes big words to tell them things, and such as poor folks can't make much out on.
+000113|I can never rightly know the meaning o' what I hear at church, only a bit here and there, but I know it's good words -- I do.
+000114|But what lies upo' your mind -- it's this, Master Marner: as, if Them above had done the right thing by you, They'd never ha' let you be turned out for a wicked thief when you was innicent.
+000115|"Ah!" said Silas, who had now come to understand Dolly's phraseology, "that was what fell on me like as if it had been red-hot iron;"
+000116|because, you see, there was nobody as cared for me or clave to me above nor below.
+000117|And him as I'd gone out and in wi' for ten year and more, since when we was lads and went halves -- mine own familiar friend in whom I trusted, had lifted up his heel again' me, and worked to ruin me.
+000118|"Eh, but he was a bad un -- I can't think as there's another such," said Dolly.
+000119|But I'm o'ercome, Master Marner;
+000120|I'm like as if I'd waked and didn't know whether it was night or morning.
+000121|I feel somehow as sure as I do when I've laid something up though I can't justly put my hand on it, as there was a rights in what happened to you, if one could but make it out;
+000122|and you'd no call to lose heart as you did.
+000123|But we'll talk on it again;
+000124|for sometimes things come into my head when I'm leeching or poulticing, or such, as I could never think on when I was sitting still.
+000125|Dolly was too useful a woman not to have many opportunities of illumination of the kind she alluded to, and she was not long before she recurred to the subject.
+000126|"Master Marner," she said, one day that she came to bring home Eppie's washing, "I've been sore puzzled for a good bit wi' that trouble o' yourn and the drawing o' lots;"
+000127|and it got twisted back'ards and for'ards, as I didn't know which end to lay hold on.
+000128|But it come to me all clear like, that night when I was sitting up wi' poor Bessy Fawkes, as is dead and left her children behind, God help 'em -- it come to me as clear as daylight;
+000129|but whether I've got hold on it now, or can anyways bring it to my tongue's end, that I don't know.
+000130|For I've often a deal inside me as'll never come out;
+000131|and for what you talk o' your folks in your old country niver saying prayers by heart nor saying 'em out of a book, they must be wonderful cliver;
+000132|for if I didn't know "Our Father", and little bits o' good words as I can carry out o' church wi' me, I might down o' my knees every night, but nothing could I say.
+000133|"But you can mostly say something as I can make sense on, misess Winthrop," said Silas.
+000134|Well, then, Master Marner, it come to me summat like this: I can make nothing o' the drawing o' lots and the answer coming wrong;
+000135|it 'ud mayhap take the parson to tell that, and he could only tell us i' big words.
+000136|But what come to me as clear as the daylight, it was when I was troubling over poor Bessy Fawkes, and it allays comes into my head when I'm sorry for folks, and feel as I can't do a power to help 'em, not if I was to get up i' the middle o' the night -- it comes into my head as Them above has got a deal tenderer heart nor what I've got -- for I can't be anyways better nor Them as made me;
+000137|and if anything looks hard to me, it's because there's things I don't know on;
+000138|and for the matter o' that, there may be plenty o' things I don't know on, for it's little as I know -- that it is.
+000139|And so, while I was thinking o' that, you come into my mind, Master Marner, and it all come pouring in: -- if I felt i' my inside what was the right and just thing by you, and them as prayed and drawed the lots, all but that wicked un, if they'd ha' done the right thing by you if they could, isn't there Them as was at the making on us, and knows better and has a better will?
+000140|And that's all as ever I can be sure on, and everything else is a big puzzle to me when I think on it.
+000141|For there was the fever come and took off them as were full-growed, and left the helpless children;
+000142|and there's the breaking o' limbs;
+000143|and them as 'ud do right and be sober have to suffer by them as are contrairy -- eh, there's trouble i' this world, and there's things as we can niver make out the rights on.
+000144|And all as we've got to do is to trusten, Master Marner -- to do the right thing as fur as we know, and to trusten.
+000145|For if us as knows so little can see a bit o' good and rights, we may be sure as there's a good and a rights bigger nor what we can know -- I feel it i' my own inside as it must be so.
+000146|And if you could but ha' gone on trustening, Master Marner, you wouldn't ha' run away from your fellow-creaturs and been so lone.
+000147|"Ah, but that 'ud ha' been hard," said Silas, in an under-tone;
+000148|it 'ud ha' been hard to trusten then.
+000149|"And so it would," said Dolly, almost with compunction;
+000150|them things are easier said nor done;
+000151|and I'm partly ashamed o' talking.
+000152|"Nay, nay," said Silas, "you're i' the right, misess Winthrop -- you're i' the right."
+000153|There's good i' this world -- I've a feeling o' that now;
+000154|and it makes a man feel as there's a good more nor he can see, i' spite o' the trouble and the wickedness.
+000155|That drawing o' the lots is dark;
+000156|but the child was sent to me: there's dealings with us -- there's dealings.
+000157|This dialogue took place in Eppie's earlier years, when Silas had to part with her for two hours every day, that she might learn to read at the dame school, after he had vainly tried himself to guide her in that first step to learning.
+000158|Now that she was grown up, Silas had often been led, in those moments of quiet outpouring which come to people who live together in perfect love, to talk with her too of the past, and how and why he had lived a lonely man until she had been sent to him.
+000159|For it would have been impossible for him to hide from Eppie that she was not his own child: even if the most delicate reticence on the point could have been expected from Raveloe gossips in her presence, her own questions about her mother could not have been parried, as she grew up, without that complete shrouding of the past which would have made a painful barrier between their minds.
+000160|So Eppie had long known how her mother had died on the snowy ground, and how she herself had been found on the hearth by father Silas, who had taken her golden curls for his lost guineas brought back to him.
+000161|The tender and peculiar love with which Silas had reared her in almost inseparable companionship with himself, aided by the seclusion of their dwelling, had preserved her from the lowering influences of the village talk and habits, and had kept her mind in that freshness which is sometimes falsely supposed to be an invariable attribute of rusticity.
+000162|Perfect love has a breath of poetry which can exalt the relations of the least-instructed human beings;
+000163|and this breath of poetry had surrounded Eppie from the time when she had followed the bright gleam that beckoned her to Silas's hearth;
+000164|so that it is not surprising if, in other things besides her delicate prettiness, she was not quite a common village maiden, but had a touch of refinement and fervour which came from no other teaching than that of tenderly-nurtured unvitiated feeling.
+000165|She was too childish and simple for her imagination to rove into questions about her unknown father;
+000166|for a long while it did not even occur to her that she must have had a father;
+000167|and the first time that the idea of her mother having had a husband presented itself to her, was when Silas showed her the wedding-ring which had been taken from the wasted finger, and had been carefully preserved by him in a little lackered box shaped like a shoe.
+000168|He delivered this box into Eppie's charge when she had grown up, and she often opened it to look at the ring: but still she thought hardly at all about the father of whom it was the symbol.
+000169|Had she not a father very close to her, who loved her better than any real fathers in the village seemed to love their daughters?
+000170|On the contrary, who her mother was, and how she came to die in that forlornness, were questions that often pressed on Eppie's mind.
+000171|Her knowledge of misess Winthrop, who was her nearest friend next to Silas, made her feel that a mother must be very precious;
+000172|and she had again and again asked Silas to tell her how her mother looked, whom she was like, and how he had found her against the furze bush, led towards it by the little footsteps and the outstretched arms.
+000173|The furze bush was there still;
+000174|and this afternoon, when Eppie came out with Silas into the sunshine, it was the first object that arrested her eyes and thoughts.
+000175|"Father," she said, in a tone of gentle gravity, which sometimes came like a sadder, slower cadence across her playfulness, "we shall take the furze bush into the garden;"
+000176|it'll come into the corner, and just against it I'll put snowdrops and crocuses, 'cause Aaron says they won't die out, but'll always get more and more.
+000177|"Ah, child," said Silas, always ready to talk when he had his pipe in his hand, apparently enjoying the pauses more than the puffs, "it wouldn't do to leave out the furze bush;"
+000178|and there's nothing prettier, to my thinking, when it's yallow with flowers.
+000179|But it's just come into my head what we're to do for a fence -- mayhap Aaron can help us to a thought;
+000180|but a fence we must have, else the donkeys and things 'ull come and trample everything down.
+000181|And fencing's hard to be got at, by what I can make out.
+000182|"Oh, I'll tell you, daddy," said Eppie, clasping her hands suddenly, after a minute's thought.
+000183|There's lots o' loose stones about, some of 'em not big, and we might lay 'em atop of one another, and make a wall.
+000184|You and me could carry the smallest, and Aaron 'ud carry the rest -- I know he would.
+000185|"Eh, my precious un," said Silas, "there isn't enough stones to go all round;"
+000186|and as for you carrying, why, wi' your little arms you couldn't carry a stone no bigger than a turnip.
+000187|"You're dillicate made, my dear," he added, with a tender intonation -- "that's what misess Winthrop says."
+000188|"Oh, I'm stronger than you think, daddy," said Eppie;
+000189|and if there wasn't stones enough to go all round, why they'll go part o' the way, and then it'll be easier to get sticks and things for the rest.
+000190|See here, round the big pit, what a many stones!
+000191|She skipped forward to the pit, meaning to lift one of the stones and exhibit her strength, but she started back in surprise.
+000192|"Oh, father, just come and look here," she exclaimed -- "come and see how the water's gone down since yesterday."
+000193|Why, yesterday the pit was ever so full!
+000194|"Well, to be sure," said Silas, coming to her side.
+000195|Why, that's the draining they've begun on, since harvest, i' mister Osgood's fields, I reckon.
+000196|"The foreman said to me the other day, when I passed by 'em, "Master Marner," he said, "I shouldn't wonder if we lay your bit o' waste as dry as a bone.
+000197|It was mister Godfrey Cass, he said, had gone into the draining: he'd been taking these fields o' mister Osgood.
+000198|"How odd it'll seem to have the old pit dried up!" said Eppie, turning away, and stooping to lift rather a large stone.
+000199|"See, daddy, I can carry this quite well," she said, going along with much energy for a few steps, but presently letting it fall.
+000200|"Ah, you're fine and strong, aren't you?" said Silas, while Eppie shook her aching arms and laughed.
+000201|Come, come, let us go and sit down on the bank against the stile there, and have no more lifting.
+000202|You might hurt yourself, child.
+000203|You'd need have somebody to work for you -- and my arm isn't over strong.
+000204|Silas uttered the last sentence slowly, as if it implied more than met the ear;
+000205|and Eppie, when they sat down on the bank, nestled close to his side, and, taking hold caressingly of the arm that was not over strong, held it on her lap, while Silas puffed again dutifully at the pipe, which occupied his other arm.
+000206|An ash in the hedgerow behind made a fretted screen from the sun, and threw happy playful shadows all about them.
+000207|"Father," said Eppie, very gently, after they had been sitting in silence a little while, "if I was to be married, ought I to be married with my mother's ring?"
+000208|Silas gave an almost imperceptible start, though the question fell in with the under-current of thought in his own mind, and then said, in a subdued tone, "Why, Eppie, have you been a-thinking on it?"
+000209|"Only this last week, father," said Eppie, ingenuously, "since Aaron talked to me about it."
+000210|"And what did he say?" said Silas, still in the same subdued way, as if he were anxious lest he should fall into the slightest tone that was not for Eppie's good.
+000211|He said he should like to be married, because he was a-going in four-and-twenty, and had got a deal of gardening work, now mister Mott's given up;
+000212|and he goes twice a-week regular to mister Cass's, and once to mister Osgood's, and they're going to take him on at the Rectory.
+000213|"And who is it as he's wanting to marry?" said Silas, with rather a sad smile.
+000214|"Why, me, to be sure, daddy," said Eppie, with dimpling laughter, kissing her father's cheek;
+000215|as if he'd want to marry anybody else!
+000216|"And you mean to have him, do you?" said Silas.
+000217|"Yes, some time," said Eppie, "I don't know when."
+000218|Everybody's married some time, Aaron says.
+000219|But I told him that wasn't true: for, I said, look at father -- he's never been married.
+000220|"No, child," said Silas, "your father was a lone man till you was sent to him."
+000221|"But you'll never be lone again, father," said Eppie, tenderly.
+000222|That was what Aaron said -- "I could never think o' taking you away from Master Marner, Eppie."
+000223|And I said, "It 'ud be no use if you did, Aaron."
+000224|And he wants us all to live together, so as you needn't work a bit, father, only what's for your own pleasure;
+000225|and he'd be as good as a son to you -- that was what he said.
+000226|"And should you like that, Eppie?" said Silas, looking at her.
+000227|"I shouldn't mind it, father," said Eppie, quite simply.
+000228|And I should like things to be so as you needn't work much.
+000229|But if it wasn't for that, I'd sooner things didn't change.
+000230|I'm very happy: I like Aaron to be fond of me, and come and see us often, and behave pretty to you -- he always does behave pretty to you, doesn't he, father?
+000231|"Yes, child, nobody could behave better," said Silas, emphatically.
+000232|He's his mother's lad.
+000233|"But I don't want any change," said Eppie.
+000234|I should like to go on a long, long while, just as we are.
+000235|Only Aaron does want a change;
+000236|and he made me cry a bit -- only a bit -- because he said I didn't care for him, for if I cared for him I should want us to be married, as he did.
+000237|"Eh, my blessed child," said Silas, laying down his pipe as if it were useless to pretend to smoke any longer, "you're o'er young to be married."
+000238|We'll ask misess Winthrop -- we'll ask Aaron's mother what she thinks: if there's a right thing to do, she'll come at it.
+000239|But there's this to be thought on, Eppie: things will change, whether we like it or no;
+000240|things won't go on for a long while just as they are and no difference.
+000241|I shall get older and helplesser, and be a burden on you, belike, if I don't go away from you altogether.
+000242|Not as I mean you'd think me a burden -- I know you wouldn't -- but it 'ud be hard upon you;
+000243|and when I look for'ard to that, I like to think as you'd have somebody else besides me -- somebody young and strong, as'll outlast your own life, and take care on you to the end.
+000244|Silas paused, and, resting his wrists on his knees, lifted his hands up and down meditatively as he looked on the ground.
+000245|"Then, would you like me to be married, father?" said Eppie, with a little trembling in her voice.
+000246|"I'll not be the man to say no, Eppie," said Silas, emphatically;
+000247|but we'll ask your godmother.
+000248|She'll wish the right thing by you and her son too.
+000249|"There they come, then," said Eppie.
+000250|Let us go and meet 'em.
+000251|Oh, the pipe!
+000252|"won't you have it lit again, father?" said Eppie, lifting that medicinal appliance from the ground.
+000253|"Nay, child," said Silas, "I've done enough for to-day."

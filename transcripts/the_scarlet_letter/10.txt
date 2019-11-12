@@ -1,0 +1,130 @@
+000001|Under the appellation of Roger Chillingworth, the reader will remember, was hidden another name, which its former wearer had resolved should never more be spoken.
+000002|It has been related, how, in the crowd that witnessed Hester Prynne's ignominious exposure, stood a man, elderly, travel-worn, who, just emerging from the perilous wilderness, beheld the woman, in whom he hoped to find embodied the warmth and cheerfulness of home, set up as a type of sin before the people.
+000003|Her matronly fame was trodden under all men's feet.
+000004|Infamy was babbling around her in the public market-place.
+000005|For her kindred, should the tidings ever reach them, and for the companions of her unspotted life, there remained nothing but the contagion of her dishonour;
+000006|which would not fail to be distributed in strict accordance and proportion with the intimacy and sacredness of their previous relationship.
+000007|Then why -- since the choice was with himself -- should the individual, whose connexion with the fallen woman had been the most intimate and sacred of them all, come forward to vindicate his claim to an inheritance so little desirable?
+000008|He resolved not to be pilloried beside her on her pedestal of shame.
+000009|Unknown to all but Hester Prynne, and possessing the lock and key of her silence, he chose to withdraw his name from the roll of mankind, and, as regarded his former ties and interest, to vanish out of life as completely as if he indeed lay at the bottom of the ocean, whither rumour had long ago consigned him.
+000010|This purpose once effected, new interests would immediately spring up, and likewise a new purpose;
+000011|dark, it is true, if not guilty, but of force enough to engage the full strength of his faculties.
+000012|In pursuance of this resolve, he took up his residence in the Puritan town as Roger Chillingworth, without other introduction than the learning and intelligence of which he possessed more than a common measure.
+000013|As his studies, at a previous period of his life, had made him extensively acquainted with the medical science of the day, it was as a physician that he presented himself and as such was cordially received.
+000014|Skilful men, of the medical and chirurgical profession, were of rare occurrence in the colony.
+000015|They seldom, it would appear, partook of the religious zeal that brought other emigrants across the Atlantic.
+000016|In their researches into the human frame, it may be that the higher and more subtle faculties of such men were materialised, and that they lost the spiritual view of existence amid the intricacies of that wondrous mechanism, which seemed to involve art enough to comprise all of life within itself.
+000017|At all events, the health of the good town of Boston, so far as medicine had aught to do with it, had hitherto lain in the guardianship of an aged deacon and apothecary, whose piety and godly deportment were stronger testimonials in his favour than any that he could have produced in the shape of a diploma.
+000018|The only surgeon was one who combined the occasional exercise of that noble art with the daily and habitual flourish of a razor.
+000019|To such a professional body Roger Chillingworth was a brilliant acquisition.
+000020|He soon manifested his familiarity with the ponderous and imposing machinery of antique physic;
+000021|in which every remedy contained a multitude of far-fetched and heterogeneous ingredients, as elaborately compounded as if the proposed result had been the Elixir of Life.
+000022|In his Indian captivity, moreover, he had gained much knowledge of the properties of native herbs and roots;
+000023|nor did he conceal from his patients that these simple medicines, Nature's boon to the untutored savage, had quite as large a share of his own confidence as the European Pharmacopoeia, which so many learned doctors had spent centuries in elaborating.
+000024|This learned stranger was exemplary as regarded at least the outward forms of a religious life;
+000025|and early after his arrival, had chosen for his spiritual guide the Reverend mister Dimmesdale.
+000026|The young divine, whose scholar-like renown still lived in Oxford, was considered by his more fervent admirers as little less than a heavenly ordained apostle, destined, should he live and labour for the ordinary term of life, to do as great deeds, for the now feeble New England Church, as the early Fathers had achieved for the infancy of the Christian faith.
+000027|About this period, however, the health of mister Dimmesdale had evidently begun to fail.
+000028|By those best acquainted with his habits, the paleness of the young minister's cheek was accounted for by his too earnest devotion to study, his scrupulous fulfilment of parochial duty, and more than all, to the fasts and vigils of which he made a frequent practice, in order to keep the grossness of this earthly state from clogging and obscuring his spiritual lamp.
+000029|Some declared, that if mister Dimmesdale were really going to die, it was cause enough that the world was not worthy to be any longer trodden by his feet.
+000030|He himself, on the other hand, with characteristic humility, avowed his belief that if Providence should see fit to remove him, it would be because of his own unworthiness to perform its humblest mission here on earth.
+000031|With all this difference of opinion as to the cause of his decline, there could be no question of the fact.
+000032|His form grew emaciated;
+000033|his voice, though still rich and sweet, had a certain melancholy prophecy of decay in it;
+000034|he was often observed, on any slight alarm or other sudden accident, to put his hand over his heart with first a flush and then a paleness, indicative of pain.
+000035|Such was the young clergyman's condition, and so imminent the prospect that his dawning light would be extinguished, all untimely, when Roger Chillingworth made his advent to the town.
+000036|His first entry on the scene, few people could tell whence, dropping down as it were out of the sky or starting from the nether earth, had an aspect of mystery, which was easily heightened to the miraculous.
+000037|He was now known to be a man of skill;
+000038|it was observed that he gathered herbs and the blossoms of wild-flowers, and dug up roots and plucked off twigs from the forest-trees like one acquainted with hidden virtues in what was valueless to common eyes.
+000039|He was heard to speak of Sir Kenelm Digby and other famous men -- whose scientific attainments were esteemed hardly less than supernatural -- as having been his correspondents or associates.
+000040|Why, with such rank in the learned world, had he come hither?
+000041|What, could he, whose sphere was in great cities, be seeking in the wilderness?
+000042|In answer to this query, a rumour gained ground -- and however absurd, was entertained by some very sensible people -- that Heaven had wrought an absolute miracle, by transporting an eminent Doctor of Physic from a German university bodily through the air and setting him down at the door of mister Dimmesdale's study!
+000043|Individuals of wiser faith, indeed, who knew that Heaven promotes its purposes without aiming at the stage-effect of what is called miraculous interposition, were inclined to see a providential hand in Roger Chillingworth's so opportune arrival.
+000044|This idea was countenanced by the strong interest which the physician ever manifested in the young clergyman;
+000045|he attached himself to him as a parishioner, and sought to win a friendly regard and confidence from his naturally reserved sensibility.
+000046|He expressed great alarm at his pastor's state of health, but was anxious to attempt the cure, and, if early undertaken, seemed not despondent of a favourable resultimate.
+000047|The elders, the deacons, the motherly dames, and the young and fair maidens of mister Dimmesdale's flock, were alike importunate that he should make trial of the physician's frankly offered skill.
+000048|mister Dimmesdale gently repelled their entreaties.
+000049|"I need no medicine," said he.
+000050|But how could the young minister say so, when, with every successive Sabbath, his cheek was paler and thinner, and his voice more tremulous than before -- when it had now become a constant habit, rather than a casual gesture, to press his hand over his heart?
+000051|Was he weary of his labours?
+000052|Did he wish to die?
+000053|These questions were solemnly propounded to mister Dimmesdale by the elder ministers of Boston, and the deacons of his church, who, to use their own phrase, "dealt with him," on the sin of rejecting the aid which Providence so manifestly held out.
+000054|He listened in silence, and finally promised to confer with the physician.
+000055|"Were it God's will," said the Reverend mister Dimmesdale, when, in fulfilment of this pledge, he requested old Roger Chillingworth's professional advice, "I could be well content that my labours, and my sorrows, and my sins, and my pains, should shortly end with me, and what is earthly of them be buried in my grave, and the spiritual go with me to my eternal state, rather than that you should put your skill to the proof in my behalf."
+000056|"Ah," replied Roger Chillingworth, with that quietness, which, whether imposed or natural, marked all his deportment, "it is thus that a young clergyman is apt to speak."
+000057|Youthful men, not having taken a deep root, give up their hold of life so easily!
+000058|And saintly men, who walk with God on earth, would fain be away, to walk with him on the golden pavements of the New Jerusalem.
+000059|"Nay," rejoined the young minister, putting his hand to his heart, with a flush of pain flitting over his brow, "were I worthier to walk there, I could be better content to toil here."
+000060|"Good men ever interpret themselves too meanly," said the physician.
+000061|In this manner, the mysterious old Roger Chillingworth became the medical adviser of the Reverend mister Dimmesdale.
+000062|As not only the disease interested the physician, but he was strongly moved to look into the character and qualities of the patient, these two men, so different in age, came gradually to spend much time together.
+000063|For the sake of the minister's health, and to enable the leech to gather plants with healing balm in them, they took long walks on the sea-shore, or in the forest;
+000064|mingling various walks with the splash and murmur of the waves, and the solemn wind-anthem among the tree-tops.
+000065|Often, likewise, one was the guest of the other in his place of study and retirement.
+000066|There was a fascination for the minister in the company of the man of science, in whom he recognised an intellectual cultivation of no moderate depth or scope;
+000067|together with a range and freedom of ideas, that he would have vainly looked for among the members of his own profession.
+000068|In truth, he was startled, if not shocked, to find this attribute in the physician.
+000069|mister Dimmesdale was a true priest, a true religionist, with the reverential sentiment largely developed, and an order of mind that impelled itself powerfully along the track of a creed, and wore its passage continually deeper with the lapse of time.
+000070|In no state of society would he have been what is called a man of liberal views;
+000071|it would always be essential to his peace to feel the pressure of a faith about him, supporting, while it confined him within its iron framework.
+000072|Not the less, however, though with a tremulous enjoyment, did he feel the occasional relief of looking at the universe through the medium of another kind of intellect than those with which he habitually held converse.
+000073|It was as if a window were thrown open, admitting a freer atmosphere into the close and stifled study, where his life was wasting itself away, amid lamp-light, or obstructed day-beams, and the musty fragrance, be it sensual or moral, that exhales from books.
+000074|But the air was too fresh and chill to be long breathed with comfort.
+000075|So the minister, and the physician with him, withdrew again within the limits of what their Church defined as orthodox.
+000076|Thus Roger Chillingworth scrutinised his patient carefully, both as he saw him in his ordinary life, keeping an accustomed pathway in the range of thoughts familiar to him, and as he appeared when thrown amidst other moral scenery, the novelty of which might call out something new to the surface of his character.
+000077|He deemed it essential, it would seem, to know the man, before attempting to do him good.
+000078|Wherever there is a heart and an intellect, the diseases of the physical frame are tinged with the peculiarities of these.
+000079|In Arthur Dimmesdale, thought and imagination were so active, and sensibility so intense, that the bodily infirmity would be likely to have its groundwork there.
+000080|So Roger Chillingworth -- the man of skill, the kind and friendly physician -- strove to go deep into his patient's bosom, delving among his principles, prying into his recollections, and probing everything with a cautious touch, like a treasure-seeker in a dark cavern.
+000081|Few secrets can escape an investigator, who has opportunity and licence to undertake such a quest, and skill to follow it up.
+000082|A man burdened with a secret should especially avoid the intimacy of his physician.
+000083|If the latter possess native sagacity, and a nameless something more, -- let us call it intuition;
+000084|if he show no intrusive egotism, nor disagreeable prominent characteristics of his own;
+000085|if he have the power, which must be born with him, to bring his mind into such affinity with his patient's, that this last shall unawares have spoken what he imagines himself only to have thought;
+000086|if such revelations be received without tumult, and acknowledged not so often by an uttered sympathy as by silence, an inarticulate breath, and here and there a word to indicate that all is understood;
+000087|if to these qualifications of a confidant be joined the advantages afforded by his recognised character as a physician;
+000088|then, at some inevitable moment, will the soul of the sufferer be dissolved, and flow forth in a dark but transparent stream, bringing all its mysteries into the daylight.
+000089|Roger Chillingworth possessed all, or most, of the attributes above enumerated.
+000090|Nevertheless, time went on;
+000091|a kind of intimacy, as we have said, grew up between these two cultivated minds, which had as wide a field as the whole sphere of human thought and study to meet upon;
+000092|they discussed every topic of ethics and religion, of public affairs, and private character;
+000093|they talked much, on both sides, of matters that seemed personal to themselves;
+000094|and yet no secret, such as the physician fancied must exist there, ever stole out of the minister's consciousness into his companion's ear.
+000095|The latter had his suspicions, indeed, that even the nature of mister Dimmesdale's bodily disease had never fairly been revealed to him.
+000096|It was a strange reserve!
+000097|After a time, at a hint from Roger Chillingworth, the friends of mister Dimmesdale effected an arrangement by which the two were lodged in the same house;
+000098|so that every ebb and flow of the minister's life-tide might pass under the eye of his anxious and attached physician.
+000099|There was much joy throughout the town when this greatly desirable object was attained.
+000100|It was held to be the best possible measure for the young clergyman's welfare;
+000101|unless, indeed, as often urged by such as felt authorised to do so, he had selected some one of the many blooming damsels, spiritually devoted to him, to become his devoted wife.
+000102|This latter step, however, there was no present prospect that Arthur Dimmesdale would be prevailed upon to take;
+000103|he rejected all suggestions of the kind, as if priestly celibacy were one of his articles of Church discipline.
+000104|Doomed by his own choice, therefore, as mister Dimmesdale so evidently was, to eat his unsavoury morsel always at another's board, and endure the life-long chill which must be his lot who seeks to warm himself only at another's fireside, it truly seemed that this sagacious, experienced, benevolent old physician, with his concord of paternal and reverential love for the young pastor, was the very man, of all mankind, to be constantly within reach of his voice.
+000105|The new abode of the two friends was with a pious widow, of good social rank, who dwelt in a house covering pretty nearly the site on which the venerable structure of King's Chapel has since been built.
+000106|It had the graveyard, originally Isaac Johnson's home-field, on one side, and so was well adapted to call up serious reflections, suited to their respective employments, in both minister and man of physic.
+000107|The motherly care of the good widow assigned to mister Dimmesdale a front apartment, with a sunny exposure, and heavy window-curtains, to create a noontide shadow when desirable.
+000108|The walls were hung round with tapestry, said to be from the Gobelin looms, and, at all events, representing the Scriptural story of David and Bathsheba, and Nathan the Prophet, in colours still unfaded, but which made the fair woman of the scene almost as grimly picturesque as the woe-denouncing seer.
+000109|Here the pale clergyman piled up his library, rich with parchment-bound folios of the Fathers, and the lore of Rabbis, and monkish erudition, of which the Protestant divines, even while they vilified and decried that class of writers, were yet constrained often to avail themselves.
+000110|On the other side of the house, old Roger Chillingworth arranged his study and laboratory: not such as a modern man of science would reckon even tolerably complete, but provided with a distilling apparatus and the means of compounding drugs and chemicals, which the practised alchemist knew well how to turn to purpose.
+000111|With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another's business.
+000112|And the Reverend Arthur Dimmesdale's best discerning friends, as we have intimated, very reasonably imagined that the hand of Providence had done all this for the purpose -- besought in so many public and domestic and secret prayers -- of restoring the young minister to health.
+000113|But, it must now be said, another portion of the community had latterly begun to take its own view of the relation betwixt mister Dimmesdale and the mysterious old physician.
+000114|When an uninstructed multitude attempts to see with its eyes, it is exceedingly apt to be deceived.
+000115|When, however, it forms its judgment, as it usually does, on the intuitions of its great and warm heart, the conclusions thus attained are often so profound and so unerring as to possess the character of truth supernaturally revealed.
+000116|The people, in the case of which we speak, could justify its prejudice against Roger Chillingworth by no fact or argument worthy of serious refutation.
+000117|There was an aged handicraftsman, it is true, who had been a citizen of London at the period of Sir Thomas Overbury's murder, now some thirty years agone;
+000118|he testified to having seen the physician, under some other name, which the narrator of the story had now forgotten, in company with doctor Forman, the famous old conjurer, who was implicated in the affair of Overbury.
+000119|Two or three individuals hinted that the man of skill, during his Indian captivity, had enlarged his medical attainments by joining in the incantations of the savage priests, who were universally acknowledged to be powerful enchanters, often performing seemingly miraculous cures by their skill in the black art.
+000120|A large number -- and many of these were persons of such sober sense and practical observation that their opinions would have been valuable in other matters -- affirmed that Roger Chillingworth's aspect had undergone a remarkable change while he had dwelt in town, and especially since his abode with mister Dimmesdale.
+000121|At first, his expression had been calm, meditative, scholar-like.
+000122|Now there was something ugly and evil in his face, which they had not previously noticed, and which grew still the more obvious to sight the oftener they looked upon him.
+000123|According to the vulgar idea, the fire in his laboratory had been brought from the lower regions, and was fed with infernal fuel;
+000124|and so, as might be expected, his visage was getting sooty with the smoke.
+000125|To sum up the matter, it grew to be a widely diffused opinion that the Rev.
+000126|Arthur Dimmesdale, like many other personages of special sanctity, in all ages of the Christian world, was haunted either by Satan himself or Satan's emissary, in the guise of old Roger Chillingworth.
+000127|This diabolical agent had the Divine permission, for a season, to burrow into the clergyman's intimacy, and plot against his soul.
+000128|No sensible man, it was confessed, could doubt on which side the victory would turn.
+000129|The people looked, with an unshaken hope, to see the minister come forth out of the conflict transfigured with the glory which he would unquestionably win.
+000130|Meanwhile, nevertheless, it was sad to think of the perchance mortal agony through which he must struggle towards his triumph.

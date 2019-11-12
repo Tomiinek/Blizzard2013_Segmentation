@@ -1,0 +1,235 @@
+000001|Emma did not repent her condescension in going to the Coles.
+000002|The visit afforded her many pleasant recollections the next day;
+000003|and all that she might be supposed to have lost on the side of dignified seclusion, must be amply repaid in the splendour of popularity.
+000004|She must have delighted the Coles -- worthy people, who deserved to be made happy!
+000005|And left a name behind her that would not soon die away.
+000006|Perfect happiness, even in memory, is not common;
+000007|and there were two points on which she was not quite easy.
+000008|She doubted whether she had not transgressed the duty of woman by woman, in betraying her suspicions of Jane Fairfax's feelings to Frank Churchill.
+000009|It was hardly right;
+000010|but it had been so strong an idea, that it would escape her, and his submission to all that she told, was a compliment to her penetration, which made it difficult for her to be quite certain that she ought to have held her tongue.
+000011|The other circumstance of regret related also to Jane Fairfax;
+000012|and there she had no doubt.
+000013|She did unfeignedly and unequivocally regret the inferiority of her own playing and singing.
+000014|She did most heartily grieve over the idleness of her childhood -- and sat down and practised vigorously an hour and a half.
+000015|She was then interrupted by Harriet's coming in;
+000016|and if Harriet's praise could have satisfied her, she might soon have been comforted.
+000017|Oh! if I could but play as well as you and Miss Fairfax!
+000018|Don't class us together, Harriet.
+000019|My playing is no more like her's, than a lamp is like sunshine.
+000020|Oh! dear -- I think you play the best of the two.
+000021|I think you play quite as well as she does.
+000022|I am sure I had much rather hear you.
+000023|Every body last night said how well you played.
+000024|Those who knew any thing about it, must have felt the difference.
+000025|The truth is, Harriet, that my playing is just good enough to be praised, but Jane Fairfax's is much beyond it.
+000026|Well, I always shall think that you play quite as well as she does, or that if there is any difference nobody would ever find it out.
+000027|mister Cole said how much taste you had;
+000028|and mister Frank Churchill talked a great deal about your taste, and that he valued taste much more than execution.
+000029|Ah! but Jane Fairfax has them both, Harriet.
+000030|Are you sure?
+000031|I saw she had execution, but I did not know she had any taste.
+000032|Nobody talked about it.
+000033|And I hate Italian singing.
+000034|There is no understanding a word of it.
+000035|Besides, if she does play so very well, you know, it is no more than she is obliged to do, because she will have to teach.
+000036|The Coxes were wondering last night whether she would get into any great family.
+000037|How did you think the Coxes looked?
+000038|Just as they always do -- very vulgar.
+000039|"They told me something," said Harriet rather hesitatingly;
+000040|but it is nothing of any consequence.
+000041|Emma was obliged to ask what they had told her, though fearful of its producing mister Elton.
+000042|They told me -- that mister Martin dined with them last Saturday.
+000043|Oh!
+000044|He came to their father upon some business, and he asked him to stay to dinner.
+000045|Oh!
+000046|They talked a great deal about him, especially Anne Cox.
+000047|I do not know what she meant, but she asked me if I thought I should go and stay there again next summer.
+000048|She meant to be impertinently curious, just as such an Anne Cox should be.
+000049|She said he was very agreeable the day he dined there.
+000050|He sat by her at dinner.
+000051|Miss Nash thinks either of the Coxes would be very glad to marry him.
+000052|Very likely.
+000053|I think they are, without exception, the most vulgar girls in Highbury.
+000054|Harriet had business at Ford's.
+000055|Emma thought it most prudent to go with her.
+000056|Another accidental meeting with the Martins was possible, and in her present state, would be dangerous.
+000057|Harriet, tempted by every thing and swayed by half a word, was always very long at a purchase;
+000058|and while she was still hanging over muslins and changing her mind, Emma went to the door for amusement.
+000059|Much could not be hoped from the traffic of even the busiest part of Highbury;
+000060|mister Perry walking hastily by, mister William Cox letting himself in at the office-door, mister Cole's carriage-horses returning from exercise, or a stray letter-boy on an obstinate mule, were the liveliest objects she could presume to expect;
+000061|and when her eyes fell only on the butcher with his tray, a tidy old woman travelling homewards from shop with her full basket, two curs quarrelling over a dirty bone, and a string of dawdling children round the baker's little bow-window eyeing the gingerbread, she knew she had no reason to complain, and was amused enough;
+000062|quite enough still to stand at the door.
+000063|A mind lively and at ease, can do with seeing nothing, and can see nothing that does not answer.
+000064|She looked down the Randalls road.
+000065|The scene enlarged;
+000066|two persons appeared;
+000067|misess Weston and her son-in-law;
+000068|they were walking into Highbury;
+000069|to Hartfield of course.
+000070|They were stopping, however, in the first place at misess Bates's;
+000071|whose house was a little nearer Randalls than Ford's;
+000072|and had all but knocked, when Emma caught their eye.
+000073|Immediately they crossed the road and came forward to her;
+000074|and the agreeableness of yesterday's engagement seemed to give fresh pleasure to the present meeting.
+000075|misess Weston informed her that she was going to call on the Bateses, in order to hear the new instrument.
+000076|"For my companion tells me," said she, "that I absolutely promised Miss Bates last night, that I would come this morning."
+000077|I was not aware of it myself.
+000078|I did not know that I had fixed a day, but as he says I did, I am going now.
+000079|"And while misess Weston pays her visit, I may be allowed, I hope," said Frank Churchill, "to join your party and wait for her at Hartfield -- if you are going home."
+000080|misess Weston was disappointed.
+000081|I thought you meant to go with me.
+000082|They would be very much pleased.
+000083|Me! I should be quite in the way.
+000084|But, perhaps -- I may be equally in the way here.
+000085|Miss Woodhouse looks as if she did not want me.
+000086|My aunt always sends me off when she is shopping.
+000087|She says I fidget her to death;
+000088|and Miss Woodhouse looks as if she could almost say the same.
+000089|What am I to do?
+000090|"I am here on no business of my own," said Emma;
+000091|I am only waiting for my friend.
+000092|She will probably have soon done, and then we shall go home.
+000093|But you had better go with misess Weston and hear the instrument.
+000094|Well -- if you advise it.
+000095|But (with a smile) if Colonel Campbell should have employed a careless friend, and if it should prove to have an indifferent tone -- what shall I say?
+000096|I shall be no support to misess Weston.
+000097|She might do very well by herself.
+000098|A disagreeable truth would be palatable through her lips, but I am the wretchedest being in the world at a civil falsehood.
+000099|"I do not believe any such thing," replied Emma.
+000100|I am persuaded that you can be as insincere as your neighbours, when it is necessary;
+000101|but there is no reason to suppose the instrument is indifferent.
+000102|Quite otherwise indeed, if I understood Miss Fairfax's opinion last night.
+000103|"Do come with me," said misess Weston, "if it be not very disagreeable to you."
+000104|It need not detain us long.
+000105|We will go to Hartfield afterwards.
+000106|We will follow them to Hartfield.
+000107|I really wish you to call with me.
+000108|It will be felt so great an attention! and I always thought you meant it.
+000109|He could say no more;
+000110|and with the hope of Hartfield to reward him, returned with misess Weston to misess Bates's door.
+000111|Emma watched them in, and then joined Harriet at the interesting counter, -- trying, with all the force of her own mind, to convince her that if she wanted plain muslin it was of no use to look at figured;
+000112|and that a blue ribbon, be it ever so beautiful, would still never match her yellow pattern.
+000113|At last it was all settled, even to the destination of the parcel.
+000114|"Should I send it to misess Goddard's, ma'am?" asked misess Ford.
+000115|Yes -- no -- yes, to misess Goddard's.
+000116|Only my pattern gown is at Hartfield.
+000117|No, you shall send it to Hartfield, if you please.
+000118|But then, misess Goddard will want to see it.
+000119|And I could take the pattern gown home any day.
+000120|But I shall want the ribbon directly -- so it had better go to Hartfield -- at least the ribbon.
+000121|You could make it into two parcels, misess Ford, could not you?
+000122|It is not worth while, Harriet, to give misess Ford the trouble of two parcels.
+000123|No more it is.
+000124|"No trouble in the world, ma'am," said the obliging misess Ford.
+000125|Oh! but indeed I would much rather have it only in one.
+000126|Then, if you please, you shall send it all to misess Goddard's -- I do not know -- No, I think, Miss Woodhouse, I may just as well have it sent to Hartfield, and take it home with me at night.
+000127|What do you advise?
+000128|That you do not give another half-second to the subject.
+000129|To Hartfield, if you please, misess Ford.
+000130|"Aye, that will be much best," said Harriet, quite satisfied, "I should not at all like to have it sent to misess Goddard's."
+000131|Voices approached the shop -- or rather one voice and two ladies: misess Weston and Miss Bates met them at the door.
+000132|"My dear Miss Woodhouse," said the latter, "I am just run across to entreat the favour of you to come and sit down with us a little while, and give us your opinion of our new instrument;"
+000133|you and Miss Smith.
+000134|How do you do, Miss Smith?
+000135|Very well I thank you.
+000136|And I begged misess Weston to come with me, that I might be sure of succeeding.
+000137|I hope misess Bates and Miss Fairfax are
+000138|Very well, I am much obliged to you.
+000139|My mother is delightfully well;
+000140|and Jane caught no cold last night.
+000141|How is mister Woodhouse?
+000142|I am so glad to hear such a good account.
+000143|misess Weston told me you were here.
+000144|Oh! then, said I, I must run across, I am sure Miss Woodhouse will allow me just to run across and entreat her to come in;
+000145|my mother will be so very happy to see her -- and now we are such a nice party, she cannot refuse.
+000146|'Aye, pray do,' said mister Frank Churchill, 'Miss Woodhouse's opinion of the instrument will be worth having.'
+000147|But, said I, I shall be more sure of succeeding if one of you will go with me.
+000148|'Oh,' said he, 'wait half a minute, till I have finished my job;'
+000149|For, would you believe it, Miss Woodhouse, there he is, in the most obliging manner in the world, fastening in the rivet of my mother's spectacles.
+000150|The rivet came out, you know, this morning.
+000151|So very obliging!
+000152|For my mother had no use of her spectacles -- could not put them on.
+000153|And, by the bye, every body ought to have two pair of spectacles;
+000154|they should indeed.
+000155|Jane said so.
+000156|I meant to take them over to John Saunders the first thing I did, but something or other hindered me all the morning;
+000157|first one thing, then another, there is no saying what, you know.
+000158|At one time Patty came to say she thought the kitchen chimney wanted sweeping.
+000159|Oh, said I, Patty do not come with your bad news to me.
+000160|Here is the rivet of your mistress's spectacles out.
+000161|Then the baked apples came home, misess Wallis sent them by her boy;
+000162|they are extremely civil and obliging to us, the Wallises, always -- I have heard some people say that misess Wallis can be uncivil and give a very rude answer, but we have never known any thing but the greatest attention from them.
+000163|And it cannot be for the value of our custom now, for what is our consumption of bread, you know?
+000164|Only three of us.
+000165|besides dear Jane at present -- and she really eats nothing -- makes such a shocking breakfast, you would be quite frightened if you saw it.
+000166|I dare not let my mother know how little she eats -- so I say one thing and then I say another, and it passes off.
+000167|But about the middle of the day she gets hungry, and there is nothing she likes so well as these baked apples, and they are extremely wholesome, for I took the opportunity the other day of asking mister Perry;
+000168|I happened to meet him in the street.
+000169|Not that I had any doubt before -- I have so often heard mister Woodhouse recommend a baked apple.
+000170|I believe it is the only way that mister Woodhouse thinks the fruit thoroughly wholesome.
+000171|We have apple-dumplings, however, very often.
+000172|Patty makes an excellent apple-dumpling.
+000173|Well, misess Weston, you have prevailed, I hope, and these ladies will oblige us.
+000174|Emma would be "very happy to wait on misess Bates, et cetera," and they did at last move out of the shop, with no farther delay from Miss Bates than,
+000175|How do you do, misess Ford?
+000176|I beg your pardon.
+000177|I did not see you before.
+000178|I hear you have a charming collection of new ribbons from town.
+000179|Jane came back delighted yesterday.
+000180|Thank ye, the gloves do very well -- only a little too large about the wrist;
+000181|but Jane is taking them in.
+000182|"What was I talking of?" said she, beginning again when they were all in the street.
+000183|Emma wondered on what, of all the medley, she would fix.
+000184|I declare I cannot recollect what I was talking of.
+000185|Oh! my mother's spectacles.
+000186|So very obliging of mister Frank Churchill!
+000187|'Oh!' said he, 'I do think I can fasten the rivet;
+000188|I like a job of this kind excessively.' -- Which you know shewed him to be so very....
+000189|Indeed I must say that, much as I had heard of him before and much as I had expected, he very far exceeds any thing....
+000190|I do congratulate you, misess Weston, most warmly.
+000191|He seems every thing the fondest parent could....
+000192|'Oh!' said he, 'I can fasten the rivet.
+000193|I like a job of that sort excessively.' I never shall forget his manner.
+000194|And when I brought out the baked apples from the closet, and hoped our friends would be so very obliging as to take some, 'Oh!' said he directly, 'there is nothing in the way of fruit half so good, and these are the finest-looking home-baked apples I ever saw in my life.'
+000195|That, you know, was so very....
+000196|And I am sure, by his manner, it was no compliment.
+000197|Indeed they are very delightful apples, and misess Wallis does them full justice -- only we do not have them baked more than twice, and mister Woodhouse made us promise to have them done three times -- but Miss Woodhouse will be so good as not to mention it.
+000198|The apples themselves are the very finest sort for baking, beyond a doubt;
+000199|all from Donwell -- some of mister Knightley's most liberal supply.
+000200|He sends us a sack every year;
+000201|and certainly there never was such a keeping apple anywhere as one of his trees -- I believe there is two of them.
+000202|My mother says the orchard was always famous in her younger days.
+000203|But I was really quite shocked the other day -- for mister Knightley called one morning, and Jane was eating these apples, and we talked about them and said how much she enjoyed them, and he asked whether we were not got to the end of our stock.
+000204|'I am sure you must be,' said he, 'and I will send you another supply;
+000205|for I have a great many more than I can ever use.
+000206|William Larkins let me keep a larger quantity than usual this year.
+000207|I will send you some more, before they get good for nothing.' So I begged he would not -- for really as to ours being gone, I could not absolutely say that we had a great many left -- it was but half a dozen indeed;
+000208|but they should be all kept for Jane;
+000209|and I could not at all bear that he should be sending us more, so liberal as he had been already;
+000210|and Jane said the same.
+000211|And when he was gone, she almost quarrelled with me -- No, I should not say quarrelled, for we never had a quarrel in our lives;
+000212|but she was quite distressed that I had owned the apples were so nearly gone;
+000213|she wished I had made him believe we had a great many left.
+000214|Oh, said I, my dear, I did say as much as I could.
+000215|However, the very same evening William Larkins came over with a large basket of apples, the same sort of apples, a bushel at least, and I was very much obliged, and went down and spoke to William Larkins and said every thing, as you may suppose.
+000216|William Larkins is such an old acquaintance!
+000217|I am always glad to see him.
+000218|But, however, I found afterwards from Patty, that William said it was all the apples of that sort his master had;
+000219|he had brought them all -- and now his master had not one left to bake or boil.
+000220|William did not seem to mind it himself, he was so pleased to think his master had sold so many;
+000221|for William, you know, thinks more of his master's profit than any thing;
+000222|but misess Hodges, he said, was quite displeased at their being all sent away.
+000223|She could not bear that her master should not be able to have another apple-tart this spring.
+000224|He told Patty this, but bid her not mind it, and be sure not to say any thing to us about it, for misess Hodges would be cross sometimes, and as long as so many sacks were sold, it did not signify who ate the remainder.
+000225|And so Patty told me, and I was excessively shocked indeed!
+000226|I would not have mister Knightley know any thing about it for the world!
+000227|He would be so very....
+000228|I wanted to keep it from Jane's knowledge;
+000229|but, unluckily, I had mentioned it before I was aware.
+000230|Miss Bates had just done as Patty opened the door;
+000231|and her visitors walked upstairs without having any regular narration to attend to, pursued only by the sounds of her desultory good-will.
+000232|Pray take care, misess Weston, there is a step at the turning.
+000233|Pray take care, Miss Woodhouse, ours is rather a dark staircase -- rather darker and narrower than one could wish.
+000234|Miss Smith, pray take care.
+000235|Miss Woodhouse, I am quite concerned, I am sure you hit your foot.

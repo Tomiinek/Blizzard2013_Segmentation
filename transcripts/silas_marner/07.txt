@@ -1,0 +1,96 @@
+000001|For the pale thin figure of Silas Marner was suddenly seen standing in the warm light, uttering no word, but looking round at the company with his strange unearthly eyes.
+000002|The long pipes gave a simultaneous movement, like the antennae of startled insects, and every man present, not excepting even the sceptical farrier, had an impression that he saw, not Silas Marner in the flesh, but an apparition;
+000003|for the door by which Silas had entered was hidden by the high-screened seats, and no one had noticed his approach.
+000004|Mister Macey, sitting a long way off the ghost, might be supposed to have felt an argumentative triumph, which would tend to neutralize his share of the general alarm.
+000005|Had he not always said that when Silas Marner was in that strange trance of his, his soul went loose from his body?
+000006|Here was the demonstration: nevertheless, on the whole, he would have been as well contented without it.
+000007|For a few moments there was a dead silence, Marner's want of breath and agitation not allowing him to speak.
+000008|The landlord, under the habitual sense that he was bound to keep his house open to all company, and confident in the protection of his unbroken neutrality, at last took on himself the task of adjuring the ghost.
+000009|"Master Marner," he said, in a conciliatory tone, "what's lacking to you?"
+000010|What's your business here?
+000011|"Robbed!" said Silas, gaspingly.
+000012|I've been robbed!
+000013|I want the constable -- and the Justice -- and Squire Cass -- and mister Crackenthorp.
+000014|"Lay hold on him, Jem Rodney," said the landlord, the idea of a ghost subsiding;
+000015|he's off his head, I doubt.
+000016|He's wet through.
+000017|Jem Rodney was the outermost man, and sat conveniently near Marner's standing-place;
+000018|but he declined to give his services.
+000019|"Come and lay hold on him yourself, mister Snell, if you've a mind," said Jem, rather sullenly.
+000020|"He's been robbed, and murdered too, for what I know," he added, in a muttering tone.
+000021|"Jem Rodney!" said Silas, turning and fixing his strange eyes on the suspected man.
+000022|"Aye, Master Marner, what do you want wi' me?" said Jem, trembling a little, and seizing his drinking-can as a defensive weapon.
+000023|"If it was you stole my money," said Silas, clasping his hands entreatingly, and raising his voice to a cry, "give it me back -- and I won't meddle with you."
+000024|I won't set the constable on you.
+000025|Give it me back, and I'll let you -- I'll let you have a guinea.
+000026|"Me stole your money!" said Jem, angrily.
+000027|I'll pitch this can at your eye if you talk o' my stealing your money.
+000028|"Come, come, Master Marner," said the landlord, now rising resolutely, and seizing Marner by the shoulder, "if you've got any information to lay, speak it out sensible, and show as you're in your right mind, if you expect anybody to listen to you."
+000029|You're as wet as a drownded rat.
+000030|Sit down and dry yourself, and speak straight forrard.
+000031|"Ah, to be sure, man," said the farrier, who began to feel that he had not been quite on a par with himself and the occasion.
+000032|Let's have no more staring and screaming, else we'll have you strapped for a madman.
+000033|That was why I didn't speak at the first -- thinks I, the man's run mad.
+000034|"Aye, aye, make him sit down," said several voices at once, well pleased that the reality of ghosts remained still an open question.
+000035|The landlord forced Marner to take off his coat, and then to sit down on a chair aloof from every one else, in the centre of the circle and in the direct rays of the fire.
+000036|The weaver, too feeble to have any distinct purpose beyond that of getting help to recover his money, submitted unresistingly.
+000037|The transient fears of the company were now forgotten in their strong curiosity, and all faces were turned towards Silas, when the landlord, having seated himself again, said
+000038|Now then, Master Marner, what's this you've got to say -- as you've been robbed?
+000039|Speak out.
+000040|"He'd better not say again as it was me robbed him," cried Jem Rodney, hastily.
+000041|What could I ha' done with his money?
+000042|I could as easy steal the parson's surplice, and wear it.
+000043|"Hold your tongue, Jem, and let's hear what he's got to say," said the landlord.
+000044|Now then, Master Marner.
+000045|Silas now told his story, under frequent questioning as the mysterious character of the robbery became evident.
+000046|This strangely novel situation of opening his trouble to his Raveloe neighbours, of sitting in the warmth of a hearth not his own, and feeling the presence of faces and voices which were his nearest promise of help, had doubtless its influence on Marner, in spite of his passionate preoccupation with his loss.
+000047|Our consciousness rarely registers the beginning of a growth within us any more than without us: there have been many circulations of the sap before we detect the smallest sign of the bud.
+000048|The slight suspicion with which his hearers at first listened to him, gradually melted away before the convincing simplicity of his distress: it was impossible for the neighbours to doubt that Marner was telling the truth, not because they were capable of arguing at once from the nature of his statements to the absence of any motive for making them falsely, but because, as mister Macey observed, "Folks as had the devil to back 'em were not likely to be so mushed" as poor Silas was.
+000049|Rather, from the strange fact that the robber had left no traces, and had happened to know the nick of time, utterly incalculable by mortal agents, when Silas would go away from home without locking his door, the more probable conclusion seemed to be, that his disreputable intimacy in that quarter, if it ever existed, had been broken up, and that, in consequence, this ill turn had been done to Marner by somebody it was quite in vain to set the constable after.
+000050|Why this preternatural felon should be obliged to wait till the door was left unlocked, was a question which did not present itself.
+000051|"It isn't Jem Rodney as has done this work, Master Marner," said the landlord.
+000052|You mustn't be a-casting your eye at poor Jem.
+000053|There may be a bit of a reckoning against Jem for the matter of a hare or so, if anybody was bound to keep their eyes staring open, and niver to wink;
+000054|but Jem's been a-sitting here drinking his can, like the decentest man i' the parish, since before you left your house, Master Marner, by your own account.
+000055|"Aye, aye," said mister Macey;
+000056|let's have no accusing o' the innicent.
+000057|That isn't the law.
+000058|There must be folks to swear again' a man before he can be ta'en up.
+000059|Let's have no accusing o' the innicent, Master Marner.
+000060|Memory was not so utterly torpid in Silas that it could not be awakened by these words.
+000061|With a movement of compunction as new and strange to him as everything else within the last hour, he started from his chair and went close up to Jem, looking at him as if he wanted to assure himself of the expression in his face.
+000062|"I was wrong," he said -- "yes, yes -- I ought to have thought."
+000063|There's nothing to witness against you, Jem.
+000064|Only you'd been into my house oftener than anybody else, and so you came into my head.
+000065|"I don't accuse you -- I won't accuse anybody -- only," he added, lifting up his hands to his head, and turning away with bewildered misery, "I try -- I try to think where my guineas can be."
+000066|"Aye, aye, they're gone where it's hot enough to melt 'em, I doubt," said mister Macey.
+000067|"Tchuh!" said the farrier.
+000068|And then he asked, with a cross-examining air, "How much money might there be in the bags, Master Marner?"
+000069|"Two hundred and seventy-two pounds, twelve and sixpence, last night when I counted it," said Silas, seating himself again, with a groan.
+000070|Pooh! why, they'd be none so heavy to carry.
+000071|Some tramp's been in, that's all;
+000072|and as for the no footmarks, and the bricks and the sand being all right -- why, your eyes are pretty much like a insect's, Master Marner;
+000073|they're obliged to look so close, you can't see much at a time.
+000074|It's my opinion as, if I'd been you, or you'd been me -- for it comes to the same thing -- you wouldn't have thought you'd found everything as you left it.
+000075|But what I vote is, as two of the sensiblest o' the company should go with you to Master Kench, the constable's -- he's ill i' bed, I know that much -- and get him to appoint one of us his deppity;
+000076|for that's the law, and I don't think anybody 'ull take upon him to contradick me there.
+000077|It isn't much of a walk to Kench's;
+000078|and then, if it's me as is deppity, I'll go back with you, Master Marner, and examine your premises;
+000079|and if anybody's got any fault to find with that, I'll thank him to stand up and say it out like a man.
+000080|By this pregnant speech the farrier had re-established his self-complacency, and waited with confidence to hear himself named as one of the superlatively sensible men.
+000081|"Let us see how the night is, though," said the landlord, who also considered himself personally concerned in this proposition.
+000082|"Why, it rains heavy still," he said, returning from the door.
+000083|"Well, I'm not the man to be afraid o' the rain," said the farrier.
+000084|For it'll look bad when Justice Malam hears as respectable men like us had a information laid before 'em and took no steps.
+000085|The landlord agreed with this view, and after taking the sense of the company, and duly rehearsing a small ceremony known in high ecclesiastical life as the nolo episcopari, he consented to take on himself the chill dignity of going to Kench's.
+000086|But to the farrier's strong disgust, mister Macey now started an objection to his proposing himself as a deputy-constable;
+000087|for that oracular old gentleman, claiming to know the law, stated, as a fact delivered to him by his father, that no doctor could be a constable.
+000088|"And you're a doctor, I reckon, though you're only a cow-doctor -- for a fly's a fly, though it may be a hoss-fly," concluded mister Macey, wondering a little at his own 'cuteness'.
+000089|There was a hot debate upon this, the farrier being of course indisposed to renounce the quality of doctor, but contending that a doctor could be a constable if he liked -- the law meant, he needn't be one if he didn't like.
+000090|mister Macey thought this was nonsense, since the law was not likely to be fonder of doctors than of other folks.
+000091|Moreover, if it was in the nature of doctors more than of other men not to like being constables, how came mister Dowlas to be so eager to act in that capacity?
+000092|"I don't want to act the constable," said the farrier, driven into a corner by this merciless reasoning;
+000093|and there's no man can say it of me, if he'd tell the truth.
+000094|But if there's to be any jealousy and envying about going to Kench's in the rain, let them go as like it -- you won't get me to go, I can tell you.
+000095|By the landlord's intervention, however, the dispute was accommodated.
+000096|mister Dowlas consented to go as a second person disinclined to act officially;

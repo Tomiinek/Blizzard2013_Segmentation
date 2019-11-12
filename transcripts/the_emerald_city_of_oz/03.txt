@@ -1,0 +1,102 @@
+000001|I suppose you have read so much about the magnificent Emerald City that there is little need for me to describe it here.
+000002|It is the Capital City of the Land of Oz, which is justly considered the most attractive and delightful fairyland in all the world.
+000003|The Emerald City is built all of beautiful marbles in which are set a profusion of emeralds, every one exquisitely cut and of very great size.
+000004|There are other jewels used in the decorations inside the houses and palaces, such as rubies, diamonds, sapphires, amethysts and turquoises.
+000005|But in the streets and upon the outside of the buildings only emeralds appear, from which circumstance the place is named the Emerald City of Oz.
+000006|It has nine thousand, six hundred and fifty-four buildings, in which lived fifty-seven thousand three hundred and eighteen people, up to the time my story opens.
+000007|All the surrounding country, extending to the borders of the desert which enclosed it upon every side, was full of pretty and comfortable farmhouses, in which resided those inhabitants of Oz who preferred country to city life.
+000008|Altogether there were more than half a million people in the Land of Oz -- although some of them, as you will soon learn, were not made of flesh and blood as we are -- and every inhabitant of that favored country was happy and prosperous.
+000009|No disease of any sort was ever known among the Ozites, and so no one ever died unless he met with an accident that prevented him from living.
+000010|This happened very seldom, indeed.
+000011|There were no poor people in the Land of Oz, because there was no such thing as money, and all property of every sort belonged to the Ruler.
+000012|The people were her children, and she cared for them.
+000013|Each person was given freely by his neighbors whatever he required for his use, which is as much as any one may reasonably desire.
+000014|Some tilled the lands and raised great crops of grain, which was divided equally among the entire population, so that all had enough.
+000015|There were many tailors and dressmakers and shoemakers and the like, who made things that any who desired them might wear.
+000016|Likewise there were jewelers who made ornaments for the person, which pleased and beautified the people, and these ornaments also were free to those who asked for them.
+000017|Each man and woman, no matter what he or she produced for the good of the community, was supplied by the neighbors with food and clothing and a house and furniture and ornaments and games.
+000018|If by chance the supply ever ran short, more was taken from the great storehouses of the Ruler, which were afterward filled up again when there was more of any article than the people needed.
+000019|Every one worked half the time and played half the time, and the people enjoyed the work as much as they did the play, because it is good to be occupied and to have something to do.
+000020|There were no cruel overseers set to watch them, and no one to rebuke them or to find fault with them.
+000021|So each one was proud to do all he could for his friends and neighbors, and was glad when they would accept the things he produced.
+000022|You will know by what I have here told you, that the Land of Oz was a remarkable country.
+000023|I do not suppose such an arrangement would be practical with us, but Dorothy assures me that it works finely with the Oz people.
+000024|Oz being a fairy country, the people were, of course, fairy people;
+000025|but that does not mean that all of them were very unlike the people of our own world.
+000026|There were all sorts of queer characters among them, but not a single one who was evil, or who possessed a selfish or violent nature.
+000027|They were peaceful, kind hearted, loving and merry, and every inhabitant adored the beautiful girl who ruled them and delighted to obey her every command.
+000028|In spite of all I have said in a general way, there were some parts of the Land of Oz not quite so pleasant as the farming country and the Emerald City which was its center.
+000029|Far away in the South Country there lived in the mountains a band of strange people called Hammer-Heads, because they had no arms and used their flat heads to pound any one who came near them.
+000030|Their necks were like rubber, so that they could shoot out their heads to quite a distance, and afterward draw them back again to their shoulders.
+000031|The Hammer-Heads were called the "Wild People," but never harmed any but those who disturbed them in the mountains where they lived.
+000032|In some of the dense forests there lived great beasts of every sort;
+000033|yet these were for the most part harmless and even sociable, and conversed agreeably with those who visited their haunts.
+000034|The Kalidahs -- beasts with bodies like bears and heads like tigers -- had once been fierce and bloodthirsty, but even they were now nearly all tamed, although at times one or another of them would get cross and disagreeable.
+000035|Not so tame were the Fighting Trees, which had a forest of their own.
+000036|If any one approached them these curious trees would bend down their branches, twine them around the intruders, and hurl them away.
+000037|But these unpleasant things existed only in a few remote parts of the Land of Oz.
+000038|I suppose every country has some drawbacks, so even this almost perfect fairyland could not be quite perfect.
+000039|Once there had been wicked witches in the land, too;
+000040|but now these had all been destroyed;
+000041|so, as I said, only peace and happiness reigned in Oz.
+000042|For some time Ozma had ruled over this fair country, and never was Ruler more popular or beloved.
+000043|She is said to be the most beautiful girl the world has ever known, and her heart and mind are as lovely as her person.
+000044|Dorothy Gale had several times visited the Emerald City and experienced adventures in the Land of Oz, so that she and Ozma had now become firm friends.
+000045|The girl Ruler had even made Dorothy a Princess of Oz, and had often implored her to come to Ozma's stately palace and live there always;
+000046|but Dorothy had been loyal to her Aunt Em and Uncle Henry, who had cared for her since she was a baby, and she had refused to leave them because she knew they would be lonely without her.
+000047|However, Dorothy now realized that things were going to be different with her uncle and aunt from this time forth, so after giving the matter deep thought she decided to ask Ozma to grant her a very great favor.
+000048|A few seconds after she had made the secret signal in her little bedchamber, the Kansas girl was seated in a lovely room in Ozma's palace in the Emerald City of Oz.
+000049|When the first loving kisses and embraces had been exchanged, the fair Ruler inquired:
+000050|What is the matter, dear?
+000051|I know something unpleasant has happened to you, for your face was very sober when I saw it in my Magic Picture.
+000052|And whenever you signal me to transport you to this safe place, where you are always welcome, I know you are in danger or in trouble.
+000053|Dorothy sighed.
+000054|"This time, Ozma, it isn't I," she replied.
+000055|But it's worse, I guess, for Uncle Henry and Aunt Em are in a heap of trouble, and there seems no way for them to get out of it -- anyhow, not while they live in Kansas.
+000056|"Tell me about it, Dorothy," said Ozma, with ready sympathy.
+000057|Why, you see Uncle Henry is poor;
+000058|for the farm in Kansas doesn't 'mount to much, as farms go.
+000059|So one day Uncle Henry borrowed some money, and wrote a letter saying that if he didn't pay the money back they could take his farm for pay.
+000060|Course he 'spected to pay by making money from the farm;
+000061|but he just couldn't.
+000062|An' so they're going to take the farm, and Uncle Henry and Aunt Em won't have any place to live.
+000063|They're pretty old to do much hard work, Ozma;
+000064|so I'll have to work for them, unless
+000065|Ozma had been thoughtful during the story, but now she smiled and pressed her little friend's hand.
+000066|"Unless what, dear?" she asked.
+000067|Dorothy hesitated, because her request meant so much to them all.
+000068|"Well," said she, "I'd like to live here in the Land of Oz, where you've often 'vited me to live."
+000069|But I can't, you know, unless Uncle Henry and Aunt Em could live here too.
+000070|"Of course not," exclaimed the Ruler of Oz, laughing gaily.
+000071|So, in order to get you, little friend, we must invite your Uncle and Aunt to live in Oz, also.
+000072|"Oh, will you, Ozma?" cried Dorothy, clasping her chubby little hands eagerly.
+000073|Will you bring them here with the Magic Belt, and give them a nice little farm in the Munchkin Country, or the Winkie Country -- or some other place?
+000074|"To be sure," answered Ozma, full of joy at the chance to please her little friend.
+000075|I have long been thinking of this very thing, Dorothy dear, and often I have had it in my mind to propose it to you.
+000076|I am sure your uncle and aunt must be good and worthy people, or you would not love them so much;
+000077|and for your friends, Princess, there is always room in the Land of Oz.
+000078|Dorothy was delighted, yet not altogether surprised, for she had clung to the hope that Ozma would be kind enough to grant her request.
+000079|When, indeed, had her powerful and faithful friend refused her anything?
+000080|"But you must not call me 'Princess'," she said;
+000081|for after this I shall live on the little farm with Uncle Henry and Aunt Em, and princesses ought not to live on farms.
+000082|"Princess Dorothy will not," replied Ozma with her sweet smile.
+000083|You are going to live in your own rooms in this palace, and be my constant companion.
+000084|"But Uncle Henry -- " began Dorothy.
+000085|"Oh, he is old, and has worked enough in his lifetime," interrupted the girl Ruler;
+000086|so we must find a place for your uncle and aunt where they will be comfortable and happy and need not work more than they care to.
+000087|When shall we transport them here, Dorothy?
+000088|"I promised to go and see them again before they were turned out of the farmhouse," answered Dorothy;
+000089|so -- perhaps next Saturday
+000090|"But why wait so long?" asked Ozma.
+000091|And why make the journey back to Kansas again?
+000092|Let us surprise them, and bring them here without any warning.
+000093|"I'm not sure that they believe in the Land of Oz," said Dorothy, "though I've told 'em 'bout it lots of times."
+000094|"They'll believe when they see it," declared Ozma;
+000095|and if they are told they are to make a magical journey to our fairyland, it may make them nervous.
+000096|I think the best way will be to use the Magic Belt without warning them, and when they have arrived you can explain to them whatever they do not understand.
+000097|"Perhaps that's best," decided Dorothy.
+000098|There isn't much use in their staying at the farm until they are put out, 'cause it's much nicer here.
+000099|"Then to-morrow morning they shall come here," said Princess Ozma.
+000100|I will order Jellia Jamb, who is the palace housekeeper, to have rooms all prepared for them, and after breakfast we will get the Magic Belt and by its aid transport your uncle and aunt to the Emerald City.
+000101|"Thank you, Ozma!" cried Dorothy, kissing her friend gratefully.
+000102|"And now," Ozma proposed, "let us take a walk in the gardens before we dress for dinner."

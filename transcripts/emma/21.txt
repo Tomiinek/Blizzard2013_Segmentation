@@ -1,0 +1,267 @@
+000001|Emma could not forgive her;
+000002|but as neither provocation nor resentment were discerned by mister Knightley, who had been of the party, and had seen only proper attention and pleasing behaviour on each side, he was expressing the next morning, being at Hartfield again on business with mister Woodhouse, his approbation of the whole;
+000003|not so openly as he might have done had her father been out of the room, but speaking plain enough to be very intelligible to Emma.
+000004|He had been used to think her unjust to Jane, and had now great pleasure in marking an improvement.
+000005|"A very pleasant evening," he began, as soon as mister Woodhouse had been talked into what was necessary, told that he understood, and the papers swept away;
+000006|particularly pleasant.
+000007|You and Miss Fairfax gave us some very good music.
+000008|I do not know a more luxurious state, sir, than sitting at one's ease to be entertained a whole evening by two such young women;
+000009|sometimes with music and sometimes with conversation.
+000010|I am sure Miss Fairfax must have found the evening pleasant, Emma.
+000011|You left nothing undone.
+000012|I was glad you made her play so much, for having no instrument at her grandmother's, it must have been a real indulgence.
+000013|"I am happy you approved," said Emma, smiling;
+000014|but I hope I am not often deficient in what is due to guests at Hartfield.
+000015|"No, my dear," said her father instantly;
+000016|that I am sure you are not.
+000017|There is nobody half so attentive and civil as you are.
+000018|If any thing, you are too attentive.
+000019|The muffin last night -- if it had been handed round once, I think it would have been enough.
+000020|"No," said mister Knightley, nearly at the same time;
+000021|you are not often deficient;
+000022|not often deficient either in manner or comprehension.
+000023|I think you understand me, therefore.
+000024|An arch look expressed -- "I understand you well enough;" but she said only, "Miss Fairfax is reserved."
+000025|I always told you she was -- a little;
+000026|but you will soon overcome all that part of her reserve which ought to be overcome, all that has its foundation in diffidence.
+000027|What arises from discretion must be honoured.
+000028|You think her diffident.
+000029|I do not see it.
+000030|"My dear Emma," said he, moving from his chair into one close by her, "you are not going to tell me, I hope, that you had not a pleasant evening."
+000031|Oh! no; I was pleased with my own perseverance in asking questions;
+000032|and amused to think how little information I obtained.
+000033|"I am disappointed," was his only answer.
+000034|"I hope every body had a pleasant evening," said mister Woodhouse, in his quiet way.
+000035|I had.
+000036|Once, I felt the fire rather too much;
+000037|but then I moved back my chair a little, a very little, and it did not disturb me.
+000038|Miss Bates was very chatty and good-humoured, as she always is, though she speaks rather too quick.
+000039|However, she is very agreeable, and misess Bates too, in a different way.
+000040|I like old friends;
+000041|and Miss Jane Fairfax is a very pretty sort of young lady, a very pretty and a very well-behaved young lady indeed.
+000042|She must have found the evening agreeable, mister Knightley, because she had Emma.
+000043|True, sir;
+000044|and Emma, because she had Miss Fairfax.
+000045|Emma saw his anxiety, and wishing to appease it, at least for the present, said, and with a sincerity which no one could question
+000046|She is a sort of elegant creature that one cannot keep one's eyes from.
+000047|I am always watching her to admire;
+000048|and I do pity her from my heart.
+000049|mister Knightley looked as if he were more gratified than he cared to express;
+000050|and before he could make any reply, mister Woodhouse, whose thoughts were on the Bates's, said
+000051|It is a great pity that their circumstances should be so confined! a great pity indeed!
+000052|and I have often wished -- but it is so little one can venture to do -- small, trifling presents, of any thing uncommon -- Now we have killed a porker, and Emma thinks of sending them a loin or a leg;
+000053|it is very small and delicate -- Hartfield pork is not like any other pork -- but still it is pork -- and, my dear Emma, unless one could be sure of their making it into steaks, nicely fried, as ours are fried, without the smallest grease, and not roast it, for no stomach can bear roast pork -- I think we had better send the leg -- do not you think so, my dear?
+000054|My dear papa, I sent the whole hind-quarter.
+000055|I knew you would wish it.
+000056|There will be the leg to be salted, you know, which is so very nice, and the loin to be dressed directly in any manner they like.
+000057|That's right, my dear, very right.
+000058|I had not thought of it before, but that is the best way.
+000059|They must not over-salt the leg;
+000060|and then, if it is not over-salted, and if it is very thoroughly boiled, just as Serle boils ours, and eaten very moderately of, with a boiled turnip, and a little carrot or parsnip, I do not consider it unwholesome.
+000061|"Emma," said mister Knightley presently, "I have a piece of news for you."
+000062|You like news -- and I heard an article in my way hither that I think will interest you.
+000063|News! Oh! yes, I always like news.
+000064|What is it? -- why do you smile so? -- where did you hear it? -- at Randalls?
+000065|He had time only to say,
+000066|No, not at Randalls;
+000067|"I have not been near Randalls," when the door was thrown open, and Miss Bates and Miss Fairfax walked into the room.
+000068|Full of thanks, and full of news, Miss Bates knew not which to give quickest.
+000069|mister Knightley soon saw that he had lost his moment, and that not another syllable of communication could rest with him.
+000070|Oh! my dear sir, how are you this morning?
+000071|My dear Miss Woodhouse -- I come quite over-powered.
+000072|Such a beautiful hind-quarter of pork!
+000073|You are too bountiful!
+000074|Have you heard the news?
+000075|mister Elton is going to be married.
+000076|Emma had not had time even to think of mister Elton, and she was so completely surprized that she could not avoid a little start, and a little blush, at the sound.
+000077|"There is my news: -- I thought it would interest you," said mister Knightley, with a smile which implied a conviction of some part of what had passed between them.
+000078|"But where could you hear it?" cried Miss Bates.
+000079|Where could you possibly hear it, mister Knightley?
+000080|For it is not five minutes since I received misess Cole's note -- no, it cannot be more than five -- or at least ten -- for I had got my bonnet and spencer on, just ready to come out -- I was only gone down to speak to Patty again about the pork -- Jane was standing in the passage -- were not you, Jane?
+000081|for my mother was so afraid that we had not any salting-pan large enough.
+000082|So I said I would go down and see, and Jane said, 'Shall I go down instead?
+000083|for I think you have a little cold, and Patty has been washing the kitchen.'
+000084|'Oh! my dear,' said I -- well, and just then came the note.
+000085|A Miss Hawkins -- that's all I know.
+000086|A Miss Hawkins of Bath.
+000087|But, mister Knightley, how could you possibly have heard it?
+000088|for the very moment mister Cole told misess Cole of it, she sat down and wrote to me.
+000089|A Miss Hawkins
+000090|I was with mister Cole on business an hour and a half ago.
+000091|He had just read Elton's letter as I was shewn in, and handed it to me directly.
+000092|Well! that is quite -- I suppose there never was a piece of news more generally interesting.
+000093|My dear sir, you really are too bountiful.
+000094|My mother desires her very best compliments and regards, and a thousand thanks, and says you really quite oppress her.
+000095|"We consider our Hartfield pork," replied mister Woodhouse -- "indeed it certainly is, so very superior to all other pork, that Emma and I cannot have a greater pleasure than -- "
+000096|Oh! my dear sir, as my mother says, our friends are only too good to us.
+000097|If ever there were people who, without having great wealth themselves, had every thing they could wish for, I am sure it is us.
+000098|We may well say that 'our lot is cast in a goodly heritage.'
+000099|Well, mister Knightley, and so you actually saw the letter;
+000100|well -- It was short -- merely to announce -- but cheerful, exulting, of course.
+000101|Here was a sly glance at Emma.
+000102|He had been so fortunate as to -- I forget the precise words -- one has no business to remember them.
+000103|The information was, as you state, that he was going to be married to a Miss Hawkins.
+000104|By his style, I should imagine it just settled.
+000105|"mister Elton going to be married!" said Emma, as soon as she could speak.
+000106|He will have every body's wishes for his happiness.
+000107|"He is very young to settle," was mister Woodhouse's observation.
+000108|He had better not be in a hurry.
+000109|He seemed to me very well off as he was.
+000110|We were always glad to see him at Hartfield.
+000111|"A new neighbour for us all, Miss Woodhouse!" said Miss Bates, joyfully;"
+000112|my mother is so pleased! -- she says she cannot bear to have the poor old Vicarage without a mistress.
+000113|This is great news, indeed.
+000114|Jane, you have never seen mister Elton! -- no wonder that you have such a curiosity to see him.
+000115|Jane's curiosity did not appear of that absorbing nature as wholly to occupy her.
+000116|"No -- I have never seen mister Elton," she replied, starting on this appeal;"
+000117|is he -- is he a tall man?
+000118|"Who shall answer that question?" cried Emma.
+000119|My father would say 'yes,' mister Knightley 'no;' and Miss Bates and I that he is just the happy medium.
+000120|When you have been here a little longer, Miss Fairfax, you will understand that mister Elton is the standard of perfection in Highbury, both in person and mind.
+000121|Very true, Miss Woodhouse, so she will.
+000122|He is the very best young man -- But, my dear Jane, if you remember, I told you yesterday he was precisely the height of mister Perry.
+000123|Miss Hawkins, -- I dare say, an excellent young woman.
+000124|His extreme attention to my mother -- wanting her to sit in the vicarage pew, that she might hear the better, for my mother is a little deaf, you know -- it is not much, but she does not hear quite quick.
+000125|Jane says that Colonel Campbell is a little deaf.
+000126|He fancied bathing might be good for it -- the warm bath -- but she says it did him no lasting benefit.
+000127|Colonel Campbell, you know, is quite our angel.
+000128|And mister Dixon seems a very charming young man, quite worthy of him.
+000129|It is such a happiness when good people get together -- and they always do.
+000130|Now, here will be mister Elton and Miss Hawkins;
+000131|and there are the Coles, such very good people;
+000132|and the Perrys -- I suppose there never was a happier or a better couple than mister and misess Perry.
+000133|"I say, sir," turning to mister Woodhouse, "I think there are few places with such society as Highbury."
+000134|I always say, we are quite blessed in our neighbours.
+000135|My dear sir, if there is one thing my mother loves better than another, it is pork -- a roast loin of pork
+000136|"As to who, or what Miss Hawkins is, or how long he has been acquainted with her," said Emma, "nothing I suppose can be known."
+000137|One feels that it cannot be a very long acquaintance.
+000138|He has been gone only four weeks.
+000139|Nobody had any information to give;
+000140|and, after a few more wonderings, Emma said,
+000141|You are silent, Miss Fairfax -- but I hope you mean to take an interest in this news.
+000142|You, who have been hearing and seeing so much of late on these subjects, who must have been so deep in the business on Miss Campbell's account -- we shall not excuse your being indifferent about mister Elton and Miss Hawkins.
+000143|"When I have seen mister Elton," replied Jane, "I dare say I shall be interested -- but I believe it requires that with me."
+000144|And as it is some months since Miss Campbell married, the impression may be a little worn off.
+000145|"Yes, he has been gone just four weeks, as you observe, Miss Woodhouse," said Miss Bates, four weeks yesterday.
+000146|A Miss Hawkins!
+000147|Well, I had always rather fancied it would be some young lady hereabouts;
+000148|not that I ever -- misess Cole once whispered to me -- but I immediately said, 'No, mister Elton is a most worthy young man -- but' -- In short, I do not think I am particularly quick at those sort of discoveries.
+000149|I do not pretend to it.
+000150|What is before me, I see.
+000151|At the same time, nobody could wonder if mister Elton should have aspired -- Miss Woodhouse lets me chatter on, so good-humouredly.
+000152|She knows I would not offend for the world.
+000153|How does Miss Smith do?
+000154|She seems quite recovered now.
+000155|Have you heard from misess John Knightley lately?
+000156|Oh! those dear little children.
+000157|Jane, do you know I always fancy mister Dixon like mister John Knightley.
+000158|I mean in person -- tall, and with that sort of look -- and not very talkative.
+000159|Quite wrong, my dear aunt;
+000160|there is no likeness at all.
+000161|Very odd! but one never does form a just idea of any body beforehand.
+000162|One takes up a notion, and runs away with it.
+000163|mister Dixon, you say, is not, strictly speaking, handsome?
+000164|Handsome! Oh! no -- far from it -- certainly plain.
+000165|I told you he was plain.
+000166|My dear, you said that Miss Campbell would not allow him to be plain, and that you yourself
+000167|Oh! as for me, my judgment is worth nothing.
+000168|Where I have a regard, I always think a person well-looking.
+000169|But I gave what I believed the general opinion, when I called him plain.
+000170|Well, my dear Jane, I believe we must be running away.
+000171|The weather does not look well, and grandmama will be uneasy.
+000172|You are too obliging, my dear Miss Woodhouse;
+000173|but we really must take leave.
+000174|This has been a most agreeable piece of news indeed.
+000175|I shall just go round by misess Cole's;
+000176|but I shall not stop three minutes: and, Jane, you had better go home directly -- I would not have you out in a shower!
+000177|We think she is the better for Highbury already.
+000178|Thank you, we do indeed.
+000179|I shall not attempt calling on misess Goddard, for I really do not think she cares for any thing but boiled pork: when we dress the leg it will be another thing.
+000180|Good morning to you, my dear sir.
+000181|Oh! mister Knightley is coming too.
+000182|Well, that is so very!
+000183|I am sure if Jane is tired, you will be so kind as to give her your arm.
+000184|mister Elton, and Miss Hawkins!
+000185|Good morning to you.
+000186|Emma, alone with her father, had half her attention wanted by him while he lamented that young people would be in such a hurry to marry -- and to marry strangers too -- and the other half she could give to her own view of the subject.
+000187|It was to herself an amusing and a very welcome piece of news, as proving that mister Elton could not have suffered long;
+000188|but she was sorry for Harriet: Harriet must feel it -- and all that she could hope was, by giving the first information herself, to save her from hearing it abruptly from others.
+000189|It was now about the time that she was likely to call.
+000190|If she were to meet Miss Bates in her way! -- and upon its beginning to rain, Emma was obliged to expect that the weather would be detaining her at misess Goddard's, and that the intelligence would undoubtedly rush upon her without preparation.
+000191|The shower was heavy, but short;
+000192|and it had not been over five minutes, when in came Harriet, with just the heated, agitated look which hurrying thither with a full heart was likely to give;
+000193|and the "Oh! Miss Woodhouse, what do you think has happened!" which instantly burst forth, had all the evidence of corresponding perturbation.
+000194|As the blow was given, Emma felt that she could not now shew greater kindness than in listening;
+000195|and Harriet, unchecked, ran eagerly through what she had to tell.
+000196|She had set out from misess Goddard's half an hour ago -- she had been afraid it would rain -- she had been afraid it would pour down every moment -- but she thought she might get to Hartfield first -- she had hurried on as fast as possible;
+000197|but then, as she was passing by the house where a young woman was making up a gown for her, she thought she would just step in and see how it went on;
+000198|and though she did not seem to stay half a moment there, soon after she came out it began to rain, and she did not know what to do;
+000199|so she ran on directly, as fast as she could, and took shelter at Ford's.
+000200|Ford's was the principal woollen-draper, linen-draper, and haberdasher's shop united;
+000201|the shop first in size and fashion in the place.
+000202|And so, there she had set, without an idea of any thing in the world, full ten minutes, perhaps -- when, all of a sudden, who should come in -- to be sure it was so very odd! -- but they always dealt at Ford's -- who should come in, but Elizabeth Martin and her brother!
+000203|Dear Miss Woodhouse! only think.
+000204|I thought I should have fainted.
+000205|I did not know what to do.
+000206|I was sitting near the door -- Elizabeth saw me directly;
+000207|but he did not;
+000208|he was busy with the umbrella.
+000209|I am sure she saw me, but she looked away directly, and took no notice;
+000210|and they both went to quite the farther end of the shop;
+000211|and I kept sitting near the door!
+000212|Oh! dear;
+000213|I was so miserable!
+000214|I am sure I must have been as white as my gown.
+000215|I could not go away you know, because of the rain;
+000216|but I did so wish myself anywhere in the world but there.
+000217|Oh! dear, Miss Woodhouse -- well, at last, I fancy, he looked round and saw me;
+000218|for instead of going on with her buyings, they began whispering to one another.
+000219|I am sure they were talking of me;
+000220|and I could not help thinking that he was persuading her to speak to me -- do you think he was, Miss Woodhouse? -- for presently she came forward -- came quite up to me, and asked me how I did, and seemed ready to shake hands, if I would.
+000221|She did not do any of it in the same way that she used;
+000222|I could see she was altered;
+000223|but, however, she seemed to try to be very friendly, and we shook hands, and stood talking some time;
+000224|but I know no more what I said -- I was in such a tremble!
+000225|I remember she said she was sorry we never met now;
+000226|which I thought almost too kind!
+000227|Dear, Miss Woodhouse, I was absolutely miserable!
+000228|By that time, it was beginning to hold up, and I was determined that nothing should stop me from getting away -- and then -- only think!
+000229|I found he was coming up towards me too -- slowly you know, and as if he did not quite know what to do;
+000230|and so he came and spoke, and I answered -- and I stood for a minute, feeling dreadfully, you know, one can't tell how;
+000231|and then I took courage, and said it did not rain, and I must go;
+000232|and so off I set;
+000233|and I had not got three yards from the door, when he came after me, only to say, if I was going to Hartfield, he thought I had much better go round by mister Cole's stables, for I should find the near way quite floated by this rain.
+000234|Oh! dear, I thought it would have been the death of me!
+000235|So I said, I was very much obliged to him: you know I could not do less;
+000236|and then he went back to Elizabeth, and I came round by the stables -- I believe I did -- but I hardly knew where I was, or any thing about it.
+000237|Oh! Miss Woodhouse, I would rather done any thing than have it happen: and yet, you know, there was a sort of satisfaction in seeing him behave so pleasantly and so kindly.
+000238|And Elizabeth, too.
+000239|Oh! Miss Woodhouse, do talk to me and make me comfortable again.
+000240|Very sincerely did Emma wish to do so;
+000241|but it was not immediately in her power.
+000242|She was obliged to stop and think.
+000243|She was not thoroughly comfortable herself.
+000244|The young man's conduct, and his sister's, seemed the result of real feeling, and she could not but pity them.
+000245|As Harriet described it, there had been an interesting mixture of wounded affection and genuine delicacy in their behaviour.
+000246|But she had believed them to be well-meaning, worthy people before;
+000247|and what difference did this make in the evils of the connexion?
+000248|It was folly to be disturbed by it.
+000249|Of course, he must be sorry to lose her -- they must be all sorry.
+000250|Ambition, as well as love, had probably been mortified.
+000251|They might all have hoped to rise by Harriet's acquaintance: and besides, what was the value of Harriet's description?
+000252|So easily pleased -- so little discerning;
+000253|what signified her praise?
+000254|She exerted herself, and did try to make her comfortable, by considering all that had passed as a mere trifle, and quite unworthy of being dwelt on,
+000255|"It might be distressing, for the moment," said she;
+000256|but you seem to have behaved extremely well;
+000257|and it is over -- and may never -- can never, as a first meeting, occur again, and therefore you need not think about it.
+000258|Harriet said, "very true," and she "would not think about it;" but still she talked of it -- still she could talk of nothing else;
+000259|and Emma, at last, in order to put the Martins out of her head, was obliged to hurry on the news, which she had meant to give with so much tender caution;
+000260|hardly knowing herself whether to rejoice or be angry, ashamed or only amused, at such a state of mind in poor Harriet -- such a conclusion of mister Elton's importance with her!
+000261|mister Elton's rights, however, gradually revived.
+000262|Though she did not feel the first intelligence as she might have done the day before, or an hour before, its interest soon increased;
+000263|and before their first conversation was over, she had talked herself into all the sensations of curiosity, wonder and regret, pain and pleasure, as to this fortunate Miss Hawkins, which could conduce to place the Martins under proper subordination in her fancy.
+000264|Emma learned to be rather glad that there had been such a meeting.
+000265|It had been serviceable in deadening the first shock, without retaining any influence to alarm.
+000266|As Harriet now lived, the Martins could not get at her, without seeking her, where hitherto they had wanted either the courage or the condescension to seek her;
+000267|for since her refusal of the brother, the sisters never had been at misess Goddard's;

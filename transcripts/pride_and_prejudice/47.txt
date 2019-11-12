@@ -1,0 +1,256 @@
+000001|"I have been thinking it over again, Elizabeth," said her uncle, as they drove from the town;
+000002|and really, upon serious consideration, I am much more inclined than I was to judge as your eldest sister does on the matter.
+000003|It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his colonel's family, that I am strongly inclined to hope the best.
+000004|Could he expect that her friends would not step forward?
+000005|Could he expect to be noticed again by the regiment, after such an affront to Colonel Forster?
+000006|His temptation is not adequate to the risk!
+000007|"Do you really think so?" cried Elizabeth, brightening up for a moment.
+000008|"Upon my word," said misess Gardiner, "I begin to be of your uncle's opinion."
+000009|It is really too great a violation of decency, honour, and interest, for him to be guilty of.
+000010|I cannot think so very ill of Wickham.
+000011|Can you yourself, Lizzy, so wholly give him up, as to believe him capable of it?
+000012|Not, perhaps, of neglecting his own interest;
+000013|but of every other neglect I can believe him capable.
+000014|If, indeed, it should be so!
+000015|But I dare not hope it.
+000016|Why should they not go on to Scotland if that had been the case?
+000017|"In the first place," replied mister Gardiner, "there is no absolute proof that they are not gone to Scotland."
+000018|Oh! but their removing from the chaise into a hackney coach is such a presumption!
+000019|And, besides, no traces of them were to be found on the Barnet road.
+000020|Well, then -- supposing them to be in London.
+000021|They may be there, though for the purpose of concealment, for no more exceptional purpose.
+000022|It is not likely that money should be very abundant on either side;
+000023|and it might strike them that they could be more economically, though less expeditiously, married in London than in Scotland.
+000024|But why all this secrecy?
+000025|Why any fear of detection?
+000026|Why must their marriage be private?
+000027|Oh, no, no -- this is not likely.
+000028|His most particular friend, you see by Jane's account, was persuaded of his never intending to marry her.
+000029|Wickham will never marry a woman without some money.
+000030|He cannot afford it.
+000031|And what claims has Lydia -- what attraction has she beyond youth, health, and good humour that could make him, for her sake, forego every chance of benefiting himself by marrying well?
+000032|As to what restraint the apprehensions of disgrace in the corps might throw on a dishonourable elopement with her, I am not able to judge;
+000033|for I know nothing of the effects that such a step might produce.
+000034|But as to your other objection, I am afraid it will hardly hold good.
+000035|Lydia has no brothers to step forward;
+000036|and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family, that he would do as little, and think as little about it, as any father could do, in such a matter.
+000037|But can you think that Lydia is so lost to everything but love of him as to consent to live with him on any terms other than marriage?
+000038|"It does seem, and it is most shocking indeed," replied Elizabeth, with tears in her eyes, "that a sister's sense of decency and virtue in such a point should admit of doubt."
+000039|But, really, I know not what to say.
+000040|Perhaps I am not doing her justice.
+000041|But she is very young;
+000042|she has never been taught to think on serious subjects;
+000043|and for the last half-year, nay, for a twelvemonth -- she has been given up to nothing but amusement and vanity.
+000044|She has been allowed to dispose of her time in the most idle and frivolous manner, and to adopt any opinions that came in her way.
+000045|Since the -- shire were first quartered in Meryton, nothing but love, flirtation, and officers have been in her head.
+000046|She has been doing everything in her power by thinking and talking on the subject, to give greater -- what shall I call it?
+000047|susceptibility to her feelings;
+000048|which are naturally lively enough.
+000049|And we all know that Wickham has every charm of person and address that can captivate a woman.
+000050|"But you see that Jane," said her aunt, "does not think so very ill of Wickham as to believe him capable of the attempt."
+000051|Of whom does Jane ever think ill?
+000052|And who is there, whatever might be their former conduct, that she would think capable of such an attempt, till it were proved against them?
+000053|But Jane knows, as well as I do, what Wickham really is.
+000054|We both know that he has been profligate in every sense of the word;
+000055|that he has neither integrity nor honour;
+000056|that he is as false and deceitful as he is insinuating.
+000057|"And do you really know all this?" cried misess Gardiner, whose curiosity as to the mode of her intelligence was all alive.
+000058|"I do indeed," replied Elizabeth, colouring.
+000059|I told you, the other day, of his infamous behaviour to mister Darcy;
+000060|and you yourself, when last at Longbourn, heard in what manner he spoke of the man who had behaved with such forbearance and liberality towards him.
+000061|And there are other circumstances which I am not at liberty -- which it is not worth while to relate;
+000062|but his lies about the whole Pemberley family are endless.
+000063|From what he said of Miss Darcy I was thoroughly prepared to see a proud, reserved, disagreeable girl.
+000064|Yet he knew to the contrary himself.
+000065|He must know that she was as amiable and unpretending as we have found her.
+000066|But does Lydia know nothing of this?
+000067|can she be ignorant of what you and Jane seem so well to understand?
+000068|Oh, yes! -- that, that is the worst of all.
+000069|Till I was in Kent, and saw so much both of mister Darcy and his relation Colonel Fitzwilliam, I was ignorant of the truth myself.
+000070|And when I returned home, the -- -- shire was to leave Meryton in a week or fortnight's time.
+000071|As that was the case, neither Jane, to whom I related the whole, nor I, thought it necessary to make our knowledge public;
+000072|for of what use could it apparently be to any one, that the good opinion which all the neighbourhood had of him should then be overthrown?
+000073|And even when it was settled that Lydia should go with misess Forster, the necessity of opening her eyes to his character never occurred to me.
+000074|That she could be in any danger from the deception never entered my head.
+000075|That such a consequence as this could ensue, you may easily believe, was far enough from my thoughts.
+000076|When they all removed to Brighton, therefore, you had no reason, I suppose, to believe them fond of each other?
+000077|Not the slightest.
+000078|I can remember no symptom of affection on either side;
+000079|and had anything of the kind been perceptible, you must be aware that ours is not a family on which it could be thrown away.
+000080|When first he entered the corps, she was ready enough to admire him;
+000081|but so we all were.
+000082|Every girl in or near Meryton was out of her senses about him for the first two months;
+000083|but he never distinguished her by any particular attention;
+000084|and, consequently, after a moderate period of extravagant and wild admiration, her fancy for him gave way, and others of the regiment, who treated her with more distinction, again became her favourites.
+000085|It may be easily believed, that however little of novelty could be added to their fears, hopes, and conjectures, on this interesting subject, by its repeated discussion, no other could detain them from it long, during the whole of the journey.
+000086|From Elizabeth's thoughts it was never absent.
+000087|Fixed there by the keenest of all anguish, self-reproach, she could find no interval of ease or forgetfulness.
+000088|They travelled as expeditiously as possible, and, sleeping one night on the road, reached Longbourn by dinner time the next day.
+000089|It was a comfort to Elizabeth to consider that Jane could not have been wearied by long expectations.
+000090|The little Gardiners, attracted by the sight of a chaise, were standing on the steps of the house as they entered the paddock;
+000091|and, when the carriage drove up to the door, the joyful surprise that lighted up their faces, and displayed itself over their whole bodies, in a variety of capers and frisks, was the first pleasing earnest of their welcome.
+000092|Elizabeth jumped out;
+000093|and, after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running down from her mother's apartment, immediately met her.
+000094|Elizabeth, as she affectionately embraced her, whilst tears filled the eyes of both, lost not a moment in asking whether anything had been heard of the fugitives.
+000095|"Not yet," replied Jane.
+000096|But now that my dear uncle is come, I hope everything will be well.
+000097|Is my father in town?
+000098|Yes, he went on Tuesday, as I wrote you word.
+000099|And have you heard from him often?
+000100|We have heard only twice.
+000101|He wrote me a few lines on Wednesday to say that he had arrived in safety, and to give me his directions, which I particularly begged him to do.
+000102|He merely added that he should not write again till he had something of importance to mention.
+000103|And my mother -- how is she?
+000104|How are you all?
+000105|My mother is tolerably well, I trust;
+000106|though her spirits are greatly shaken.
+000107|She is up stairs and will have great satisfaction in seeing you all.
+000108|She does not yet leave her dressing-room.
+000109|Mary and Kitty, thank Heaven, are quite well.
+000110|"But you -- how are you?" cried Elizabeth.
+000111|You look pale.
+000112|How much you must have gone through!
+000113|Her sister, however, assured her of her being perfectly well;
+000114|and their conversation, which had been passing while mister and misess Gardiner were engaged with their children, was now put an end to by the approach of the whole party.
+000115|Jane ran to her uncle and aunt, and welcomed and thanked them both, with alternate smiles and tears.
+000116|When they were all in the drawing-room, the questions which Elizabeth had already asked were of course repeated by the others, and they soon found that Jane had no intelligence to give.
+000117|The sanguine hope of good, however, which the benevolence of her heart suggested had not yet deserted her;
+000118|she still expected that it would all end well, and that every morning would bring some letter, either from Lydia or her father, to explain their proceedings, and, perhaps, announce their marriage.
+000119|misess Bennet, to whose apartment they all repaired, after a few minutes' conversation together, received them exactly as might be expected;
+000120|with tears and lamentations of regret, invectives against the villainous conduct of Wickham, and complaints of her own sufferings and ill-usage;
+000121|blaming everybody but the person to whose ill-judging indulgence the errors of her daughter must principally be owing.
+000122|"If I had been able," said she, "to carry my point in going to Brighton, with all my family, this would not have happened;"
+000123|but poor dear Lydia had nobody to take care of her.
+000124|Why did the Forsters ever let her go out of their sight?
+000125|I am sure there was some great neglect or other on their side, for she is not the kind of girl to do such a thing if she had been well looked after.
+000126|I always thought they were very unfit to have the charge of her;
+000127|but I was overruled, as I always am.
+000128|Poor dear child!
+000129|And now here's mister Bennet gone away, and I know he will fight Wickham, wherever he meets him and then he will be killed, and what is to become of us all?
+000130|The Collinses will turn us out before he is cold in his grave, and if you are not kind to us, brother, I do not know what we shall do.
+000131|They all exclaimed against such terrific ideas;
+000132|and mister Gardiner, after general assurances of his affection for her and all her family, told her that he meant to be in London the very next day, and would assist mister Bennet in every endeavour for recovering Lydia.
+000133|"Do not give way to useless alarm," added he;
+000134|though it is right to be prepared for the worst, there is no occasion to look on it as certain.
+000135|It is not quite a week since they left Brighton.
+000136|In a few days more we may gain some news of them;
+000137|and till we know that they are not married, and have no design of marrying, do not let us give the matter over as lost.
+000138|As soon as I get to town I shall go to my brother, and make him come home with me to Gracechurch Street;
+000139|and then we may consult together as to what is to be done.
+000140|"Oh! my dear brother," replied misess Bennet, "that is exactly what I could most wish for."
+000141|And now do, when you get to town, find them out, wherever they may be;
+000142|and if they are not married already, make them marry.
+000143|And as for wedding clothes, do not let them wait for that, but tell Lydia she shall have as much money as she chooses to buy them, after they are married.
+000144|And, above all, keep mister Bennet from fighting.
+000145|Tell him what a dreadful state I am in, that I am frighted out of my wits -- and have such tremblings, such flutterings, all over me -- such spasms in my side and pains in my head, and such beatings at heart, that I can get no rest by night nor by day.
+000146|And tell my dear Lydia not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses.
+000147|Oh, brother, how kind you are!
+000148|I know you will contrive it all.
+000149|But mister Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her hopes as her fear;
+000150|and after talking with her in this manner till dinner was on the table, they all left her to vent all her feelings on the housekeeper, who attended in the absence of her daughters.
+000151|Though her brother and sister were persuaded that there was no real occasion for such a seclusion from the family, they did not attempt to oppose it, for they knew that she had not prudence enough to hold her tongue before the servants, while they waited at table, and judged it better that one only of the household, and the one whom they could most trust should comprehend all her fears and solicitude on the subject.
+000152|In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged in their separate apartments to make their appearance before.
+000153|One came from her books, and the other from her toilette.
+000154|The faces of both, however, were tolerably calm;
+000155|and no change was visible in either, except that the loss of her favourite sister, or the anger which she had herself incurred in this business, had given more of fretfulness than usual to the accents of Kitty.
+000156|As for Mary, she was mistress enough of herself to whisper to Elizabeth, with a countenance of grave reflection, soon after they were seated at table:
+000157|This is a most unfortunate affair, and will probably be much talked of.
+000158|But we must stem the tide of malice, and pour into the wounded bosoms of each other the balm of sisterly consolation.
+000159|Then, perceiving in Elizabeth no inclination of replying, she added, "Unhappy as the event must be for Lydia, we may draw from it this useful lesson: that loss of virtue in a female is irretrievable;"
+000160|that one false step involves her in endless ruin;
+000161|that her reputation is no less brittle than it is beautiful;
+000162|and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex.
+000163|Elizabeth lifted up her eyes in amazement, but was too much oppressed to make any reply.
+000164|Mary, however, continued to console herself with such kind of moral extractions from the evil before them.
+000165|In the afternoon, the two elder Miss Bennets were able to be for half-an-hour by themselves;
+000166|and Elizabeth instantly availed herself of the opportunity of making any inquiries, which Jane was equally eager to satisfy.
+000167|After joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject, by saying, "But tell me all and everything about it which I have not already heard."
+000168|Give me further particulars.
+000169|What did Colonel Forster say?
+000170|Had they no apprehension of anything before the elopement took place?
+000171|They must have seen them together for ever.
+000172|Colonel Forster did own that he had often suspected some partiality, especially on Lydia's side, but nothing to give him any alarm.
+000173|I am so grieved for him!
+000174|His behaviour was attentive and kind to the utmost.
+000175|He was coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland: when that apprehension first got abroad, it hastened his journey.
+000176|And was Denny convinced that Wickham would not marry?
+000177|Did he know of their intending to go off?
+000178|Had Colonel Forster seen Denny himself?
+000179|Yes; but, when questioned by him, Denny denied knowing anything of their plans, and would not give his real opinion about it.
+000180|He did not repeat his persuasion of their not marrying -- and from that, I am inclined to hope, he might have been misunderstood before.
+000181|And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?
+000182|How was it possible that such an idea should enter our brains?
+000183|I felt a little uneasy -- a little fearful of my sister's happiness with him in marriage, because I knew that his conduct had not been always quite right.
+000184|My father and mother knew nothing of that;
+000185|they only felt how imprudent a match it must be.
+000186|Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia's last letter she had prepared her for such a step.
+000187|She had known, it seems, of their being in love with each other, many weeks.
+000188|But not before they went to Brighton?
+000189|No, I believe not.
+000190|And did Colonel Forster appear to think well of Wickham himself?
+000191|Does he know his real character?
+000192|I must confess that he did not speak so well of Wickham as he formerly did.
+000193|He believed him to be imprudent and extravagant.
+000194|And since this sad affair has taken place, it is said that he left Meryton greatly in debt;
+000195|but I hope this may be false.
+000196|Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!
+000197|"Perhaps it would have been better," replied her sister.
+000198|But to expose the former faults of any person without knowing what their present feelings were, seemed unjustifiable.
+000199|We acted with the best intentions.
+000200|Could Colonel Forster repeat the particulars of Lydia's note to his wife?
+000201|He brought it with him for us to see.
+000202|Jane then took it from her pocket-book, and gave it to Elizabeth.
+000203|These were the contents:
+000204|My dear harriet, You will laugh when you know where I am gone, and I cannot help laughing myself at your surprise to-morrow morning, as soon as I am missed.
+000205|I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton, for there is but one man in the world I love, and he is an angel.
+000206|I should never be happy without him, so think it no harm to be off.
+000207|You need not send them word at Longbourn of my going, if you do not like it, for it will make the surprise the greater, when I write to them and sign my name 'Lydia Wickham.' What a good joke it will be!
+000208|I can hardly write for laughing.
+000209|Pray make my excuses to Pratt for not keeping my engagement, and dancing with him to-night.
+000210|Tell him I hope he will excuse me when he knows all;
+000211|and tell him I will dance with him at the next ball we meet, with great pleasure.
+000212|I shall send for my clothes when I get to Longbourn;
+000213|but I wish you would tell Sally to mend a great slit in my worked muslin gown before they are packed up.
+000214|Good-bye.
+000215|Give my love to Colonel Forster.
+000216|I hope you will drink to our good journey.
+000217|Your affectionate friend,
+000218|lydia bennet.
+000219|"Oh! thoughtless, thoughtless Lydia!" cried Elizabeth when she had finished it.
+000220|What a letter is this, to be written at such a moment!
+000221|But at least it shows that she was serious on the subject of their journey.
+000222|Whatever he might afterwards persuade her to, it was not on her side a scheme of infamy.
+000223|My poor father! how he must have felt it!
+000224|I never saw anyone so shocked.
+000225|He could not speak a word for full ten minutes.
+000226|My mother was taken ill immediately, and the whole house in such confusion!
+000227|"Oh! Jane," cried Elizabeth, "was there a servant belonging to it who did not know the whole story before the end of the day?"
+000228|I do not know.
+000229|I hope there was.
+000230|But to be guarded at such a time is very difficultimate.
+000231|My mother was in hysterics, and though I endeavoured to give her every assistance in my power, I am afraid I did not do so much as I might have done!
+000232|But the horror of what might possibly happen almost took from me my faculties.
+000233|Your attendance upon her has been too much for you.
+000234|You do not look well.
+000235|Oh that I had been with you! you have had every care and anxiety upon yourself alone.
+000236|Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure;
+000237|but I did not think it right for either of them.
+000238|Kitty is slight and delicate;
+000239|and Mary studies so much, that her hours of repose should not be broken in on.
+000240|My aunt Phillips came to Longbourn on Tuesday, after my father went away;
+000241|and was so good as to stay till Thursday with me.
+000242|She was of great use and comfort to us all.
+000243|And Lady Lucas has been very kind;
+000244|she walked here on Wednesday morning to condole with us, and offered her services, or any of her daughters', if they should be of use to us.
+000245|"She had better have stayed at home," cried Elizabeth;
+000246|perhaps she meant well, but, under such a misfortune as this, one cannot see too little of one's neighbours.
+000247|Assistance is impossible;
+000248|condolence insufferable.
+000249|Let them triumph over us at a distance, and be satisfied.
+000250|She then proceeded to inquire into the measures which her father had intended to pursue, while in town, for the recovery of his daughter.
+000251|"He meant I believe," replied Jane, "to go to Epsom, the place where they last changed horses, see the postilions and try if anything could be made out from them."
+000252|His principal object must be to discover the number of the hackney coach which took them from Clapham.
+000253|It had come with a fare from London;
+000254|and as he thought that the circumstance of a gentleman and lady's removing from one carriage into another might be remarked he meant to make inquiries at Clapham.
+000255|If he could anyhow discover at what house the coachman had before set down his fare, he determined to make inquiries there, and hoped it might not be impossible to find out the stand and number of the coach.
+000256|I do not know of any other designs that he had formed;

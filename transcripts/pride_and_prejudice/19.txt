@@ -1,0 +1,89 @@
+000001|The next day opened a new scene at Longbourn.
+000002|Mister Collins made his declaration in form.
+000003|Having resolved to do it without loss of time, as his leave of absence extended only to the following Saturday, and having no feelings of diffidence to make it distressing to himself even at the moment, he set about it in a very orderly manner, with all the observances, which he supposed a regular part of the business.
+000004|On finding misess Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words:
+000005|May I hope, madam, for your interest with your fair daughter Elizabeth, when I solicit for the honour of a private audience with her in the course of this morning?
+000006|Before Elizabeth had time for anything but a blush of surprise, misess Bennet answered instantly, "Oh dear! -- yes -- certainly."
+000007|I am sure Lizzy will be very happy -- I am sure she can have no objection.
+000008|Come, Kitty, I want you up stairs.
+000009|And, gathering her work together, she was hastening away, when Elizabeth called out:
+000010|Dear madam, do not go.
+000011|I beg you will not go.
+000012|mister Collins must excuse me.
+000013|He can have nothing to say to me that anybody need not hear.
+000014|I am going away myself.
+000015|No, no, nonsense, Lizzy.
+000016|I desire you to stay where you are.
+000017|And upon Elizabeth's seeming really, with vexed and embarrassed looks, about to escape, she added: "Lizzy, I insist upon your staying and hearing mister Collins."
+000018|Elizabeth would not oppose such an injunction -- and a moment's consideration making her also sensible that it would be wisest to get it over as soon and as quietly as possible, she sat down again and tried to conceal, by incessant employment the feelings which were divided between distress and diversion.
+000019|misess Bennet and Kitty walked off, and as soon as they were gone, mister Collins began.
+000020|Believe me, my dear Miss Elizabeth, that your modesty, so far from doing you any disservice, rather adds to your other perfections.
+000021|You would have been less amiable in my eyes had there not been this little unwillingness;
+000022|but allow me to assure you, that I have your respected mother's permission for this address.
+000023|You can hardly doubt the purport of my discourse, however your natural delicacy may lead you to dissemble;
+000024|my attentions have been too marked to be mistaken.
+000025|Almost as soon as I entered the house, I singled you out as the companion of my future life.
+000026|But before I am run away with by my feelings on this subject, perhaps it would be advisable for me to state my reasons for marrying -- and, moreover, for coming into Hertfordshire with the design of selecting a wife, as I certainly did.
+000027|The idea of mister Collins, with all his solemn composure, being run away with by his feelings, made Elizabeth so near laughing, that she could not use the short pause he allowed in any attempt to stop him further, and he continued:
+000028|My reasons for marrying are, first, that I think it a right thing for every clergyman in easy circumstances (like myself) to set the example of matrimony in his parish;
+000029|secondly, that I am convinced that it will add very greatly to my happiness;
+000030|and thirdly -- which perhaps I ought to have mentioned earlier, that it is the particular advice and recommendation of the very noble lady whom I have the honour of calling patroness.
+000031|Twice has she condescended to give me her opinion (unasked too!) on this subject;
+000032|and it was but the very Saturday night before I left Hunsford -- between our pools at quadrille, while misess Jenkinson was arranging Miss de Bourgh's footstool, that she said, 'mister Collins, you must marry.
+000033|A clergyman like you must marry.
+000034|Choose properly, choose a gentlewoman for my sake;
+000035|and for your own, let her be an active, useful sort of person, not brought up high, but able to make a small income go a good way.
+000036|This is my advice.
+000037|Find such a woman as soon as you can, bring her to Hunsford, and I will visit her.' Allow me, by the way, to observe, my fair cousin, that I do not reckon the notice and kindness of Lady Catherine de Bourgh as among the least of the advantages in my power to offer.
+000038|You will find her manners beyond anything I can describe;
+000039|and your wit and vivacity, I think, must be acceptable to her, especially when tempered with the silence and respect which her rank will inevitably excite.
+000040|Thus much for my general intention in favour of matrimony;
+000041|it remains to be told why my views were directed towards Longbourn instead of my own neighbourhood, where I can assure you there are many amiable young women.
+000042|But the fact is, that being, as I am, to inherit this estate after the death of your honoured father (who, however, may live many years longer), I could not satisfy myself without resolving to choose a wife from among his daughters, that the loss to them might be as little as possible, when the melancholy event takes place -- which, however, as I have already said, may not be for several years.
+000043|This has been my motive, my fair cousin, and I flatter myself it will not sink me in your esteem.
+000044|And now nothing remains for me but to assure you in the most animated language of the violence of my affection.
+000045|To fortune I am perfectly indifferent, and shall make no demand of that nature on your father, since I am well aware that it could not be complied with;
+000046|and that one thousand pounds in the four per cents, which will not be yours till after your mother's decease, is all that you may ever be entitled to.
+000047|On that head, therefore, I shall be uniformly silent;
+000048|and you may assure yourself that no ungenerous reproach shall ever pass my lips when we are married.
+000049|It was absolutely necessary to interrupt him now.
+000050|"You are too hasty, sir," she cried.
+000051|You forget that I have made no answer.
+000052|Let me do it without further loss of time.
+000053|Accept my thanks for the compliment you are paying me.
+000054|I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than to decline them.
+000055|"I am not now to learn," replied mister Collins, with a formal wave of the hand, "that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour;"
+000056|and that sometimes the refusal is repeated a second, or even a third time.
+000057|I am therefore by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long.
+000058|"Upon my word, sir," cried Elizabeth, "your hope is a rather extraordinary one after my declaration."
+000059|I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time.
+000060|I am perfectly serious in my refusal.
+000061|You could not make me happy, and I am convinced that I am the last woman in the world who could make you so.
+000062|Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation.
+000063|"Were it certain that Lady Catherine would think so," said mister Collins very gravely -- "but I cannot imagine that her ladyship would at all disapprove of you."
+000064|And you may be certain when I have the honour of seeing her again, I shall speak in the very highest terms of your modesty, economy, and other amiable qualification.
+000065|Indeed, mister Collins, all praise of me will be unnecessary.
+000066|You must give me leave to judge for myself, and pay me the compliment of believing what I say.
+000067|I wish you very happy and very rich, and by refusing your hand, do all in my power to prevent your being otherwise.
+000068|In making me the offer, you must have satisfied the delicacy of your feelings with regard to my family, and may take possession of Longbourn estate whenever it falls, without any self-reproach.
+000069|This matter may be considered, therefore, as finally settled.
+000070|And rising as she thus spoke, she would have quitted the room, had mister Collins not thus addressed her:
+000071|When I do myself the honour of speaking to you next on the subject, I shall hope to receive a more favourable answer than you have now given me;
+000072|though I am far from accusing you of cruelty at present, because I know it to be the established custom of your sex to reject a man on the first application, and perhaps you have even now said as much to encourage my suit as would be consistent with the true delicacy of the female character.
+000073|"Really, mister Collins," cried Elizabeth with some warmth, "you puzzle me exceedingly."
+000074|If what I have hitherto said can appear to you in the form of encouragement, I know not how to express my refusal in such a way as to convince you of its being one.
+000075|You must give me leave to flatter myself, my dear cousin, that your refusal of my addresses is merely words of course.
+000076|My reasons for believing it are briefly these: It does not appear to me that my hand is unworthy of your acceptance, or that the establishment I can offer would be any other than highly desirable.
+000077|My situation in life, my connections with the family of de Bourgh, and my relationship to your own, are circumstances highly in my favour;
+000078|and you should take it into further consideration, that in spite of your manifold attractions, it is by no means certain that another offer of marriage may ever be made you.
+000079|Your portion is unhappily so small that it will in all likelihood undo the effects of your loveliness and amiable qualifications.
+000080|As I must therefore conclude that you are not serious in your rejection of me, I shall choose to attribute it to your wish of increasing my love by suspense, according to the usual practice of elegant females.
+000081|I do assure you, sir, that I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man.
+000082|I would rather be paid the compliment of being believed sincere.
+000083|I thank you again and again for the honour you have done me in your proposals, but to accept them is absolutely impossible.
+000084|My feelings in every respect forbid it.
+000085|Can I speak plainer?
+000086|Do not consider me now as an elegant female, intending to plague you, but as a rational creature, speaking the truth from her heart.
+000087|"You are uniformly charming!" cried he, with an air of awkward gallantry;
+000088|and I am persuaded that when sanctioned by the express authority of both your excellent parents, my proposals will not fail of being acceptable.
+000089|To such perseverance in wilful self-deception Elizabeth would make no reply, and immediately and in silence withdrew;

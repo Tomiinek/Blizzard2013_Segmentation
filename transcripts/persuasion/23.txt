@@ -1,0 +1,421 @@
+000001|One day only had passed since Anne's conversation with misessSmith;
+000002|but a keener interest had succeeded, and she was now so little touched by misterElliot's conduct, except by its effects in one quarter, that it became a matter of course the next morning, still to defer her explanatory visit in Rivers Street.
+000003|She had promised to be with the Musgroves from breakfast to dinner.
+000004|Her faith was plighted, and misterElliot's character, like the Sultaness Scheherazade's head, must live another day.
+000005|She could not keep her appointment punctually, however;
+000006|the weather was unfavourable, and she had grieved over the rain on her friends' account, and felt it very much on her own, before she was able to attempt the walk.
+000007|When she reached the White Hart, and made her way to the proper apartment, she found herself neither arriving quite in time, nor the first to arrive.
+000008|The party before her were, misessMusgrove, talking to misessCroft, and Captain Harville to Captain Wentworth;
+000009|and she immediately heard that Mary and Henrietta, too impatient to wait, had gone out the moment it had cleared, but would be back again soon, and that the strictest injunctions had been left with misessMusgrove to keep her there till they returned.
+000010|She had only to submit, sit down, be outwardly composed, and feel herself plunged at once in all the agitations which she had merely laid her account of tasting a little before the morning closed.
+000011|There was no delay, no waste of time.
+000012|She was deep in the happiness of such misery, or the misery of such happiness, instantly.
+000013|Two minutes after her entering the room, Captain Wentworth said
+000014|We will write the letter we were talking of, Harville, now, if you will give me materials.
+000015|Materials were at hand, on a separate table;
+000016|he went to it, and nearly turning his back to them all, was engrossed by writing.
+000017|misessMusgrove was giving misessCroft the history of her eldest daughter's engagement, and just in that inconvenient tone of voice which was perfectly audible while it pretended to be a whisper.
+000018|Anne felt that she did not belong to the conversation, and yet, as Captain Harville seemed thoughtful and not disposed to talk, she could not avoid hearing many undesirable particulars;
+000019|such as, "how misterMusgrove and my brother Hayter had met again and again to talk it over;"
+000020|"what my brother Hayter had said one day, and what misterMusgrove had proposed the next, and what had occurred to my sister Hayter, and what the young people had wished, and what I said at first I never could consent to, but was afterwards persuaded to think might do very well," and a great deal in the same style of open-hearted communication: minutiae which, even with every advantage of taste and delicacy, which good misessMusgrove could not give, could be properly interesting only to the principals.
+000021|misessCroft was attending with great good-humour, and whenever she spoke at all, it was very sensibly.
+000022|Anne hoped the gentlemen might each be too much self-occupied to hear.
+000023|"And so, ma'am, all these thing considered," said misessMusgrove, in her powerful whisper, "though we could have wished it different, yet, altogether, we did not think it fair to stand out any longer, for Charles Hayter was quite wild about it, and Henrietta was pretty near as bad;"
+000024|and so we thought they had better marry at once, and make the best of it, as many others have done before them.
+000025|At any rate, said I, it will be better than a long engagement.
+000026|"That is precisely what I was going to observe," cried misessCroft.
+000027|I would rather have young people settle on a small income at once, and have to struggle with a few difficulties together, than be involved in a long engagement.
+000028|I always think that no mutual
+000029|"Oh! dear misessCroft," cried misessMusgrove, unable to let her finish her speech, "there is nothing I so abominate for young people as a long engagement."
+000030|It is what I always protested against for my children.
+000031|It is all very well, I used to say, for young people to be engaged, if there is a certainty of their being able to marry in six months, or even in twelve;
+000032|but a long engagement
+000033|"Yes, dear ma'am," said misessCroft, "or an uncertain engagement, an engagement which may be long."
+000034|To begin without knowing that at such a time there will be the means of marrying, I hold to be very unsafe and unwise, and what I think all parents should prevent as far as they can.
+000035|Anne found an unexpected interest here.
+000036|She felt its application to herself, felt it in a nervous thrill all over her;
+000037|and at the same moment that her eyes instinctively glanced towards the distant table, Captain Wentworth's pen ceased to move, his head was raised, pausing, listening, and he turned round the next instant to give a look, one quick, conscious look at her.
+000038|The two ladies continued to talk, to re-urge the same admitted truths, and enforce them with such examples of the ill effect of a contrary practice as had fallen within their observation, but Anne heard nothing distinctly;
+000039|it was only a buzz of words in her ear, her mind was in confusion.
+000040|Captain Harville, who had in truth been hearing none of it, now left his seat, and moved to a window, and Anne seeming to watch him, though it was from thorough absence of mind, became gradually sensible that he was inviting her to join him where he stood.
+000041|He looked at her with a smile, and a little motion of the head, which expressed, "Come to me, I have something to say;" and the unaffected, easy kindness of manner which denoted the feelings of an older acquaintance than he really was, strongly enforced the invitation.
+000042|She roused herself and went to him.
+000043|The window at which he stood was at the other end of the room from where the two ladies were sitting, and though nearer to Captain Wentworth's table, not very near.
+000044|As she joined him, Captain Harville's countenance re-assumed the serious, thoughtful expression which seemed its natural character.
+000045|"Look here," said he, unfolding a parcel in his hand, and displaying a small miniature painting, "do you know who that is?"
+000046|Certainly: Captain Benwick.
+000047|Yes, and you may guess who it is for.
+000048|But, it was not done for her.
+000049|Miss Elliot, do you remember our walking together at Lyme, and grieving for him?
+000050|I little thought then -- but no matter.
+000051|This was drawn at the Cape.
+000052|He met with a clever young German artist at the Cape, and in compliance with a promise to my poor sister, sat to him, and was bringing it home for her;
+000053|and I have now the charge of getting it properly set for another!
+000054|It was a commission to me!
+000055|But who else was there to employ?
+000056|I hope I can allow for him.
+000057|I am not sorry, indeed, to make it over to another.
+000058|"He undertakes it;" looking towards Captain Wentworth, "he is writing about it now."
+000059|And with a quivering lip he wound up the whole by adding, "Poor Fanny!"
+000060|she would not have forgotten him so soon!
+000061|"No," replied Anne, in a low, feeling voice.
+000062|That I can easily believe.
+000063|It was not in her nature.
+000064|She doted on him.
+000065|It would not be the nature of any woman who truly loved.
+000066|Captain Harville smiled, as much as to say, "Do you claim that for your sex?" and she answered the question, smiling also, "Yes."
+000067|We certainly do not forget you as soon as you forget us.
+000068|It is, perhaps, our fate rather than our merit.
+000069|We cannot help ourselves.
+000070|We live at home, quiet, confined, and our feelings prey upon us.
+000071|You are forced on exertion.
+000072|You have always a profession, pursuits, business of some sort or other, to take you back into the world immediately, and continual occupation and change soon weaken impressions.
+000073|Granting your assertion that the world does all this so soon for men (which, however, I do not think I shall grant), it does not apply to Benwick.
+000074|He has not been forced upon any exertion.
+000075|The peace turned him on shore at the very moment, and he has been living with us, in our little family circle, ever since.
+000076|"True," said Anne, "very true;"
+000077|I did not recollect;
+000078|but what shall we say now, Captain Harville?
+000079|If the change be not from outward circumstances, it must be from within;
+000080|it must be nature, man's nature, which has done the business for Captain Benwick.
+000081|No, no, it is not man's nature.
+000082|I will not allow it to be more man's nature than woman's to be inconstant and forget those they do love, or have loved.
+000083|I believe the reverse.
+000084|I believe in a true analogy between our bodily frames and our mental;
+000085|and that as our bodies are the strongest, so are our feelings;
+000086|capable of bearing most rough usage, and riding out the heaviest weather.
+000087|"Your feelings may be the strongest," replied Anne, "but the same spirit of analogy will authorise me to assert that ours are the most tender."
+000088|Man is more robust than woman, but he is not longer lived;
+000089|which exactly explains my view of the nature of their attachments.
+000090|Nay, it would be too hard upon you, if it were otherwise.
+000091|You have difficulties, and privations, and dangers enough to struggle with.
+000092|You are always labouring and toiling, exposed to every risk and hardship.
+000093|Your home, country, friends, all quitted.
+000094|Neither time, nor health, nor life, to be called your own.
+000095|It would be hard, indeed, if woman's feelings were to be added to all this.
+000096|"We shall never agree upon this question," Captain Harville was beginning to say, when a slight noise called their attention to Captain Wentworth's hitherto perfectly quiet division of the room.
+000097|It was nothing more than that his pen had fallen down;
+000098|but Anne was startled at finding him nearer than she had supposed, and half inclined to suspect that the pen had only fallen because he had been occupied by them, striving to catch sounds, which yet she did not think he could have caught.
+000099|"Have you finished your letter?" said Captain Harville.
+000100|Not quite, a few lines more.
+000101|I shall have done in five minutes.
+000102|There is no hurry on my side.
+000103|I am only ready whenever you are.
+000104|I am in very good anchorage here, well supplied, and want for nothing.
+000105|No hurry for a signal at all.
+000106|Well, Miss Elliot, as I was saying we shall never agree, I suppose, upon this point.
+000107|No man and woman, would, probably.
+000108|But let me observe that all histories are against you -- all stories, prose and verse.
+000109|If I had such a memory as Benwick, I could bring you fifty quotations in a moment on my side the argument, and I do not think I ever opened a book in my life which had not something to say upon woman's inconstancy.
+000110|Songs and proverbs, all talk of woman's fickleness.
+000111|But perhaps you will say, these were all written by men.
+000112|Perhaps I shall.
+000113|Yes, yes, if you please, no reference to examples in books.
+000114|Men have had every advantage of us in telling their own story.
+000115|Education has been theirs in so much higher a degree;
+000116|the pen has been in their hands.
+000117|I will not allow books to prove anything.
+000118|But how shall we prove anything?
+000119|We never shall.
+000120|We never can expect to prove any thing upon such a point.
+000121|It is a difference of opinion which does not admit of proof.
+000122|We each begin, probably, with a little bias towards our own sex;
+000123|and upon that bias build every circumstance in favour of it which has occurred within our own circle;
+000124|many of which circumstances perhaps those very cases which strike us the most may be precisely such as cannot be brought forward without betraying a confidence, or in some respect saying what should not be said.
+000125|"Ah!" cried Captain Harville, in a tone of strong feeling, "if I could but make you comprehend what a man suffers when he takes a last look at his wife and children, and watches the boat that he has sent them off in, as long as it is in sight, and then turns away and says, 'God knows whether we ever meet again!' And then, if I could convey to you the glow of his soul when he does see them again;"
+000126|when, coming back after a twelvemonth's absence, perhaps, and obliged to put into another port, he calculates how soon it be possible to get them there, pretending to deceive himself, and saying, 'They cannot be here till such a day,' but all the while hoping for them twelve hours sooner, and seeing them arrive at last, as if Heaven had given them wings, by many hours sooner still!
+000127|If I could explain to you all this, and all that a man can bear and do, and glories to do, for the sake of these treasures of his existence!
+000128|"I speak, you know, only of such men as have hearts!" pressing his own with emotion.
+000129|"Oh!" cried Anne eagerly, "I hope I do justice to all that is felt by you, and by those who resemble you."
+000130|God forbid that I should undervalue the warm and faithful feelings of any of my fellow-creatures!
+000131|I should deserve utter contempt if I dared to suppose that true attachment and constancy were known only by woman.
+000132|No, I believe you capable of everything great and good in your married lives.
+000133|I believe you equal to every important exertion, and to every domestic forbearance, so long as -- if I may be allowed the expression -- so long as you have an object.
+000134|I mean while the woman you love lives, and lives for you.
+000135|All the privilege I claim for my own sex it is not a very enviable one;
+000136|you need not covet it, is that of loving longest, when existence or when hope is gone.
+000137|She could not immediately have uttered another sentence;
+000138|her heart was too full, her breath too much oppressed.
+000139|"You are a good soul," cried Captain Harville, putting his hand on her arm, quite affectionately.
+000140|There is no quarrelling with you.
+000141|And when I think of Benwick, my tongue is tied.
+000142|Their attention was called towards the others.
+000143|misessCroft was taking leave.
+000144|"Here, Frederick, you and I part company, I believe," said she.
+000145|I am going home, and you have an engagement with your friend.
+000146|To-night we may have the pleasure of all meeting again at your party, we had your sister's card yesterday, and I understood Frederick had a card too, though I did not see it;
+000147|and you are disengaged, Frederick, are you not, as well as ourselves?
+000148|Captain Wentworth was folding up a letter in great haste, and either could not or would not answer fully.
+000149|"Yes," said he, "very true;"
+000150|here we separate, but Harville and I shall soon be after you;
+000151|that is, Harville, if you are ready, I am in half a minute.
+000152|I know you will not be sorry to be off.
+000153|I shall be at your service in half a minute.
+000154|misessCroft left them, and Captain Wentworth, having sealed his letter with great rapidity, was indeed ready, and had even a hurried, agitated air, which shewed impatience to be gone.
+000155|Anne knew not how to understand it.
+000156|She had the kindest "Good morning, God bless you!" from Captain Harville, but from him not a word, nor a look!
+000157|He had passed out of the room without a look!
+000158|She had only time, however, to move closer to the table where he had been writing, when footsteps were heard returning;
+000159|the door opened, it was himself.
+000160|He begged their pardon, but he had forgotten his gloves, and instantly crossing the room to the writing table, he drew out a letter from under the scattered paper, placed it before Anne with eyes of glowing entreaty fixed on her for a time, and hastily collecting his gloves, was again out of the room, almost before misessMusgrove was aware of his being in it: the work of an instant!
+000161|The revolution which one instant had made in Anne, was almost beyond expression.
+000162|The letter, with a direction hardly legible, to "Miss A. E. -- ," was evidently the one which he had been folding so hastily.
+000163|While supposed to be writing only to Captain Benwick, he had been also addressing her!
+000164|On the contents of that letter depended all which this world could do for her.
+000165|Anything was possible, anything might be defied rather than suspense.
+000166|misessMusgrove had little arrangements of her own at her own table;
+000167|to their protection she must trust, and sinking into the chair which he had occupied, succeeding to the very spot where he had leaned and written, her eyes devoured the following words:
+000168|I can listen no longer in silence.
+000169|I must speak to you by such means as are within my reach.
+000170|You pierce my soul.
+000171|I am half agony, half hope.
+000172|Tell me not that I am too late, that such precious feelings are gone for ever.
+000173|I offer myself to you again with a heart even more your own than when you almost broke it, eight years and a half ago.
+000174|Dare not say that man forgets sooner than woman, that his love has an earlier death.
+000175|I have loved none but you.
+000176|Unjust I may have been, weak and resentful I have been, but never inconstant.
+000177|You alone have brought me to Bath.
+000178|For you alone, I think and plan.
+000179|Have you not seen this?
+000180|Can you fail to have understood my wishes?
+000181|I had not waited even these ten days, could I have read your feelings, as I think you must have penetrated mine.
+000182|I can hardly write.
+000183|I am every instant hearing something which overpowers me.
+000184|You sink your voice, but I can distinguish the tones of that voice when they would be lost on others.
+000185|Too good, too excellent creature!
+000186|You do us justice, indeed.
+000187|You do believe that there is true attachment and constancy among men.
+000188|Believe it to be most fervent, most undeviating, in F. W.
+000189|I must go, uncertain of my fate;
+000190|but I shall return hither, or follow your party, as soon as possible.
+000191|A word, a look, will be enough to decide whether I enter your father's house this evening or never.
+000192|Such a letter was not to be soon recovered from.
+000193|Half an hour's solitude and reflection might have tranquillized her;
+000194|but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity.
+000195|Every moment rather brought fresh agitation.
+000196|It was overpowering happiness.
+000197|And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.
+000198|The absolute necessity of seeming like herself produced then an immediate struggle;
+000199|but after a while she could do no more.
+000200|She began not to understand a word they said, and was obliged to plead indisposition and excuse herself.
+000201|They could then see that she looked very ill, were shocked and concerned, and would not stir without her for the world.
+000202|This was dreadful.
+000203|Would they only have gone away, and left her in the quiet possession of that room it would have been her cure;
+000204|but to have them all standing or waiting around her was distracting, and in desperation, she said she would go home.
+000205|"By all means, my dear," cried misessMusgrove, "go home directly, and take care of yourself, that you may be fit for the evening."
+000206|I wish Sarah was here to doctor you, but I am no doctor myself.
+000207|Charles, ring and order a chair.
+000208|She must not walk.
+000209|But the chair would never do.
+000210|Worse than all!
+000211|To lose the possibility of speaking two words to Captain Wentworth in the course of her quiet, solitary progress up the town, and she felt almost certain of meeting him, could not be borne.
+000212|The chair was earnestly protested against, and misessMusgrove, who thought only of one sort of illness, having assured herself with some anxiety, that there had been no fall in the case;
+000213|that Anne had not at any time lately slipped down, and got a blow on her head;
+000214|that she was perfectly convinced of having had no fall;
+000215|could part with her cheerfully, and depend on finding her better at night.
+000216|Anxious to omit no possible precaution, Anne struggled, and said
+000217|I am afraid, ma'am, that it is not perfectly understood.
+000218|Pray be so good as to mention to the other gentlemen that we hope to see your whole party this evening.
+000219|I am afraid there had been some mistake;
+000220|and I wish you particularly to assure Captain Harville and Captain Wentworth, that we hope to see them both.
+000221|Oh! my dear, it is quite understood, I give you my word.
+000222|Captain Harville has no thought but of going.
+000223|Do you think so?
+000224|But I am afraid;
+000225|and I should be so very sorry.
+000226|Will you promise me to mention it, when you see them again?
+000227|You will see them both this morning, I dare say.
+000228|Do promise me.
+000229|To be sure I will, if you wish it.
+000230|Charles, if you see Captain Harville anywhere, remember to give Miss Anne's message.
+000231|But indeed, my dear, you need not be uneasy.
+000232|Captain Harville holds himself quite engaged, I'll answer for it;
+000233|and Captain Wentworth the same, I dare say.
+000234|Anne could do no more;
+000235|but her heart prophesied some mischance to damp the perfection of her felicity.
+000236|It could not be very lasting, however.
+000237|Even if he did not come to Camden Place himself, it would be in her power to send an intelligible sentence by Captain Harville.
+000238|Another momentary vexation occurred.
+000239|Charles, in his real concern and good nature, would go home with her;
+000240|there was no preventing him.
+000241|This was almost cruel.
+000242|But she could not be long ungrateful;
+000243|he was sacrificing an engagement at a gunsmith's, to be of use to her;
+000244|and she set off with him, with no feeling but gratitude apparent.
+000245|They were on Union Street, when a quicker step behind, a something of familiar sound, gave her two moments' preparation for the sight of Captain Wentworth.
+000246|He joined them;
+000247|but, as if irresolute whether to join or to pass on, said nothing, only looked.
+000248|Anne could command herself enough to receive that look, and not repulsively.
+000249|The cheeks which had been pale now glowed, and the movements which had hesitated were decided.
+000250|He walked by her side.
+000251|Presently, struck by a sudden thought, Charles said
+000252|Captain Wentworth, which way are you going?
+000253|Only to Gay Street, or farther up the town?
+000254|"I hardly know," replied Captain Wentworth, surprised.
+000255|Are you going as high as Belmont?
+000256|Are you going near Camden Place?
+000257|Because, if you are, I shall have no scruple in asking you to take my place, and give Anne your arm to her father's door.
+000258|She is rather done for this morning, and must not go so far without help, and I ought to be at that fellow's in the Market Place.
+000259|He promised me the sight of a capital gun he is just going to send off;
+000260|said he would keep it unpacked to the last possible moment, that I might see it;
+000261|and if I do not turn back now, I have no chance.
+000262|By his description, a good deal like the second size double-barrel of mine, which you shot with one day round Winthrop.
+000263|There could not be an objection.
+000264|There could be only the most proper alacrity, a most obliging compliance for public view;
+000265|and smiles reined in and spirits dancing in private rapture.
+000266|In half a minute Charles was at the bottom of Union Street again, and the other two proceeding together: and soon words enough had passed between them to decide their direction towards the comparatively quiet and retired gravel walk, where the power of conversation would make the present hour a blessing indeed, and prepare it for all the immortality which the happiest recollections of their own future lives could bestow.
+000267|There they exchanged again those feelings and those promises which had once before seemed to secure everything, but which had been followed by so many, many years of division and estrangement.
+000268|There they returned again into the past, more exquisitely happy, perhaps, in their re-union, than when it had been first projected;
+000269|more tender, more tried, more fixed in a knowledge of each other's character, truth, and attachment;
+000270|more equal to act, more justified in acting.
+000271|And there, as they slowly paced the gradual ascent, heedless of every group around them, seeing neither sauntering politicians, bustling housekeepers, flirting girls, nor nursery-maids and children, they could indulge in those retrospections and acknowledgements, and especially in those explanations of what had directly preceded the present moment, which were so poignant and so ceaseless in interest.
+000272|All the little variations of the last week were gone through;
+000273|and of yesterday and today there could scarcely be an end.
+000274|She had not mistaken him.
+000275|Jealousy of misterElliot had been the retarding weight, the doubt, the torment.
+000276|That had begun to operate in the very hour of first meeting her in Bath;
+000277|that had returned, after a short suspension, to ruin the concert;
+000278|and that had influenced him in everything he had said and done, or omitted to say and do, in the last four-and-twenty hours.
+000279|It had been gradually yielding to the better hopes which her looks, or words, or actions occasionally encouraged;
+000280|it had been vanquished at last by those sentiments and those tones which had reached him while she talked with Captain Harville;
+000281|and under the irresistible governance of which he had seized a sheet of paper, and poured out his feelings.
+000282|Of what he had then written, nothing was to be retracted or qualified.
+000283|He persisted in having loved none but her.
+000284|She had never been supplanted.
+000285|He never even believed himself to see her equal.
+000286|Thus much indeed he was obliged to acknowledge: that he had been constant unconsciously, nay unintentionally;
+000287|that he had meant to forget her, and believed it to be done.
+000288|He had imagined himself indifferent, when he had only been angry;
+000289|and he had been unjust to her merits, because he had been a sufferer from them.
+000290|Her character was now fixed on his mind as perfection itself, maintaining the loveliest medium of fortitude and gentleness;
+000291|but he was obliged to acknowledge that only at Uppercross had he learnt to do her justice, and only at Lyme had he begun to understand himself.
+000292|At Lyme, he had received lessons of more than one sort.
+000293|The passing admiration of misterElliot had at least roused him, and the scenes on the Cobb and at Captain Harville's had fixed her superiority.
+000294|In his preceding attempts to attach himself to Louisa Musgrove the attempts of angry pride, he protested that he had for ever felt it to be impossible;
+000295|that he had not cared, could not care, for Louisa;
+000296|though till that day, till the leisure for reflection which followed it, he had not understood the perfect excellence of the mind with which Louisa's could so ill bear a comparison, or the perfect unrivalled hold it possessed over his own.
+000297|There, he had learnt to distinguish between the steadiness of principle and the obstinacy of self-will, between the darings of heedlessness and the resolution of a collected mind.
+000298|There he had seen everything to exalt in his estimation the woman he had lost;
+000299|and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way.
+000300|From that period his penance had become severe.
+000301|He had no sooner been free from the horror and remorse attending the first few days of Louisa's accident, no sooner begun to feel himself alive again, than he had begun to feel himself, though alive, not at liberty.
+000302|"I found," said he, "that I was considered by Harville an engaged man!"
+000303|That neither Harville nor his wife entertained a doubt of our mutual attachment.
+000304|I was startled and shocked.
+000305|To a degree, I could contradict this instantly;
+000306|but, when I began to reflect that others might have felt the same -- her own family, nay, perhaps herself -- I was no longer at my own disposal.
+000307|I was hers in honour if she wished it.
+000308|I had been unguarded.
+000309|I had not thought seriously on this subject before.
+000310|I had not considered that my excessive intimacy must have its danger of ill consequence in many ways;
+000311|and that I had no right to be trying whether I could attach myself to either of the girls, at the risk of raising even an unpleasant report, were there no other ill effects.
+000312|I had been grossly wrong, and must abide the consequences.
+000313|He found too late, in short, that he had entangled himself;
+000314|and that precisely as he became fully satisfied of his not caring for Louisa at all, he must regard himself as bound to her, if her sentiments for him were what the Harvilles supposed.
+000315|It determined him to leave Lyme, and await her complete recovery elsewhere.
+000316|He would gladly weaken, by any fair means, whatever feelings or speculations concerning him might exist;
+000317|and he went, therefore, to his brother's, meaning after a while to return to Kellynch, and act as circumstances might require.
+000318|"I was six weeks with Edward," said he, "and saw him happy."
+000319|I could have no other pleasure.
+000320|I deserved none.
+000321|He enquired after you very particularly;
+000322|asked even if you were personally altered, little suspecting that to my eye you could never alter.
+000323|Anne smiled, and let it pass.
+000324|It was too pleasing a blunder for a reproach.
+000325|It is something for a woman to be assured, in her eight-and-twentieth year, that she has not lost one charm of earlier youth;
+000326|but the value of such homage was inexpressibly increased to Anne, by comparing it with former words, and feeling it to be the result, not the cause of a revival of his warm attachment.
+000327|He had remained in Shropshire, lamenting the blindness of his own pride, and the blunders of his own calculations, till at once released from Louisa by the astonishing and felicitous intelligence of her engagement with Benwick.
+000328|"Here," said he, "ended the worst of my state;"
+000329|for now I could at least put myself in the way of happiness;
+000330|I could exert myself;
+000331|I could do something.
+000332|But to be waiting so long in inaction, and waiting only for evil, had been dreadful.
+000333|Within the first five minutes I said, 'I will be at Bath on Wednesday,' and I was.
+000334|Was it unpardonable to think it worth my while to come?
+000335|and to arrive with some degree of hope?
+000336|You were single.
+000337|It was possible that you might retain the feelings of the past, as I did;
+000338|and one encouragement happened to be mine.
+000339|I could never doubt that you would be loved and sought by others, but I knew to a certainty that you had refused one man, at least, of better pretensions than myself;
+000340|and I could not help often saying, 'Was this for me?'
+000341|Their first meeting in Milsom Street afforded much to be said, but the concert still more.
+000342|That evening seemed to be made up of exquisite moments.
+000343|The moment of her stepping forward in the Octagon Room to speak to him: the moment of misterElliot's appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy.
+000344|"To see you," cried he, "in the midst of those who could not be my well-wishers;"
+000345|to see your cousin close by you, conversing and smiling, and feel all the horrible eligibilities and proprieties of the match!
+000346|To consider it as the certain wish of every being who could hope to influence you!
+000347|Even if your own feelings were reluctant or indifferent, to consider what powerful supports would be his!
+000348|Was it not enough to make the fool of me which I appeared?
+000349|How could I look on without agony?
+000350|Was not the very sight of the friend who sat behind you, was not the recollection of what had been, the knowledge of her influence, the indelible, immoveable impression of what persuasion had once done -- was it not all against me?
+000351|"You should have distinguished," replied Anne.
+000352|You should not have suspected me now;
+000353|the case is so different, and my age is so different.
+000354|If I was wrong in yielding to persuasion once, remember that it was to persuasion exerted on the side of safety, not of risk.
+000355|When I yielded, I thought it was to duty, but no duty could be called in aid here.
+000356|In marrying a man indifferent to me, all risk would have been incurred, and all duty violated.
+000357|"Perhaps I ought to have reasoned thus," he replied, "but I could not."
+000358|I could not derive benefit from the late knowledge I had acquired of your character.
+000359|I could not bring it into play;
+000360|it was overwhelmed, buried, lost in those earlier feelings which I had been smarting under year after year.
+000361|I could think of you only as one who had yielded, who had given me up, who had been influenced by any one rather than by me.
+000362|I saw you with the very person who had guided you in that year of misery.
+000363|I had no reason to believe her of less authority now.
+000364|The force of habit was to be added.
+000365|"I should have thought," said Anne, "that my manner to yourself might have spared you much or all of this."
+000366|No, no! your manner might be only the ease which your engagement to another man would give.
+000367|I left you in this belief;
+000368|and yet, I was determined to see you again.
+000369|My spirits rallied with the morning, and I felt that I had still a motive for remaining here.
+000370|At last Anne was at home again, and happier than any one in that house could have conceived.
+000371|All the surprise and suspense, and every other painful part of the morning dissipated by this conversation, she re-entered the house so happy as to be obliged to find an alloy in some momentary apprehensions of its being impossible to last.
+000372|An interval of meditation, serious and grateful, was the best corrective of everything dangerous in such high-wrought felicity;
+000373|and she went to her room, and grew steadfast and fearless in the thankfulness of her enjoyment.
+000374|The evening came, the drawing-rooms were lighted up, the company assembled.
+000375|It was but a card party, it was but a mixture of those who had never met before, and those who met too often;
+000376|a commonplace business, too numerous for intimacy, too small for variety;
+000377|but Anne had never found an evening shorter.
+000378|Glowing and lovely in sensibility and happiness, and more generally admired than she thought about or cared for, she had cheerful or forbearing feelings for every creature around her.
+000379|Mister Elliot was there;
+000380|she avoided, but she could pity him.
+000381|The Wallises, she had amusement in understanding them.
+000382|Lady Dalrymple and Miss Carteret -- they would soon be innoxious cousins to her.
+000383|She cared not for misessClay, and had nothing to blush for in the public manners of her father and sister.
+000384|With the Musgroves, there was the happy chat of perfect ease;
+000385|with Captain Harville, the kind-hearted intercourse of brother and sister;
+000386|with Lady Russell, attempts at conversation, which a delicious consciousness cut short;
+000387|with Admiral and misessCroft, everything of peculiar cordiality and fervent interest, which the same consciousness sought to conceal;
+000388|and with Captain Wentworth, some moments of communications continually occurring, and always the hope of more, and always the knowledge of his being there.
+000389|It was in one of these short meetings, each apparently occupied in admiring a fine display of greenhouse plants, that she said
+000390|I have been thinking over the past, and trying impartially to judge of the right and wrong, I mean with regard to myself;
+000391|and I must believe that I was right, much as I suffered from it, that I was perfectly right in being guided by the friend whom you will love better than you do now.
+000392|To me, she was in the place of a parent.
+000393|Do not mistake me, however.
+000394|I am not saying that she did not err in her advice.
+000395|It was, perhaps, one of those cases in which advice is good or bad only as the event decides;
+000396|and for myself, I certainly never should, in any circumstance of tolerable similarity, give such advice.
+000397|But I mean, that I was right in submitting to her, and that if I had done otherwise, I should have suffered more in continuing the engagement than I did even in giving it up, because I should have suffered in my conscience.
+000398|I have now, as far as such a sentiment is allowable in human nature, nothing to reproach myself with;
+000399|and if I mistake not, a strong sense of duty is no bad part of a woman's portion.
+000400|He looked at her, looked at Lady Russell, and looking again at her, replied, as if in cool deliberation
+000401|Not yet.
+000402|But there are hopes of her being forgiven in time.
+000403|I trust to being in charity with her soon.
+000404|But I too have been thinking over the past, and a question has suggested itself, whether there may not have been one person more my enemy even than that lady?
+000405|My own self.
+000406|Tell me if, when I returned to England in the year eight, with a few thousand pounds, and was posted into the Laconia, if I had then written to you, would you have answered my letter?
+000407|Would you, in short, have renewed the engagement then?
+000408|"Would I!" was all her answer;
+000409|but the accent was decisive enough.
+000410|"Good God!" he cried, "you would!"
+000411|It is not that I did not think of it, or desire it, as what could alone crown all my other success;
+000412|but I was proud, too proud to ask again.
+000413|I did not understand you.
+000414|I shut my eyes, and would not understand you, or do you justice.
+000415|This is a recollection which ought to make me forgive every one sooner than myself.
+000416|Six years of separation and suffering might have been spared.
+000417|It is a sort of pain, too, which is new to me.
+000418|I have been used to the gratification of believing myself to earn every blessing that I enjoyed.
+000419|I have valued myself on honourable toils and just rewards.
+000420|"Like other great men under reverses," he added, with a smile.
+000421|I must endeavour to subdue my mind to my fortune.
